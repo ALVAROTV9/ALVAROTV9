@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,VIX EVENTOS
