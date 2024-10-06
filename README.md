@@ -1,18 +1,21 @@
+
 #EXTM3U
 
-#lista gratis free list de uso personal y publica#
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,VIX EVENTOS
+http://tv.nstvlatino.com:8080/live/Valdez20L/LVBerv7526/1158436.ts
 
-#EXTINF:-1 group-title="⭐ALVAROTV⭐" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,ALVAROTV INFO
-http://sendeyo.com/en/0f566f04f8
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,BEIN SPORTS EVENTOS
+http://tv.nstvlatino.com:8080/live/Valdez20L/LVBerv7526/1178336.ts
 
-#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , EN VIVO
+
+
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , DAZN EN VIVO 
 http://activefrance.net/live/W8MEP61/2X2H702/1015823.ts
 
-#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , ESPN DEPORTES
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.m3u8
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , ESPN DEPORTES
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.ts
 
-#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + HD" ,DISNEY + & STAR +
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPnyWa_E6lvsqP01GhmWT2-/m3u8
+
 
 
 #EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" tvg-name="ɆSPN HD" ,ɆSPN HD
@@ -74,64 +77,64 @@ http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmN-j44RHmK
 
 
 
-#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,1 |LA LIGA | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,1 |LA LIGA | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1033362.ts
 
 
-#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,2 |LA LIGA | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,2 |LA LIGA | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1033358.ts
 
 
-#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |LA LIGA | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |LA LIGA | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1033357.ts
 
-#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 4 |LA LIGA | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 4 |LA LIGA | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1026672.ts
 
-#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,5 |LA LIGA | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,5 |LA LIGA | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/76718.ts
 
-#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,6 |LA LIGA | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,6 |LA LIGA | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/655462.ts
 
 
-#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 1 |SERIE A | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 1 |SERIE A | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1018098.ts
 
-#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 2 |SERIE A | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 2 |SERIE A | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1018099.ts
 
 
 
-#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |SERIE A | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |SERIE A | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1018097.ts
 
 
-#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 4 |SERIE A | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 4 |SERIE A | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1018095.ts
 
 
-#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 5 |SERIE A | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 5 |SERIE A | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/76674.ts
 
 
 
-#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 1 |PREMIER LEAGUE | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 1 |PREMIER LEAGUE | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1015547.ts
 
-#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 2 |PREMIER LEAGUE | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 2 |PREMIER LEAGUE | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1015548.ts
 
 
-#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |PREMIER LEAGUE | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |PREMIER LEAGUE | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1015550.ts
 
 
-#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 5 |PREMIER LEAGUE | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 5 |PREMIER LEAGUE | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1015551.ts
 
 
-#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 7 |PREMIER LEAGUE | ⚽
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 7 |PREMIER LEAGUE | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1015553.ts
 
 
