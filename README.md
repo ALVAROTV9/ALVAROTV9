@@ -1,5 +1,7 @@
 #EXTM3U
 
+#lista gratis free list de uso personal y publica#
+
 #EXTINF:-1 group-title="⭐ALVAROTV⭐" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,ALVAROTV INFO
 http://sendeyo.com/en/0f566f04f8
 
