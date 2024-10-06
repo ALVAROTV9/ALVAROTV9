@@ -3,9 +3,8 @@
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,VIX EVENTOS
 http://tv.nstvlatino.com:8080/live/Valdez20L/LVBerv7526/1158436.ts
 
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,BEIN SPORTS EVENTOS
-http://tv.nstvlatino.com:8080/live/Valdez20L/LVBerv7526/1178336.ts
-
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,FUTBOL BRASILERO
+http://activefrance.net/live/W8MEP61/2X2H702/76266.ts
 
 
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , DAZN EN VIVO 
