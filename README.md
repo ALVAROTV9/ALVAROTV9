@@ -1,5 +1,6 @@
 
 #EXM3U
+
 #lista Gratis y Publica#
 
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV PPV" ,EN VIVO 1
@@ -21,10 +22,10 @@ http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/9553.ts
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV PPV" ,BEIN SPORTS EXTRA
 http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/9552.ts
 
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , DAZN EN VIVO 
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,DAZN EN VIVO 
 http://activefrance.net/live/W8MEP61/2X2H702/1015823.ts
 
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , ESPN DEPORTES
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,ESPN DEPORTES
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.ts
 
 
