@@ -1,11 +1,25 @@
-#EXTM3U
 
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,VIX EVENTOS
+#EXM3U
+#lista Gratis y Publica#
+
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV PPV" ,EN VIVO 1
+http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/94284.ts
+
+
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV PPV" ,EN VIVO 2
+http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/94303.ts
+
+
+
+
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV PPV" ,VIX EVENTOS
 http://tv.nstvlatino.com:8080/live/Valdez20L/LVBerv7526/1158436.ts
 
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,FUTBOL BRASILERO
-http://activefrance.net/live/W8MEP61/2X2H702/76266.ts
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV PPV" ,BEIN SPORTS EVENTOS
+http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/9553.ts
 
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV PPV" ,BEIN SPORTS EXTRA
+http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/9552.ts
 
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , DAZN EN VIVO 
 http://activefrance.net/live/W8MEP61/2X2H702/1015823.ts
@@ -234,20 +248,35 @@ http://activefrance.net/W8MEP61/2X2H702/30597
 http://activefrance.net/W8MEP61/2X2H702/30599
 
 
-#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: LOS PITUFOS fhd
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: LOS PITUFOS FHD
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/129566.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: LOS PITUFOS HD
+http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/93479.ts
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,PEPA PIG FHD
+http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/93482.ts
+
 
 #EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,Peppa Pig
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/93482.ts
+
 #EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: PAW PATROL
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/129547.m3u8
 
 #EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,BEBE MUSICA INFANTIL
 http://chiletv.ddns.me:33200/live/zcenter184/962795487/51767.ts
+
 #EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: MICKEY MOUSE
 http://venuschiletv.lat:8880/live/Pamela01/zF6FSVA5twpF/398035.ts
+
+
 #EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7 CINE INFANTIL
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/125613.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,LA SIRENITA
+http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/93471.ts
+
 
 #EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/y87Fkxcw/CNSD.png" tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOONITO SD" ,NIÑOS | CARTOONITO
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94798.m3u8
