@@ -1,18 +1,26 @@
 
-
 #EXTM3U
 
 #lista gratis de mi uso personal, la puede tomar, es pública y el update daily#
 
 
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="SKY SPORTS MAIN EVENT" ,EN VIVO 1
-http://cord-cutter.net:8080/live/4wVQA7/625159/137720.m3u8
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="VIX EVENTO 1" ,VIX EVENTOS
-http://tv.nstvlatino.com:8080/live/Valdez20L/LVBerv7526/1158436.ts
-#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="BEIN SPORTS Ñ" ,BEIN SPORTS EVENTOS
-http://zeuspro.xyz:8080/live/javiermayz1/8An6zmmSgC/9553.ts
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="WhatsApp +573506755451" , +573506755451 WhatsApp Info
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/95792.m3u8
+
+
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV SALSA" ,ALVAROTV MUSICA 1
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/79805.m3u8
+
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV TROPICAL" ,TRIPICAL MISIC
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/79878.m3u8
+
+#EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="SPORTV" , FÚTBOL BRASIL
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96441.m3u8
+
+
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DAZN 1" , DAZN EN VIVO
 http://activefrance.net/live/W8MEP61/2X2H702/1015823.ts
+
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,1 |LA LIGA | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1033362.ts
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,2 |LA LIGA | ⚽
@@ -46,13 +54,17 @@ http://activefrance.net/live/W8MEP61/2X2H702/1015551.ts
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 7 |PREMIER LEAGUE | ⚽
 http://activefrance.net/live/W8MEP61/2X2H702/1015553.ts
 #EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="ESPN DEPORTES" , ESPN DEPORTES
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.ts
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.m3u8
+
 #EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" tvg-name="ɆSPN HD" ,ɆSPN HD
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96706.m3u8
-#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN SD" ,ɆSPN SD
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN" ,ɆSPN VIP
 http://activefrance.net/live/W8MEP61/2X2H702/30737.ts
-#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN COL" ,ɆSPN COL FHD
-http://cord-cutter.net:8080/live/4wVQA7/625159/86765.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ESPN COL" ,ɆSPN COL FHD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96707.m3u8
+
 #EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/8z8DnB3H/ESPN-MEX.png" tvg-name="MX | E$PN 1 HD" ,MX | E$PN 1 HD
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96365.m3u8
 #EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 HD" ,ɆSPN 2 HD
@@ -89,18 +101,26 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96708.m3u8
 http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmN-j44RHmKZ_jz_5wSzITpl/m3u8
 #EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+ exclusivo
 http://activefrance.net/live/W8MEP61/2X2H702/190260.ts
+
 #EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+ VIP
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2116.m3u8
-#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+
-http://zuiowy.net:8080/live/Alvaro.Escobar/QGGqw2qTZS/461.ts
+
+#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+ FHD off
+
+
 #EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+ FHD
-http://cord-cutter.net:8080/live/4wVQA7/625159/78717.m3u8
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/8512.m3u8
+
 #EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORT exclusivo
 http://activefrance.net/live/W8MEP61/2X2H702/190259.ts
+
 #EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS VIP
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2115.m3u8
+
+
 #EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS FHD
 http://tvlatino.club:2082/live/Jonatan2024/yaDWd7M4A2Eg/209215.ts
+
 #EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001240-4b5264b529/700/DirectvSports1.webp?ph=348e8b9008" ,DIRECTV SPORTS exclusivo
 http://activefrance.net/live/W8MEP61/2X2H702/197711.ts
 #EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001240-4b5264b529/700/DirectvSports1.webp?ph=348e8b9008" ,DIRECTV SPORTS VIP
