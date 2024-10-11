@@ -4,7 +4,9 @@
 #lista gratis publica de mi uso personal #
 
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001498-90fab90faf/700/logoAmbWhatsapp.webp?ph=348e8b9008" , +573506755451 WhatsApp Infoᵛᶦᵖ
-http://filex.tv:8080/live/tahirbutt/003092/293006.ts
+https://xhateaec.com/upload/videos/2024/10/PBKGy9GTZmzJm2NXnUZy_11_ff19cdc314bdd2558b3748ecc7fa0cee_video_480p_converted.mp4
+
+
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,MULTIPANTALLA DEPORTES EN VIVO
 http://filex.tv:8080/live/tahirbutt/003092/293006.ts
 #EXTINF:-1 group-title="⚽ALVAROTV⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" , LIVERPOOL FC
