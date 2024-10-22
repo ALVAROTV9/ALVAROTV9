@@ -1,98 +1,196 @@
 
 
+
 #EXTM3U
 
+#LISTA PUBLICA PARA MI USO PERSONAL #
 
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTAR
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTAR
 http://embed-cloudfront.wistia.com/deliveries/bc4a7e0300ebdd8a9c3c05fe3ed7bc3cfd759efc.m3u8
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-id="Caracol.co" , CARACOL SPORTS
-http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS PPV 1
-http://activefrance.net/W8MEP61/2X2H702/325636
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS PPV 2
-http://premierchile.shop/49769400/10032022/20220
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , EVENTOS PPV 3
-http://activefrance.net/W8MEP61/2X2H702/252100
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 1
-http://activefrance.net/W8MEP61/2X2H702/252099
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 2
-http://activefrance.net/W8MEP61/2X2H702/76718
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 3
-http://activefrance.net/W8MEP61/2X2H702/1026644
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 4
-http://activefrance.net/W8MEP61/2X2H702/1026836
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001536-6b3596b35b/700/premierLeague.webp?ph=348e8b9008" ,PREMIER LEAGUE 1
-http://activefrance.net/W8MEP61/2X2H702/252098
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001536-6b3596b35b/700/premierLeague.webp?ph=348e8b9008" ,PREMIER LEAGUE 2
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/134300.ts
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001536-6b3596b35b/700/premierLeague.webp?ph=348e8b9008" ,PREMIER LEAGUE 3
-http://activefrance.net/W8MEP61/2X2H702/1028728
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 1
-http://servizi-ita.com:8080/kicca99/farfalla543/63950
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 2
-http://activefrance.net/W8MEP61/2X2H702/1027138
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 3
-http://activefrance.net/W8MEP61/2X2H702/1027141
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 4
-http://activefrance.net/W8MEP61/2X2H702/1027143
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 1
-http://activefrance.net/W8MEP61/2X2H702/1018096
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 2
-http://activefrance.net/W8MEP61/2X2H702/1018103
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 3
-http://activefrance.net/W8MEP61/2X2H702/1018094
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 4
-http://activefrance.net/W8MEP61/2X2H702/1018096
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001534-52c5a52c5d/700/bundesliga-4.webp?ph=348e8b9008" , BUNDESLIGA ALEMANIA 1
-http://activefrance.net/W8MEP61/2X2H702/1017985
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001534-52c5a52c5d/700/bundesliga-4.webp?ph=348e8b9008" , BUNDESLIGA ALEMANIA 2
-http://activefrance.net/W8MEP61/2X2H702/1017978
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001534-52c5a52c5d/700/bundesliga-4.webp?ph=348e8b9008" , BUNDESLIGA ALEMANIA 3
-http://activefrance.net/W8MEP61/2X2H702/1029741
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" , ARGENTINA FUTBOL
-http://activefrance.net/W8MEP61/2X2H702/197732
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,BRASIL FUTBOL (1)
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,MOTO GP DAVID ALONSO
+http://189850286594527886.ofgd1018.xyz:80/me819618/KWcxmukujdT/609058
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + HD
+http://activefrance.net/W8MEP61/2X2H702/325575
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/EUROPE/GERMANY/Win_Sports.png" ,WIN SPORTS + HD
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/WINSPORT.png" ,WIN SPORTS HD
+http://activefrance.net/W8MEP61/2X2H702/30647
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSports.png" tvg-id="winsports.co" ,WIN SPORTS ᵛᶦᵖ ◉
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287810
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/WINSPORT.png" ,WIN SPORT Fhd
+http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/84896
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,RUMBATV daleplaym3u
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/b7f8b376-7949-428a-a769-9d48e5e6571c.m3u8
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN DEPORTES
+http://activefrance.net/W8MEP61/2X2H702/325564
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN PLUS 01 :
+http://activefrance.net/W8MEP61/2X2H702/234277
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN PREMIUM Hd
+http://activefrance.net/W8MEP61/2X2H702/325590
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN PREMIUM Arg
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167727
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN EVENTOS ᵛᶦᵖ ◉
+http://premierchile.shop/49769400/10032022/248464
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN ᵛᶦᵖ
+http://tvmate.icu:8080/Smiley/Smiley/86765
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ESPN COL
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287812
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN MEX
+http://14225021914.com/446686613/v144b5856g/234273
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 2 SUR
+http://14225021914.com/446686613/v144b5856g/234269
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 2 Col
+http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9529
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 2 Mex
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/394821
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 3 Col
+http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9532
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 3
+http://activefrance.net/W8MEP61/2X2H702/30581
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 3 Mex
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/394822
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 4 SUR
+http://activefrance.net/W8MEP61/2X2H702/273349
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 4 Hd
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167726
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 5
+http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9539
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001544-4bb6d4bb70/700/directvSpts.webp?ph=348e8b9008" tvg-id="directvsportmix.ar" ,DIRECT TV SPORTS
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167731
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001544-4bb6d4bb70/700/directvSpts.webp?ph=348e8b9008" tvg-id="directvsportmix.ar" ,DIRECT TV SPORTS 2 ᵛᶦᵖ
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167733
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,Fox Deportes (HD)
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94813.m3u8
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" , FOX SPORT
+http://activefrance.net/W8MEP61/2X2H702/149797
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" , FOX SPORT 2
+http://activefrance.net/W8MEP61/2X2H702/30733
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" , FOX SPORT 3
+http://activefrance.net/W8MEP61/2X2H702/30732
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/CLAROSPORT.png" ,CLARO SPORT
+http://activefrance.net/W8MEP61/2X2H702/69073
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/CLAROSPORT.png" ,CLARO SPORT 2
+http://activefrance.net/W8MEP61/2X2H702/69074
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/EUROPE/GERMANY/Claro_Sports.png" ,CLARO SPORT HD
+http://activefrance.net/W8MEP61/2X2H702/325592
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/AUSTRALIA/Bein Sports Xtra.png" ,BEIN SPORTS XTRA N
+http://activefrance.net/W8MEP61/2X2H702/983887
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/Tigo_Sports.png" ,TIGO SPORTS
+http://activefrance.net/W8MEP61/2X2H702/325574
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/AMERICA/USA/GOLTVENHD.png" tvg-id="goltvspanish.us" ,GOL TV ES HD
+http://activefrance.net/W8MEP61/2X2H702/148581
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/AMERICA/USA/GOLTVENHD.png" tvg-id="goltv.us" ,GOL TV EN HD
+http://activefrance.net/W8MEP61/2X2H702/148580
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/TNT_Sports.png" ,TNT SPORT
+http://activefrance.net/W8MEP61/2X2H702/325582
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/tnt-sports.png" ,TNT SPORTS 1 HD
+http://activefrance.net/W8MEP61/2X2H702/335502
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/tnt-sports.png" tvg-id="tntsport2.cl" ,TNT SPORTS 2 HD
+http://activefrance.net/W8MEP61/2X2H702/335503
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/tnt-sports.png" tvg-id="tntsport3.cl" ,TNT SPORTS 3 HD
+http://activefrance.net/W8MEP61/2X2H702/335504
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/_TNT SPORTS.png" ,TNT SPORTS [BRASIL]
+http://activefrance.net/W8MEP61/2X2H702/983898
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/EUROPE/SPAIN/GOL0.png" tvg-id="gol.es" ,GOL HD
+http://activefrance.net/W8MEP61/2X2H702/76690
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/EUROPE/SPAIN/TELEDEPORTE.png" tvg-id="teledeporte.es" ,TELE DEPORTE HD
+http://activefrance.net/W8MEP61/2X2H702/21291
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/AMERICA/USA/CBS.png" tvg-id="andtv.us" ,CBS SPORTS NETWORK HD
+http://activefrance.net/W8MEP61/2X2H702/71938
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/CARIBBIEAN/ZONA TUDN.png" ,ZONA TUDN
+http://activefrance.net/W8MEP61/2X2H702/983900
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/EUROPE/SPAIN/EUROSPORT.png" tvg-id="eurosport1.es" ,ES - EUROSPORT 1 HD
+http://activefrance.net/W8MEP61/2X2H702/76688
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/EUROPE/SPAIN/EUROSPORT.png" tvg-id="eurosport2.es" ,ES - EUROSPORT 2 HD
+http://activefrance.net/W8MEP61/2X2H702/76687
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/AMERICA/USA/MLBNETWORK.png" tvg-id="mlbnetwork.us" ,US - MLB NETWORK HD
+http://activefrance.net/W8MEP61/2X2H702/71945
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/AMERICA/USA/MLBNETWORK.png" tvg-id="mlbnetworkstrikezone.us" ,US - MLB STRIKEZONE HD
+http://activefrance.net/W8MEP61/2X2H702/71915
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/AMERICA/USA/MLBINN.png" ,MLB BIG INNING HD
+http://activefrance.net/W8MEP61/2X2H702/302488
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,BR - BAND SPORTS HD
+http://activefrance.net/W8MEP61/2X2H702/76321
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,BR - SPORTV HD
 http://activefrance.net/W8MEP61/2X2H702/76310
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,BRASIL FUTBOL (2)
-http://14225021914.com/446686613/v144b5856g/494
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,MEXICO FUTBOL
-http://activefrance.net/W8MEP61/2X2H702/792865
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,PERU FUTBOL
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/104110
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" , ECUADOR FUTBOL
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/104110
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" , URUGUAY FUTBOL
-http://activefrance.net/W8MEP61/2X2H702/30555
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES
-http://activefrance.net/W8MEP61/2X2H702/325639
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 1
-http://activefrance.net/W8MEP61/2X2H702/325638
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 2
-http://activefrance.net/W8MEP61/2X2H702/325637
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 3
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,BR - SPORTV 2 HD
+http://activefrance.net/W8MEP61/2X2H702/76311
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,BR - SPORTV 3 HD
+http://activefrance.net/W8MEP61/2X2H702/76312
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="http://go4.pw/LATINO/PERU/MOVISTAR.png" ,MOVISTAR DEPORTES HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/187629
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-id="Caracol.co" , CARACOL SPORTS
+http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS PPV 1
 http://activefrance.net/W8MEP61/2X2H702/325636
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 4
-http://activefrance.net/W8MEP61/2X2H702/325635
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 5
-http://activefrance.net/W8MEP61/2X2H702/325634
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,VIX DEPORTES 6
-http://activefrance.net/W8MEP61/2X2H702/325633
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS VARIADOS 1
-http://activefrance.net/W8MEP61/2X2H702/252108
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS VARIADOS 2
-http://activefrance.net/W8MEP61/2X2H702/252093
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS VARIADOS 3
-http://activefrance.net/W8MEP61/2X2H702/252105
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS VARIADOS 4
-http://activefrance.net/W8MEP61/2X2H702/252112
-#EXTINF:-1 group-title="🔵www.bit.ly/alvarotvvip" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,MUSICA VALLENATA zuiowy
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,EVENTOS PPV 2
+http://premierchile.shop/49769400/10032022/20220
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , EVENTOS PPV 3
+http://activefrance.net/W8MEP61/2X2H702/252100
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" , ARGENTINA FUTBOL
+http://activefrance.net/W8MEP61/2X2H702/197732
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,BRASIL FUTBOL (2)
+http://14225021914.com/446686613/v144b5856g/494
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,MEXICO FUTBOL
+http://activefrance.net/W8MEP61/2X2H702/792865
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 1
+http://activefrance.net/W8MEP61/2X2H702/252099
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 2
+http://activefrance.net/W8MEP61/2X2H702/76718
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 3
+http://activefrance.net/W8MEP61/2X2H702/1026644
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001538-3c3ab3c3ad/700/laLiga.webp?ph=348e8b9008" ,LA LIGA HD 4
+http://activefrance.net/W8MEP61/2X2H702/1026836
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 1
+http://activefrance.net/W8MEP61/2X2H702/1018096
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 2
+http://activefrance.net/W8MEP61/2X2H702/1018103
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 3
+http://activefrance.net/W8MEP61/2X2H702/1018094
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001532-8ce798ce7b/700/serieA-2.webp?ph=348e8b9008" ,SERIE A ITALIA 4
+http://activefrance.net/W8MEP61/2X2H702/1018096
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001536-6b3596b35b/700/premierLeague.webp?ph=348e8b9008" ,PREMIER LEAGUE 1
+http://activefrance.net/W8MEP61/2X2H702/252098
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001536-6b3596b35b/700/premierLeague.webp?ph=348e8b9008" ,PREMIER LEAGUE 2
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/134300.ts
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001536-6b3596b35b/700/premierLeague.webp?ph=348e8b9008" ,PREMIER LEAGUE 3
+http://activefrance.net/W8MEP61/2X2H702/1028728
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001534-52c5a52c5d/700/bundesliga-4.webp?ph=348e8b9008" , BUNDESLIGA ALEMANIA 1
+http://activefrance.net/W8MEP61/2X2H702/1017985
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001534-52c5a52c5d/700/bundesliga-4.webp?ph=348e8b9008" , BUNDESLIGA ALEMANIA 2
+http://activefrance.net/W8MEP61/2X2H702/1017978
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001534-52c5a52c5d/700/bundesliga-4.webp?ph=348e8b9008" , BUNDESLIGA ALEMANIA 3
+http://activefrance.net/W8MEP61/2X2H702/1029741
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 1
+http://servizi-ita.com:8080/kicca99/farfalla543/63950
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 2
+http://activefrance.net/W8MEP61/2X2H702/1027138
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 3
+http://activefrance.net/W8MEP61/2X2H702/1027141
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001530-1107311075/700/championsL.webp?ph=348e8b9008" ,CHAMPIONS LEAGUE 4
+http://activefrance.net/W8MEP61/2X2H702/1027143
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" ,PERU FUTBOL
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/104110
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" , ECUADOR FUTBOL
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/104110
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001542-df1dfdf1e3/700/FutLatino.webp?ph=348e8b9008" , URUGUAY FUTBOL
+http://activefrance.net/W8MEP61/2X2H702/30555
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,MUSICA VALLENATA zuiowy
 http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/90846.ts
-
-
-#🔵🔵🔵🔵🔵#
-
-
-
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES
+http://activefrance.net/W8MEP61/2X2H702/325639
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 1
+http://activefrance.net/W8MEP61/2X2H702/325638
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 2
+http://activefrance.net/W8MEP61/2X2H702/325637
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 3
+http://activefrance.net/W8MEP61/2X2H702/325636
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 4
+http://activefrance.net/W8MEP61/2X2H702/325635
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" , VIX DEPORTES 5
+http://activefrance.net/W8MEP61/2X2H702/325634
+#EXTINF:-1 group-title="🔵57 350 675 5451⚽⚽⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001540-b0449b044b/700/deportesLive.webp?ph=348e8b9008" ,VIX DEPORTES 6
+http://activefrance.net/W8MEP61/2X2H702/325633
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTAR
 http://embed-cloudfront.wistia.com/deliveries/bc4a7e0300ebdd8a9c3c05fe3ed7bc3cfd759efc.m3u8
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001546-d3908d390b/700/hbo.webp?ph=348e8b9008" ,HBO
@@ -3199,3 +3297,2036 @@ http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/771e9c28-c40b
 http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f81dcbdb-f3c7-49c3-8670-810fc5362e1e.mkv
 #EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w400/c4Xlw5oRS8V77wEYblJwdx9oSUy.jpg" tvg-name="La Pastelera" ,La Pastelera
 http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af9f2c33-c1d5-4a4f-9666-f810212a6855.mkv
+
+
+
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" tvg-name="Ant-Man y la Avispa: Quantumanía" ,Ant-Man y la Avispa: Quantumanía
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47c1c6bf-48c6-4fd0-87b8-75ddc00f891b.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" tvg-name="Ant-Man" ,Ant-Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8d3fc63e-b18b-4ed0-8786-9e12f7faf2e2.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" tvg-name="Vengadores: Endgame" ,Vengadores: Endgame
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7bb40087-fa31-4a2c-8847-d6af6f597e53.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" tvg-name="Vengadores: La Era de Ultrón" ,Vengadores: La Era de Ultrón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/258d3060-ffcc-46c6-8b5c-c3a8afeaf8bc.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" tvg-name="Vengadores: Infinity War" ,Vengadores: Infinity War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac6f78b7-1dfa-487d-8f1f-29229ffccaf4.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg" tvg-name="Viuda negra" ,Viuda negra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0146b6b-ec17-4832-87a5-bba297244d5c.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-name="Capitana Marvel" ,Capitana Marvel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc4749f4-cf66-4f77-bb7b-2464a9d02baf.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Capitán América: El soldado de invierno" ,Capitán América: El soldado de invierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2b38e5c-13a4-4ccc-8f51-169bb76bc643.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg" tvg-name="Capitán América: Civil War" ,Capitán América: Civil War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f717402-f37f-4393-9728-fe173fc9c964.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg" tvg-name="Capitán América: El primer vengador" ,Capitán América: El primer vengador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d607b84c-50e1-40fa-b55a-63a5596071de.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg" tvg-name="Doctor Strange en el multiverso de la locura" ,Doctor Strange en el multiverso de la locura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e16e1517-7a5c-4a54-9008-ec029925a547.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" tvg-name="Doctor Strange" ,Doctor Strange
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27e7f542-1203-4a0b-b6e6-666caa5fcae5.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp85WEn9YKM3Cajk4m4ZDcbCHpp.jpg" tvg-name="Eternals" ,Eternals
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/36361266-810e-4c3c-a9fa-cd8472eedd60.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzEmtM8qrvRKNdJUUiizdNHTccV.jpg" tvg-name="Guardianes de la galaxia" ,Guardianes de la galaxia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2066d7e9-9ac2-4fd0-b2d1-80b2bc8f1909.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" tvg-name="Guardianes de la galaxia Vol. 2" ,Guardianes de la galaxia Vol. 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ab4cfde-2f28-4242-a914-27d35ab9fac6.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" tvg-name="Guardianes de la Galaxia: Volumen 3" ,Guardianes de la Galaxia: Volumen 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85f857bf-27b8-4908-a602-8e6481910b8f.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" tvg-name="Iron Man 2" ,Iron Man 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b437b0c7-896b-4853-b1e7-6b6182e642c7.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" tvg-name="Iron Man 3" ,Iron Man 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a147a35c-27e1-49b4-a0db-7768f7529664.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" tvg-name="Iron Man" ,Iron Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/156fb4c8-5200-451e-9ea6-2df82df875ef.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg" tvg-name="Black Panther" ,Black Panther
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ca7836f-4f66-4e04-b8b1-12bce071e4d9.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" tvg-name="Black Panther: Wakanda Forever" ,Black Panther: Wakanda Forever
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/faab4723-c111-4358-bc6c-3d89f8308ecf.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j7u3lqe2WJOlh9tEKHcbSMCBmW.jpg" tvg-name="Shang-Chi y la leyenda de los Diez Anillos" ,Shang-Chi y la leyenda de los Diez Anillos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/df05635a-4ee6-4f52-920b-4fa0adfbbc40.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg" tvg-name="Los Vengadores" ,Los Vengadores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a392313e-79df-4b88-baa0-1a96340ba23d.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" tvg-name="The Marvels" ,The Marvels
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7600a22c-cc14-4f93-a3ba-bd96c70c860a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg" tvg-name="Thor" ,Thor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/55fb23d6-13c3-478a-a927-3cb8c8abba1a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" tvg-name="Thor: Love and Thunder" ,Thor: Love and Thunder
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7e2b1bf-fb7f-494d-8ec3-5744a18af7a5.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" tvg-name="Thor: Ragnarok" ,Thor: Ragnarok
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/61cd24bb-6a21-4103-b671-306630490f6c.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" tvg-name="Thor: el mundo oscuro" ,Thor: el mundo oscuro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f9c639ee-98db-4248-a53d-7ca22b6f1ce1.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" tvg-name="Los 4 fantásticos" ,Los 4 fantásticos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7282c8a5-499d-4c5c-b15e-a82b02944182.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg" tvg-name="Cuatro Fantásticos" ,Cuatro Fantásticos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc563d09-480f-48ee-8e52-b66d2c2e43a0.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvFjow9ET16axWcQdXSBqehiFL1.jpg" tvg-name="Los 4 fantásticos y Silver Surfer" ,Los 4 fantásticos y Silver Surfer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9725e43d-0f1d-408f-a5fb-01843a06ca7d.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" tvg-name="Spider-Man" ,Spider-Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2df6f2c-c2f3-438c-9d6d-3790e45a5191.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9R3lUNzpHnivyGpKwEPUNGdmmH.jpg" tvg-name="Spider-Man 2" ,Spider-Man 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cef78fb2-6b5f-4eaf-98a1-d2ed4176aa92.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg" tvg-name="Spider-Man 3" ,Spider-Man 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/259d54d5-96ef-4198-abd7-1067218bc73e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" tvg-name="Spider-Man: Cruzando el Multiverso" ,Spider-Man: Cruzando el Multiverso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/689696ce-c287-46c0-af98-fb6c9b3988f2.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg" tvg-name="Spider-Man. Homecoming" ,Spider-Man. Homecoming
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/03214458-4037-42c1-9caf-d6356aaa6710.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" tvg-name="Spider-Man. Lejos de casa" ,Spider-Man. Lejos de casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bfd6bc8-6dcb-4a65-aa55-2c9c3e61fc5a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miZFgV81xG324rpUknQX8dtXuBl.jpg" tvg-name="Spider-Man: No Way Home" ,Spider-Man: No Way Home
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0770cd71-00b2-434f-8ab8-4e869887160e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg" tvg-name="Spider-Man: un nuevo universo" ,Spider-Man: un nuevo universo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9eb602f0-04ce-4db0-8d9e-3d02a6bea49a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MsCANWyLJmz2MAEqiy9vKMpyc8.jpg" tvg-name="The Amazing Spider-Man" ,The Amazing Spider-Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6cb1ddc1-6667-4eba-ac2a-82bcc4a1eda2.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxjizLYG86Bxl4mntCWaWXZAko.jpg" tvg-name="The Amazing Spider-Man 2: El poder de Electro" ,The Amazing Spider-Man 2: El poder de Electro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20bf79aa-eef7-4356-820a-0cd3f6a93f8f.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg" tvg-name="X-Men: Primera Generación" ,X-Men: Primera Generación
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c1fcc914-4465-4d16-a074-d06c0e57ac6d.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg" tvg-name="X-Men: Días del futuro pasado" ,X-Men: Días del futuro pasado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c495069d-0f2f-4b6f-ac57-4e2dc80d52cd.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chiX6x3esPxQrE1lCUScVnR0uN5.jpg" tvg-name="X-Men orígenes: Wolverine" ,X-Men orígenes: Wolverine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e15a4211-64d6-4e11-bedc-da9b11863419.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rJeh8mrbJdkIZ49K2cZIdAwbEj.jpg" tvg-name="X-Men: Apocalipsis" ,X-Men: Apocalipsis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/69cb03ab-f3e2-4cf3-b152-a7c639bf7d29.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" tvg-name="X-Men: Fénix oscura" ,X-Men: Fénix oscura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac50a289-b9a0-413b-bc39-40df70e33635.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" tvg-name="X-Men" ,X-Men
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7de3f14-bca3-4fa2-b061-57be56d57f0f.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtrd4qieMAhoUshu83Vi1GazM1O.jpg" tvg-name="X-Men 2" ,X-Men 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cabb6f6-fb42-4573-9078-7c61f2a7d48e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY43xX0k1raU7M9FZHwOj0WNYhF.jpg" tvg-name="X-Men 3: La Batalla Final" ,X-Men 3: La Batalla Final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4c2d14a1-6289-49dd-9999-198bf5bc7252.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5IFVd8PQjcGk0KKaSP97jze3wP.jpg" tvg-name="Wolverine Inmortal" ,Wolverine Inmortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d859f8bc-020d-4332-85a8-c78a10d79a14.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg" tvg-name="Deadpool" ,Deadpool
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/948f83c5-98e1-43ea-bd18-dbed5c4784b9.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoGRi9XjtSC2sqmrwnkglyX8Dr7.jpg" tvg-name="Deadpool 2" ,Deadpool 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b89762a5-53a1-4fc8-8bae-f009966c6a8e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0ktjN9eKww26HhM8or8iUB1I68.jpg" tvg-name="Logan" ,Logan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe1ef712-8523-4423-813e-bb32e3022f75.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes" ,Los nuevos mutantes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bdcfdcf4-e3f9-4600-8b85-ae1ca573df02.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6Vt4QbcZZdHLQCo2hkpbmvB3Qy.jpg" tvg-name="Rage Against The Machine: The Battle Of Mexico City (A)" ,Rage Against The Machine: The Battle Of Mexico City (A)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5de785e7-9e75-4e9b-a4eb-07c413e2ec3e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjULy47fpFE2yopMYuZootUiXdv.jpg" tvg-name="Beats Music Present- by Dr.Dre (A)" ,Beats Music Present- by Dr.Dre (A)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e751a122-1acb-472a-81fd-378ad3570b5c.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufWkj3THaiZ4UQ2WygxM9aIC5z4.jpg" tvg-name="Limp Bizkit - Live at Lollapalooza 2024 (A)" ,Limp Bizkit - Live at Lollapalooza 2024 (A)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dffb6b58-5036-45d1-b522-5fbb962a20da.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX0XXQZ8FawHiSYDvVnkLz93uro.jpg" tvg-name="Jay-Z and Linkin Park - Collision Course" ,Jay-Z and Linkin Park - Collision Course
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5cd0bfcf-3e08-4bf9-81e6-e06a4000dd5b.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV5uHlup1oPsiTdkULdPF4clNC.jpg" tvg-name="Ricardo Arjona - Hecho a la Antigua" ,Ricardo Arjona - Hecho a la Antigua
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27602016-ecf9-41e9-86bc-698248e9847a.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUq6kvuyonWedBXU6FedDvIFJLo.jpg" tvg-name="Bon Jovi: Unplugged On VH1" ,Bon Jovi: Unplugged On VH1
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3ac31e1-34f0-4aa3-93ba-1d7dacb38e2c.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A80kCumocgFbMlUw8TP6y62bVI.jpg" tvg-name="Green Day - Rock am Ring Live" ,Green Day - Rock am Ring Live
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d12858e-e9ab-4f40-83a2-b2503e88b039.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJA6thlFaafnj7ZJperL6mWFNxY.jpg" tvg-name="Justin Bieber: The Key" ,Justin Bieber: The Key
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46113002-1b21-44ed-b357-155f4a915f51.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpRROSndDi0OSiSLN9NLdnXdhY9.jpg" tvg-name="Kiss: Symphony" ,Kiss: Symphony
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd5a02a3-b378-4746-833b-ccf7cc1359a1.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZhA2vMyOQE6aW4Dm2yhwwjnPQ4.jpg" tvg-name="Carlos Santana Presents: Blues at Montreux 2004" ,Carlos Santana Presents: Blues at Montreux 2004
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/50167f91-3ba6-43e6-b9f9-d81e11835477.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blTQHp72pjoaj4LDEsbDdSU4Pl2.jpg" tvg-name="Avantasia Live At Wacken Open Air" ,Avantasia Live At Wacken Open Air
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/413fda4d-0db6-4962-9cad-3925fccbeea8.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4K6i8wGtBzsSAmAAFazLLTXY5A.jpg" tvg-name="Bryan Adams - Live in Toronto 2014" ,Bryan Adams - Live in Toronto 2014
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d3e2fa3-c18a-4cfb-abf9-5af65907ab30.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23JoID07399c5haE7Tki4aF0mcH.jpg" tvg-name="Elton John - The Million Dollar Piano" ,Elton John - The Million Dollar Piano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d95660e0-a5ad-4c12-a6c4-89f3c99e78b0.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHHWvE63u878Tgs9jI8CVVR6nCw.jpg" tvg-name="Def Leppard: Viva! Hysteria" ,Def Leppard: Viva! Hysteria
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ab0d8684-68f8-4d78-8b4c-6c747cd0997a.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djibykCL09h20d1qUG8y4vlSETS.jpg" tvg-name="Eminem: The Glory Years" ,Eminem: The Glory Years
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd08fba2-7ed8-4bc8-95bc-a58bd61b560c.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9WEWrzqPGa9IeURzU4OHwKoef4.jpg" tvg-name="Europe: The Final Countdown World Tour" ,Europe: The Final Countdown World Tour
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f7c40dd3-8f31-4ae2-9ff2-b2ad274198ef.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncjbxm4JeKCUDbJqQ4L9s3DyEvC.jpg" tvg-name="Evanescence: Rock in Rio 2011" ,Evanescence: Rock in Rio 2011
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/22ee1da8-908a-494a-9a52-07e756396b73.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EU9BC2xzQFqt2SB2pAoQ30hD4K.jpg" tvg-name="Fear Factory: Digital Connectivity" ,Fear Factory: Digital Connectivity
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d06906c-2664-4f5f-90a0-a2845883ba7c.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGNMD5XTBQN3teIth21ohKOCJcR.jpg" tvg-name="Justin Bieber: Never Say Never" ,Justin Bieber: Never Say Never
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe4befc5-6c7a-43cb-a890-4d18fb686721.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9t11iPy8Mo5O4yHorqcKXXDLwtt.jpg" tvg-name="Foo Fighters: Back and Forth" ,Foo Fighters: Back and Forth
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4fb5d0aa-ef9c-46a7-b3dc-33933c8c21d7.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxJDsI4aM6ETZwT4ieicwq3YjbO.jpg" tvg-name="Korn: Live" ,Korn: Live
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be7347b7-8e8c-49e5-84c7-1b09557a2c02.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVE9drw5Nx9llgZYJFJg2xZrtlc.jpg" tvg-name="Katy Perry: The Prismatic World Tour" ,Katy Perry: The Prismatic World Tour
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bcd64a2b-7d53-4bcd-852f-c67d39570ace.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAzBZI5iIkkeIA8xVGaklUdjcjf.jpg" tvg-name="Korn : Live on the Other Side" ,Korn : Live on the Other Side
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/88d5b47b-3360-42a3-9182-32aaaa5b1437.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2yG1qC5iJz6MIWkzzj84p0OiQ5.jpg" tvg-name="Los Fabulosos Cadillacs: La luz del ritmo" ,Los Fabulosos Cadillacs: La luz del ritmo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7e18ffc-f715-41af-a2c3-2f9f3c56cc03.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hKqtOzeqkcmCh4ZOlCpYwCITei.jpg" tvg-name="Laura Pausini Festival de Viña del Mar" ,Laura Pausini Festival de Viña del Mar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bb420fc-7c1c-493a-90be-b5ade913319d.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUhtJMTRDKQEWmOamnolGDV3jN9.jpg" tvg-name="Justin Bieber: The Next Chapter" ,Justin Bieber: The Next Chapter
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6f8521a-821e-45e9-8fb2-a44d0796910a.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mUgZ80IwYqdTmB8MAeeDPk68CO.jpg" tvg-name="Marilyn Manson - Guns, God and Government World Tour" ,Marilyn Manson - Guns, God and Government World Tour
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10871b59-a729-4681-a66f-e8969fdbb7d5.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH1Zi8MDixDaGeqEC7eBeoBISpp.jpg" tvg-name="Molotov MTV Unplugged: El Desconecte" ,Molotov MTV Unplugged: El Desconecte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60a005c0-d2d2-47e9-af30-83fcfa78632b.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwXUf1UpMJT1dfrNvnNanjLW1QF.jpg" tvg-name="Mötley Crüe | Carnival of Sins" ,Mötley Crüe | Carnival of Sins
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15746c8e-5323-47da-aa58-1202e3d7e273.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EiurE9SZht7gh6INci2M0y3M14.jpg" tvg-name="Kreator: Live Kreation - Revisioned Glory" ,Kreator: Live Kreation - Revisioned Glory
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/84677e44-db33-441c-8a68-666435eebc9b.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32AYa62VUl9valI0KeNLebSdgkh.jpg" tvg-name="Mana: Exitos En Video" ,Mana: Exitos En Video
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/64fd28b5-ce56-449a-b197-5f5549e45fb9.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zULSDZnt6bOkFXJNNCjssc95z6F.jpg" tvg-name="Marco Antonio Solis Una Noche De Luna" ,Marco Antonio Solis Una Noche De Luna
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/61554ad7-f173-46a0-a19f-80c57bce5640.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5x2H8xlbzVCS0lVvsx2MzaqN6C.jpg" tvg-name="Linkin Park: Live in Texas" ,Linkin Park: Live in Texas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a7af50c-2548-4447-af06-04690a7b876c.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v32aLjwGkKQhntMd4WoJcioKv7.jpg" tvg-name="Kylie Minogue: Live at iTunes Festival, London" ,Kylie Minogue: Live at iTunes Festival, London
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/845d9e96-2a97-4d03-9115-5acb531a8cf4.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FduPwR5VYgwouRtAkg5eFmTYbi.jpg" tvg-name="La Renga: En el ojo del huracán" ,La Renga: En el ojo del huracán
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/86094eba-0e03-43aa-b0c4-b6968ab7118c.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BikZ4SMqdD6aShigvjQYLNtMTX.jpg" tvg-name="Metallica: Français pour une nuit" ,Metallica: Français pour une nuit
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/675a27e1-5a35-4600-9a72-2c1aa92c4bf2.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCB8g4KFZlnXhVa0zYFlN8f3v1D.jpg" tvg-name="Metallica: Through the Never" ,Metallica: Through the Never
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e5e3d82b-f024-4c6a-86fd-b92dcd1c6a61.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWPwbO16qrq7881bnDhPRBLI2xy.jpg" tvg-name="Oasis: ...There And Then" ,Oasis: ...There And Then
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/abcbf970-d305-410f-879b-615be082a449.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkOU6HpH0zy5LMBzSFWypkGbQrR.jpg" tvg-name="Romeo Santos: King Stays King Sold Out at Madison Square Garden" ,Romeo Santos: King Stays King Sold Out at Madison Square Garden
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2cd72b2-f540-4944-8f6f-4f6dbd72b3c5.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcNyEZ6G1yEGLfhHPgfyU2dTeWO.jpg" tvg-name="Nirvana: Live at the Paramount" ,Nirvana: Live at the Paramount
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b4c2a629-2be6-4f6f-b9d7-0de00b38550c.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfvAKvFiAUGUgVAQI06ABCLNJtN.jpg" tvg-name="Madonna: The Confessions Tour" ,Madonna: The Confessions Tour
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41700fe5-777e-4607-b183-4c555b9c062e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wPUcaX4NlZeZgnzMkpMcaC8bbj.jpg" tvg-name="Nicki Minaj: My Time Again" ,Nicki Minaj: My Time Again
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c474170-cd5a-41de-82bc-83192df497ed.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAt5sC38gtHX8pp2gtvTXBSfCLw.jpg" tvg-name="Roxette : Live Travelling the World" ,Roxette : Live Travelling the World
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9879cd41-d43b-47e0-9b27-73ae6a5e19fe.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8s5tiMIJ1zhMsxNB6ybOmw9Niut.jpg" tvg-name="Radiohead | Lollapalooza, Chicago 2016" ,Radiohead | Lollapalooza, Chicago 2016
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67381088-935c-455e-a272-5cb1a721f6fa.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZer7MGpZMDX2dhX9KrEVAPuksL.jpg" tvg-name="NOFX - Ten Years of Fuckin' Up" ,NOFX - Ten Years of Fuckin' Up
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19162597-63e4-4b61-b5a8-17df551c97a8.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bVKmfSKVL6LsBvv0A5OhNp64WU.jpg" tvg-name="Oasis: Live in Manchester" ,Oasis: Live in Manchester
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c06d1312-478b-4f4c-b93d-e1af6d919d61.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lt7GLK8xtMkltSkDJHpzjCX3BKw.jpg" tvg-name="Metallica: Freeze 'Em All - Live in Antarctica" ,Metallica: Freeze 'Em All - Live in Antarctica
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b63649b0-1c88-4086-a3b1-cdec7b5e70b6.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjcx2rTHjpBiIn6gOfG9ucim53g.jpg" tvg-name="Pearl Jam: Live at Pinkpop '92" ,Pearl Jam: Live at Pinkpop '92
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9f2fa51-41ec-429c-84e9-e6ea988851f3.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/174YiSKWuTa0WyMesMBbLIUsIUn.jpg" tvg-name="Coldplay - Rock In Rio" ,Coldplay - Rock In Rio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25cc02d6-492a-4e00-ac20-22cc4e04213f.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkaRtbGP93p8hRdCKrqg72epTm4.jpg" tvg-name="Red Hot Chili Peppers: Live at Slane Castle" ,Red Hot Chili Peppers: Live at Slane Castle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0b2c71f2-e8fa-4ffb-b89e-83775b02d162.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4yJoAIRZGGlIjljv0qGcv8rSiU.jpg" tvg-name="Queen: Live at Wembley Stadium" ,Queen: Live at Wembley Stadium
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97b59ddf-5740-4ceb-a3a3-a30834c08d3e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLoCBBTdPvGIpZc86wby9dMq3Cz.jpg" tvg-name="Nirvana - Unplugged in New York" ,Nirvana - Unplugged in New York
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eed7beae-1f5d-48be-80f6-a8d542bc6a23.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj5Gqeb7po2KIBKjRB2U9VQTfEb.jpg" tvg-name="Silverchair: Live From Faraway Stables" ,Silverchair: Live From Faraway Stables
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5087ab01-b55d-4ebf-827f-2490fe62332a.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLG7vEYwAhc4LRXRhZtTYtq5tWM.jpg" tvg-name="Rata Blanca - Live at Estadio Obras" ,Rata Blanca - Live at Estadio Obras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8f77527-a80f-4767-8df1-7f1bd64f7aa0.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVfm4tezb7wnYjm09UMWokSGWh8.jpg" tvg-name="Saxon: Live at Wacken Open Air" ,Saxon: Live at Wacken Open Air
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ba2a45b-664c-46c6-8215-720c268e2747.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwpHL5WxQjFqDvYAa1jduMdUfdk.jpg" tvg-name="Scorpions: Wacken 2012" ,Scorpions: Wacken 2012
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f52acfb1-84a7-4c3c-9b32-13eec536c28a.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHWGvRaASmz5RBEQCeEPfej0pEh.jpg" tvg-name="Paul McCartney: Back in the U.S." ,Paul McCartney: Back in the U.S.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e47d568-0f9f-4d3f-8660-d937ceae57a7.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qalZXMasgGQdVPVxqCWW6ImE80S.jpg" tvg-name="Red Hot Chili Peppers - Rock in Rio" ,Red Hot Chili Peppers - Rock in Rio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10dbfbf1-7d33-43a2-8502-b46366afac2e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udhX7GZGnarL8odloJslkbatul7.jpg" tvg-name="Ricardo Arjona, Circo Soledad En Vivo" ,Ricardo Arjona, Circo Soledad En Vivo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b12cd47b-3669-471f-a906-a82a3387c21a.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Qds1ZdHIjPyUbxTCvvCLGDHaOS.jpg" tvg-name="RUSH: Time Machine" ,RUSH: Time Machine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/592ea800-44d3-41ee-a6e0-657615f801f9.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBxhNGAvwzZGcbYbC8NxuzPaaK7.jpg" tvg-name="Ska-P -  Live In Woodstock Festival" ,Ska-P -  Live In Woodstock Festival
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7db9c5e2-0252-433c-9def-f8e4354f7df4.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWAWgeBDzxELF0HN6kd2gCdhgC7.jpg" tvg-name="Slipknot: Rock In Rio 2011" ,Slipknot: Rock In Rio 2011
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a135ed5-ff77-40c3-895a-ea4ab1c80b6e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PLopYjAf6drsdYN4jZhCqfQ7r5.jpg" tvg-name="Pearl Jam: MTV Unplugged" ,Pearl Jam: MTV Unplugged
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ace001bc-61e7-4740-9307-3639eb823244.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzWXz2NuDJtEgCCjusjpJr0kstT.jpg" tvg-name="Slipknot: Rock Am Ring 2009" ,Slipknot: Rock Am Ring 2009
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c82b66e-229f-4d0e-a56e-acf2d7e8398f.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TOJnGwFqBC78Q5S4EdOsbJ2IMt.jpg" tvg-name="Testament - Dark Roots of Thrash" ,Testament - Dark Roots of Thrash
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65733ce0-db0e-4b9a-a06e-5afcb0ad3270.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/venwOs08slm9LPZCoMMU1nFRgdE.jpg" tvg-name="The Rolling Stones: Sweet Summer Sun - Hyde Park Live" ,The Rolling Stones: Sweet Summer Sun - Hyde Park Live
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0972ccd0-e605-459c-aeb2-00490cd81641.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahdFgufwi3EvTDlDIRAJgPVtTUS.jpg" tvg-name="The Ramones: Live in Germany 1978" ,The Ramones: Live in Germany 1978
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67832eae-65bd-4838-aea4-4ce3bb0d16e2.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqQnokPLcjMVW6mO0mtGCp1lT1F.jpg" tvg-name="Slayer: Live Intrusion" ,Slayer: Live Intrusion
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f934eada-6d9d-48c2-88c2-5c9ad5f56741.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohJ8IItgdaFeX6mrPhN4T1hFaEA.jpg" tvg-name="The Offspring: Rock am Ring Germany 2014" ,The Offspring: Rock am Ring Germany 2014
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/21c763fe-e7a1-4825-bcda-22a0e4b78911.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQOxYAbcpsb1Y3Ivsd0WOoS1Uht.jpg" tvg-name="Sting: The Brand New Day Tour: Live From The Universal Amphitheatre" ,Sting: The Brand New Day Tour: Live From The Universal Amphitheatre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d26909d-e867-4f18-81cf-a56040e05ea6.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FgoqjjNzeWDsxr68phpFT5UDZl.jpg" tvg-name="The Spice Girls Story: Viva Forever!" ,The Spice Girls Story: Viva Forever!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cb737312-3ef8-4f4a-96c3-48d17ec262de.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/789epM99zMIbggYwEbNGDhjCNW3.jpg" tvg-name="Kreator: Live at Wacken Open Air 2017" ,Kreator: Live at Wacken Open Air 2017
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ea4e6d6-d3cb-4594-9058-12cae2c8e31b.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYBPFld145Sfh74CVEbL6JTC6xS.jpg" tvg-name="Madonna: Sticky & Sweet Tour" ,Madonna: Sticky & Sweet Tour
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9879163a-bcb3-4d96-967b-ceecdd8b9353.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://i0.wp.com/buy.dvdrockdepot.com/wp-content/uploads/2022/05/product_image_1723-1.jpg" tvg-name="Stratovarius - Live At Raumanmeri 2004" ,Stratovarius - Live At Raumanmeri 2004
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec4405d5-c04d-4ad9-9a21-c1f46ac6bf84.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIZd5NsN5Lnch7uQqu5JZNvNdKf.jpg" tvg-name="UB40 - The Collection" ,UB40 - The Collection
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f89e7e1-2596-4d4a-a919-7971b5bbad10.mkv
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vB9r0J6OENzgMRqNyFyGkGa2k7M.jpg" tvg-name="Cypress Hill - Still Smokin'" ,Cypress Hill - Still Smokin'
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a2ef1a3-399e-42ec-908d-3be5cd899ad1.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeMWq3N5RmhGMV7dNLB660pOqyK.jpg" tvg-name="Dokken - One Live Night" ,Dokken - One Live Night
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fa24e2c9-c231-4388-9c9b-4c8c94e5cf4d.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD3weTqz1mwth5SpxVCiZ1tuUMu.jpg" tvg-name="Demi Lovato: Simplemente complicado" ,Demi Lovato: Simplemente complicado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ecfe1c34-4caa-43aa-bd73-94d1c8721d7e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyvJN6mKOsHw8Md9waRTdqTewKf.jpg" tvg-name="Guns 'N' Roses: Live at the Ritz 1988" ,Guns 'N' Roses: Live at the Ritz 1988
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5992abe3-a892-4f29-b165-8af4b187f81e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYMfuw3TcW9lmjJY55xckCEwlQ.jpg" tvg-name="Kylie Minogue: Showgirl Homecoming Tour" ,Kylie Minogue: Showgirl Homecoming Tour
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4760fdd5-25e5-491b-bab8-9871508eb556.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPW5Lmptt7z8rCYtVYjkpyjI3SY.jpg" tvg-name="Katy Perry: Part of Me" ,Katy Perry: Part of Me
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2770de97-8aa1-415c-9394-06795315550b.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppHVcjIlx89GIrIHO6zx7ytLcFh.jpg" tvg-name="Malón: El regreso mas esperado" ,Malón: El regreso mas esperado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/556340a9-2b2e-48d4-a247-3599fd386f84.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1BcMPFPnb419fasj3tnr5MaM3E.jpg" tvg-name="Megadeth - Live at Sonisphere" ,Megadeth - Live at Sonisphere
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/627798ec-6383-4bc8-823e-3e25528f7810.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcNyEZ6G1yEGLfhHPgfyU2dTeWO.jpg" tvg-name="Nirvana: Live at the Paramount" ,Nirvana: Live at the Paramount
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b4e70bb-d714-4132-8ad7-9b9ed45b2722.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77BTmEHMaMv5h5IdGzP7gViE40P.jpg" tvg-name="Red Hot Chili Peppers - Live Reading Festival 2016" ,Red Hot Chili Peppers - Live Reading Festival 2016
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4dd56ff6-b66d-4807-9fc2-7078b7e1303e.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBdekyuADed9vHqPrdadfcPs5QL.jpg" tvg-name="Motörhead: The Guts and the Glory - The Motörhead Story" ,Motörhead: The Guts and the Glory - The Motörhead Story
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/34a5abf5-1b6a-425d-a216-dcdbfe31a127.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haZMVtOuPKoiH0qkRj2R3SiJrpQ.jpg" tvg-name="Rihanna: Live at Made In America" ,Rihanna: Live at Made In America
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7bfe253d-a166-43ee-89a4-00d19a72e5b3.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0WYckd7irl9dtnyoEhANJDRSzl.jpg" tvg-name="Paul McCartney | Live at Grand Central Station" ,Paul McCartney | Live at Grand Central Station
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e149e0bc-a7ce-4706-a428-0a76d6d396e9.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwhCjnhBSS2tiIASlJtgflqu9gr.jpg" tvg-name="Soulfly au Alcatraz Festival 2019" ,Soulfly au Alcatraz Festival 2019
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f06f42f-1ca4-4b96-ac05-f9cf570cdb8b.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOnWAl0IYjr6MogwdfhF2R7cK3B.jpg" tvg-name="System of a Down - Rock in Rio" ,System of a Down - Rock in Rio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ebb3f02-eb87-4106-8850-c34ca6bacf09.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWAWgeBDzxELF0HN6kd2gCdhgC7.jpg" tvg-name="Slipknot: Rock In Rio 2011" ,Slipknot: Rock In Rio 2011
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/204ecd9e-783e-4c12-9203-f03e233fdf18.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBLmoCQ5fvjB3ZRIv5gpj2ztfgN.jpg" tvg-name="The Cranberries - Live - London" ,The Cranberries - Live - London
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/42c026c9-69b9-45fb-8645-6ff695b03433.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPYaTHn3kj8YLLQMJ4JrL7RVuoW.jpg" tvg-name="Stevie Wonder: Live at Last" ,Stevie Wonder: Live at Last
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e29607f9-0348-421d-9e7f-c085b14e4789.mp4
+#EXTINF:-1 group-title="♫ VOD CONCIERTOS ♫" tvg-logo="https://i.ytimg.com/vi/Fd6u7tFhGKg/maxresdefault.jpg" tvg-name="Funky #Rewind: En Vivo | 20 Años de Trayectoria" ,Funky #Rewind: En Vivo | 20 Años de Trayectoria
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5ab8ad57-a664-4769-91aa-435009ed61c3.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhLagkPThEz2fqpXQwnEC3VqqIX.jpg" tvg-name="Cherry Tree" ,Cherry Tree
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b01ec44a-045a-4fe7-8a1b-3afb6d2655ed.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtgrsSurLLrzGL3Bh7pLcg1QHki.jpg" tvg-name="Christine" ,Christine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f48529af-805a-46aa-b822-74db0a768b48.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPBuevNLxqFTX38UPNWPaYRxGOT.jpg" tvg-name="Dedicado a nadie" ,Dedicado a nadie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0f9d5f8b-5766-44db-80b1-e633ea1bbbd9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDvt0kVvdO0NsIM8xZve7qHjjim.jpg" tvg-name="El bosque de los suicidios" ,El bosque de los suicidios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e9323ef-7eba-48d5-bb58-8b2d8f1bb634.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9oWJaBm75spo2FUlb7kyTYGogc.jpg" tvg-name="El Ascensor del Diablo" ,El Ascensor del Diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8953bf8-a894-4005-8ea8-489896319650.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg" tvg-name="La primera purga: La noche de las bestias" ,La primera purga: La noche de las bestias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/796bf0b1-e6bd-4f79-9ca8-6e1803d464ab.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg" tvg-name="28 días después" ,28 días después
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f927fd13-91ab-44a9-b2cd-978f7d32bb25.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-name="30 días de oscuridad" ,30 días de oscuridad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8bbb9f7-f2a7-4973-8633-d0395c714322.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg" tvg-name="47 Meters Down: The Wreck" ,47 Meters Down: The Wreck
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e475cc0a-05c4-4a1c-9e37-8f69c124f0e5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKjxng2LOhtdaIudGe4ZEOyFLey.jpg" tvg-name="Muñecas Asesinas" ,Muñecas Asesinas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a1e1028-96f7-4950-82e2-c692803421f2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDvt0kVvdO0NsIM8xZve7qHjjim.jpg" tvg-name="El bosque de los suicidios" ,El bosque de los suicidios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01f1e1dc-ab09-4f1e-a00f-f6a09c363518.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfhaPnIctSJfThddqksHOyR6kio.jpg" tvg-name="Eden Lake" ,Eden Lake
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bcf0b01b-3757-47b6-bd67-1d66bccd9e91.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg" tvg-name="El habitante" ,El habitante
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af5e0fab-8891-4e90-b0cc-f06472c3a61f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" tvg-name="A 47 metros 2" ,A 47 metros 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0bc051f2-673c-4b1d-92f9-adede2cbefc5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLQ5K4dJGnCQ9N4jFx719NQpIXD.jpg" tvg-name="Anomalous" ,Anomalous
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c037fa6-6eae-4e33-ba06-3036b3ec57a6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoZDBnz0AQygpOawf7XjcN7bKN.jpg" tvg-name="El muerto cuenta su historia" ,El muerto cuenta su historia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/39536d3f-9c45-4147-bf0e-2986be8d4f9d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KSWKpnZ8q376JTmgGpJhxSXp8Q.jpg" tvg-name="El medallón de La Llorona" ,El medallón de La Llorona
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bbe13bb-d153-4c26-beda-89847da97f34.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk95EOzZKd74NFzVVkHBo1UW46o.jpg" tvg-name="El orfanato" ,El orfanato
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b14fe734-5b54-45d0-833b-1cfef1bddbb6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PpjBMUOQE7i2feQUqZkT249ZZL.jpg" tvg-name="El pacto" ,El pacto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/30074750-e47f-49a7-aebd-95f8cd04a701.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VeNRpyspVlJzkrNAyszdGtmy9e.jpg" tvg-name="El ring" ,El ring
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/536084cc-537d-4dd2-a504-1749909f717a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47yiAtiDbsmDGoKznWVP2YglUZr.jpg" tvg-name="El proyecto de la bruja de Blair" ,El proyecto de la bruja de Blair
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d3737635-d75c-4aa1-a2da-962f7684840b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbV1kW0jQIhslHjThGqny93Cdfs.jpg" tvg-name="El ritual" ,El ritual
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92253c7f-eca8-43bc-90da-b8f6a205a5a5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s66HVGW0sxQWvh7APdzgEKF4XYP.jpg" tvg-name="En los límites de la realidad" ,En los límites de la realidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/70016624-563e-41e9-8bd6-827f36acdeee.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3k0rTHUc1Iw5NQuvWiUTA8KxSi.jpg" tvg-name="End The Silence" ,End The Silence
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea6defa7-3ed1-4243-ab36-9062f4993d05.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ompMn7y7LAlRgwfOYjp88bCCD1O.jpg" tvg-name="El instituto Atticus" ,El instituto Atticus
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f8ccb4b7-1e65-4846-9036-a6f3f9bb5163.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO12RDEHDUBrIxeLFFFzhiPkwNc.jpg" tvg-name="Escalofrios" ,Escalofrios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7cf5116-8532-4716-b50d-6b188ec16576.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSU6L34qLpn1Vx4MUkkfs0mCrQ8.jpg" tvg-name="1408" ,1408
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aca3a8f4-d2f9-4112-859e-4832ea4c701d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDuKIccxR0lsdWlYuWiu03hkwnN.jpg" tvg-name="Escalofrío" ,Escalofrío
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d14338c-963d-448f-95b5-87f145d3c00b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj0ZYr2ZvAFT0uPuBdaLb9yYZQv.jpg" tvg-name="Anaconda" ,Anaconda
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/481a7bc5-6700-4fa3-bd82-c0cd44331ec1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyj4uH6PJzXlchTZyvSpjVAltyP.jpg" tvg-name="Espectro" ,Espectro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c4a524a-8a55-442e-88c4-c50adbe2b4e2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lCr4jdykWwVSEArWSNAkP8VlXv.jpg" tvg-name="Estigma" ,Estigma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f53c2f5f-005e-45a8-bfda-f224f2c59668.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNVMjGOA7VB91DObBIrP1JG8J6L.jpg" tvg-name="Exorcismo en el Vaticano" ,Exorcismo en el Vaticano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/75a6ed38-4b03-4320-9c3a-52992d934514.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixgq34pO83h83QxQjrkLGoXgisY.jpg" tvg-name="El legado del diablo" ,El legado del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e661f7cf-36cd-4eea-b06b-3c79cabe58a6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erDbN0WQfWlqt1HJwepjU4zb73V.jpg" tvg-name="Extinción" ,Extinción
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5b5d6353-aa1a-43e9-a4b1-841b521b1ef5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEiu83QxMMWWD8gWUtXR4piF1Iw.jpg" tvg-name="Along Came the Devil" ,Along Came the Devil
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e8375412-79e3-4391-b4f6-24e17b62b13a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg" tvg-name="12 horas para sobrevivir" ,12 horas para sobrevivir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48a46c53-fbba-4d70-8e75-6ff9fcb815aa.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZX1ymtnZ4ATsQJjXTPaG9RdWD.jpg" tvg-name="Fantasy Island" ,Fantasy Island
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9375b648-1523-488b-9ced-f07232a42f31.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" tvg-name="Family Blood" ,Family Blood
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac0318f8-056c-4350-a11c-dac8cdcf4a8e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg" tvg-name="Fender Bender" ,Fender Bender
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7a1d479-dcd6-41c2-8f75-b288d730fea9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rY8TsSvVAf9llRKIo55NlrjqR5g.jpg" tvg-name="Forsaken" ,Forsaken
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e884c238-b7e9-4699-a02d-c1476a908dc3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15uFXE2wTPfPsjxzgm3DYp2TehQ.jpg" tvg-name="Archivo 253" ,Archivo 253
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08ad4c70-7073-45a5-8a44-a5aac27c71de.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TwfNYxj4pHtLioN94kFhjYtKip.jpg" tvg-name="Guardianes de la noche" ,Guardianes de la noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/90db8f8c-5d85-4cb4-bfee-89193614e3ac.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvFE9RlFHTobOEceRyf9iQLPHSk.jpg" tvg-name="Happy Hunting" ,Happy Hunting
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/242c9f75-115c-4ab9-bb81-71e42c65eb7c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nNIpWY4rVbTp3GH3cPYNrObYBV.jpg" tvg-name="Grindhouse" ,Grindhouse
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a9abdd52-a97d-42ec-8d6f-259d16930ba2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgSxA7kx3HvcenaiGLrDEHti2Ez.jpg" tvg-name="Harbinger Down" ,Harbinger Down
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3dedcc19-94eb-4bd2-a9e6-ff3cde5d8bcd.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMktMmt2dmNL7DAfwFTmfIl8Hzk.jpg" tvg-name="Barricade" ,Barricade
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ab238ed-2e42-47c2-88c0-d81a52195953.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://pics.filmaffinity.com/Todos_los_animales_pequeanos-641866172-large.jpg" tvg-name="Ánimas" ,Ánimas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4c00f706-b5c8-4db5-b971-8ce5103355b2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AucSpuuHj95IoOSxVNBIPSIXrwi.jpg" tvg-name="Hard Candy" ,Hard Candy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ce89f0a7-9703-4eb2-87da-a802977892b2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDMUHIanrtvejBFVfYDHMfX4DIY.jpg" tvg-name="Guardianes del día" ,Guardianes del día
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1fda2700-d486-472f-9c5f-d8783872c419.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N8LUDkNYCNwXDmV39ZxOeN9sO6.jpg" tvg-name="Hide the Monster" ,Hide the Monster
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd7379c4-191a-41a2-830c-2a1c0fcaa917.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg" tvg-name="Feral" ,Feral
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d627f01f-9331-4e0f-8673-98e83e89899e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xbW5cNFPP716bl5YKZlxHjouiv.jpg" tvg-name="He's Out There" ,He's Out There
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e456d85-71ae-4e18-86f8-b1bf334fe623.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" tvg-name="Ghosthunters" ,Ghosthunters
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27ac5779-b8da-475e-9adf-2c969e067f2a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg" tvg-name="Gabriel" ,Gabriel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c3b7c26-8646-49f7-9928-bc6ff20961dd.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSo5q95JVDC3KK3iBYlXsBXcO0I.jpg" tvg-name="Apollo 18" ,Apollo 18
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9cbc3095-4601-442f-9917-9a7e829e8189.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8zgO68TWhR6wdv84Z3RvBXxO54.jpg" tvg-name="Hipersomnia" ,Hipersomnia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ab2ad649-cb04-47a3-af32-b3ce9c695948.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4mFznhWOQ6KQzrMQJno7xJpFZU.jpg" tvg-name="Amigo Undead" ,Amigo Undead
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43113793-42b7-4b62-9443-5f4c6a9d6144.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7n7sRffr6UloXNlprZTVLSV3Eo.jpg" tvg-name="Honeymoon" ,Honeymoon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eef6b036-4cbc-4b40-9c5a-9c5e3379a719.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FXtPtetZaB0giJEqC6mOLBr15A.jpg" tvg-name="Holidays" ,Holidays
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0444dd14-cbdd-4435-8984-dff12de066bc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbrPRC7doDPEoC3z35q6MXqLEBM.jpg" tvg-name="Hostel" ,Hostel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/115ea9b8-501d-441b-9706-fe81f16ab5dc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmSXjAbZ0rbXTnk3dHQFKfq3x7L.jpg" tvg-name="Hungerford" ,Hungerford
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/69312a6f-9815-4d55-96d9-8ab9de591e4a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zt0v54vRmgn1Zgvlfw0azQK9h.jpg" tvg-name="Harpoon" ,Harpoon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/acf700e7-65ff-493f-8e70-7ad076b47ab5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqq70bJKiUx0foJh0YcbdEShnz9.jpg" tvg-name="I Spit Chew on Your Grave" ,I Spit Chew on Your Grave
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bc2ceb2-c68b-4f5c-91ea-19dfb1f84ffe.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnr5kiA4SDj1OnZOU5RX4sZf4ZV.jpg" tvg-name="Identity" ,Identity
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dfc5cdf1-abec-452a-ab3b-e3bfd61850f5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" tvg-name="Insidious: La puerta roja" ,Insidious: La puerta roja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be64e969-b06b-4539-a641-ac7c2fe2b5f2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AU1xAbnkR4dj8WUC82by0gW4BE.jpg" tvg-name="Infección" ,Infección
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e35d8007-eeb2-43f1-9398-f458cd4c71ac.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owPn847icCFSQFBPqM2hgamEUsI.jpg" tvg-name="A Demon Within" ,A Demon Within
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f1a88a8f-9ef4-40ea-a1cd-e1d6b5070afa.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3STDzMOc19dVCWg2UZfm84VL9c.jpg" tvg-name="Inicuo: La Hermandad" ,Inicuo: La Hermandad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c1a8ccc2-b235-4ec7-9929-db5ea76a4b4c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekf7Ufxhubi00h02oWq6gbkWX.jpg" tvg-name="Antebellum" ,Antebellum
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/71c5a1fe-7f93-49ad-adb7-1849b52a1a0d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV0Sp2pRGURLPYA4bI1t8WeQR0R.jpg" tvg-name="Jack Goes Home" ,Jack Goes Home
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6b64c776-0166-4bab-b9ac-2dec598241c0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg" tvg-name="It Follows" ,It Follows
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4fe6fc08-5a00-44e9-b19c-c74356fd8a91.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJemaoRW5LFDvi3p6jWMMMIDR4P.jpg" tvg-name="KM 31: Kilómetro 31" ,KM 31: Kilómetro 31
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48e02b62-4b79-466b-ba26-ab029ee829f6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://pics.filmaffinity.com/Haunting_Inside-727141454-large.jpg" tvg-name="Inside" ,Inside
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c38eab5-917f-480e-8079-b47b4c98b0e6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r5oiu1tTczLLUU7XxRr34tfYx1.jpg" tvg-name="Jackals" ,Jackals
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b361d66b-e681-43a2-a3de-22f84a4ca162.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syjI7LRqjcYK0DmGHRoMQTAuPz4.jpg" tvg-name="A Dark Song" ,A Dark Song
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6df403ab-5247-443a-98af-d88b957559e1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRtAQKk3FxW4UnU54UJGEjMJzZ.jpg" tvg-name="Karma" ,Karma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f42f5d9-f880-47a4-abc4-374eb360c200.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/1/8/4/7/0/118470-killer-commandos-0-230-0-345-crop.jpg?v=7d191d5813" tvg-name="Killer Commandos" ,Killer Commandos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e062856-c755-4ad9-ae0c-74a4bd2ca0f5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg" tvg-name="Jeepers Creepers" ,Jeepers Creepers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd456859-3381-4d07-a2e3-709668807f79.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg" tvg-name="It (Eso)" ,It (Eso)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ba7e0d9-bb25-4b11-8751-34e49c5c9f9d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFuRzagV4CNwB8ixSK7N6XUgnDC.jpg" tvg-name="1974: la posesión de Altair" ,1974: la posesión de Altair
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c361fd0-8a6e-4dd3-bcbd-efee2f9a92a1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tc1PSawB1XNq9zF9BQyc5YPfpgm.jpg" tvg-name="Before I Wake" ,Before I Wake
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a067be1-3073-43d3-aff9-0a2827afda23.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKjCt9eH4mvjUKJUFcVmbdIruUN.jpg" tvg-name="Krampus" ,Krampus
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8937b452-57b9-470c-937b-bdaa6decacf4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGhkh4tT3j86CNFYWWErSYQWs7.jpg" tvg-name="La casa acecha" ,La casa acecha
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e544baf5-39e2-457d-be9e-f5de0f1e93a5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUGVmCKwEeELDMtU6nqy2WhZb5w.jpg" tvg-name="La Horca 2" ,La Horca 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b84d5c7c-4d9e-4d3d-9967-24440d891db5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg" tvg-name="La casa en la playa" ,La casa en la playa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ee672d2-85cf-44c0-bc9c-4d9399d24306.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wt8YMw0T3nQcjplvf1A7qxhOYJ3.jpg" tvg-name="Knock Knock" ,Knock Knock
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd884e91-8d87-4fba-968d-28cc39e499d5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKgHmaBJ6aUgG6JUFgURdhwlqTs.jpg" tvg-name="La habitación del pánico" ,La habitación del pánico
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d0f211c4-7d0c-4d79-b0a5-2345a3733eb4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRhYWRlZjktMGZiYy00ZWYzLWJhYjYtYjdlNTkyNzM5MzMxXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg" tvg-name="April Fool's Day" ,April Fool's Day
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b41a84a2-b62e-43b6-845d-f997b2fb7648.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg" tvg-name="La cosa (El enigma de otro mundo)" ,La cosa (El enigma de otro mundo)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1173a5ac-8f8b-4e5f-8cce-7502f588f695.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ns5I7OVE1ZPXZHKINYjVV8DPc.jpg" tvg-name="La cripta: el último secreto" ,La cripta: el último secreto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27b6d991-a77d-40d3-89b3-74825b169c6d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bIdi1u4wq5axdW7gKhga5envh.jpg" tvg-name="La habitación (The room)" ,La habitación (The room)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c85fb0f7-391c-40fd-bb2a-4308f7b5f6c6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z67Sdv2jz0bIkKAV7CHK2eE8ws.jpg" tvg-name="La maldición de Chucky" ,La maldición de Chucky
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2655882-a3ee-4675-a896-5828fb25f684.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3ysBtfK6bPVLXRwsPzVdRlmkdI.jpg" tvg-name="La cosa (The Thing)" ,La cosa (The Thing)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/17fa4040-f662-4cac-8ea6-32aa757baed7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxYKKAUkSrU7aJIUkf41ue7t26c.jpg" tvg-name="Asylum: Twisted Horror & Fantasy Tales" ,Asylum: Twisted Horror & Fantasy Tales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/066efa1d-a06b-479a-9ab7-2aafc1801e85.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGrE2MNOjEQvHVqZSXUzdUboKcc.jpg" tvg-name="La mosca 2" ,La mosca 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5fc2faea-d3ca-4825-8113-db0d5c08f347.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjbHHk0R66Xe3R6fPfuUdiGDcqH.jpg" tvg-name="La mujer de negro: El ángel de la muerte" ,La mujer de negro: El ángel de la muerte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe77899a-6fbf-4c42-872a-412b0432e89f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRrHqMTPpce3o7drqf3opy702Zi.jpg" tvg-name="Así en la Tierra como en el Infierno" ,Así en la Tierra como en el Infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1fe707f1-f2d7-4ed4-b905-24a285990e2a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNJzVDTgr0ihebEaQU4xlxc2VT5.jpg" tvg-name="La monja" ,La monja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47ca6e73-b086-4e5f-8a14-80ab3827bde0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TnMWnI4xcQyuEwa8Jj66TCCGsR.jpg" tvg-name="Babadook" ,Babadook
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59cef3c2-41d6-495b-99ae-ea7307d4ea88.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg" tvg-name="Blade II" ,Blade II
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5d3b2dc6-d2bc-4424-8916-4c30e271fd70.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg" tvg-name="La pirámide" ,La pirámide
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a181422-42d1-468c-bc29-95866bd6bb81.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHWzPfi9aTA82aFiRi9aC5dh2Gq.jpg" tvg-name="La novia de Chucky" ,La novia de Chucky
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7dea7547-a617-486e-9a93-58e9b2b8edd3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj41nDNmpRNQSaHithu8VmOGUDG.jpg" tvg-name="Aplicación siniestra" ,Aplicación siniestra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/417ca03d-c9be-4631-a31b-b8441ba3039c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAmqR3FdoGvdsyeCsfWMfyAfgql.jpg" tvg-name="La visita" ,La visita
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d98ee0c-d9da-4e4a-8059-47e3fc08d93c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5xJwhFzWxN9Z9f7VSESc6bitgh.jpg" tvg-name="Ladronas de Almas" ,Ladronas de Almas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd1152f5-ee88-4126-a3c0-9ea023737044.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sujI52y4WsPHzmx1WXQAw7z3vya.jpg" tvg-name="La última casa a la izquierda" ,La última casa a la izquierda
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/339a9285-d283-4da6-a505-1c83da212501.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSTFMqFpVB4yq9SOIxBp8xZ9jh5.jpg" tvg-name="Last Shift" ,Last Shift
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/315a795d-5c63-4e3a-aac6-627ed48383f9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrePzVxbgiWfDlgxy00VC9z62VZ.jpg" tvg-name="Las tinieblas" ,Las tinieblas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ba05e0c-0e84-4726-98a3-868ca60b3dee.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTVf3YKS01cHEMuAOGR6EQrzd4r.jpg" tvg-name="Lil Evil Dead" ,Lil Evil Dead
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7ed97b7-d11c-440d-afe9-dfbb57358716.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyv9dTfxIC69APlLGkr4cJ1z56.jpg" tvg-name="La noche devora el mundo" ,La noche devora el mundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f16b55c1-d32e-4656-83a8-047cde72f3b5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg" tvg-name="Blade" ,Blade
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ad4f81cf-ee18-4ff1-a6d7-dfff7c41d96f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KxuyIQX0XibWl0Nrx26lfxTRNF.jpg" tvg-name="Leprechaun Returns" ,Leprechaun Returns
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b5d46e90-e41d-41dd-92cb-8b9d74fa5f65.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmTlL0U3NMQFjB1KGnWj2NuAE3g.jpg" tvg-name="Las posesiones de Ava" ,Las posesiones de Ava
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fee5a09b-7858-400b-9563-162ad45945f1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7iBh6WqpfLOBFMjW126wUOhI6O.jpg" tvg-name="Leatherface" ,Leatherface
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27cbdde2-e342-4c16-825b-1ce16a42e1f6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LH7DlJeIykHQVfog6IUWQ1fXVP.jpg" tvg-name="Les Affamés" ,Les Affamés
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c31eb212-ab5f-46d7-8cec-9d7124e72921.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocNctwT6ePRtzWPi3Tqqog5h7NM.jpg" tvg-name="Lifechanger" ,Lifechanger
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6312ca26-d7ad-43e1-96b5-b84933f0768a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes" ,Los nuevos mutantes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/faf81006-cc64-4103-9f4a-6359ea1b58a8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMZ7Fqp6kmT1N6VfitzSqB7DTdb.jpg" tvg-name="Los ojos de Julia" ,Los ojos de Julia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c2eb8cb-60f4-48ac-83d3-c1f766028c11.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO7yMRrHo1ruBa291b0pKhifqUx.jpg" tvg-name="Llamada Siniestra" ,Llamada Siniestra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4597374c-646e-47ec-bc0b-c4011dbd12ab.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7eVbUOHSyBofZBMnUGBZ0nbg4b.jpg" tvg-name="Ataque Extraterrestre" ,Ataque Extraterrestre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67494445-ae4d-42d1-8299-379cb47db83e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LJqMc5nM48O18iNSrbSbMCKQu7.jpg" tvg-name="Los olvidados" ,Los olvidados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8ccbfca-e9d3-4d70-926a-93f43834f494.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg" tvg-name="Maggie" ,Maggie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ccb4a9f-fcd5-4c54-a37b-e81f0acf17ce.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" tvg-name="Malevolent" ,Malevolent
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/16495bc9-3c55-4e81-acb9-19964ed11c86.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDjiT5dVwL0B3CgBHhBQo9yB1Yv.jpg" tvg-name="Luciferina" ,Luciferina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/337bd439-c387-4c91-9332-3478aff7e90a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZVrBhFRiYIJ4N0hvYYGraBcD0t.jpg" tvg-name="Los 3 del infierno" ,Los 3 del infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8eed1b2d-d38c-4ef7-a258-abcd541c2223.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD0mJvBCBkDekYQ5Hf15Tq4sFRD.jpg" tvg-name="Malicious" ,Malicious
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92140d09-9861-4eaa-9b9d-a240cf469898.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg" tvg-name="Mandy" ,Mandy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09542883-b113-41db-aa9a-617146a3fbbf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" tvg-name="La caja negra" ,La caja negra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6930ddcd-bd88-4f78-93bd-00bd4b3b6b6e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pv5ddOfNZ6D3j3npMOnZgcquswY.jpg" tvg-name="Martyrs of Marriage" ,Martyrs of Marriage
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9fb95ade-1d6d-4ebc-9b1d-e7bb9a82248f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg" tvg-name="Megalodon" ,Megalodon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0d051dab-969e-4308-bd60-650b084fa257.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1qdnYXlTiQPtdI19j6SBuqrBz.jpg" tvg-name="Blood Punch" ,Blood Punch
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31aa5aff-dc27-496e-bc33-086d7e267edb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGj4i7Tas6HDFgajb0LKOkaCtC7.jpg" tvg-name="Mermaid Down" ,Mermaid Down
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ef00dd89-ac89-4773-b00c-fd974ffcfff2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csH6GfdO8TI6M6W5U0PChtRBpvC.jpg" tvg-name="Dangerous Lies" ,Dangerous Lies
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d508297d-ed0d-4b25-b2fd-15d25be20900.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y74qbogS4r32ypQIEBpzLR4bMtq.jpg" tvg-name="Blood Widow" ,Blood Widow
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cbe2ef62-03bb-405e-b50f-a4f97e7114c8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg" tvg-name="Mimic" ,Mimic
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cb6371df-7cc9-4505-afbe-715758581dba.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" tvg-name="Madre oscura" ,Madre oscura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78a85ef6-c10c-404e-9be1-97131ae32b62.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5xhrIiaa8BvXmoTUIYPLgLW19x.jpg" tvg-name="Mara" ,Mara
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3da24f7b-75c9-41ba-921b-b55e4f064886.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzHKpM6VBSKlkfHRn4MXn2Nutc8.jpg" tvg-name="Mis demonios nunca juraron soledad" ,Mis demonios nunca juraron soledad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27a66c5e-c29d-492e-bd6f-f6de796eea82.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKjinCoWFHkztF64Vx1L2lwcJI3.jpg" tvg-name="Musa" ,Musa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bafd02a5-1dd8-4a5f-a9ea-d388b1b478f7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAltHW6uwqw8zCDbAfqxLNpC6wk.jpg" tvg-name="Morgue" ,Morgue
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7526db7a-c008-49d8-addf-6dae1e066c72.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evn7F3Y04GI2NGiQ4L08wYgVBND.jpg" tvg-name="Muerte en el Mar" ,Muerte en el Mar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/367d3b33-c0c0-474e-a1f9-74624cb9f364.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IRZewFaVDcxhA3gDPwLOnFLs9l.jpg" tvg-name="Mi amigo Dahmer" ,Mi amigo Dahmer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ac97ac9-27fb-4ddc-b8da-6a87b9e9c64c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajGQowd8zESMGurHCk2ukNTWngx.jpg" tvg-name="Mississippi River Sharks" ,Mississippi River Sharks
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46b10643-724d-4fc0-83de-2fa3ae4e9e78.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://pics.filmaffinity.com/nevesta-636005131-mmed.jpg" tvg-name="Nevěsta" ,Nevěsta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73786efc-9290-4291-8224-dadc42f8a2c6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke49Ev0ytntnnJ8z8XHDPvJ4Nff.jpg" tvg-name="Nekrotronic" ,Nekrotronic
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc4d321e-56d2-4cff-a4e4-11588c94b2bd.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://pics.filmaffinity.com/No_respires-948216545-large.jpg" tvg-name="No respires" ,No respires
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8bc642db-1664-4ca7-a2d0-e44c0290ac1f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg" tvg-name="No dormirás" ,No dormirás
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d284ab8-f6b6-44a7-b9fa-f5e6cd6db385.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwt1lueEFn49m8XSsytiJIK1YyU.jpg" tvg-name="Ningún Pecado queda Impune" ,Ningún Pecado queda Impune
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c6c7ac27-dc7c-4666-bd26-6586452c5133.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg" tvg-name="बुलबुल" ,बुलबुल
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/49b9a26e-2297-4bda-ba9f-26cbd1ce9376.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/A6nIcr2Ca4h7aweUNXedWfxa6L2.jpg" tvg-name="Nunca apagues la luz 2" ,Nunca apagues la luz 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4d042af-8f23-4468-a936-b15cc2d461a7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rsEhgcNRUthjo6fqRDqZy5plx.jpg" tvg-name="On Halloween" ,On Halloween
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ccdd4f8-88b2-4281-97ec-c9c79f2a02c8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mAXrnroaUnA4PApJNV9YS9zrso.jpg" tvg-name="Abducted: The Mary Stauffer Story" ,Abducted: The Mary Stauffer Story
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c9e66ea-42e0-43a5-97de-b290b30b9de0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNH2DVy7VoIejF5XMFwW4e2RBEo.jpg" tvg-name="El secreto del bosque" ,El secreto del bosque
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd5a9ea3-e126-46f8-ae6e-3d6cde9b6c4b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BR1N4UqZtk6OxcWLBGgws8XAQH.jpg" tvg-name="Our House" ,Our House
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/faef5c12-650e-4fcc-8e9f-e6c337e6081b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uJ3P3O5wHU4cjsXXu9ZypY2xLN.jpg" tvg-name="Líbranos de Todo Mal" ,Líbranos de Todo Mal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b09ebdcc-96f6-401a-b49f-12d5d1f9d2b0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aw9ZkCf6FHlyST0uRhLdLomHjgc.jpg" tvg-name="Out of the Dark: Akeem" ,Out of the Dark: Akeem
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/79d5b28e-f2b7-474c-8f1a-b26662eab1e0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NYncilD0GzvzhSF2HKmcnZxRAn.jpg" tvg-name="Paciente cero" ,Paciente cero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2add6309-3c7c-4c3c-ab39-0b0844533193.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vuhm8L50nhVRUDqT5hbP4aG3x.jpg" tvg-name="Paranormal Activity 2" ,Paranormal Activity 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c71623ca-9f38-4f12-8da3-0628c1cb6f0c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksDmceBR2xBNXsRB9Qnj22b7NjE.jpg" tvg-name="Paraíso Perdido" ,Paraíso Perdido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d39ed16-265e-4c3b-942d-b94c17004965.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBT6UQX3qpNz9VAqk40CU5fOzJ1.jpg" tvg-name="Play or Die" ,Play or Die
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3443e127-a90e-448c-8018-d294470607b1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7FrCyUsmP4V7h3gj84lqwMteSq.jpg" tvg-name="Pledges" ,Pledges
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c793c01-f397-4f7a-880c-3fc0dce09a60.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3h7miVXulTHbpa4NWyUUcguO90e.jpg" tvg-name="Irina Palm" ,Irina Palm
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8ed3408a-bdef-4536-9474-682e2e8a180b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zssSZAC9nl0OUR6uPhKUEbgkCVN.jpg" tvg-name="Manicomio del terror" ,Manicomio del terror
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8af6bd4-39ad-44da-a280-887e1f7c47f4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw5RhNAVa7g6pX0KGeNx9EmS7Je.jpg" tvg-name="Poltergeist" ,Poltergeist
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a3a7a2c-d580-4afa-9378-2e697fba9fcc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQEMFZHU9pLuhu49piOUkqIeKlo.jpg" tvg-name="¡Critters al ataque!" ,¡Critters al ataque!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d61b7f5-0b2a-4879-9cfc-416c37a1dd11.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsrBRkY7j4aLMil3dy52lKQJPlD.jpg" tvg-name="Pitch Black" ,Pitch Black
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0916841b-8e4e-45ae-a778-c2f3df3345af.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEhf5TvwfESjJAFGiMRz4NFErpL.jpg" tvg-name="Prevenge" ,Prevenge
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b49550a-7c6c-4be6-8221-bf7485f1867c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jroR0GxhLYUxKQSLrAhTf9jPCkz.jpg" tvg-name="Recovery" ,Recovery
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8ebeea2f-100e-4fae-806f-a9b4d07191b4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGUoTarYNL1jI62X31PSAhBgxgf.jpg" tvg-name="Overlord" ,Overlord
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0b3c5ecd-0edb-436b-892c-2beabf9c4c66.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZupM9fOGUYssKzhLeZCmWIjJ3f.jpg" tvg-name="Rings" ,Rings
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/99a09427-9ba6-426b-947e-fe9b16902c3b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3mobjgAhf2q7MzsT0CTb73X7P2.jpg" tvg-name="Camino sangriento 4: El origen" ,Camino sangriento 4: El origen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c8ace7e-1214-4016-a554-97038a287ac4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg" tvg-name="Ruega por nosotros" ,Ruega por nosotros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd271275-32a5-4caa-80ec-12f2773b33f9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b6HY7rud6LMO00EatxrJfFaBJV.jpg" tvg-name="Beber de tu sangre" ,Beber de tu sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3aa11491-7934-44db-bc5d-afc6d7bd38d5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cesSnuafCLbReG5TcUh5dpIxchP.jpg" tvg-name="Réplicas" ,Réplicas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4c3a358f-6062-496c-b5b8-e4a79b582a47.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi7yCzIPFek5tLY4coe4178SANJ.jpg" tvg-name="Cucuy: The Boogeyman" ,Cucuy: The Boogeyman
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19ed09e5-861f-4ba2-86c0-0920ef092c5a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ophTMVT2bI8Oh7402KSA7LfUvVk.jpg" tvg-name="Sadako vs. Kayako" ,Sadako vs. Kayako
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c09c7b1-df1f-4cbb-bba8-1deda3ada6cc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkrlkZU6SjZkS2HHNWO5Ca6NLnr.jpg" tvg-name="Romina" ,Romina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b4459716-fcf6-4f12-91bf-de338857db2e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puJzc96EFU4oh6NZ195RKaHpdMz.jpg" tvg-name="Carriers" ,Carriers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b5de395-065b-4f59-a517-115198646e66.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M1Mt7dXaiRSOygR9C66DA3sbtt.jpg" tvg-name="Sam Was Here" ,Sam Was Here
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db2125fc-e6ee-46f9-b7d3-7b08be54a246.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJbm00PdHOJbdAqIhfUjKJq25AY.jpg" tvg-name="Santa Jaws" ,Santa Jaws
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e2f99ce-b4e1-4841-a3e9-117abaa59c9c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGlzXMQcEoxsvVdw5FC86UkOVzp.jpg" tvg-name="Alien Abduction" ,Alien Abduction
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3c737ac-f11d-471d-9240-6d4f97b5a057.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rCVdIzSIDIALXArSjLyw44teD0.jpg" tvg-name="Camino sangriento 5: Linaje caníbal" ,Camino sangriento 5: Linaje caníbal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/93722254-5f8f-4d41-8033-9041f5721482.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EV8HY2KXavPluOb4TUnnTNTiiY.jpg" tvg-name="Scare Package" ,Scare Package
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8c4b72b9-e655-46ad-9d87-be1a7184445c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qn53D574tT0YRyLgirEFHQwGUXw.jpg" tvg-name="Creep" ,Creep
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/88df90f5-1041-43d4-8354-6ada4a7c5042.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtoJKxGC02uAUUbKnDsho3EYMPA.jpg" tvg-name="Scream at the Devil" ,Scream at the Devil
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ce21237-843d-449d-b1a3-4af34151fa8a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg" tvg-name="Scream 4" ,Scream 4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97243f76-7b29-4617-aae5-9eda7c3358f9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roH9r2qf8bfe9lQdG7Y6VHHjGop.jpg" tvg-name="Sebastiana: La maldición" ,Sebastiana: La maldición
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/883c912a-aa28-4516-9365-dc01518ae093.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DBMtNViq5LuzSlGkO4HgEOElLZ.jpg" tvg-name="Satanic" ,Satanic
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae5d5186-6004-477a-a7b8-b10169908cb4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atEmHkVFTSGRYt2PeCiziQqbZnI.jpg" tvg-name="Sharknado" ,Sharknado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/486dccf3-4108-4682-aeb6-54e09f15d10f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfHTSUxJjnmjkyEvW7ot2OikGAD.jpg" tvg-name="La última noche" ,La última noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7eca5edc-9544-4950-a735-7ed7c134cb0c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" tvg-name="Silent Hill" ,Silent Hill
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e10e0427-c9ff-4b08-856b-a9d5aad0ca0a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg" tvg-name="Silent Hill: Revelation" ,Silent Hill: Revelation
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e5473168-9f6d-440d-b4a3-3b0a45f9fe0d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elReufFR4NYFiBVRsD0wB2F6FDf.jpg" tvg-name="Seven in Heaven" ,Seven in Heaven
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0d8a9c80-6dd1-4c6c-8d16-1cf9bff0ff86.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhyPenbphBtJB9J2q2mUOO1AeGf.jpg" tvg-name="Siniestro" ,Siniestro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2bfb4e86-1522-4757-af46-3e51c180b954.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c721WxCCzeLJS99BOMBYAzicnJF.jpg" tvg-name="El pulso: la llamada del apocalipsis" ,El pulso: la llamada del apocalipsis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b85434d3-0a8b-47db-8fb9-0bf2e0b66f10.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPpv.jpg" tvg-name="El internado" ,El internado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0a91a9a-521b-4a25-a6e0-59b38fa6d3fa.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fua9a5vtoIBjpCCh4RhFgyJsHtG.jpg" tvg-name="Soy tóxico" ,Soy tóxico
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ce74de0-2c92-48f9-adc1-2d4a2e345dc5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGPj2Qcjly7YrtrDCU046K4eY2y.jpg" tvg-name="Cementerio General 2" ,Cementerio General 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56f34eec-64aa-486a-946d-06efa0b81109.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ncaxeGf5cQOjhWbp4FxFDE1BA.jpg" tvg-name="Spring" ,Spring
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ce662b80-58fa-4d0b-9b24-88da17b0be78.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lUee69khZKSxKZvJAuaYyeY7Fw.jpg" tvg-name="Shutter" ,Shutter
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6be2c9e-ec83-40dc-bc6a-345ebca021bf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvt4uJPYNKYZY8qCwH5Ag6NMW8B.jpg" tvg-name="Stickman" ,Stickman
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76ebbb84-ffa2-4dc8-b42c-b1885a120124.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saH984W3ZGjRX0NMCEsuKh8VUP9.jpg" tvg-name="Stephanie" ,Stephanie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7cb82104-c806-43e0-8865-93e06a65d43e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC1mbALBAJYLDnXb065WhuzJxrR.jpg" tvg-name="Still Born" ,Still Born
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c96beda6-ad23-4c89-b3ce-fbe9e125944e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNmYjAzOGUtNzIxMi00YjU2LTkyNWMtOWQ5NTBkNDU1NWU1XkEyXkFqcGdeQXVyNjE0MjEwNTY@._V1_.jpg" tvg-name="Crucifixion" ,Crucifixion
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/924d5715-763f-42fc-a8b2-d6862def91d9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k93d4au1KByYKi6FsE0dLrKWowj.jpg" tvg-name="Tales from the Hood 2" ,Tales from the Hood 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cdf90b03-10ef-4ef4-9989-4d773abfed31.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lq8ktDO2uqJFgV0jRlMQlPSmNm8.jpg" tvg-name="Soy la bonita criatura que vive en esta casa" ,Soy la bonita criatura que vive en esta casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cfb0cf7-985f-4149-b72c-4fce5fb3830e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxcFPmTOpz1Eyl20x7sY3T95pcf.jpg" tvg-name="Siren" ,Siren
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00675795-d213-4264-a55d-e6dc37497de2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg" tvg-name="Tempus Tormentum" ,Tempus Tormentum
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/66aaa5f1-6b12-4f63-87f0-1cbc6c4280e1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg" tvg-name="Temblores" ,Temblores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/846a3219-68ad-4683-8309-be5710f03d54.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbAIahKDS4Auarupuk42LoiV4Cw.jpg" tvg-name="Tenemos la carne" ,Tenemos la carne
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/daf0eb5a-62b5-4350-b9a4-3e75290f3653.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIYJsichDJbxGFGMyNRwIsQ144P.jpg" tvg-name="Splice: Experimento mortal" ,Splice: Experimento mortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/22803419-6841-42c5-93db-41c5f9c7beb0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO8jANmASmul1tWi53mudn1V9IA.jpg" tvg-name="Smiley" ,Smiley
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be674932-5215-4fab-b1fc-aeaf00a7a849.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqp5P9sONdOhUuPdv05LSMrM1mG.jpg" tvg-name="7500" ,7500
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dc98d63a-da58-4b0d-bb0e-a5fe69832cdb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vhmkswVGIOY62viDryXIxdPcc.jpg" tvg-name="Terror 5" ,Terror 5
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db35b67f-4871-4aee-a14d-81f971a2b18d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lnt9yuLlPwmYW3LLzWmQQWrUmK.jpg" tvg-name="Boo!" ,Boo!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/261c4349-1291-41c0-9554-74a2ba21cc02.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6cjKN1zp4DhpFPxXcMhEsPfjc4.jpg" tvg-name="The Apparition" ,The Apparition
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9f6caccc-bc17-454e-a9be-87c392345067.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePd02d2hWluUppkm7WBfeylsTT2.jpg" tvg-name="The Babysitter: Killer Queen" ,The Babysitter: Killer Queen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ec71e1c-9cd2-4a7e-ad6b-43efff4509ef.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4o4F8n0brc2vrpZBTvVFgB2Kk8.jpg" tvg-name="Terroríficamente muertos" ,Terroríficamente muertos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f44bf41e-8f3d-4860-96fd-74d0de688441.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHZDs43AxPhitL2Xrw7mncuyS4q.jpg" tvg-name="The Black Room" ,The Black Room
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/32dc37af-09a5-4f14-b292-6f0196d09ef5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pMbRBz2KLlOqEIDIwnMVVKPWUh.jpg" tvg-name="The Babysitter" ,The Babysitter
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3021c01d-fdfe-4190-a54a-643a3afaa522.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUSwbbPAApFRQnSv58PkpZiqBb8.jpg" tvg-name="El experimento Belko" ,El experimento Belko
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01ba91ed-4f4a-47bf-9655-9ff0a6153f6e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqv6gteIsYvhomzZmWLlcFNWzSv.jpg" tvg-name="The Boy" ,The Boy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8743d29a-ef14-4eaa-94fc-e11e97081737.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krlOnkMBDYp4zgLivd4WORBnQm0.jpg" tvg-name="Stitches" ,Stitches
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97e2ae44-f6a6-4235-9cbf-8914fdda7529.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEe4trhWiqZxfP6tFu5ZAZKSTxF.jpg" tvg-name="Talon Falls" ,Talon Falls
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5d9da78-ea73-4b95-baba-222ccb16bf3d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m10QitDjpbZgFP1syXgVOv2pH7.jpg" tvg-name="The Bad Seed" ,The Bad Seed
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/50aaa5f9-fda9-4a03-8808-b81e7fd18664.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVuAEloskv8GDNJwNRUtCV7aHDk.jpg" tvg-name="The Crazies" ,The Crazies
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8696a7a-0fbd-47ba-8f40-26cc07540e78.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxUasHKoR8dtInQiXNUknOqi6Ao.jpg" tvg-name="The Collection" ,The Collection
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8dba0a61-a92e-4d84-822b-a6133a2ddea3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSuTZbBzBeyVMiI2qGn6f8hhEYd.jpg" tvg-name="The Culling" ,The Culling
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/90bda1cd-5e54-4abd-a722-726c8c348416.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tj2cWlKMKRm1t6MtvBGFWeZ99y.jpg" tvg-name="Cuidado con los extraños" ,Cuidado con los extraños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6a924d6a-b575-4338-8cca-62afa7b67bbf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CH0d0hMIvgEEmn3ny8sxg5otps.jpg" tvg-name="The Call" ,The Call
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58c87393-9096-466d-890e-1d92c6593620.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxYNmTENdL30TnjX3jRqBKEmnv2.jpg" tvg-name="Boys in the Trees" ,Boys in the Trees
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fdaafff1-ce5e-453c-a15e-e9c435c97518.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg" tvg-name="The Darkness" ,The Darkness
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d52356f-270f-45e6-9c10-6f86c055aa35.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmTQgo64ccUVF4vRbIVCK2ESdIT.jpg" tvg-name="The Cured" ,The Cured
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a347859e-6bcf-4a4a-811c-8aeadf4cd675.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHSaDFjN0kbch7hmJ17yL5lyqUD.jpg" tvg-name="Los domésticos" ,Los domésticos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8faf948c-be24-415b-b0e0-32695718f394.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/on2Q5qroYiJ8MxhuZmdBd7rYNOa.jpg" tvg-name="Chucky 7" ,Chucky 7
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5e8465dd-7a85-485b-be4b-b685977b4c4a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60Jge3rxgiqzpehuGcuITJveO44.jpg" tvg-name="The Faculty" ,The Faculty
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/973d5da4-43e7-4118-934f-52d52196a32a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hjpfY7faXYclLRK0DDPPWtShyp.jpg" tvg-name="The Evil in Us" ,The Evil in Us
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e21b9172-0c02-46b5-822c-2ae39dfd64fe.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RuQDW5TnpD0EUXt3wF4B18P1uw.jpg" tvg-name="The Final Wish" ,The Final Wish
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6241e21d-583b-47e6-9dcf-eca860586765.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg" tvg-name="La caza" ,La caza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3f1b8022-d311-4b44-a165-c32a964a3887.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1a869d31f9a1eae100f53678f8775d52e538182a645835363c16b41895ba84d1.jpg" tvg-name="The Grudge 1.5" ,The Grudge 1.5
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4615d079-591f-421e-bb82-fe95852ec550.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8NBk0FsyhePuFvHmA1XP1XrHrI.jpg" tvg-name="The Host" ,The Host
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d7fc336d-e139-488d-837c-e85981f7d924.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwdbyKJ2PKTLamQzr57OgMuFUlD.jpg" tvg-name="The Golem" ,The Golem
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43115a5f-4033-4598-8bff-7299024df9d3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcjjbu3cz6urkuCJ6NfoSDbJZrx.jpg" tvg-name="The Haunting of Sharon Tate" ,The Haunting of Sharon Tate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c58db27-1f19-4231-80a3-f5a7f221fe9b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NoqvEpApbcnSWFpbHAswOYufSQ.jpg" tvg-name="Dead Ant" ,Dead Ant
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e825e1d3-f7be-4e30-919e-1780dd21be12.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85kxkK6dU2DudXWfaUhTLu3pvU1.jpg" tvg-name="Fotografías mortales" ,Fotografías mortales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d7ffc63b-cf54-4af3-a2e8-4025fc6645dd.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqmxWYRLXhZorcZmnGCTZIRkaHg.jpg" tvg-name="The Last Descent" ,The Last Descent
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67f17a95-0900-4626-abf5-37b0688b877e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfxB4sW17t3yMdgxwCsCafGkrPk.jpg" tvg-name="The Messengers" ,The Messengers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f18608b7-9724-41ab-bd55-5ec785fa380f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atwJGO4Ks8k9aUcGN968YFvnwbB.jpg" tvg-name="El faro" ,El faro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/939def29-4a6b-42be-835b-313dad6f7b37.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdIMHZbi8M2nBb6e5tx5uGYD1zN.jpg" tvg-name="The Mimic" ,The Mimic
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9747e83-2573-4964-bd0b-11a63a08371f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tDp8QEbKRqRhfnSCEZjaSv2UoE.jpg" tvg-name="The Night Before Halloween" ,The Night Before Halloween
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a0775e28-52d7-45b1-be64-c6f7d15e3e0f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCiRCxY8qbIi6adTCBzk9MmqBFF.jpg" tvg-name="The Prodigy" ,The Prodigy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e2738416-46fe-4fc8-94f6-b58f6a59a44d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt4tIacNVxemnJtaeH5MANe6YG1.jpg" tvg-name="The Possession Experiment" ,The Possession Experiment
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea51d474-6476-4cc9-a72e-fa6243506ae0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGbq102j9vQjmUwVXgYdzQvlDea.jpg" tvg-name="The Real Amityville Horror" ,The Real Amityville Horror
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0f6bc65f-b53f-490b-8d0c-0e2a430a4c93.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qjFWIAzPlQiYbl5xWNLw6x3wmz.jpg" tvg-name="Un lugar en silencio" ,Un lugar en silencio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ce24503-f456-4f33-b6d6-873922bcb12d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7u8yJohwvS3ftF7nVepAWfwseQW.jpg" tvg-name="The ring 2 (El círculo 2)" ,The ring 2 (El círculo 2)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0133f930-8854-4e77-9355-b43d911e1dc7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNrNAHbtVaF6wXLLm7KwKsLpDCo.jpg" tvg-name="The Rocky Horror Picture Show" ,The Rocky Horror Picture Show
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a85fab2-14c4-4859-ab65-9783026854f2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBmonOlvKB00ltGHF1QOUFWdjzD.jpg" tvg-name="The Scientist" ,The Scientist
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8c2c0640-074e-4f21-865c-d2efeb989519.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JHPmcNSSfTXIVnCYfririHe6aK.jpg" tvg-name="Fenómeno en la oscuridad" ,Fenómeno en la oscuridad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da2136ed-a7ae-402f-b119-dfe917892249.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Vca1ssUqmupTkc6U5FzUTiDv3b.jpg" tvg-name="Dark Water" ,Dark Water
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9874589-581e-43c0-b5ed-5cb233e6a93e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDBehHmeelcJm53shZto74BTFjA.jpg" tvg-name="The Super" ,The Super
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f80f26c6-814e-4b42-89e7-5a8f1d655838.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXfVUhDsmYpeA4Rrh6Sw2T5LFKx.jpg" tvg-name="The Uninvited" ,The Uninvited
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08977d26-2a71-495c-b6cb-171c9890323b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eMZjYxEGXS6xj4hRtxBmaPPi3z.jpg" tvg-name="Totem" ,Totem
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d41559b6-50ed-4d02-9c0b-ef27f125704a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCsB2IePfLj5eQXXziGb8Xyxblm.jpg" tvg-name="They Remain" ,They Remain
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2fa4e99e-4500-4c00-bfad-66d59080fd10.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uETv0BJHqHGRb2UhyaXeQZLl7ef.jpg" tvg-name="Tiburón 4: La venganza" ,Tiburón 4: La venganza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ee5943f-8674-4c3a-baaa-03774f173903.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iak7mWZNIoYYS6KI4bzcIKONX2w.jpg" tvg-name="The Sandman" ,The Sandman
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2181734a-e0f7-4f00-b006-b03437812119.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JH49NYwWTV2U1foK06KKXYllmm.jpg" tvg-name="Trash Fire" ,Trash Fire
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c1f5a9c-ee66-4941-94a6-af06097bd98a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knjeEeeyIwDkUtZwDfJOcUIuNdB.jpg" tvg-name="Carrie" ,Carrie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c1e2865e-a189-452a-aaa0-ec0fade10305.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI4sNhgBIaqYEkHs19S0NwONcHP.jpg" tvg-name="El cadáver" ,El cadáver
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27883861-99b8-4b4b-a9cd-2f71c7b0b385.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdQvmbLnHp2oJQ5AQy6Pb5zhMMV.jpg" tvg-name="Trauma" ,Trauma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b066059c-8c6c-40e3-916c-a5a769ab5788.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg" tvg-name="Juguetes de terror" ,Juguetes de terror
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/265e4a7f-2d2f-4fb1-9b08-61525b3bda42.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" tvg-name="Tremors: Shrieker Island" ,Tremors: Shrieker Island
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/501c903a-93f1-4fcd-b185-bcf4407eed96.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" tvg-name="Un hombre lobo americano en París" ,Un hombre lobo americano en París
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/45ca22f3-d651-4dad-9ea3-c8420796d5aa.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1lqBOpbp7hkTKxlrGvk0ABJOVs.jpg" tvg-name="The Triangle" ,The Triangle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67edd120-c902-4254-9709-02464ffa6a57.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WjPwJbqQwgLUGRJ2WZELDzjoa4.jpg" tvg-name="Una libélula para cada muerto" ,Una libélula para cada muerto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/33c29ecc-c151-4e65-b91a-6becb911c0a2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg" tvg-name="Underworld" ,Underworld
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f0c0ab3-d5d9-4491-9b4f-6eec7f7050c5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIKcA3O8W14pNyRn4tHXDQEsLtY.jpg" tvg-name="Vampariah" ,Vampariah
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d6faa063-af92-4282-93e3-bc90e379973d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg" tvg-name="Van Helsing" ,Van Helsing
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/955dca72-e254-489a-8dec-b61ad72dd77c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQCtBbfKfDwFxGxGEsFustKCr3S.jpg" tvg-name="Camino sangriento 6" ,Camino sangriento 6
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e39d1c57-edd0-4176-b40b-0f703d50472f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r55WHmiXzryJA0v5MlrwyFQXRTF.jpg" tvg-name="Vampiros contra el Bronx" ,Vampiros contra el Bronx
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d1249af-5578-424d-89d0-6ccfe06c68f0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg" tvg-name="Victor Frankenstein" ,Victor Frankenstein
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8ef254cb-f293-41f9-9987-5aa0fb2ac7ab.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dUe2nUjJCEshNGqKGyi3OZDqII.jpg" tvg-name="Amuleto" ,Amuleto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/06aba2ce-1682-41c1-81b1-fd1ceee20306.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4inabU76A8SOCfRg5A1nhjV72.jpg" tvg-name="Un hombre lobo americano en Londres" ,Un hombre lobo americano en Londres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9597094a-486f-4227-b1cc-3807657c6002.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg" tvg-name="Viernes 13" ,Viernes 13
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bbf16018-eba2-49a9-acef-a144a7131dda.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XLUXRn0Du0xGPUitSuTTT9a8lF.jpg" tvg-name="Viral" ,Viral
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fb6f2823-42a6-4713-aebd-642109a261ed.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vonXNVoehqkr0qQ7cTv1UtnTwMz.jpg" tvg-name="Una Comedia Macabra" ,Una Comedia Macabra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c2768c76-fb41-4584-a9ea-5b2e1f29cde0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZoaV2jaicOXn2ojuS5UJJfygP8.jpg" tvg-name="Visions" ,Visions
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b6d84733-38b6-42c0-bf20-45f6c08836e3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gkAyLCMbqolDynUfJXN0vK7Ony.jpg" tvg-name="Vivarium" ,Vivarium
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/235e5ba2-5722-453d-ad14-054e52d2fafc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY5YTgwOWQtMzBkNy00MzViLTgzMmQtOGQwMmZhNWYxOGJiXkEyXkFqcGc@._V1_.jpg" tvg-name="Wish Upon" ,Wish Upon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4331adc8-e612-48a1-ba1c-b3d904b1debf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djSIXITnGEQLNwTXrWP2oYHTmYk.jpg" tvg-name="Where The Devil Dwells" ,Where The Devil Dwells
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3fa3fbe9-b50c-441d-b730-1f598884b8c0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dW0V1HIqruwJGo91dRqqAODZK1.jpg" tvg-name="What We Become" ,What We Become
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/507b4bde-54c1-49d7-b9d4-a88178b8084d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg" tvg-name="Cuidado con lo que deseas" ,Cuidado con lo que deseas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/625d4df4-b35c-4eb4-8545-c12660066285.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb0L57p0r25ehV46trx86537ByP.jpg" tvg-name="Un paseo por las tumbas" ,Un paseo por las tumbas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/30d4bc1c-b4f0-45c8-b8f3-598af9283f48.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioXwyAvAV3N3Jz6oKSdjHD853RU.jpg" tvg-name="Whiteout" ,Whiteout
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e8feb0a5-bf23-4ffa-9874-572e93f44728.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaBNJEr6LJA9cg7Ht4I9WqiFBDy.jpg" tvg-name="Muerte de noche" ,Muerte de noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/857a8cab-a498-4d24-9f3c-ed8f04ba5b7d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZQYjmEXeET1fOz1av7GYY7xENG.jpg" tvg-name="Would You Rather" ,Would You Rather
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25c6b038-8c4a-46f4-99d6-b8eac9d5f8cf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUZh4lHJDUN8tQodoePjTn33S1H.jpg" tvg-name="Yo, Frankenstein" ,Yo, Frankenstein
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4acb8434-0101-4bea-ac2b-42be4ed93054.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooZbBL28oXDHfc8xSt2VRHU8jkO.jpg" tvg-name="Los niños del maíz" ,Los niños del maíz
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f0887db-f781-48d7-9473-d6f5a1037ed2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGV5SVdUnJ280ahVlVrYldG33Gw.jpg" tvg-name="Zombi Child" ,Zombi Child
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ffe89e6-c179-48c0-a040-a1ca20dabbad.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihROTaicjrYu6buBqn79M6OHvA6.jpg" tvg-name="Amityville: El despertar" ,Amityville: El despertar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19b78238-af74-4304-a6f7-d57de8eff768.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdlWPVFMsBchv07HxF2khcdCEwZ.jpg" tvg-name="Zombie Tidal Wave" ,Zombie Tidal Wave
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ce1494eb-9490-4a7d-9c24-477831353422.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGo25ysEUsCgllSzFhdKHC2a21b.jpg" tvg-name="Después de la vida" ,Después de la vida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15bfae0c-2c55-43fc-a7a1-37fba410654c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4nesLMUtlGRKCAf3ItjCASQ66P.jpg" tvg-name="El apóstol" ,El apóstol
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47c78ffd-58cb-42ac-9f98-3cbb9510e3a9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" tvg-name="Ana y el Apocalipsis" ,Ana y el Apocalipsis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/71ad3f95-51af-4e87-b576-5dae857b1c81.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzUleSDXVEvRso2jBiuSbrszpl0.jpg" tvg-name="ClownTown" ,ClownTown
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c1cd467-4787-4076-a3cd-f6e9c180057d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph64l6cJSfSiQwIKK9JbzQpWBy3.jpg" tvg-name="Anacondas 2: En busca de la orquídea sangrienta" ,Anacondas 2: En busca de la orquídea sangrienta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8757739b-72b7-4617-b8bc-4b87cbbd89f8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" tvg-name="Deep Blue Sea 3" ,Deep Blue Sea 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/51161745-0ed4-4bc8-a191-999e8c711003.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dmHunFILNXKzjOkl1A7IIsTI58.jpg" tvg-name="Bicho malo (Bad Milo)" ,Bicho malo (Bad Milo)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56cd76b3-1e5b-4e87-9c4f-e2e7667b5395.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl3gEKM12J93WrUoAXkZNHzTiRR.jpg" tvg-name="El despertar de los muertos vivientes" ,El despertar de los muertos vivientes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a8e1a73-e681-4ff6-a764-7d0eb2b73b01.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTfSYIf4abjcv5hgz53m5QH6oFC.jpg" tvg-name="Alerta en lo profundo 2" ,Alerta en lo profundo 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/81811163-c064-49ec-a916-648ce046e2f3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFJ4nIrGMgKqZH8rlpaleJBxGTq.jpg" tvg-name="Luna roja" ,Luna roja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/42a3c982-be1d-454a-b1b9-3bc91e8b54c9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0rogLe8LPDnydVSHf65ngD3wTD.jpg" tvg-name="Se ocultan en la oscuridad" ,Se ocultan en la oscuridad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e5090780-8423-40dc-ae8e-02c28ef3b80e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJXlEnJwIz3vOq51G3SrJlcr1yr.jpg" tvg-name="A ciegas" ,A ciegas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0b7a10bf-eea2-4cc8-beaf-c6fa52172a80.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swVORIKIqn9OByYIFLAH154yhYJ.jpg" tvg-name="La invasión" ,La invasión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba6b47be-e0a4-44e9-ac51-2a5dcf752a1d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg" tvg-name="Aterrados" ,Aterrados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67dd2d35-f359-42f4-a852-d4183019a855.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prtimZrN9rpkUGYMfoAa3tAA2t6.jpg" tvg-name="Donde habita el diablo" ,Donde habita el diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10720cb6-35ec-4e70-b85a-961df8a74c9c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poBB4oW4bcyqkpWu7nCumzGh0sj.jpg" tvg-name="Bait" ,Bait
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d458d0ce-22cf-4e81-8df0-c7f244e5f4b9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qT3IxgoA8aDZyKPIFLEWqshwLLR.jpg" tvg-name="Caso 39" ,Caso 39
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1246d550-699e-4d09-abd1-077ffa7e1cfa.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6reoso5qwKE9HexRZi5EZ9XsvwM.jpg" tvg-name="Los niños del maíz II: El sacrificio final" ,Los niños del maíz II: El sacrificio final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e567aac1-80b5-4444-8362-7effba091b8e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQmRemkGS3SMAexgZND6ey02lYW.jpg" tvg-name="Brightburn: hijo de la oscuridad" ,Brightburn: hijo de la oscuridad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/149f5ed7-8eae-4b44-b3aa-4b8688c3a3a5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsteY7mL4O8whwgHVZs86FS1Emv.jpg" tvg-name="Deadsight" ,Deadsight
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/832694e0-e180-434e-980b-c015e0cbb529.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS47NI9UqtO17TvW6KTjiAT5Fd.jpg" tvg-name="El camino del diablo" ,El camino del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2895958f-a0a9-4768-90de-e058b890ff92.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC6wip2EXdCYQwDDs9FnoakUZQL.jpg" tvg-name="Los chicos del maíz V: Campos de terror" ,Los chicos del maíz V: Campos de terror
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c5d8b117-30ca-4bdc-8fac-e7bbce22bf0c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Vzqo5ysQqCuDxNteAtD6NOoWWC.jpg" tvg-name="Come and play" ,Come and play
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0eeb92db-f428-449f-b51e-fc7e4d5f99c9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irVHcRIANEW62k7hwCWQKO5TsBF.jpg" tvg-name="Buffy, la cazavampiros" ,Buffy, la cazavampiros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78f545cf-fe18-4384-b763-bcaafd4b5c94.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRjeV9AZgCXGTqyvlp7Ui55Yb3l.jpg" tvg-name="Los chicos del maíz IV: La reunión" ,Los chicos del maíz IV: La reunión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f96624d-137d-4444-a1a3-4434cc5f1cf6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAqUaQUFJMtI4i6hdhWgfRXldpK.jpg" tvg-name="Cloverfield: monstruo" ,Cloverfield: monstruo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6f85b056-ad70-45f8-8f54-ba97491e9577.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" tvg-name="Los rostros del diablo" ,Los rostros del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ccd39c94-a3a8-42f4-bd17-e9405d668436.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFq8b2uFmCNRzpqAOGXw1M9eRe3.jpg" tvg-name="La piel fría" ,La piel fría
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f4fda45-ab16-4158-9f86-2debe3eae2a6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUcemt7fIpMyAeJzUdTcJv8iJUZ.jpg" tvg-name="Compulsion" ,Compulsion
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3360045a-bde0-43d2-8e4f-6ce8e55b28b5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7m3sSQhnoT2uuxUsxF4mQX6opr.jpg" tvg-name="Cam" ,Cam
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bcebfa01-e607-47e9-b195-58dbe67d7468.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aue0EtBfftVryNP11acJqOZu2h.jpg" tvg-name="Amanecer de los muertos" ,Amanecer de los muertos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8614466a-e68e-470d-b877-03a17d9ccd7d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiPSDMZZrgG4axJYzI9l74DtEbB.jpg" tvg-name="El despertar del diablo" ,El despertar del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbeac6fa-fafa-4e0e-80cb-4a5ec89ff1fb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RdQGvkeQMD8bRxdx70uCX23TF4.jpg" tvg-name="Terror en Chernobyl" ,Terror en Chernobyl
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d93bf4ee-da1f-404c-8ce3-78a657e0cad6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OxOFZcn1DRKeYrxtFoKUVGXIqk.jpg" tvg-name="Urge" ,Urge
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c5937e40-3c26-45ec-baf2-94405f23a9f9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg" tvg-name="Devil in the Dark" ,Devil in the Dark
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d0026853-5c1d-47ad-bf23-64a16d68d037.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKqTwTE8c7inpQz0Jflr0RMSMb6.jpg" tvg-name="Diario de un exorcista-cero" ,Diario de un exorcista-cero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5e0c95b4-79bd-4c5e-adf6-f704db23e0c2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbybvPuDm7WcqhhNV1ALivoRqwS.jpg" tvg-name="Animales corporativos" ,Animales corporativos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2a33dbf-876c-46c3-b161-37f96b1748d0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DTcWoo8wWl2f2YPp21hfGAAD7O.jpg" tvg-name="DeadTectives" ,DeadTectives
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd3c5dac-ecae-423b-8943-d8f2f74b940a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htH3kWAEEW0RLhgA2P8LTBea3mk.jpg" tvg-name="No temas a la oscuridad" ,No temas a la oscuridad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e3175fb8-5332-4e73-9951-a506a4d28c8c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ubtl4phLy5iisPWVF5RAP2grow.jpg" tvg-name="Arrástrame al infierno" ,Arrástrame al infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c880510-0ea6-4853-b1c0-61e85f33ec31.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpMClX0G1Gsia1Dn1HaFGPXqjd0.jpg" tvg-name="Cortinas" ,Cortinas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/81118cb0-18ee-4fb7-b0ec-60760e3e55e6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2Jle2c7wTq2yyArV7CdNZk5HDZ.jpg" tvg-name="Drácula II: Resurrección" ,Drácula II: Resurrección
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f9015caf-8c18-4868-b930-5d9f30d6efb6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDtez5W2CtIN7HqQNLWKzY60yE4.jpg" tvg-name="Drácula: La historia jamás contada" ,Drácula: La historia jamás contada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c9c16c9-bde2-4833-94d8-67b92ae9feb9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uuqt9fHNWZj6NHbiMp83IFTtVt.jpg" tvg-name="Don't Let Go" ,Don't Let Go
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ee810d0-0834-47c8-8506-37fcfa288f08.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg" tvg-name="Truco o trato: Terror en Halloween" ,Truco o trato: Terror en Halloween
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c918c8be-c936-4822-bed1-551314ce68f8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trYV7F8qVdieRm7NJZ2kG3AHZjE.jpg" tvg-name="Dylan Dog: Dead of Night" ,Dylan Dog: Dead of Night
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4441ea4a-a1a4-4a65-80bf-92bd50387032.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB1jM3vsbkWBxLo4esCDvgrsZVj.jpg" tvg-name="Voces" ,Voces
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0456d9b1-cabb-4cf6-862d-1a9ee608a364.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tpTnb6o1LVRn2IDwn7fr6qn27I.jpg" tvg-name="Contactos de cuarto tipo" ,Contactos de cuarto tipo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/55b0b688-bf19-412f-9068-4b0d0d3c94cf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1rbz4WeOZXxus57wY9cybkoPgC.jpg" tvg-name="El exorcismo de Emily Rose" ,El exorcismo de Emily Rose
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/236ca8ac-97e5-4abd-ae1f-2616c8c94241.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cn59ln0KEG990ofoed1MUgsYGB.jpg" tvg-name="El despertar del diablo 2" ,El despertar del diablo 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/512fb583-7bca-4e5b-a450-a0790bb30f32.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltVbyAXDVXLrfkYCZLzM9GPSoA2.jpg" tvg-name="El día del juicio final" ,El día del juicio final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e4ec536b-23e6-4e55-9c05-e6f6e5abe74f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-name="el exorcismo el comienzo vercion prohibida" ,el exorcismo el comienzo vercion prohibida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/909432c3-f069-4197-b178-58de4696ff30.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJGWoq45CQmy5Rz5AHBZKsl90DS.jpg" tvg-name="El último exorcismo 2" ,El último exorcismo 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3760d959-a5a7-4f3f-8342-be07994f9b4f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM7NEOrDJiCtn79yxfSXXbytutb.jpg" tvg-name="Dulces sueños, mamá" ,Dulces sueños, mamá
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60360ae1-69fd-4e95-936a-f1baacfd038f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg" tvg-name="No toques dos veces" ,No toques dos veces
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8e55db84-9802-4242-aef3-102a6785a2fe.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg" tvg-name="Drácula, de Bram Stoker" ,Drácula, de Bram Stoker
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/79e9e712-4232-47c6-b85d-1dd840747d80.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP5cmzflg0SrebT2QeFNYzxtw4M.jpg" tvg-name="Espejos siniestros" ,Espejos siniestros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/21fa66dd-cdf6-497a-81a6-dfa1d5452046.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_2q7onxrCH4arRm1Fhq81jfQQrEoAzuyGpYlY6cEn2AdtGPk2sXTYSSabVmHDHPciMkShhYgaVBNgEN69FyQ-yWP5RkIOr1qJcl8anc" tvg-name="El fin de los tiempos" ,El fin de los tiempos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/310b209e-1ad6-4e08-ba59-1cd09dc14bc6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6XxYgUhnlPmBu1miP19pnizWg0.jpg" tvg-name="Fenómeno siniestro" ,Fenómeno siniestro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/593eecd5-0b87-45ef-a62a-94f6ff38c92b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gv18iqlKrDLSfYqYC8zFjeBL0Q.jpg" tvg-name="Cooties" ,Cooties
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d8d04b98-4b74-4169-9e22-1c847b80c8ee.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZ3HwJyLnckq0k6VhimnjBir04.jpg" tvg-name="Diablo Rojo PTY" ,Diablo Rojo PTY
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b2ab2a9f-600c-415a-8b33-ba6a2b402b0c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hguX3RBmXa5mXh8uQ0PdwboWEo0.jpg" tvg-name="Una foto antes de morir" ,Una foto antes de morir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3b9cc305-b3f7-4fa0-b9ce-260d2ec7588e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyCHFNJVqYzvqBlytJbDqCUnIC.jpg" tvg-name="Freaky: este cuerpo está para matar" ,Freaky: este cuerpo está para matar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/39b786d8-5d5c-4388-88f4-83a9bd40aafd.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3aHtMxYUmGAyYrTNk52BqXeOQl.jpg" tvg-name="La posesión" ,La posesión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92adc0ea-7511-43c5-ae32-193db48ca38b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg" tvg-name="Jason al Infierno" ,Jason al Infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8e80dc92-97ca-4d33-8287-450ee0192e39.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0jR5wMHF3mmPkiDxsT3QSe0vNK.jpg" tvg-name="Equipo paranormal" ,Equipo paranormal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6f0609c-d92b-476d-bb57-cfd81a1ac345.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUK06JoZAcEiEZSxL4qbZTHx4.jpg" tvg-name="Pesadillas" ,Pesadillas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd034236-a688-4675-8913-57e74a6ab3e0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XLOYgjr57LkCBTQaJPY8jOBKhi.jpg" tvg-name="Contención" ,Contención
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da733105-f2fe-49ba-9a2b-c22d42ec12bb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX4Wn09Fhu1jp0xtNx6kSvNc3w0.jpg" tvg-name="El Extraño" ,El Extraño
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3218d4d8-7a38-41c2-8276-3da8602d1653.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPCgjYPQGWdIBRL05N6PVZOeOZL.jpg" tvg-name="Pesadillas 2: noche de Halloween" ,Pesadillas 2: noche de Halloween
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/80de7d84-088a-4512-91ca-a5ab89c981f0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQeLzheMNQClBAXy9t1HvZFzhYD.jpg" tvg-name="Historias de fantasmas" ,Historias de fantasmas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f8815d0d-de1f-4a94-adb6-3f4050b7d2d0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGgrd3flAUimZLYvk5H4soqXbP4.jpg" tvg-name="Crudo" ,Crudo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1acfe3dc-5b7b-45b5-8514-dd6f74f9db1a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0ETCJOHzf2zUk2QQ4ozWZ8dfkk.jpg" tvg-name="Feliz día de tu muerte" ,Feliz día de tu muerte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e2d263d-dc48-44ca-afe6-262e777b4a54.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bZLWkcqQgWEBmL0uboDaqkAboU.jpg" tvg-name="4 Halloween" ,4 Halloween
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58676e5d-4ac5-4bed-b06e-cc4c232f9f75.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8PUdXCGSM6iDzzMonLRJukgGci.jpg" tvg-name="Cujo" ,Cujo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba2a4a7a-34b8-4849-bfbd-dce3001f19bb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJkvu8hinbqH9OeQYSppqY3BuFn.jpg" tvg-name="Hell Fest" ,Hell Fest
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c030fda-6be8-44a8-8d77-29344a574c13.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" tvg-name="Halloween 5: La venganza de Michael Myers" ,Halloween 5: La venganza de Michael Myers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4336565d-e946-456b-8a3f-fe00489020d0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xj2z8qqs6r5FTSe4tAuqCrYjK5.jpg" tvg-name="Halloween: H20. Veinte años después" ,Halloween: H20. Veinte años después
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/792eb2c7-4275-4206-8212-7afd89f3d52f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taUyDsH9KqudpkgBRBhk4KlDEOV.jpg" tvg-name="Alta tensión" ,Alta tensión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0bbe404f-0da8-41de-9b27-92034255ca37.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6PSTBNlI9WtfuMlngz82yaudUg.jpg" tvg-name="Feliz día de tu muerte 2" ,Feliz día de tu muerte 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4647958b-f56b-4e7f-8a4b-d69e000d98ad.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fuNWZzY0RijO1Xpw46soazDFMb.jpg" tvg-name="La casa del terror (Haunt)" ,La casa del terror (Haunt)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a751820-77af-4a3c-8823-56e64b9d5859.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNZDcR7ftoM74dQUtCDWvDp5KT.jpg" tvg-name="El manicomio: la cuna del terror" ,El manicomio: la cuna del terror
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/16271f52-7d29-42b3-a050-3d20d39ec66d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvFYsHFyK4KB8MxezR8xUhUyFHL.jpg" tvg-name="Hostel 2" ,Hostel 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b7a63deb-92f2-400b-b59c-c48338e86fb6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5urWIklagQnAaJ8ZfNuq1KyPEu.jpg" tvg-name="Historias de fantasmas" ,Historias de fantasmas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/828044f2-fcb3-4783-9d8e-78f3e055880e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or9QoOcHfsaypC7UiCEIFtls48N.jpg" tvg-name="The Convent" ,The Convent
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7286d82f-5a4b-4b7f-b57d-0a0007fa490e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL7hHUfs8iZolwzVCorfBueYYc3.jpg" tvg-name="Hex" ,Hex
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c84c062-6498-4ec2-9064-1b7f1c64bc3e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQS9JNfbRlsalAe2BlTDXquSyH.jpg" tvg-name="La casa de cera" ,La casa de cera
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d1416fbc-d938-472e-aced-704292102859.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WGRU9xT377aHDKIZ49egR3cJBB.jpg" tvg-name="Casa ajena" ,Casa ajena
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/05905dde-c8e8-4259-ae7f-de0a95604eb6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGf6ss9aXIJWM92kBkTxXWoKuSB.jpg" tvg-name="DEFY2 Wolves At The Door" ,DEFY2 Wolves At The Door
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/416b396d-c149-4e76-a617-db39edcf699e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" tvg-name="El atrapasueños" ,El atrapasueños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f170c8b-d245-49e0-8eeb-5711de0c200b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3TbRVF6nE6OAP4AdPZirfmaKqI.jpg" tvg-name="The Tag-Along 2" ,The Tag-Along 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e60a38e5-22c4-492d-82c1-c3ea40db60c3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVG20LAL9s1xpg5qLaJX8jrop74.jpg" tvg-name="Aún sé lo que hicisteis el último verano" ,Aún sé lo que hicisteis el último verano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0713b93-20e4-45db-8b31-6b0dcc5b24f3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hC3zDl28waEPRoaweasE4vNfnkf.jpg" tvg-name="Escupiré sobre tu tumba 2" ,Escupiré sobre tu tumba 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d201774-d0df-4570-ab68-6a3c32e36aa9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12741049_p_v10_ac.jpg" tvg-name="Incarnate" ,Incarnate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5aacc2ae-e7e3-495f-b421-3f4b49c267ff.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3QaeNAaTi3RJrD1FIE0CSGS0V7.jpg" tvg-name="I Know What You Did Last Summer" ,I Know What You Did Last Summer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/51d94017-5607-45eb-a60a-16b935c8a08c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYWk0btcYNlxcSy0q29JGhj3eDa.jpg" tvg-name="Escupiré sobre tu tumba 3" ,Escupiré sobre tu tumba 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04538486-c264-42e8-8dcc-c77725d0c841.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBplLZxCtAuuBB7aaD0XV3os8WB.jpg" tvg-name="Underworld: Evolution" ,Underworld: Evolution
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/82b9b309-e6c0-4e79-acd2-fa5843950d90.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg" tvg-name="Underworld: El despertar" ,Underworld: El despertar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e5c9a0c3-6d99-46d9-b313-a44c074148bf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg" tvg-name="El carnicero" ,El carnicero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c028ed73-57c8-4542-acbe-1658a5799442.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5l0baYosvDH4HCEc6O7h1QgAp9.jpg" tvg-name="Insidious: La última llave" ,Insidious: La última llave
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/de9b6d2e-dfe3-404d-9549-c190f6488dc1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCwwHbkZcUSld7V4PIOcobxP0o8.jpg" tvg-name="Dos hermanas" ,Dos hermanas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a6efae3-2a60-46c8-a87a-0face0b500f1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x1eL24ib0WF9dq3Wjdto7KPNId.jpg" tvg-name="La isla de los muertos" ,La isla de los muertos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0996df70-2518-458a-8660-39744a57ff09.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glE5jTRBsQeonDMFacQuB2guS0t.jpg" tvg-name="Llega de noche" ,Llega de noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/64d2386e-77b4-4175-b022-01c4a7ea8913.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg" tvg-name="Jeepers Creepers 2" ,Jeepers Creepers 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cbded050-1ba8-4446-b236-848bfad6505b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zssSZAC9nl0OUR6uPhKUEbgkCVN.jpg" tvg-name="Manicomio del terror" ,Manicomio del terror
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9dd168c6-1712-4583-a194-f79e40705333.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJsn2KNUnmQtLY9jEfcdyAb1yEM.jpg" tvg-name="Mi San Valentín" ,Mi San Valentín
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a6486f8-eb09-4456-8c92-ba338d5c3c28.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOQ66sBtm7F2jN0aLnrLAODyFzO.jpg" tvg-name="No dejes de mirar" ,No dejes de mirar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed303da0-6a0f-45b5-937e-1d74e14897c4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uswFh1UtkV2hkvkTfczQXNodjFz.jpg" tvg-name="Pilgrim" ,Pilgrim
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5259364d-8c89-40df-a7e0-a98904d478b7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOACVnxwVKmD21wbFQQAen4DgbP.jpg" tvg-name="Downhill" ,Downhill
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00ae19ce-242d-4fe1-a604-8f186c5c9df8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27cmo6xr3IThPZmAF2s4FfGVeUs.jpg" tvg-name="Caperucita Roja" ,Caperucita Roja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e996317e-6388-4fd1-b0f7-49dd42b2307e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf1iNMyHaQbXd65IsrXPwmNsdEf.jpg" tvg-name="The Current Occupant" ,The Current Occupant
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/288062c0-b147-493e-b674-cca56d1b514b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZsLtCJW1eJabOxlZrZfaalGIki.jpg" tvg-name="It Came from the Desert" ,It Came from the Desert
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b60858b7-10b1-455f-8388-7f263a62ba1c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" tvg-name="Déjame entrar" ,Déjame entrar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c036d587-9281-4571-8d7f-26f4599fa29a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" tvg-name="La mujer de negro" ,La mujer de negro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ee1400c-ecd1-4014-965f-66d2e09ef308.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOG35Ieq9ZcUbEBJmrk6jq59ZEd.jpg" tvg-name="Is That You?" ,Is That You?
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01556cfc-0b66-4f42-8de6-d03a19cb9b7a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtgrsSurLLrzGL3Bh7pLcg1QHki.jpg" tvg-name="Christine" ,Christine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0678695d-b6b1-443c-910d-3ea603b05ba9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k1EkPTqrTI6zpXE3WGG8MPzsWw.jpg" tvg-name="El diablo me dijo que hacer" ,El diablo me dijo que hacer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c32808b2-a5a2-4459-9f84-44782d1d5446.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM2F7l8zNXV12Obe48IpQbH3crK.jpg" tvg-name="Verónica" ,Verónica
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35ac56d6-9b5f-4985-acdc-289cf60a11c7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaSJB0kUtlrMiImHoSo4RfGSDtL.jpg" tvg-name="El ataque del tiburón de dos cabezas" ,El ataque del tiburón de dos cabezas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1a35c8f7-968e-417b-baef-e155473f996c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofJTmVJb3Wz55xkkGeEcIYWQlgS.jpg" tvg-name="Uncanny Annie" ,Uncanny Annie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ef2860b3-fdd8-4459-b667-9a22d0502a71.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwPuQoA4osxJvgKcd8JRvwVDynG.jpg" tvg-name="Las brujas de Zugarramurdi" ,Las brujas de Zugarramurdi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4558dadb-7caf-4118-b5ff-792ffb0d8c62.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" tvg-name="It: Capítulo 2" ,It: Capítulo 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dfbb61ab-9ab5-4476-aa4d-845f4fea7a3e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znFC6ftSMkxgY2o5f6WfVCHcWbp.jpg" tvg-name="Las reglas de la ruina" ,Las reglas de la ruina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bd8a85b-aed9-4739-9b6e-5989a9e75a6e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Yqkyqxs4F7Lo1e1nxcTl9qiMSy.jpg" tvg-name="Alucinaciones" ,Alucinaciones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c2a0361-5afe-4270-a00d-2b6ab53f2cea.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7uovTeP1c6OmNvhxWzKqBF4ohE.jpg" tvg-name="Pequeño demonio" ,Pequeño demonio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/80efe746-187a-4762-9f2d-b7bad72887cc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTHU96p67nyov4gXIWGvio7OGEk.jpg" tvg-name="La marca del demonio" ,La marca del demonio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4f4204ba-e7f0-474e-8286-88f4cece2c00.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzpCwz8KoVzb0yIr7BI6W4LQjM2.jpg" tvg-name="El escondite" ,El escondite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/494ffbe7-9dad-4c89-a84d-520b3a9189ba.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alKL8RfxoPunXZNRvSuPUtRkwu5.jpg" tvg-name="En la mente del demonio" ,En la mente del demonio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b43e3578-ff37-42bf-89aa-5ca8520e3a3f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9cPQew4hBDKF7TpbSirXwN2F6c.jpg" tvg-name="Madre!" ,Madre!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65adf2e7-3b82-45d9-a1cf-7ce6529661e0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWko0iXOEbqvWZa8NVKrUbBMJYy.jpg" tvg-name="El ejército de las tinieblas" ,El ejército de las tinieblas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/49495c6a-a2e2-4ff8-b621-592d91653d02.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb63i9ZDqin0Mh37B5sLiZSQY6A.jpg" tvg-name="Motel del infierno" ,Motel del infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b6507c9a-bb51-4ade-ad1e-323daa9cee80.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xav4wnkLQiVAUTVxNPMKrXTBdkf.jpg" tvg-name="Messengers 2" ,Messengers 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/493b1b0e-8ca2-44f9-bdac-501816ebf1b4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r54KcnOfvAqeCTnYUqGiurxy8nq.jpg" tvg-name="La muerte camina con tacón alto" ,La muerte camina con tacón alto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f49e4efd-104a-4bd4-b1e0-6fb864db175e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" tvg-name="La posesión de Mary" ,La posesión de Mary
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec467cc7-13d7-4ba6-a7fa-b01293e25fa3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hs5FMnSe9RMfvarAitaTbFdt7n.jpg" tvg-name="Open Water: Inmersión extrema" ,Open Water: Inmersión extrema
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72a237c4-3cbc-4017-8112-e31a3e4327f5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6VLo3diWRMuDZUTqgXt9M8kPW.jpg" tvg-name="Ouija: el origen del mal" ,Ouija: el origen del mal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/213134e4-4cf4-43b4-8e39-da90b3043cbf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pdp5jQcYwbOYLbLdLXpB20pPbG.jpg" tvg-name="Le mystère des jumeaux" ,Le mystère des jumeaux
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db84f644-9d1e-43ae-b89f-38e0083a2cc2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq7z719J82BvcxYfc4i2CpKvWCU.jpg" tvg-name="Paranormal Activity: Dimensión fantasma" ,Paranormal Activity: Dimensión fantasma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/346efc14-363b-47e0-b249-deb370667b00.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUEPnN7ZkW3buaTDmosFubwC7ZH.jpg" tvg-name="Pesadilla en Elm Street 5: El niño de los sueños" ,Pesadilla en Elm Street 5: El niño de los sueños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd557499-acb2-4843-8d99-c06cc071afd5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg" tvg-name="La posesión de Mercy Black" ,La posesión de Mercy Black
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f868693e-cf80-464d-8b8e-9bfad92107f6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSfelcriV7J7oOp24QKsry7tylY.jpg" tvg-name="Dementia 13" ,Dementia 13
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5fa4938a-19c2-43c3-895d-af61f2e29bb3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkLoQLbuzHH3EhdnpUb12z0ItYJ.jpg" tvg-name="El espinazo del diablo" ,El espinazo del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dfa02ac3-45e1-490d-b8fa-4f3e94472abe.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdsrNerOmRUKJVMKyKHsP4zF3cS.jpg" tvg-name="Oculus: el espejo del mal" ,Oculus: el espejo del mal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8e56fd6-b6f8-4688-bc17-ee2b4fe171b4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj1vcJ8hAzcq1ixu3DJZcL2IwKN.jpg" tvg-name="El heredero del diablo" ,El heredero del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e358d917-3f36-4416-a01a-92dec7f42e76.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" tvg-name="La huérfana" ,La huérfana
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2aaad6a7-9f41-42ff-99cd-33d0efc0760f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78B9r4zeAa5rJtMxipCrfFQa6Yc.jpg" tvg-name="Slumber: El demonio del sueño" ,Slumber: El demonio del sueño
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/39bb6cab-885b-482b-b2a0-c3d8cb7b60f1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1qXTzGHIyCQmJbmEZL47KIqRhL.jpg" tvg-name="Cementerio viviente 2" ,Cementerio viviente 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43fd1847-d5f7-4371-8639-675cc4ae4dea.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCv6Qb3aZN3Nub8epb6q8Lje6JP.jpg" tvg-name="El exorcismo de Anna Ecklund" ,El exorcismo de Anna Ecklund
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d203251f-44fa-4e38-95d3-fe3b7057946a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovf2BQu0BfLFt9XpgYcd5iIb7Hi.jpg" tvg-name="La Maldición de la Reina de Picas" ,La Maldición de la Reina de Picas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f92389f7-a464-429b-a8a1-6115feffee06.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctbEYdgsZGZTfTGNfPRputF8pUn.jpg" tvg-name="El príncipe de las tinieblas" ,El príncipe de las tinieblas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/faf4b949-99f0-48c3-9c20-7d203a70ce0d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgXcICQjS3aEbxCYgYMroBXyJGn.jpg" tvg-name="Tumba Abierta" ,Tumba Abierta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0d778640-540b-4e5f-bc87-88b3ff5c7ea0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/919Xf5NshBIKuj4HP2XkGIfNaCF.jpg" tvg-name="Paranormal Activity" ,Paranormal Activity
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/625a283b-8d55-499e-8b61-9c35c8788c91.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72vzjyq8YMfL2ktIkeeZne7D3iH.jpg" tvg-name="Detrás de las paredes" ,Detrás de las paredes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8419aac-b215-4887-b02e-21acea3dd382.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9r5YxDiZDiVg6WpJ4zC0kTw88Z.jpg" tvg-name="Planet Terror" ,Planet Terror
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65da7ddb-376c-4a56-a0a6-3e718ab3a34a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moCnnkbzhMPp8YkxCakXDdi2Y5.jpg" tvg-name="El día que me perdí" ,El día que me perdí
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b5e5497b-0482-4437-806e-aca7bf54f929.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD2Sw5wex8Zp1JCvWnEKscOKHbj.jpg" tvg-name="El Signo de la Muerte" ,El Signo de la Muerte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e810b178-6bee-40b6-a8b9-2bc7746b1158.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg" tvg-name="[REC]" ,[REC]
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bdf61ae8-1efe-41f1-aa92-7e15d16371f1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRVSZ03HIXKOKfRaKd00gZC5uqA.jpg" tvg-name="[REC]³: Génesis" ,[REC]³: Génesis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25a5b549-8a9e-44e8-8861-41efec95cc0e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8m07IFco52OStlgd4lOQdp5r5i.jpg" tvg-name="Resurección del mal" ,Resurección del mal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/816a1a3e-1577-4538-b58b-b21cf36719ad.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg" tvg-name="[REC]⁴: Apocalipsis" ,[REC]⁴: Apocalipsis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9061131-4f3d-4379-bc35-b0f1e9dff02d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP3giyle6Dq2Ii9hqps5c44h0Aa.jpg" tvg-name="Robert the Doll" ,Robert the Doll
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/905e54e4-fcd1-46f8-b6e1-7fb38b185d5f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkwxHlR8Vk2h57LajsiYpu8NrML.jpg" tvg-name="Alma maldita" ,Alma maldita
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d492a472-d6b0-49d7-9e0c-12165a5689c1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjPalZwRQCIc0b9hvMa0ssuD2ax.jpg" tvg-name="Espíritu del mal" ,Espíritu del mal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8e2c2f1-6419-4bca-a17d-f6eaf9af4d29.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ZrQmfBHgF0VA8en7K6tpnDGIT.jpg" tvg-name="Ringu 0 (El círculo 0)" ,Ringu 0 (El círculo 0)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fab7fcbf-a226-4a5c-980a-48d5a147029e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PbbUmtP8SnGRCTvTzqfj5aj0xK.jpg" tvg-name="El Bebé de Rosemary" ,El Bebé de Rosemary
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3870ee89-43d5-4ffb-a1a7-04862f8c9426.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvQkuTuH5QfSm2jh78t2i0iYwB7.jpg" tvg-name="Cuarentena 2: Terminal" ,Cuarentena 2: Terminal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2054beac-4bcd-42cf-bbc3-069f9e53380b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg" tvg-name="Boda sangrienta" ,Boda sangrienta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/895efede-56ea-4729-a6c3-c3c74b4d1c1a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWvRsfRh51vvpii5fh9a6rhS7Ib.jpg" tvg-name="Pesadilla al amanecer" ,Pesadilla al amanecer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8126679c-02c7-473f-9a60-3646a76e2c1b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJMIcYfM8ktbb55T7dwAgzYoFWw.jpg" tvg-name="Apocalipsis zombie" ,Apocalipsis zombie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be9db83e-2f94-4ac9-a28c-027c6d6972e6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrdgxsYRKWPPvHK5JiQjN0dQWf3.jpg" tvg-name="Corre" ,Corre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea6e287d-2e22-4fbe-bef4-98017e8c970d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfNljD4itGf8InGmS6C3V8g4F8T.jpg" tvg-name="El canal" ,El canal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5e73c52a-c6a6-4ce9-b79d-bc3f622510e0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg" tvg-name="Scream 3" ,Scream 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65c36522-bd95-4fe3-8e46-53f94b44e09b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO39MWOrEmJYthKyWT79BYCVRrO.jpg" tvg-name="Scream: grita antes de morir" ,Scream: grita antes de morir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/70d95332-de30-4c69-88e9-5c0e7c80fb11.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98KAHP8vxAX4jJiK7kd4QkA25EG.jpg" tvg-name="Silencio del más allá" ,Silencio del más allá
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/feb45352-3810-4abf-a0fe-a5adf073a05a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ah4hLKvjjW6DbZ2pYgvyyEVFppB.jpg" tvg-name="La sirena" ,La sirena
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/829f5fdd-a9bd-498a-accb-0d23bf242e09.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySPCri7VfAjbLLkMKs7Zjn6Njco.jpg" tvg-name="Psicópata americano" ,Psicópata americano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41333d80-880f-4b3c-8c0a-d117e0d4936c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQYr9634GY0ZRX68pyEh1XNXhCR.jpg" tvg-name="El secreto de Marrowbone" ,El secreto de Marrowbone
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7eff89d3-2548-47f8-a997-fcdaf562e1d9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg" tvg-name="Historias de miedo para contar en la oscuridad" ,Historias de miedo para contar en la oscuridad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74e43ac8-93e0-4f6e-8d9f-2abd93fa3db9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYWGq17sQ2Th0v77tVK6yteA37P.jpg" tvg-name="Especies IV" ,Especies IV
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31b6654c-0ded-42de-85b8-3e3f0106aec5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaZYFFw1RlEIubcmGUFZbhjtH2p.jpg" tvg-name="Especies III" ,Especies III
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/028ba880-13c5-43af-b678-e357dc548808.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg" tvg-name="Escape Room: sin salida" ,Escape Room: sin salida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ebeb792-6728-409c-842e-95c58774bc53.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a6Pn9Hmec5kle47EfDfCUtXlIl.jpg" tvg-name="De espaldas a Dios" ,De espaldas a Dios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd8ad859-585d-4585-965c-527ba4328be3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2opohPEyRwLyzbBJRoZ03neSKU.jpg" tvg-name="Criaturas Rastreras" ,Criaturas Rastreras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f5f37d1-fd94-4a46-ad55-d9117fc501ae.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7McekYucdTeFdMQyqPjlsBvHIa8.jpg" tvg-name="Diabólica obsesión" ,Diabólica obsesión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/24275830-944f-4ea6-ba5b-e7e9b8dc0f96.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiwplv5pET2HgMog6otunohIiSr.jpg" tvg-name="Sleepwalkers" ,Sleepwalkers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4608bc68-5755-4c89-9949-8c02acd3e9f3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKlDrFiPJ6twicw6u9JdoSLduYJ.jpg" tvg-name="Species II (Especie mortal II)" ,Species II (Especie mortal II)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/350b2742-e057-4fb6-b783-a5236f5802d9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLqguFHQWvkN9Mn76tWe2c63Iu5.jpg" tvg-name="Ecos Mortales" ,Ecos Mortales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8272cdad-8e1f-4ffc-95dd-400a0b2d975b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBcKsjV9eEGj1m9dA7P4vwrnoA.jpg" tvg-name="En la boca del miedo" ,En la boca del miedo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3779fe85-fac9-4bfb-bd4b-e43b849a40d6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edfgo6pyT1QFjbThLR1HfbNYl3g.jpg" tvg-name="Visiones de la muerte" ,Visiones de la muerte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/37fdd2e8-4aaf-4291-aa25-8cbbc62e395d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg" tvg-name="La morgue" ,La morgue
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dafad7bc-566f-474d-9069-9769f5e41c43.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fsSO9ZsIn6x1bp6XcJWmqmX0Jl.jpg" tvg-name="La casa de las masacres" ,La casa de las masacres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48e0b5ee-3ebc-469d-8667-1ee50f761f10.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/210/236/21023641_20130731125942576.jpg" tvg-name="Espiritus" ,Espiritus
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2cd72faf-a08b-49e5-bb4b-e1381b2e6681.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qyjNzIbeEvfAB3QkQ0fQIaqtCD.jpg" tvg-name="Asesino invisible" ,Asesino invisible
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09709b17-87b5-46da-b943-0062f99be349.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg" tvg-name="La matanza de Texas: El origen" ,La matanza de Texas: El origen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e7819154-3a16-4f9a-a34c-8e7f11ba5b9b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg" tvg-name="Masacre en Texas: herencia maldita" ,Masacre en Texas: herencia maldita
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a548f2d-f030-40b8-b605-8d3d93bda57b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7e2Qxio7thoKKL0ceZlrlDhy4h.jpg" tvg-name="El ascenso del diablo" ,El ascenso del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/196a5b40-85f8-4101-b557-9df57bf6a07c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTIhlnwUt5omj3LRNFfBq3sSptr.jpg" tvg-name="Asesinos del más allá" ,Asesinos del más allá
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/023afe0c-b22e-4db7-ad11-08d85d2e7437.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUFQCbZH2otP5QOpdGCTLbu5RyG.jpg" tvg-name="El cuervo III" ,El cuervo III
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/662d4216-bb8d-408e-873f-a855498addef.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXUT1dDTn5NOrg0jxdEadnixGdt.jpg" tvg-name="The Descent: Part 2" ,The Descent: Part 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/700030b5-c256-4ceb-bd77-8d0cd55ff283.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg" tvg-name="Jóvenes brujas: nueva hermandad" ,Jóvenes brujas: nueva hermandad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b612f295-e1b6-40bd-b46a-7cf48b7dd9fb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVCGgmgHDcOLVlxGQyJGcqtCluc.jpg" tvg-name="The Devil" ,The Devil
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/61ba7994-a341-4d27-b314-6fd90d44c15a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vG9FY2wHVwOOQfqNlUt2LbRzRNl.jpg" tvg-name="Banana Splits" ,Banana Splits
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe47b910-ee79-4849-9f8c-2df585c3757e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fejpJWINlqx3dSUYQ6HSGfjzHAI.jpg" tvg-name="La muñeca vudú" ,La muñeca vudú
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/de1ecde1-eda7-45cb-9ba5-12a856e728a0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ifpYp9D5g9JJD81d34KcNevTJq.jpg" tvg-name="El ático" ,El ático
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/39a946a2-8c1b-4ab1-b0b1-fc7ca7819a88.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejaIS2GmbFpStsl4Zvw5wqCUkBG.jpg" tvg-name="Jóvenes brujas" ,Jóvenes brujas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fdc091a1-f930-4e29-a542-87a99f84c81d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7AFVBSrdkh3IovdedH5rCSG8Hi.jpg" tvg-name="Los hijos del Diablo" ,Los hijos del Diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ad17d9c-7bc4-4a73-8c83-e0a415431291.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jusadS0u0P0BFAYcUpI1pSBF6IN.jpg" tvg-name="El infierno verde" ,El infierno verde
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b4afd29f-351b-4689-8b88-06aee6da3139.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYVKIiyE6vK2riNTPtk1XKWejvJ.jpg" tvg-name="Los muertos no mueren" ,Los muertos no mueren
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/84779c11-7b28-4153-ac90-dcd8d153a217.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg" tvg-name="El Ente" ,El Ente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c49b38a1-769e-452a-94e3-7e544909ded8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7ASfPcryIAOxbMpRw4iH94iQSh.jpg" tvg-name="Melanie: apocalipsis zombie" ,Melanie: apocalipsis zombie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/986119d9-b36d-4349-8408-55c97ea5feff.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yThPnR2dETUYkXY231DvNukDgsQ.jpg" tvg-name="Hasta el Viento tiene Miedo" ,Hasta el Viento tiene Miedo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97bc8d23-4fbe-467b-af2f-3ca11d613bfc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCLqWiJxp2rq2wuvuv8N2KvaNhB.jpg" tvg-name="Gonjiam: hospital maldito" ,Gonjiam: hospital maldito
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/75cc2c54-b5e6-4985-b44e-0a0ad93ef2db.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57ylPaFOUYrX1rGfIilyB5LqAUv.jpg" tvg-name="La cosecha" ,La cosecha
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/766d3939-2af2-49e1-91ff-027b36bf11ea.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2Bf3bzbOBKXzj77gitzvJCU0a4.jpg" tvg-name="Las últimas horas" ,Las últimas horas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09d32932-48fe-4171-9e6a-942e7728feae.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfv77EkP1CbOCi36LZWuWlvoL4o.jpg" tvg-name="El Secreto de Alcatraz" ,El Secreto de Alcatraz
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ad7127f-0cbd-4459-9f67-1daaa5221e27.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcyF0TYRcj9dPWIdp5CaEgDzkUB.jpg" tvg-name="The Limehouse Golem" ,The Limehouse Golem
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/32651f93-6531-464d-9e41-38c24724b5d7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzqwe4uuINJhbPqvlbVShBnCvHv.jpg" tvg-name="He Never Died" ,He Never Died
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5ebdff51-e3cb-4e5b-94ee-7a901e5dda66.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg" tvg-name="El hombre invisible" ,El hombre invisible
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56114dd6-56b1-40d1-9052-55e15f7a3d38.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dknDazqJW8kphSm5ZyEnes3qymV.jpg" tvg-name="Los inquilinos" ,Los inquilinos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd201e6f-1245-4add-b14a-9cf0e105575c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkohwexP83W1WSY0oomIYMGldfy.jpg" tvg-name="Espíritus en el bosque" ,Espíritus en el bosque
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/359fc391-937b-4de1-b5bd-3d671e965ef2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg" tvg-name="Bosque maldito" ,Bosque maldito
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2479da29-b876-4921-8809-0314d465dea9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg" tvg-name="Freddy contra Jason" ,Freddy contra Jason
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cff266fd-f431-4063-a453-ea997c853a3d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1tFx8XViVOLt3CNrEooMTWG41Y.jpg" tvg-name="El último Sharknado: Ya era hora" ,El último Sharknado: Ya era hora
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fac925d2-5083-4c9b-919f-362b0abb16fb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNVR8EVu4TH2fCnBgyFfbgNnKQV.jpg" tvg-name="Puertas abiertas" ,Puertas abiertas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8056b5d6-2bd7-4bb5-89d5-685559d28935.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NaKpVBpuVFUVP9IGeqn1TnzheH.jpg" tvg-name="La noche del jabalí" ,La noche del jabalí
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00225ed9-ed09-4239-ad99-29d3aa757573.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paryhRl64APzhImIGTkR2xDJPaL.jpg" tvg-name="El vínculo" ,El vínculo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ce472f2-9236-444c-8eb4-ac1beaa8dec2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siRhu6uhxYXkLmovp8ICiZZeNmJ.jpg" tvg-name="Inquilinos" ,Inquilinos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fdcd1b0c-f52d-4fec-a212-7f838508d071.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZnC4jwDbIeG4SmrckwFe2hmNRW.jpg" tvg-name="The precipice game" ,The precipice game
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54939be1-1cf8-4e77-9f4e-c0c314b08665.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg" tvg-name="12 horas para sobrevivir: El año de la elección" ,12 horas para sobrevivir: El año de la elección
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e94f7ba6-6173-455e-bc46-93a7264edc44.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xBYpcEHJzu5vmXmdDmySZ9herF.jpg" tvg-name="Sobre-Natural" ,Sobre-Natural
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47e5010f-ddf2-4a2f-bfe0-99c225b28b62.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes" ,Los nuevos mutantes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/705c8aaf-1713-4b57-a0aa-69eeba777008.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atARS3tVYd8rQMxKS7POErIZGCK.jpg" tvg-name="The Ring 2 (La señal 2)" ,The Ring 2 (La señal 2)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7202838e-a0da-4e28-a8ed-e975b368d974.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkXie4mkqAocng89nrYEcLBkhxw.jpg" tvg-name="La perfección" ,La perfección
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0357a6af-9517-484c-8d8c-9a49a7efbc0f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK7ge28ubs45av9aGEbVWW7ZbA8.jpg" tvg-name="El regreso del demonio" ,El regreso del demonio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d3fc31b8-4e32-492a-8d96-b7cd9ab7d47c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njA7M4yIKEdilFS2OdNAUK1Rd0w.jpg" tvg-name="La trampa (The Snare)" ,La trampa (The Snare)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/12796a70-d464-47a9-9972-3febf4c0d7c3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dhYeltpxfYlEKX0uOGcEz0Fh0n.jpg" tvg-name="The Stakelander" ,The Stakelander
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a8cb112-e4f5-4e34-bbbf-f849c1957b02.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z56MonpplOTKur2KTz371RQrjr.jpg" tvg-name="The Prophecy" ,The Prophecy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d023700-a411-457c-be60-e8a41f5b8a0d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjUqYcAAJNTgnyyVoZQoZqYhAUx.jpg" tvg-name="Los extraños: Cacería nocturna" ,Los extraños: Cacería nocturna
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e47a9ef5-648b-4daf-8399-284244e4f664.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7utU4usAGNtk30wh56eyO6hDMSi.jpg" tvg-name="La Bruja" ,La Bruja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d31404e7-519a-4683-bb77-86add17d6883.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h324sCgqkyQVre5a4uDfkXhm5c5.jpg" tvg-name="The Nanny" ,The Nanny
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c1f910a8-83ef-4905-8135-ff12cacec919.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7joTfZ0K5leltdwhHfBuHt1Dyn5.jpg" tvg-name="Descubriendo El Infierno" ,Descubriendo El Infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7be94935-5827-4485-b19c-0fcdba0b6ff6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg" tvg-name="Cadáver" ,Cadáver
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e710ad4-30f8-4007-958e-9822dc6d55ae.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDuKIccxR0lsdWlYuWiu03hkwnN.jpg" tvg-name="The Tingler" ,The Tingler
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/793c4f55-cff7-4fbb-8f03-989a8a49505a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10xkcoVSGoxLCuJCHMv1yaMcUdr.jpg" tvg-name="The Veil" ,The Veil
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7872e950-0eda-4b18-bcab-fe7bc87d28d6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s66HVGW0sxQWvh7APdzgEKF4XYP.jpg" tvg-name="Dimension desconocida: La pelicula" ,Dimension desconocida: La pelicula
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/887f7483-ccf4-4800-9299-f82a0b303234.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLLYfNEruiG8OTdF4MOKHfU7udi.jpg" tvg-name="La nueva pesadilla de Wes Craven" ,La nueva pesadilla de Wes Craven
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/18bca59e-0571-4b73-9f06-1441a0a048bb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVsINl4Aa9vvQ9lE2LF77qNj7AP.jpg" tvg-name="La Llorona" ,La Llorona
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/70c5214e-8062-4870-a2b6-60ba7a588f15.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OlheTaxbQYkLoSHu6QSbcurTWS.jpg" tvg-name="Criaturas nocturnas" ,Criaturas nocturnas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d97db560-307f-4d88-bf28-6f0358efe6fe.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg" tvg-name="Masacre en cadena" ,Masacre en cadena
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d0811394-13a1-4ecf-ab4e-c2ef7e0da197.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQM2LDOmolIGt7WzcHl6ZSUAdci.jpg" tvg-name="Eliminar amigo 2" ,Eliminar amigo 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/efff63d1-13e0-41d8-a232-6424e27612f2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rCVdIzSIDIALXArSjLyw44teD0.jpg" tvg-name="Camino sangriento 5: Linaje caníbal" ,Camino sangriento 5: Linaje caníbal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bc1f233d-c550-4a07-95ab-7bdb4d51f814.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTwQqKDjJqwHia08INc2YGnwcIJ.jpg" tvg-name="Tokyo Ghoul" ,Tokyo Ghoul
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59a2a023-4294-4d91-b69b-8eaa97241a9c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQCtBbfKfDwFxGxGEsFustKCr3S.jpg" tvg-name="Camino Hacia el Terror: La Herencia" ,Camino Hacia el Terror: La Herencia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19fdf2de-842f-4360-aac9-6ddd68f134fa.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3mobjgAhf2q7MzsT0CTb73X7P2.jpg" tvg-name="Camino sangriento 4: El origen" ,Camino sangriento 4: El origen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04664ea7-3b94-45a9-9618-9c37a5e1ae5f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpmr3Jx4NJBIuNs8DkuXcPllvxF.jpg" tvg-name="What Keeps You Alive" ,What Keeps You Alive
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/330f9fbc-dc18-4bb9-921c-9b2b3e32a375.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNF1u2noPXiD4m81YDoxbtzlRLR.jpg" tvg-name="La noche de la bruja" ,La noche de la bruja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5758d8b2-4835-4883-8c48-1903f4279c38.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uvN5H3yvXVJvsfMayFtXzROTjp.jpg" tvg-name="Heridas" ,Heridas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/138984fd-8522-4fb0-9308-5ee862b331b3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72r3FJH0Lv7M52lRcIhDy5wwkin.jpg" tvg-name="Baba Yaga: El regreso del demonio" ,Baba Yaga: El regreso del demonio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9df29892-8698-42ad-8ad1-ec1892e8f279.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFlP4HlqCbtEdUygc8XMYUCvJY8.jpg" tvg-name="La niña de la mina" ,La niña de la mina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ff90b9d-af14-4b43-a771-1b8bb1a37f36.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg" tvg-name="Nosotros" ,Nosotros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/516ea84a-d745-44c0-8a0f-61cb52ce38fd.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIA9DDGNysv5BMPv8k3qCUc3Vuk.jpg" tvg-name="Una cita con el diablo" ,Una cita con el diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f31feb5a-13a4-4c97-ab2e-ff93bb0fb4e5.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRmLR6CQessHE9RGTP6ZMLyJAF0.jpg" tvg-name="Area 51" ,Area 51
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/335f0abe-8f68-402d-a69c-b6ec60487019.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" tvg-name="La influencia" ,La influencia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54d0d8c8-5447-4e77-b38b-f12c98eb3ae1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thr9HGH7fHuSjGl9hfNXy3jvzzk.jpg" tvg-name="Aislados" ,Aislados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/414807b4-9395-4269-9454-36c6be458e06.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afvi5tVi5S3Ux9faZaI32SmPRkj.jpg" tvg-name="Await Further Instructions" ,Await Further Instructions
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/918563e9-38bf-4a2a-85b9-2be6b15cabab.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab8GizztL1Cjf4ydf8JjXWZHnqH.jpg" tvg-name="El demonio neón" ,El demonio neón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dcd26c18-d3fe-4593-a98e-81748d55d770.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Inmep1mWSMZDIaSXngHSr3Qur3.jpg" tvg-name="Dominion: Prequel to the Exorcist" ,Dominion: Prequel to the Exorcist
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e96bfaeb-60ad-46f1-9fb0-deca0c27d5ef.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hdbKq3n88HIklvF90EJklPLt1P.jpg" tvg-name="La profecía del no nacido" ,La profecía del no nacido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a62359f-354a-459d-bddb-ca4819f27f7d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg" tvg-name="Evil Eye" ,Evil Eye
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f4a35278-600d-41c6-a172-982832976354.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xScci6nSbM2TS7gdTrEOJDT8Rm.jpg" tvg-name="Cazador de demonios" ,Cazador de demonios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e6515d02-8a6d-4a81-9817-933376ced573.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvRahNCZKhGI0ip7gkQ3rSWUF3o.jpg" tvg-name="El juego de Gerald" ,El juego de Gerald
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2e21c7e-8702-4b62-b90c-35c03fa92174.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" tvg-name="Halloween: la maldición de Michael Myers" ,Halloween: la maldición de Michael Myers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7a8b648-190d-4ef1-be0a-8840e1d02c7d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upsBscthfBpP7iK0rw2sDTxnkFf.jpg" tvg-name="Hostal: parte III" ,Hostal: parte III
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/978b6e7f-9d65-4294-93e7-d2dceccae32b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHH1TvTUJT6P4n8qgFYrYpAZPdt.jpg" tvg-name="El Halloween de Hubie" ,El Halloween de Hubie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b047472a-245f-4ac8-99dc-840fbe7c02ec.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFyPxJH7DUbIKIB6x3Wwc1kw2JF.jpg" tvg-name="El Silbón: Orígenes" ,El Silbón: Orígenes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ee8793fc-80ec-4730-a6bc-45eecef9c491.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itOMLyHeTNPLFwFowPhbrKvtSkL.jpg" tvg-name="La maldición de Charlie" ,La maldición de Charlie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e0ea062-61dd-42d3-b838-e75a59d14a23.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjL6WhvdnaEqwMfM3Crscjs0nNP.jpg" tvg-name="Cementerio maldito" ,Cementerio maldito
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/314a84c4-ffa6-4fc5-93bf-1fd864fb791c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg" tvg-name="Cementerio maldito" ,Cementerio maldito
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/efa6737f-7ec2-4608-9e3c-f5a03dd936b8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMDrWCUqxc7BfQcseT427znCDta.jpg" tvg-name="Scream 2" ,Scream 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8025d4c-e276-47c5-80f7-f23f73b9fe2c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxYhEeYxRb4MDwTCnCR6QD82gb1.jpg" tvg-name="A la *&$%! con los zombis" ,A la *&$%! con los zombis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/461ac710-b001-497f-9ec9-870c5acb7038.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg" tvg-name="Eli" ,Eli
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ddaff44-761d-4fdb-9f19-28052a50557b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YR0SU05k6F4LJStMxBvFk8NEis.jpg" tvg-name="Historias del lado oscuro" ,Historias del lado oscuro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a8492cf-36e6-4e01-a35d-18e5723f5f90.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LmAWXnqnYm7IHZUVhmXru24TnX.jpg" tvg-name="Nunca digas su nombre" ,Nunca digas su nombre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43dfd4c7-30fe-4f08-a9be-78f651eb0262.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQicFam5Y9J9AgbNweQhrGqEgfi.jpg" tvg-name="El cuervo: Ciudad de ángeles" ,El cuervo: Ciudad de ángeles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/86be4f8a-0595-4441-bb58-affe5108f1b8.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUGVmCKwEeELDMtU6nqy2WhZb5w.jpg" tvg-name="La Horca 2" ,La Horca 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/30355d61-36ab-42e8-b671-7186bbb1384b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewu8e5WyLE91426VmqgQaoePlRI.jpg" tvg-name="The haunting of woodland" ,The haunting of woodland
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/976ed159-4e0e-4e5a-a566-8d84cae06f41.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg" tvg-name="12 horas para sobrevivir" ,12 horas para sobrevivir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0e709136-89bb-4b09-93d4-48b234b51f33.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgNIgFcS4t908e3sJrzhVSHxb4y.jpg" tvg-name="Tú eres el siguiente" ,Tú eres el siguiente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92672b70-2ba3-4e22-944f-9990212cf5d7.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pfIa7DnOJxteBsrkePMY1TSlGL.jpg" tvg-name="VHS-Las Crónicas del Miedo" ,VHS-Las Crónicas del Miedo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b36452e-ee3c-4bea-ad33-e9fdac44bd9f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0u95VL153ywMlzc7MmBO8ATV4L.jpg" tvg-name="La profecía" ,La profecía
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae8b3b39-40e0-4383-a37d-fc4148e3b563.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hedvbUnJVzTL2OEz9FUHLltE4A3.jpg" tvg-name="Los que vuelven" ,Los que vuelven
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c256b0fc-edc5-423f-b725-2792adbd89df.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTT7XocGdSHs4WDtzZ1a1YnVk42.jpg" tvg-name="La última casa a la izquierda" ,La última casa a la izquierda
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/caa6bfba-2855-4122-b7ef-4857d708ea08.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1oWm54hQI6EuJJw0fNU6eMs3VU.jpg" tvg-name="Más negro que la noche" ,Más negro que la noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc377526-fc41-4c28-b594-f7b0b91d5765.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" tvg-name="Mandíbulas 6: El legado" ,Mandíbulas 6: El legado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/900304aa-d057-4624-a943-d6173866c4e0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqoZlqWg1L2HaymAZrmWc05l92R.jpg" tvg-name="Paranormal" ,Paranormal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8360e8f6-af87-4b4e-89ac-6d7082f41345.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg" tvg-name="Paranormal Activity 4" ,Paranormal Activity 4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78479807-84d6-4206-be52-897524571590.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y2SvYTYQeCNoEEOD26wjr3Nx1N.jpg" tvg-name="Mientras El Lobo No Está" ,Mientras El Lobo No Está
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9cb93a6-052b-4667-84c5-3cc06712becf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMWHaSUQcHn1jUbKQKVItZ8CmIj.jpg" tvg-name="Noche de miedo 2: Sangre nueva" ,Noche de miedo 2: Sangre nueva
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a84d9b0-5de3-40ca-af4c-ba003d223d71.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLuFHWp2lAJMqLIinspmtBG3c0j.jpg" tvg-name="La maldición de la ouija" ,La maldición de la ouija
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b325344-2254-4cb0-9fe7-5e999b56a49e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqmL2vvLzFnRFbXVcT8x8l8YTWQ.jpg" tvg-name="Pengabdi Setan" ,Pengabdi Setan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d8cc8478-c8e9-467e-b2bb-4365c44c20c3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMyeUUmgxetaf4NnLd54unrZa6N.jpg" tvg-name="Revenge" ,Revenge
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/37d71332-261b-4ed6-8baf-ec326e103239.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj9kerjUPFVhBVgHl1KxhILUOiq.jpg" tvg-name="Sadako" ,Sadako
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/17d79aea-d9ed-4c9b-93d1-14850d924328.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM3OGU4MGUtM2ZmNi00OTJmLTgzMWEtYjAxYTYzMmU4NTY1XkEyXkFqcGdeQXVyMTUwMDg0MzQ@._V1_QL75_UY281_CR253,0,190,281_.jpg" tvg-name="Rope." ,Rope.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ffb9d0b-0855-44bc-bef3-5a493c25dde3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dKFwbh5fxDIy0tSkdjobCZnsDw.jpg" tvg-name="Secuestrados" ,Secuestrados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a707a4e-a698-4682-a681-0910cd18bd91.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glPNCcI7V8zTTI3BG0iIUJJcwXN.jpg" tvg-name="Tales from the Hood" ,Tales from the Hood
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/80609ee3-a218-427a-8e82-fdbd05bf965c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg" tvg-name="Slender Man" ,Slender Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/64d51e5b-95b4-45d6-86d9-d57d758718a3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llOwkKApB9mtirnCq10bYJOJt0D.jpg" tvg-name="Brahms: el niño II" ,Brahms: el niño II
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/88bb2fcf-7479-44b2-b609-10b4c043af15.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PcCffhPbHqPjCQOYJCB5bnHRTV.jpg" tvg-name="Embarazo Alien" ,Embarazo Alien
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19caf818-8148-45d9-8443-c4e1a372c13d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8TucRd6IaqaHp0uVzPmKJFO6jn.jpg" tvg-name="The Atoning" ,The Atoning
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0f00af51-d0f2-45cf-b4d0-d67e6e06001e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg" tvg-name="El auto: Camino a la venganza" ,El auto: Camino a la venganza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bfde65ca-1757-4369-a707-f1d750e50d48.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pN1ApOA5EHc3nFNDD5wLDska0zL.jpg" tvg-name="Demonio de medianoche" ,Demonio de medianoche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a25f5778-c795-49ff-8c7a-32e491e01bf1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBfim1IbDLHJp49VU8W6lZ5EIbC.jpg" tvg-name="The Institute" ,The Institute
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9bc045f-9bc0-4cf5-a75e-84a1e32f2cb1.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIzMzU1Y2QtODU1Ni00YTYyLTkyOTctM2NiYjIxZGEzYmZmXkEyXkFqcGdeQXVyNTc4MjAwNw@@._V1_.jpg" tvg-name="The Cabinet in the Woods" ,The Cabinet in the Woods
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eedcbb81-dce2-4886-a417-0a088726d677.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eewRu7UdCHqUOI5JKCLymSroVYK.jpg" tvg-name="Underwater" ,Underwater
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c3c86816-4600-42b5-ae17-b7586e460663.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIyNTY0NzE2Nl5BMl5BanBnXkFtZTcwNTg4MzE2MQ@@._V1_.jpg" tvg-name="Huida perfecta" ,Huida perfecta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67f181f7-5ee0-48ea-83d3-377b393fb15a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubydN7FhGizgqSpBhXyRanFBxpR.jpg" tvg-name="Sucedió en Miami" ,Sucedió en Miami
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31b4688e-4f7d-4e40-8035-66c68a48c45a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOUQOJ0VR4MJwArDP3BJ8BMe757.jpg" tvg-name="Winchester 73" ,Winchester 73
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8cda05cc-302b-46ef-a07f-6ce2c415fa74.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKXWYLhagrR6JUOIdg7hX9HhbYP.jpg" tvg-name="The Others" ,The Others
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3561fc84-cdc4-41be-af7d-6fc0c2e73c86.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5Dyos3xViHP5ROuCi01P9Q6nZA.jpg" tvg-name="Truth or Dare" ,Truth or Dare
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b3e7bb83-3967-4077-8c42-f40985a2d329.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UgRc3vpOiW9HOAD7oBa16xQ21E.jpg" tvg-name="Tragedy Girls" ,Tragedy Girls
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35ce9a74-9197-4048-9f86-eb93e0242534.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlKmfWU6hvga3f9AinTsEGi2THU.jpg" tvg-name="Vuelven" ,Vuelven
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/803381ec-3c05-486f-a8aa-fb17c463ce0c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg" tvg-name="La trampa del mal" ,La trampa del mal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e938308d-9ee7-4e24-b002-3f1ad9abeabb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcZtqUStEvS9y0bFZrO80oIUhJk.jpg" tvg-name="Victor Crowley" ,Victor Crowley
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60853fd8-b0b1-4ecd-abd6-2c480b3b7e9f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://pics.filmaffinity.com/Alone-670639588-large.jpg" tvg-name="Alone" ,Alone
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d3af07a3-72db-4cae-a7bb-d0856f218145.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWcJwnO2q31tGFIlvF1wisWzote.jpg" tvg-name="The Invitation" ,The Invitation
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/de46698d-b950-4257-b2bf-f1c85bbd773d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdmZTc1N2YtMGE4Ny00ZjVmLWI3NzctZjhhMDAyZDliOWE0XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg" tvg-name="El muñeco diabólico" ,El muñeco diabólico
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5b4d78cf-cedf-4c3d-9690-831ee477572d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9LGv3p2xTYVbmfblaqBQBr9gC2.jpg" tvg-name="Y Abrázame" ,Y Abrázame
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5364bc47-0d6a-4dbb-93f2-3805fc186a09.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" tvg-name="Ghost Killers vs. Bloody Mary" ,Ghost Killers vs. Bloody Mary
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6718c79e-fa96-4cf3-8562-077a2d72a38e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWdb8SlbJDPR1FQIHJHp4Pg2xni.jpg" tvg-name="Mr. Halloween" ,Mr. Halloween
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27584a40-0bb6-4b84-8546-9813b665f7c4.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/si53xDUO6ZdcUk6rjupy29uR0B4.jpg" tvg-name="Gone" ,Gone
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/77d91a17-7dc0-4724-974c-25348772a2e9.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8PjmkInMZ6O1p3jDZBXuM0jcK3.jpg" tvg-name="Once Halloween 3" ,Once Halloween 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8b9c48e6-4c5e-4baa-a32c-9c04f38197eb.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTzuFkYy0JKsiZtv3hdVB6pAHhv.jpg" tvg-name="Countdown" ,Countdown
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a6ac140-aeda-472b-b7fb-097a9b7b0e07.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNX58K2R8GKWY0q1hxf3Gcqd6Bj.jpg" tvg-name="Secundaria Mortal" ,Secundaria Mortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a22bb7b2-b3f1-45ed-b688-11717379740a.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Horrorexpress.jpg" tvg-name="Horror Express" ,Horror Express
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46233dc1-738a-4141-be17-4d3f60aedfe6.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axnk9iv2LzNJcJhy4xFdQXFSFor.jpg" tvg-name="Insignis" ,Insignis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0143c3a-cf1b-4586-ba43-e48f0c4cc886.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apBhaUivEub9Ghx7sj7UqQCFYH4.jpg" tvg-name="Dead Awake" ,Dead Awake
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b77927f-6079-4ce5-997a-43562b017765.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VzEIaYWO9HFIp6lgjfbLRJRKSF.jpg" tvg-name="Lights Out" ,Lights Out
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c25cafc9-f854-4b0f-a738-f1428530f54f.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCnyHZz6qOTqWn3NqsShVP0riea.jpg" tvg-name="Patient" ,Patient
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e6cac2d3-6753-4415-98d1-57c9ea2f8ae3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNm4pVZaAm1dr9uJZHQ8uMIhrSK.jpg" tvg-name="Devil's Gate" ,Devil's Gate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8bbe24b-cc0a-447c-862f-8ecedfec4cc3.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3breiqHroGXcfce0S6NXtnEdgg.jpg" tvg-name="The Conjuring Tapes" ,The Conjuring Tapes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aadfdb9e-ee4b-48d1-84d6-bc7b5557435b.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg" tvg-name="Vivo" ,Vivo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6b6cbc04-9022-408f-95b1-2617d480bd05.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDzNCXkpyOEk1pQRN1HC1v8wRUE.jpg" tvg-name="Idle Hands" ,Idle Hands
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/009c062b-e5ed-4a1b-a596-62de496b6da0.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GESSapVA0gcufjtSIXHByHFksB.jpg" tvg-name="The Eye" ,The Eye
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ad08a706-20ec-4aed-ad5a-b8e987daa01c.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV8aZ816MZKFWZF1e1QfLAQuMI7.jpg" tvg-name="The Turning" ,The Turning
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9eaa0ce-0bba-4ffc-b897-2749f272e269.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" tvg-name="Zombieland 2: tiro de gracia" ,Zombieland 2: tiro de gracia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/84fa8fe9-a568-49bd-bc48-c74f53b35e44.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydZShJOPMQMZ0L4yohpV9klUvS9.jpg" tvg-name="km" ,km
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/103abd05-a187-49c4-a54d-cacefcc688a2.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilkBLFYzOdGHqxO1Og4SQk7c6O9.jpg" tvg-name="México bárbaro 2" ,México bárbaro 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e73330bb-2460-4e2c-9ec7-ba5742d7714d.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggLtNTTQ1ukz0L5daUJ81RAeF19.jpg" tvg-name="The Phantom of the Opera" ,The Phantom of the Opera
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a89e745-d717-4707-a163-0c88ef8e09fc.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bq83ZtV7t61Zv4RCZ7hiS0lZNXj.jpg" tvg-name="My Bloody Valentine" ,My Bloody Valentine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a5826480-b117-4612-a61e-9fc6a0b61aab.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMB4uB6n91G3j34i4hyobovU6Ti.jpg" tvg-name="Psycho" ,Psycho
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a74b9e1e-86d8-4bf3-9490-592684fbcb81.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5xkhnrHrVLM8hCFNXBQ2UJ3ABA.jpg" tvg-name="The Ring" ,The Ring
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da3c5986-1765-4a6d-af2f-0cc0ae670fce.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQeVsIcYSMlSzHWI848qkpiTQzE.jpg" tvg-name="The Witches" ,The Witches
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/45c695da-a32a-4688-af51-a05915577b8e.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlBfHKirPMVeBNvPxdKrTIKFXaW.jpg" tvg-name="Belzebuth" ,Belzebuth
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46db7916-4863-4e0a-96aa-2d4b7238c2cf.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvGW1SVwIvotKJE4TYRyTOYkrts.jpg" tvg-name="Le manoir" ,Le manoir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9741bba7-c910-42c8-af16-6641bcdcea70.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2JsDxmWrscpGGGVozCfGMMQHId.jpg" tvg-name="Doctor Sleep" ,Doctor Sleep
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e1060009-678a-4111-abd1-02b126d445ad.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPdSczf2DGuUHd7QZqxM7JyQarY.jpg" tvg-name="In The Tall Grass" ,In The Tall Grass
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3586bdb4-2a4e-42b4-b536-2b0def4d6f59.mkv
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/tA3k9LyE2togmIuNnOgw6SmzWus.jpg" tvg-name="Amenaza Bajo El Agua (2020)" ,Amenaza Bajo El Agua (2020)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc99c893-4c54-4159-85db-da04a61c3913.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/7hd6iyViluCMOqIJz5TsiyBFqp9.jpg" tvg-name="Agua sangrienta (2007)" ,Agua sangrienta (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8c1f1d34-cc9b-41fd-951c-e417f9e015a5.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg" tvg-name="Abigail (2024)" ,Abigail (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8cda964f-f5d5-469e-a93c-c8ab2df901ff.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/pLxy9uzUZOjj6TTAzxhBJayPZT7.jpg" tvg-name="Aguanta la respiración (2024)" ,Aguanta la respiración (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d13f6fd-8013-4c82-ab5d-db5e5a4e030d.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/gNtVxOAmBD42TBwFfN52fDa56XZ.jpg" tvg-name="Ahí afuera (2024)" ,Ahí afuera (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d755fe0c-8777-4feb-b54e-1637dddc9250.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/llRUOYj8RLVTzpEUfcKrcQEVpTx.jpg" tvg-name="Alicia en el país de las pesadillas (2023)" ,Alicia en el país de las pesadillas (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/99e576ba-96bc-4334-bf16-0ff2ba2cf872.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg" tvg-name="Alien: El Octavo Pasajero (1979)" ,Alien: El Octavo Pasajero (1979)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/61d74720-ce44-4d37-8884-875dc37cf148.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" tvg-name="Alien: Covenant (2017)" ,Alien: Covenant (2017)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c830538-b1ef-47df-a46c-095eca2afef2.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg" tvg-name="Alien: Romulus (2024)" ,Alien: Romulus (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bc782ab-3f54-4f93-beee-773a0c2fe2b4.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg" tvg-name="Alien vs. Depredador 2 (2007)" ,Alien vs. Depredador 2 (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c310b990-f01a-4759-85c0-45bdb1c072aa.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg" tvg-name="Alien vs. Depredador (2004)" ,Alien vs. Depredador (2004)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/476aac83-08a8-47bf-b459-fc25094620d7.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/r55TNWDn1tr1l8tEb5gDHG1Tf70.jpg" tvg-name="Arácnidos (2023)" ,Arácnidos (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59e3e7b5-c3b4-41a1-9791-8601281306ff.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/5ssaCHmqvTZDVZtcNhNZTzfb7Nj.jpg" tvg-name="Baghead: Contacto Con La Muerte (2023)" ,Baghead: Contacto Con La Muerte (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/96dd6ee4-b920-409b-8a0a-22ac8ce7a483.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" tvg-name="Birth/Rebirth (2023)" ,Birth/Rebirth (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e4db5d0-4896-414b-832b-1a3ed3cb0bd7.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/iUFZGYWlDU1SqfvV3ph3xrct013.jpg" tvg-name="Burga (2023)" ,Burga (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eb3d27bb-86bc-4a97-80b6-41033ccfbab3.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/mehUdQGRSbxTTOgT3zCctg5uj3F.jpg" tvg-name="Carnada (2024)" ,Carnada (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/de28f2a5-62d6-4c18-9e0c-ce5bb527655c.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/al7ugHcazS5Eo6n7bm8dzF8vy1J.jpg" tvg-name="Castigos de la traicion (2023)" ,Castigos de la traicion (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a902460d-227b-49de-abdb-9f1761f718dd.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/paLxfTcj6nf6gCbgmkP3yERYJtI.jpg" tvg-name="Cazadores De Fantasmas (2023).mp4" ,Cazadores De Fantasmas (2023).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/756ee171-a119-43a3-afdd-3d86556007bf.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/65k57d1ywa3ChttmwQ4C2cmyLyJ.jpg" tvg-name="Condena De Muerte (2017).mp4" ,Condena De Muerte (2017).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/785d6a16-f2a7-4289-b959-a162e15c553a.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/s9jFTTRsA4QvpHq4UJV5y7KDqZQ.jpg" tvg-name="Criaturas reptantes (2022)" ,Criaturas reptantes (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c252adb8-4fed-404f-8a63-6dafd872b88f.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/kNtQZX0h3JMGsjR8DSg14kX8h04.jpg" tvg-name="Culto al Diablo (2022)" ,Culto al Diablo (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/06746c53-f24b-4533-ae95-a87d059ef37d.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/gNQEgx5xoobcigMOmFkWDQR42zM.jpg" tvg-name="De Noche Con El Diablo (2024)" ,De Noche Con El Diablo (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/29b74182-c310-4f6c-8b31-ea1652dc43eb.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/6iaQsn0MLBq1jgCYTmPYdfE2J9l.jpg" tvg-name="Despierta El Miedo (2021)" ,Despierta El Miedo (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92683d08-5b73-4b03-9766-a8f7ba6935fd.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/5xS2dbQZVF2WE3343Z5Zeathw0k.jpg" tvg-name="El ataque de los dinosaurios (2022)" ,El ataque de los dinosaurios (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c07ffe8-9f74-4119-b501-5f8bd1c1150c.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/xyzpauLJwAB20vd4iHfDCcq1RYN.jpg" tvg-name="El beso del demonio (2023)" ,El beso del demonio (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b00693a5-9ee7-41e9-938d-768d3af03bec.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/55I8hworMs5TWSh89NyxcuvLmCQ.jpg" tvg-name="El cazador de sueños (2003)" ,El cazador de sueños (2003)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b178ffd7-ec4d-4204-a341-e470ea28cb9f.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/lJfibFGADF7e0m70lMtmXPPrz5a.jpg" tvg-name="El demonio entre nosotros (2023)" ,El demonio entre nosotros (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bc00c213-8460-40b1-9e34-24b77847c1d3.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/nAMT5VSIIHa6esgZ6HufukLqBvv.jpg" tvg-name="El diablo viene de noche (2023)" ,El diablo viene de noche (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ae94eef-a5ef-4552-94a2-a2a8bc55d402.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/qqTAFpLigQtuK2kBGTEaZ6mTMQn.jpg" tvg-name="El espiritu de las tinieblas (2022)" ,El espiritu de las tinieblas (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/645182f9-6111-42aa-b6fb-3e3404e790ce.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/3EdqlGB2ACpnqsrtKhyacaPhzHK.jpg" tvg-name="El hombre del saco (2023)" ,El hombre del saco (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53e4623b-b840-4e86-98ba-a1767f7ec604.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/yT2SUMGuI4inUmBsiFjHqGp2axZ.jpg" tvg-name="El Juego Del Ascensor (2023)" ,El Juego Del Ascensor (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed13e050-0e09-495c-a7fc-ee7f44693fec.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/hqCG83ajBzdLt9MAfeuwUdVqQQb.jpg" tvg-name="El juego del pulpo (2022)" ,El juego del pulpo (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/278c32e8-ed40-4156-9862-1a4616b243ab.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/g58dpB7bEhqQSdgEDcgXtx6UU0E.jpg" tvg-name="El ritual del libro rojo (2022)" ,El ritual del libro rojo (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc70f390-7967-475e-ad0c-388cbb1e3e29.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/vEauIPchLaqdxfVnuT305oj8qpT.jpg" tvg-name="El último conjuro (2023)" ,El último conjuro (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54db72b2-d7af-4c25-a892-63e5157936c8.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg" tvg-name="En las profundidades del Sena (2024)" ,En las profundidades del Sena (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3f46daaf-3cde-428e-baa6-1e2d04087c2b.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg" tvg-name="Exhuma: La Tumba Del Diablo (2024)" ,Exhuma: La Tumba Del Diablo (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a25df3f-6532-4615-9bac-ac5f454ba6eb.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/imZhdkfRxvHrzxRejRqodI9sJbr.jpg" tvg-name="Exorcismo (2024)" ,Exorcismo (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a7c7f86-dd53-4f1d-bba1-a08c44636b3e.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/9OQG9KPo7H1NO17xFo86a95UC3U.jpg" tvg-name="The Quantum Devil (2023)" ,The Quantum Devil (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6e1bcdf-6ae3-400d-8370-b0c7cf25658b.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/zIdmmzX8kWP6rasO6pU17NRAzyi.jpg" tvg-name="Hellblazers – Infierno en la Tierra (2022)" ,Hellblazers – Infierno en la Tierra (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9f0ae029-0cda-41ab-973f-29fa1cf3c26f.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/67sr5ncUA1653KnQVMONQ2n929m.jpg" tvg-name="Herencia Siniestra (2024)" ,Herencia Siniestra (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/846f08eb-04e1-458b-a49d-e4ed485f8b9c.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/pxM0EWBHs5QRkqVCL4bOAaHlQ8e.jpg" tvg-name="Imaginario: Juguete diabólico (2024)" ,Imaginario: Juguete diabólico (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b49f33ad-db73-470f-bacb-3c18fb7fdc9a.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/dATtA0Wz3XaB3bs1POyrOLkgnsh.jpg" tvg-name="Impuratus - La Confesión Del Diablo (2022).mp4" ,Impuratus - La Confesión Del Diablo (2022).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b578ca44-0541-42a6-83f3-2a57922f2807.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/qBNx7t73x1KyfNkNNiyou8qy88.jpg" tvg-name="Inmaculada (2024)" ,Inmaculada (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/63863672-b0be-4792-a34a-d1837bfadad7.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/ohlZkxCjQ8Ua3Up9TuH7gAVV9ZF.jpg" tvg-name="La batalla de los super simios (2023)" ,La batalla de los super simios (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74c7a148-5e67-4f89-8d29-6c1fa9659a0c.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/yN7zUze3fkbGNNHI1JYVpRixzAx.jpg" tvg-name="La Bruja (2016)" ,La Bruja (2016)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48677ed6-35b0-4621-b036-34a805d86135.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/veCy2Z09pDu5b4Xktn7hWYEi6gK.jpg" tvg-name="La casa embrujada (2021)" ,La casa embrujada (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8c290f5-2ee6-4574-adb3-29f423d3a7a1.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/jfaeLocT8euvaxI78Zdet2EmxCM.jpg" tvg-name="The Huntress of Auschwitz (2022)" ,The Huntress of Auschwitz (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aa2f953d-c7c1-47b3-a7cd-63eea388c200.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/b4rwcnADnwAWEKZXMg4qRamqYiC.jpg" tvg-name="La camara del demonio (2022)" ,La camara del demonio (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a641d52-709e-440a-bbff-1fc3ca980f4f.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/yntk3hZ2l7ybh9L8gtwOMqOR5LU.jpg" tvg-name="La forma del miedo (2022)" ,La forma del miedo (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d0f74c72-0662-4346-a3a7-f782001bca61.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/tGZ4DDqOVBvLK0CfTGHthc6dgIT.jpg" tvg-name="La Leyenda del Lobo de la Montaña (2022)" ,La Leyenda del Lobo de la Montaña (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67ee2147-7852-42fc-b257-6dd7b7ea3989.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/zFnDISBzIDg4JlKaCCdMELpkWKz.jpg" tvg-name="La liberación (2024)" ,La liberación (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c743d9e-fc88-4c83-8120-e085403259a7.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/fjW5iRD2APk8WaLD3XWq69Te94o.jpg" tvg-name="La maldición de Savannah (2022)" ,La maldición de Savannah (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/39cbdb06-4123-4139-81e1-607180a1a7aa.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/bXjhXARVzXuh1H9AtMOo8yfF2AQ.jpg" tvg-name="La Maldición Del Titanic (2022).mp4" ,La Maldición Del Titanic (2022).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/caf192bb-9801-41bb-a7b9-37e30fc96bcd.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/21u5PfcWqJDna3a42QQNvlRJAgc.jpg" tvg-name="La melodía del diablo (2023)" ,La melodía del diablo (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/edd3c741-d4fa-4b03-8759-b8ef6ea25f74.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/hQj7EJsYOzhy2VvBdfzYt3mytUO.jpg" tvg-name="La noche de los desaparecidos (2023)" ,La noche de los desaparecidos (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8aa6658c-5529-483e-8c08-f39cad69515d.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/NakL3crDWgiOe4GwCiQbrODpon.jpg" tvg-name="La Otra Cara de Dorian (2023)" ,La Otra Cara de Dorian (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/45299f8d-fdc8-4128-9a87-08b4ab639fec.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg" tvg-name="La primera profecía (2024)" ,La primera profecía (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca38732e-f18c-4119-ae68-dbad1d0994ab.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/fmwq5BuVZzpQEAzqfsSilKvbRJK.jpg" tvg-name="Nightman: La sombra del mal (2023)" ,Nightman: La sombra del mal (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9f95659b-c3d0-45f9-a863-2592c962d089.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/tJUyQZz60El5o1c3mqdhhGuzmqX.jpg" tvg-name="Las que ustedes no quemaron (2022)" ,Las que ustedes no quemaron (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8bbdfcc0-5971-4bb6-810f-88f35de8c093.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/hPDEY0M4pdzG7e2JM7OyB7TjFB.jpg" tvg-name="La Torre Del Infierno (2023)" ,La Torre Del Infierno (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ceed4160-a0ee-4281-9268-56e32fb03c4d.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/qxTfYOVDDlVeGOYYSWwyZ2hbQjj.jpg" tvg-name="La venganza de Charlie (2023)" ,La venganza de Charlie (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/95910dce-fa41-4521-aefb-27adceef1d53.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/gSfldseM71atIcpdVt0tBx8S3oA.jpg" tvg-name="La Venganza De La Llorona (2022).mp4" ,La Venganza De La Llorona (2022).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44fb9987-3a26-4d12-933e-afc03db2f1d0.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/c9Ouu9PZi4XmI9QRvcHHwCalEx2.jpg" tvg-name="Leio - La Criatura Gigante (2022)" ,Leio - La Criatura Gigante (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/980e650f-2465-4bd3-bc7d-c916e5c4b224.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/5US9yKtf3STseAhYawGAnRH75S3.jpg" tvg-name="Lisa Frankenstein (2024)" ,Lisa Frankenstein (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d82a87d3-384a-4191-80f1-b44b7ae6d5b4.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/1rTRllZNEAX30dTxYL1hONR6gPj.jpg" tvg-name="Los Extraños Capítulo 1 (2024)" ,Los Extraños Capítulo 1 (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a640545e-3044-4d45-bddd-badf5e3b6623.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/wQSLDy6H3Wyhf7Z7TNM87y4giez.jpg" tvg-name="Los Horrores de Caddo Lake (2024)" ,Los Horrores de Caddo Lake (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d7d690e-6198-46c6-a909-dfff3ec9e5ee.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/gqOm6YfTjq6dy2HY2ajEKFhggv9.jpg" tvg-name="Luchar o morir (2021)" ,Luchar o morir (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5dca048c-1736-426d-8cf9-730c5b8f995a.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg" tvg-name="MaXXXine (2024)" ,MaXXXine (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/adfa98bc-574c-423e-9373-88c565c95fb8.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/zV6DFcYBeaZSmooUMX9UmdfgBuN.jpg" tvg-name="Megalomaniac (2023)" ,Megalomaniac (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9add1b8-170d-43e2-963c-a9d9758f5930.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/tkS4Z9A0USEqDZ7oFJiA3DrXG4V.jpg" tvg-name="Miedo (2023)" ,Miedo (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04d82b0e-0044-4ad5-99e7-03908b277742.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/klEdRP6QYrXorLFzbeeGE8eIFJW.jpg" tvg-name="Mi Querida Esme (2022).mp4" ,Mi Querida Esme (2022).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd111927-1291-4299-a8d2-54816c1150ff.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/cboUHkM1zA7m3SaCrf6dW5jGqqW.jpg" tvg-name="Despues del fin del mundo (2022)" ,Despues del fin del mundo (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c01a84f7-40f3-44b9-b0d8-4fbdea134c4d.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/fuN8gkmiZlZMqrdo5QUgWrSkJd9.jpg" tvg-name="No hables con extraños (2021)" ,No hables con extraños (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2edc73fe-186c-4cca-ba97-d9cee7514572.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba08a32a-2a14-4f29-a005-0be292a63fd6.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/sZeRVNcwBVAilbxXGtvGtyzwz68.jpg" tvg-name="No mires al Demonio (2022)" ,No mires al Demonio (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59ed8c33-f627-4d31-b549-8da52c93d82e.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/8UgIqUyDhxRsMEGcZ3V9WortIp1.jpg" tvg-name="Observados (2024)" ,Observados (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e90b87e0-3f1f-4a4d-8340-80063cc63d84.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/sRD9ESWHUQmKgu7rkZhIKyn4wRx.jpg" tvg-name="Ositos asesinos (2022)" ,Ositos asesinos (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67d24467-5783-4292-a0d0-7af2749f2d0f.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/eDCyEUNFce9g7NJxlhDzV0BBMMo.jpg" tvg-name="Parano-IA (2024)" ,Parano-IA (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/179e89a1-650e-40d1-933b-c3ab69ee1143.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/bw0KToysPAGJvVnQ8EnTwU2PMWy.jpg" tvg-name="Pig Killer - El Asesino De Mujeres (2022).mp4" ,Pig Killer - El Asesino De Mujeres (2022).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20370bc0-8d69-429c-8e59-6a71da7d9bd1.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/ynXF7OdHtSkiJq4gKFpptzweG7f.jpg" tvg-name="Plaga Zombie: Invasion Americana (2021)" ,Plaga Zombie: Invasion Americana (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f0e7fab-5bb9-4bd7-a189-387a21f01226.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/w3YdnWSgRENebagikyISlJRpZqg.jpg" tvg-name="Posesiones (2022)" ,Posesiones (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a762aef3-997a-4401-922a-a8603a866684.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/7J6cydS5Lz6qxUhM5oXXxCZJXtP.jpg" tvg-name="Ghost Project (2023)" ,Ghost Project (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6b1ae2ca-b443-4080-bec9-83a79391692a.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/qMI6ZgfGaMfarMW8T4oPz96sVtZ.jpg" tvg-name="Retiro mortal (2023)" ,Retiro mortal (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2e14656-c203-45a7-87ac-823f370017d5.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/yUPuiXIcfBIl0KLViFZQS0AW6O0.jpg" tvg-name="Sangre fría (2024)" ,Sangre fría (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd682740-e525-45a1-9b3a-e29f5948ffb5.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/9LORlryG3kSGoLyqRXycxx0Ggpm.jpg" tvg-name="Sleep: El mal no duerme (2023)" ,Sleep: El mal no duerme (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8497eba2-5780-4309-99c0-3ef7d464e4c2.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/kEQ14uKgjYnkrgQ1yct5UYA7RJZ.jpg" tvg-name="Some Be (2022)" ,Some Be (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/283cda04-96eb-4660-96ea-fb5bb17d4440.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg" tvg-name="Sonríe (2022)" ,Sonríe (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0891ceee-5817-4059-b041-ff99dd503528.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/mpt4btkF7YzSM9kldSdBvnAFHCB.jpg" tvg-name="Thi Yot - Susurros Mortales (2023)" ,Thi Yot - Susurros Mortales (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0faadd3a-3128-445c-9568-f63cfb73e3d0.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" tvg-name="Terror en Silent Hill (2006)" ,Terror en Silent Hill (2006)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/480d9677-a417-4041-957e-368d52910b45.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/zw3w7ceS99Rz06K749cLbI4UPrp.jpg" tvg-name="Turno Maldito (2022).mp4" ,Turno Maldito (2022).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/956a643a-5ea7-4eec-be43-e6f9b8d27300.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/qw0At06QaTJ2MxmjY2rnuVa12y.jpg" tvg-name="Una visita inesperada (2023)" ,Una visita inesperada (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e86b3c6-9a1a-4dc4-97f4-a06a89f45cdc.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/dGGXoFRiXiHi72GKst6ulBny87I.jpg" tvg-name="Un Extraño en el Bosque (2024)" ,Un Extraño en el Bosque (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a40b4861-5eac-495b-96d9-bdb09b976935.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" tvg-name="Un Lugar En Silencio (2018)" ,Un Lugar En Silencio (2018)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97af4974-0be7-4189-bbff-f2d2326daf96.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/oEfFnOpVCsK1ifcOZTF4s2n7r5N.jpg" tvg-name="Un lugar en silencio: Día uno (2024)" ,Un lugar en silencio: Día uno (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b2329b29-825f-445f-bd63-84f47c8b19cd.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg" tvg-name="Un lugar en silencio: Parte II (2021)" ,Un lugar en silencio: Parte II (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47a3ede7-686e-4e63-ae29-79650bc5cde7.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/A1KxxBCExMI1FxTl5HvjLlawv0d.jpg" tvg-name="Vampiras Resurrección (2023).mp4" ,Vampiras Resurrección (2023).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4d819832-4dc4-438b-890b-747cad256ecd.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/rTKDCdw863kF5xgBVPz6KeAHb8k.jpg" tvg-name="Viaje A La Oscuridad (2022).mp4" ,Viaje A La Oscuridad (2022).mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ba3e8aa-779f-43f1-a24b-3309225ee9c3.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/8i1i822wHQx7gR2IFZTKkulJHgT.jpg" tvg-name="Vi el brillo del televisor (2024)" ,Vi el brillo del televisor (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e389ed83-c725-4695-9601-7f40bda0b08f.mp4
+#EXTINF:-1 group-title="* TERROR - HALLOWEN 2024" tvg-logo="https://image.tmdb.org/t/p/w400/17UmQl8TuDmHWGlcKeFIjnR8bJF.jpg" tvg-name="Winnie The Pooh: Miel y Sangre 2 (2024)" ,Winnie The Pooh: Miel y Sangre 2 (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9569bc27-aef6-456e-91b5-b849a36fc80e.mp4
+#EXTINF:-1 tvg-logo="https://ipectv.com/l352" tvg-name="RADIO REDONDA QUITO 96.9 fm." ,RADIO REDONDA QUITO 96.9 fm.
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/8ab980e1-1c1a-4a07-8d3c-e5ba658e057a.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/484da74d8d9ef8204b4385b7ccf6305a.png" tvg-name="RAD ll SONORAMA FM (PP)" ,RAD ll SONORAMA FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/d528af71-7a58-4f28-8d5a-199903d882da.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/54281b0728452bfd146f76df18b74de7.png" tvg-name="RAD ll CANELA GUAYAQUIL 90.5 FM (PP)" ,RAD ll CANELA GUAYAQUIL 90.5 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/40f73813-202d-4bd5-956f-c24a0b859f0c.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/12f9c0beea5ed1ecc14081323b2d2f40.png" tvg-name="RAD ll DIBLU 88.9 FM (PP)" ,RAD ll DIBLU 88.9 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/ef06ba32-9fa0-462e-b5bc-d823e0572515.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/8866c2f1032f80ff6a8439d089a9ab9d.png" tvg-name="RAD ll LA OTRA QUITO 91.3 FM" ,RAD ll LA OTRA QUITO 91.3 FM
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/dd1b63a1-8ff2-4834-96d5-20910d956606.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/e1de2cfbfd7979bf2eb085566ec4f7ff.png" tvg-name="RAD ll CANELA QUITO  106.5 FM (PP)" ,RAD ll CANELA QUITO  106.5 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/ec64f48c-8776-4e1e-a724-a1e622d4208e.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/f4a91eef9cf563390f96e866093818db.png" tvg-name="RAD ll RADIO CRISTAL FM (PP)" ,RAD ll RADIO CRISTAL FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/25d035b9-5846-4b0b-b693-1e86fcdbf398.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/19208f71e5dd8442690b1202a8a44513.png" tvg-name="RAD ll RADIO CARAVANA FM (PP) RADIOS DE ECUADOR" ,RAD ll RADIO CARAVANA FM (PP) RADIOS DE ECUADOR
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/2e6b3d7c-a2b7-4f74-a81e-d21c7febfbdf.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/1a5e1c0ea590528636e87281b8377c34.png" tvg-name="RAD ll ROMANCE FM (PP)" ,RAD ll ROMANCE FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/6f3e2599-aed4-4c5b-9712-397efdbcc7c9.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/78998e40218e84d94624c8a2f787b4e9.png" tvg-name="RAD ll AMERICA ESTEREO FM (PP)" ,RAD ll AMERICA ESTEREO FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/0c63088b-f463-424a-a048-4e15a8916a56.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/71525db3d7ce6674cd80958ef7d6c2f4.png" tvg-name="RAD ll RADIO GALAXIA FM (PP)" ,RAD ll RADIO GALAXIA FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/863f6209-5f95-4d12-bda6-1220f3e1e8a0.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/09e305bf5a6d06255a5afaa5ecbe77fd.png" tvg-name="RAD ll JC RADIO FM (PP)" ,RAD ll JC RADIO FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/b0891d64-9b34-479b-a223-dfb24895b4bb.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/7c05fec9e492490d4280256352cbc2be.png" tvg-name="RAD ll ANTENA 3 FM (PP)" ,RAD ll ANTENA 3 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/a39a7aef-6970-464b-8264-8be68ee7ac98.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/ec05ac79922192e31916a6c1faf93dd5.png" tvg-name="RAD ll RADIO ONDA POSITIVA FM" ,RAD ll RADIO ONDA POSITIVA FM
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/153c4bdd-ef56-4854-93a2-888db3307ffd.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/0818cda5294155dd72ae83440cdc5faa.png" tvg-name="RAD ll RADIO TROPICALIDA FM (PP)" ,RAD ll RADIO TROPICALIDA FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/1d8a0bc3-ff38-4ee9-917a-2af49d757483.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/70a81e3d41b000bf5ad5b0c983b8a6f8.png" tvg-name="RAD ll METRO ESTERIO FM (PP)" ,RAD ll METRO ESTERIO FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/0ec1ea24-8ce6-4f5e-bc05-47f02c99d1a5.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/5e5080c78c70a4627da3c9babec715c6.jpg" tvg-name="RADIO LA RED" ,RADIO LA RED
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/de2cecea-3e05-48b3-9266-5e3940823ecb.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/66a1c6257f8ee1453fc814aa09c56e44.png" tvg-name="RADIO ECUASUR FM" ,RADIO ECUASUR FM
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/6a1fde1e-6732-4655-92e7-99a7cdee2e78.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/56d4fa06523f5418810a463d57d8404e.jpg" tvg-name="RADIO LA BRUJA" ,RADIO LA BRUJA
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/4bf4517f-3da2-42ef-aff3-db47461e7dad.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/862a7cde3eac396f84615fccbf6de8d0.jpg" tvg-name="RADIO REDONDA GUAYAQUIL" ,RADIO REDONDA GUAYAQUIL
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/66440bec-6bad-4005-8d12-4fc9260fe22b.m3u8
+#EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/radios/17049/35205/conversions/4jnCSVlFo0YDxyxqDpgaWCLIpLET9Z-metaNjguanBn--lg.webp" tvg-name="LA PODEROSA 92.9 fm. QUITO" ,LA PODEROSA 92.9 fm. QUITO
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/b89dfcd3-9db2-402b-8467-fd65f2473373.m3u8
+#EXTINF:-1 tvg-logo="https://radiosecuador.online/7buf" tvg-name="RAD ll WILD-METAL" ,RAD ll WILD-METAL
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/6e9b9ee7-e54b-4afb-b62e-c14ec714f714.m3u8
+#EXTINF:-1 tvg-name="cadena 100" ,cadena 100
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/516b7cf1-109c-46e9-af0c-02604ace0310.m3u8
+#EXTINF:-1 tvg-name="Altera S1 E1" ,Altera S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/10436563-a347-46fa-a5bb-cf8bd6146b15.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWzh-lYfnOUB8J1Sfl1UPYXrlycSUHRhwfIIyCa2YfcTbaeYx9MmY6D22LWapOgUiw.jpg" tvg-name="Todo el mundo odia a Chris S1 E1" ,Todo el mundo odia a Chris S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/afe06944-7cab-4cb2-bfdd-8208f9598a72.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWEsA3wuhgoQ7Urfd_C6fW_mXsgxWmDigWvlF-ydu7uxf2jHi347yjSITKUCtBTR54.jpg" tvg-name="Todo el mundo odia a Chris S1 E2" ,Todo el mundo odia a Chris S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/294100f5-d9ba-4e7c-9d57-b8c949d20706.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVhu3kl9w4VPQewN7_7boxPkXw_n61w1RiVzmiB5ZJm_SjVafMD-gs98BbDMX2FEDs.jpg" tvg-name="Todo el mundo odia a Chris S1 E3" ,Todo el mundo odia a Chris S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e9179f32-ef8c-4675-8165-c47607dd8abd.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWfuFBXRKnuOt6TUAD6hdj34eSVw3MlXr8uoXmkE79qb8GyjKKPFglWRYP2RfGA8HQ.jpg" tvg-name="Todo el mundo odia a Chris S1 E4" ,Todo el mundo odia a Chris S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8504a7e2-19af-4f76-b0a1-dd82e5f5d269.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXhtxoa6BBWtSoEl1GvtVXS-nuB16DZzAEtWWFlisEvrzkNotvmU5MelHB-8fKUGoU.jpg" tvg-name="Todo el mundo odia a Chris S1 E5" ,Todo el mundo odia a Chris S1 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f8bc24b7-42c6-4986-bd9e-3a056a76d5bd.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXsESvXDfKqYI1ZBd-v1v3F9cPSfNJtjl8Jh1jU6x4Er6ZMPJ02TuFqx6cw2W3cgyc.jpg" tvg-name="Todo el mundo odia a Chris S1 E6" ,Todo el mundo odia a Chris S1 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9aacdf7b-756f-496a-8730-6d1bb3fee18b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWvaB2TAjRHfGOBigfTi2qsY1BxqxpCzDSF8vHVzDE1NOKVJYvudACPv-JPHhhdGr0.jpg" tvg-name="Todo el mundo odia a Chris S1 E7" ,Todo el mundo odia a Chris S1 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/c5e721a1-4594-4a89-b991-529c01434b6b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUU67D8l2RvrWaW-ZzvjMJAs0t0QAcFu6QRe35AEaca8eXvAWAIBaNqG3Ea8R3rNc0.jpg" tvg-name="Todo el mundo odia a Chris S1 E8" ,Todo el mundo odia a Chris S1 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3636cf41-21f6-4fd8-9a78-8b2953cf45e7.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUajPHJWP1cU5ZKAXZ_4zyzOqYlmMui3RrXu5t5EHuthX-OoXJw-hR9uaUsxMqgVLE.jpg" tvg-name="Todo el mundo odia a Chris S1 E9" ,Todo el mundo odia a Chris S1 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/de46e91e-7937-4cfd-95ef-cb97a87a2f84.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVxienqlbP76VaVCjW7CkJ-zZeeFChSKz02e02Korr5aaCqEPUMYCsILIYMExVrbAY.jpg" tvg-name="Todo el mundo odia a Chris S1 E10" ,Todo el mundo odia a Chris S1 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0f2d781e-5da1-4e61-8f86-27ef63d2183d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUJZjckafGx_Iz9HchnMJVPP9_uuFHdk-GSvmlbFqGZXnB7HuhstoYi2VgqesK6KXg.jpg" tvg-name="Todo el mundo odia a Chris S1 E11" ,Todo el mundo odia a Chris S1 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/26bed5ca-baa7-4c9e-b516-59a29a1efd11.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWI5Mmun2XrpXq5-1LY0H6cPYYsWUUMn5W6vnoyRoKK-ikWy4n6sltm3sW5rayi_nw.jpg" tvg-name="Todo el mundo odia a Chris S1 E12" ,Todo el mundo odia a Chris S1 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1c563954-0fc5-4b81-ad1a-83ad7b9e9e22.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX8E3C0nS5AqPxCeG6g-xsPGx8cKTmFW_jbgZGds9dxJc0WoHuAMntzVR4Hz0SJMNg.jpg" tvg-name="Todo el mundo odia a Chris S1 E13" ,Todo el mundo odia a Chris S1 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9a626133-7efb-4696-b0f1-8f0153de526b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUPIV4O_8d1_r5X2xbJfKglEKWxt_jCSUB_d4elPT9K1fT64O-0oJMGxaYNmuf39xM.jpg" tvg-name="Todo el mundo odia a Chris S1 E14" ,Todo el mundo odia a Chris S1 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3f555162-f5f2-4100-b058-8985afc444bb.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXdoAbHU8KYP5hwKVnIBvJQwDWDmL_r_N-S6u7ts89v4PCQGJKM897zHXP5NIFlD1Q.jpg" tvg-name="Todo el mundo odia a Chris S1 E15" ,Todo el mundo odia a Chris S1 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/bf9500e4-9202-4d0f-b197-ff82509e7e9a.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUq9st7eEpPBgp-HKgZdDAQlGrtpbhS1Afdb7VYno7d45VlKxRAddyTgxIZ9xTs3nU.jpg" tvg-name="Todo el mundo odia a Chris S1 E16" ,Todo el mundo odia a Chris S1 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f9049ebf-8f28-4d5b-922b-ed4d624359a6.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWyfXLdsp-PJSUNZ_994dw8fvRi-ZKj8tnXfb5GIPcOGsvkuKXTLpB3md5ZeL5sgdA.jpg" tvg-name="Todo el mundo odia a Chris S1 E17" ,Todo el mundo odia a Chris S1 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e4793bd2-78d2-420e-a04d-5fe6615b937f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUjN4AaUm188Wx6MKn2VWtvm3fH758D4Ih4hzhafY2ZQw.jpg" tvg-name="Todo el mundo odia a Chris S1 E18" ,Todo el mundo odia a Chris S1 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7ac40254-0d8f-42e4-a346-91944e4d6c47.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUh0Xnj-Ai5Yi39AkqK5tJxvltgsdnmRX-z8Q2J06e3UwcfPKzG-N-ka9P4XhpDvV0.jpg" tvg-name="Todo el mundo odia a Chris S1 E19" ,Todo el mundo odia a Chris S1 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/14167162-da93-45c3-a3b7-b70e0956cd4a.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbREdyhRkdhk9d_aXTT7wGsY9I14Q-b1BQlo8YZJOfSDnHu_7HNbqjiyvAOLwkKCk.jpg" tvg-name="Todo el mundo odia a Chris S1 E20" ,Todo el mundo odia a Chris S1 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4a9faa85-792a-4ba6-8512-0c49a11e3cc0.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU2jHf90M9dObgE_5O-iGLxvbEOExwDYmxWrs1PF98WMu0IpdzuNLywJI50nEBpFgo.jpg" tvg-name="Todo el mundo odia a Chris S1 E21" ,Todo el mundo odia a Chris S1 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/41962bec-1f95-4b99-88c2-9344105a6342.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUqIddI2dUQkCHk0WQjyfGfxxoTm7Ej_vptm74uOx8CxC7weRQMPUcl4QsGCS_n0-0.jpg" tvg-name="Todo el mundo odia a Chris S1 E22" ,Todo el mundo odia a Chris S1 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d1b12787-1c69-4464-830a-469038934cdf.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV_ALJnyvUelrGH65bLoFGuaZVJYsPUdpx4il8_0MS-RCp5zPnp1o9lqDRjGkIGAMc.jpg" tvg-name="Todo el mundo odia a Chris S2 E1" ,Todo el mundo odia a Chris S2 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/bf220c94-a11b-43f7-a3e3-83cab9842e99.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVoK6xG_uCVLsyQi_x6j3WYmNa-Yzt4DX-Wxb_DWdv_v70-0l1XjHH62hLh9QuI2vY.jpg" tvg-name="Todo el mundo odia a Chris S2 E2" ,Todo el mundo odia a Chris S2 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/cdb622b5-89a3-4e9a-94d0-f4194f8b71f2.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUnEuJwLorFXt5XEen3pTe3W2lw1JItXW3smzU3NlAzmgw5O33Ai-qVnLQFvi_dp_Y.jpg" tvg-name="Todo el mundo odia a Chris S2 E3" ,Todo el mundo odia a Chris S2 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/13da8c70-48fc-44e6-ac88-0cf210af7535.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWMJuQYnRv9yyKrwVFEt0Q2Yg9lobGSLIl_QU_HUETCAUSkPqO40JJ0Q9J_Ahar04s.jpg" tvg-name="Todo el mundo odia a Chris S2 E4" ,Todo el mundo odia a Chris S2 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/75f75541-d526-46df-ab84-68cb46e3223d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX1lVQx9Pt4v81vnA0VI_ffXznFhXvw9UoZyioN67mARJFJon-zwXlAovNFEdrMkl0.jpg" tvg-name="Todo el mundo odia a Chris S2 E5" ,Todo el mundo odia a Chris S2 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/18080022-ed57-4efd-8c11-3575c922092d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUgAYo2UrZ2UzKC-vVoEcMZHzCB4ulYL14e-qoN_6dLBYlgdEmz3h7rBKPa_ttUvnk.jpg" tvg-name="Todo el mundo odia a Chris S2 E6" ,Todo el mundo odia a Chris S2 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ac7ed270-8db0-4c30-b2d6-fe6ead7c2caf.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXG-fxD9L4VsySu7mKBLsRNhnEITkSkNuu8tHjYq3kcv7Ek7klW4HYLm5f1OdbC78o.jpg" tvg-name="Todo el mundo odia a Chris S2 E7" ,Todo el mundo odia a Chris S2 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fdfb106b-3b0a-4dec-ae03-12685480cdaf.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXxS_J-xa2PJaSYjdWIyJG9bBSnYyIAn5wPm11wFvdPMHKtBx6IXIjokKo7uO6dCcQ.jpg" tvg-name="Todo el mundo odia a Chris S2 E8" ,Todo el mundo odia a Chris S2 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2b5c2560-5e03-4e82-9de1-54f2a06e0745.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXTls6LyHci0pO7mZDZF0JDN24uORtnxkhnAswu9oqcH_kXTDmJUsdnwaSJbz6IWks.jpg" tvg-name="Todo el mundo odia a Chris S2 E9" ,Todo el mundo odia a Chris S2 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a4bbd0e9-e05e-4fbd-a154-7c24e7b7b16d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXJqMLEASpDHrLfjr4UjLsZbiFzB_xDLBLZqlfWL2ATVRYjx80VSM_sBu9wlcoGLhA.jpg" tvg-name="Todo el mundo odia a Chris S2 E10" ,Todo el mundo odia a Chris S2 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8ba2a444-60c0-4711-ba31-77a31087ba76.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUCFErC7CjsFAmQkreLu0iWuJDpQYNLhGJMOL0wvcz6u3oQBmZA9tZAM-J0vtFRnuw.jpg" tvg-name="Todo el mundo odia a Chris S2 E11" ,Todo el mundo odia a Chris S2 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a1b9a9a3-66d1-45b2-bc68-9a79efbdd7ed.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUOICyoxQ9tZ23QeS2wgvK3xATYv7N4iMdZUjK7wYrER3SQpAa59ZRIh27WrLp5ESQ.jpg" tvg-name="Todo el mundo odia a Chris S2 E12" ,Todo el mundo odia a Chris S2 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/cb8a2f22-70c7-47d6-b8a0-a60243e21020.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVXtqjIzOqcTCCvpB_ulTK1O18anfuNOkLoDTUeVmBxXaj-F2VySENu8492FDvReO4.jpg" tvg-name="Todo el mundo odia a Chris S2 E13" ,Todo el mundo odia a Chris S2 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/21c2dd95-e1de-4ec4-a043-961c87500fe1.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXBXsV_cBtfz6pLAcDmFNRWbmlxC_D3uaHxCyIZ4OG_zXi24C57NzgTrY5AGnAoWzE.jpg" tvg-name="Todo el mundo odia a Chris S2 E14" ,Todo el mundo odia a Chris S2 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8a63c2bb-9080-400b-8426-4c2c0f81b170.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVqzgLSnoS_PBWksuXerOq1vBjL1wX--Ad7tZM4ROBv1SqwR-0xIZv-Nt-O8Nj3Il4.jpg" tvg-name="Todo el mundo odia a Chris S2 E15" ,Todo el mundo odia a Chris S2 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ed334697-44b4-4680-ad69-96ef4870ca81.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWZSa-TYNKtPe4f-6F31JAEmcXke6ysD6EHSdzUgpXUjrR7_fmGbUGdCCTn4cQjZqs.jpg" tvg-name="Todo el mundo odia a Chris S2 E16" ,Todo el mundo odia a Chris S2 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/593d311b-d820-49ef-a132-3f6519fe10ae.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW1TIrClQ-jT1fbfPYuFu-gMg6n3gkZak-BxG1v5zpQO3dT8AkDLF7uadfUQu4p9Vw.jpg" tvg-name="Todo el mundo odia a Chris S2 E17" ,Todo el mundo odia a Chris S2 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0e02f779-4d8f-4518-bb24-3a6f5ac8d744.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW02gV-A-JcQdf5Bgr3V7154TAZJVOrEAyrZRRlbRmr4lQZ3ZafOgto5iNs3xaDfWY.jpg" tvg-name="Todo el mundo odia a Chris S2 E18" ,Todo el mundo odia a Chris S2 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/54eccc59-6a21-4bb1-9599-464b782ca319.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVhRxfUR53z5iOf_zO4iDiaDrIKY41Edkk9GOkmYbpIDQ.jpg" tvg-name="Todo el mundo odia a Chris S2 E19" ,Todo el mundo odia a Chris S2 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/dd92d09b-1350-48ce-b8ea-361798e2c198.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXswJLLmgqZlbye6hRg0un1LF95L8fvcQ8WnqMLXIuxm_JK4fgx50vwcD5lSbW-Npk.jpg" tvg-name="Todo el mundo odia a Chris S2 E20" ,Todo el mundo odia a Chris S2 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/5af18787-1330-4f58-ba56-279724380426.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXve9zFbYsfWvSxgM2Mna4_ceLvR0VC7p9ridT7Bh3KHthgUspQsvQTE2u7VEWOpeM.jpg" tvg-name="Todo el mundo odia a Chris S2 E21" ,Todo el mundo odia a Chris S2 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b84fdc46-c96d-4599-ab23-98f14e56cfb9.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVKbyBggy9O0HQoLe3P5PvgNZKKys5Rc_xSz5CjfzJfheK0DK7Z8HvCRAUn-BEvRLE.jpg" tvg-name="Todo el mundo odia a Chris S2 E22" ,Todo el mundo odia a Chris S2 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4ef9e164-0aab-4c1b-9c80-9b13a2b51b13.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXCP325YGjxbVEdLVntJhiTHwu_vKOaKJmElq6i3Mg4zo038Gd7MaQLBIHO6CYZ-zM.jpg" tvg-name="Todo el mundo odia a Chris S3 E1" ,Todo el mundo odia a Chris S3 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3c5c4ba3-4963-4460-a39f-8b3473d179da.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXa-xYfoft8fu-QAG8-o5fg-UcNGVASf1Vch_YKEWZLKP9PmKqXcsv_LUCHJyGusAk.jpg" tvg-name="Todo el mundo odia a Chris S3 E2" ,Todo el mundo odia a Chris S3 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/6d8a5dcb-e3ff-47d5-a285-14346fea6572.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUArN_hLtNZ3J-T5pJAZrRnT96hv9W9exjpJ_jeN0ETxsMgIK1lIdJeIZNe9PziLXs.jpg" tvg-name="Todo el mundo odia a Chris S3 E3" ,Todo el mundo odia a Chris S3 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a53f4d1c-4ed1-4bfe-a287-ae5d89773899.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXTQeAHRt1tgA2gRcpY0tdwR0Sdv54hP7UU_qVPdCBCv5jEe-Kxgy-U300Ym6i2las.jpg" tvg-name="Todo el mundo odia a Chris S3 E4" ,Todo el mundo odia a Chris S3 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ddfbaa2b-1285-439a-887a-660d402ba62e.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWd2DpupBd3iQ8-UsD9RFRWpnTvOe6aaXLehBIkYkqVitjrzkXk1Zrnp2IOPXSoWE0.jpg" tvg-name="Todo el mundo odia a Chris S3 E5" ,Todo el mundo odia a Chris S3 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/334cc4dd-7a2f-4c86-8073-1b3a137c2277.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU2ZI0_CV8c2cKWJiYKtDJ7IWKhWh6dzbj_DytxCWyjTMCrk-7FH9CZAKlN8FCJjSg.jpg" tvg-name="Todo el mundo odia a Chris S3 E6" ,Todo el mundo odia a Chris S3 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/906e364a-3593-4f2e-ad01-841efa830520.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXpBivI_MjjipyLrBWxh8gR6_ZM0l4o7w2jw5odJQaeXai1BcjXvvnQ66BtWev3QkE.jpg" tvg-name="Todo el mundo odia a Chris S3 E7" ,Todo el mundo odia a Chris S3 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4c486314-33ec-4616-afb7-cb1bc790348e.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXd0l9tkyuXF2aC_n6zHbzBkTUri60__nwv6wIs5S_-rQ.jpg" tvg-name="Todo el mundo odia a Chris S3 E8" ,Todo el mundo odia a Chris S3 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2b35becd-482a-4da7-ba9c-54b9a0e1a206.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXfGjLyYu2usSARyDDU8MVvFYnJEQ6pOWZuPFDsgTpn57aGayQgKYY0vQvYRDvQ7yg.jpg" tvg-name="Todo el mundo odia a Chris S3 E9" ,Todo el mundo odia a Chris S3 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/603b6327-f028-4b1c-87c6-d0900283222e.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHn2ZSVHjwfOLb_E4x607oiJgHylKC6RXc7Opdx1ahDxlD3Dej8IU1wOCCiZQSX74.jpg" tvg-name="Todo el mundo odia a Chris S3 E10" ,Todo el mundo odia a Chris S3 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8556ade9-40af-47ae-8dfc-593db1b5aa60.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVpD8qSgojcmkor6eXDHawfXdtgtwFWZtr0uR1Wp7NDYnunROiU85k-XyQ10wFwAA8.jpg" tvg-name="Todo el mundo odia a Chris S3 E11" ,Todo el mundo odia a Chris S3 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e90640b6-97c0-4a71-902a-c06ebfb857ac.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW4QaPGRxN1gVGFcavK4wV1Yd_Zc162WSOJKPWpHoKrRX3KeGwnP9tz64sAYuzLFuA.jpg" tvg-name="Todo el mundo odia a Chris S3 E12" ,Todo el mundo odia a Chris S3 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ac6eff8b-c2ba-4dcf-8481-1774cbd40250.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUW2Lnfetb6-eiCCwCXSk5ZuZQWOugx6JGIqkq6332lxlZz5gZDwcsLcCl2Ej9uAWI.jpg" tvg-name="Todo el mundo odia a Chris S3 E13" ,Todo el mundo odia a Chris S3 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fe6abefa-6c93-499d-b4d4-8b47602472f5.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUfDnOzV_NuvjzU_mobnqqjMptTQEFQxysv3ri1qGUR4gGBnn_bKsF0AvGw6a7SL9Y.jpg" tvg-name="Todo el mundo odia a Chris S3 E14" ,Todo el mundo odia a Chris S3 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4ff5b604-ce71-4d1d-90fc-2b7fba668b26.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXr5KobJHAqUecuaE3i5qXDhGgT9H09m_W-Qw6FAyRc5k6HKGDsbhFcY6xGaxa0P_A.jpg" tvg-name="Todo el mundo odia a Chris S3 E15" ,Todo el mundo odia a Chris S3 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/056f8c2f-cbf4-461b-a5f8-27047cb0e22f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXkKRUUR1cPGuq5zWD46S88VH_N01gKX6iUHUvAoD6Qr614Z0EbONKvpgWzSxWkiAU.jpg" tvg-name="Todo el mundo odia a Chris S3 E16" ,Todo el mundo odia a Chris S3 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/17a64e5f-ed37-46e1-8968-9190568cfc9c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWQjIpFO2SLPJ98r1ZpwiJ_B3mbMR3bsJJp5LbTGqxUO8w6sibTy7sNpriFoekfRSM.jpg" tvg-name="Todo el mundo odia a Chris S3 E17" ,Todo el mundo odia a Chris S3 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1f827825-39af-4281-b66f-78c6c440eb0f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXsg4BUK0VXPX_GmH18hES3Rodt8CKIxIGkCCA9de3ogNDqYWqwrDAzidLWoLHB61s.jpg" tvg-name="Todo el mundo odia a Chris S3 E18" ,Todo el mundo odia a Chris S3 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2abab6bd-45ad-4054-b801-0eaedd19413c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW03llMUR_wYqGEmG6WjyOii933eEq49wJAjNFDXk-3fclONlWj34gqObTSLr4XCcw.jpg" tvg-name="Todo el mundo odia a Chris S3 E19" ,Todo el mundo odia a Chris S3 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/296d29a0-69a3-4991-86a9-53413c1b1ea3.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU8wD3_4Oc7K2VHZoHXjYcpkCx2wiSihdhXKJI3MXXt_km7RC4cQotPWybPfd48ISQ.jpg" tvg-name="Todo el mundo odia a Chris S3 E20" ,Todo el mundo odia a Chris S3 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9ac2a429-c14f-4eca-bb2c-dfca1c5e09dd.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWjW7ytYTKma3Y7tcKTKvr0PDrDn58MHWsyXd7MOF5UtvCFlR5GKdHaWajnhXi7hfY.jpg" tvg-name="Todo el mundo odia a Chris S3 E21" ,Todo el mundo odia a Chris S3 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/160f1db8-af1e-4b6f-9367-3d2b66fa71c9.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXlD0mpH6CePg6-A7085u4zcN_CX-BvLKh8a3S1FjVFpfRy0Qtsun73qhsBLw5s9bQ.jpg" tvg-name="Todo el mundo odia a Chris S3 E22" ,Todo el mundo odia a Chris S3 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7a112c17-9030-4e22-a037-33762501f248.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVTcd8eB9wQa8DOCQhabZvNKQW1mng5xQC5zZ1Qe_vHNBnf_9DYmp1ZjyNE_71ZPA8.jpg" tvg-name="Todo el mundo odia a Chris S4 E1" ,Todo el mundo odia a Chris S4 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/163fb35c-aa65-4c1c-89ea-3f85df4fda06.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUCFckWXKcNuOXeizY5RTVj7VLKNM_0KPzzyzhao32HOxMpn43Y4_1FuIqxY-YqJCQ.jpg" tvg-name="Todo el mundo odia a Chris S4 E2" ,Todo el mundo odia a Chris S4 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/708eb79a-db66-499c-ac9e-347c1abef11d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWIa7YXX3DLZ7NVs2n-TD9KwT8TlyrV4Z01niWrG4dIVNdc9bpuF-7LTKKGhmYooYo.jpg" tvg-name="Todo el mundo odia a Chris S4 E3" ,Todo el mundo odia a Chris S4 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e84ecdd2-c21e-4bec-91a1-4eb615c5e2ff.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWrZvskkQr2tJZ5lzIfSyH8GsONNdFt0bFJsnSWjX_XGyEar7lGdoYJ05r1AETloiI.jpg" tvg-name="Todo el mundo odia a Chris S4 E4" ,Todo el mundo odia a Chris S4 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/5b284330-9e20-4841-899f-57c70eb132d8.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUiVi260flnUGJcjWNHh-83Z75LH2LrUzIqMv8NRVfFF0bBay25aUqLp5VLRxd2m7E.jpg" tvg-name="Todo el mundo odia a Chris S4 E5" ,Todo el mundo odia a Chris S4 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e9363308-29bb-4ada-b598-a5b56820ba62.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWAijeJAH4PjdJB2cPPAWQG3AEEyO7UukrBGFHlvd5gazpwHPcoWKg7b5RpTVgjsuA.jpg" tvg-name="Todo el mundo odia a Chris S4 E6" ,Todo el mundo odia a Chris S4 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f886f5b5-93c3-4e0e-a9a5-d3669f7496ce.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWZtRDdaQ-EUrxSCU28Ib0aB6gPDRMTmuLOP-0aSB0gJD68BmOQp-CKzc9KI64V8GA.jpg" tvg-name="Todo el mundo odia a Chris S4 E7" ,Todo el mundo odia a Chris S4 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/299f3b6b-857f-433e-85fa-55a3fba8b03a.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWDLgZZ_pTeVD_LDOjf3MGkdRP7BxExXlY2UYwLtILJw1BBSFV-OQXDbGraTJ5d5nA.jpg" tvg-name="Todo el mundo odia a Chris S4 E8" ,Todo el mundo odia a Chris S4 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1b567cd6-27bd-4d80-8c23-78d3673c9685.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXtOCGGETvZVJsjT61Tya4kLbd-DYXgB_YdvtoiFeOezXOSRfz_7EqmxYSALj9gasQ.jpg" tvg-name="Todo el mundo odia a Chris S4 E9" ,Todo el mundo odia a Chris S4 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/47e032c0-3e51-4809-8bd5-ce673cdfab12.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWHIefINCUPEygIeg-mQ2QmilorWirSWctQlKi18u-easDe0J7vu-84ADWMwiXSwYI.jpg" tvg-name="Todo el mundo odia a Chris S4 E10" ,Todo el mundo odia a Chris S4 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fb243b0b-1477-42e5-8f4d-f7ff0372df0c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWRlNXNf4f35uMwqyFse1OIaOvJ9_de096cibxWTtjl4O6UtABsUkZJZs2y2SFsR4M.jpg" tvg-name="Todo el mundo odia a Chris S4 E11" ,Todo el mundo odia a Chris S4 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7872fa67-dd29-4fdc-80ff-e714c5e9d016.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXirBmh-hcN5Zg84rHbAX1f8A_K-d9s1f77ML6F1zy_mHkhCygGEIJBSaA8oJPHSsw.jpg" tvg-name="Todo el mundo odia a Chris S4 E12" ,Todo el mundo odia a Chris S4 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2c0311f1-72cc-4a15-8770-1956766fa11f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW6W7FosYSufAztFoQZn7Z8YtJoR6qDuvzz8cTfJnxckgPgbUizcWCIStSu1pHc9aY.jpg" tvg-name="Todo el mundo odia a Chris S4 E13" ,Todo el mundo odia a Chris S4 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/da7bda16-17cd-4e34-a92c-8e5bb886fa68.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW5MZkPfalZqCCfFoXqAYVy548et7uHknzA4NvKMGUDLQ5wg4MeeUPbG-A8hYeIzFY.jpg" tvg-name="Todo el mundo odia a Chris S4 E14" ,Todo el mundo odia a Chris S4 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7bafaec5-daf2-4bd8-94c3-0fdf1715688b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWlsD-ov1i8A8Jy2_pd-clkpWiyIOkvLVbCchuteiXVQvdvkl0A59f11BSbrGRRAA0.jpg" tvg-name="Todo el mundo odia a Chris S4 E15" ,Todo el mundo odia a Chris S4 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/16f06778-77c8-4d0f-aa6e-460528ca174c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVR5NSW2GrucNOeId2E7cdpHneME-JlIJ0u6tT185CLbRKz1ncJ0aZQthAUAGhe-PU.jpg" tvg-name="Todo el mundo odia a Chris S4 E16" ,Todo el mundo odia a Chris S4 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e4ab5a73-5bdb-4c23-b53c-e791aabadfb8.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsbjhUBniAKCMBNRInyN4P2fjsz6Jb38i8g_EPkRMpWDlQJTXnaX54c40exxV0BUE.jpg" tvg-name="Todo el mundo odia a Chris S4 E17" ,Todo el mundo odia a Chris S4 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b942af56-94ec-427d-b1d4-e96dd55f8f9d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVlNaexhX-3JScZoYGUXKsnnZB7DjWhtmr7QHyR36W8dLtnjVzSgu1QDdH5VRSYwGs.jpg" tvg-name="Todo el mundo odia a Chris S4 E18" ,Todo el mundo odia a Chris S4 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/14d7e8be-0553-4d6b-b698-fe5dd61aa197.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXVhuDREEUOySho3aTXoiaaACSuoxGLI9iA0-AQY4K9YM6Os-RxXaqzvAbZi--q1iE.jpg" tvg-name="Todo el mundo odia a Chris S4 E19" ,Todo el mundo odia a Chris S4 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d23dacfd-be3d-4ab4-ab21-631f4defb7d2.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW4lr-1W1MvAHDjbfyLi_TIMa5ulChIEyNI3Bvli3soSyGWdhaKUpwFRf0HPgaWNm0.jpg" tvg-name="Todo el mundo odia a Chris S4 E20" ,Todo el mundo odia a Chris S4 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a8967732-9a66-449c-94e1-c0ebac28277c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX7t9mC7ugYCLaHXjD3W103eB0FGfK4d7hEKWo-QLxLg7VVgjlwMUXNVHuL-95TbqM.jpg" tvg-name="Todo el mundo odia a Chris S4 E21" ,Todo el mundo odia a Chris S4 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/881684d3-23f4-4308-b213-f2639f263415.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV7ubM7lIhI_aVY3OYEEF2jPo_V7noMDJWCvh6Gk4SfNQIOM_Sc9XttblH-eFLdR0E.jpg" tvg-name="Todo el mundo odia a Chris S4 E22" ,Todo el mundo odia a Chris S4 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/423a35b2-923f-4310-ae58-d408e72ea6cf.mp4
