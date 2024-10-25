@@ -4,6 +4,486 @@
 #LISTA PUBLICA DE MI USO PERSONAL#
 
 
+
+
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IZ2Naxyr38CFRAfLUsp7UB6cXG.jpg" tvg-name="La furia de la montaña (2021)" ,La furia de la montaña (2021)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH3BiH3N_EJmjSL0HJc4WXLwkApvhDQiNtuFO4YFGqBJg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUmRm043sZx4p5q93lklw0c6jMJ.jpg" tvg-name="A fuego lento (2023)" ,A fuego lento (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEa5jZPYjUQAI0Rt1jwVNUnqx8sIwtl5ALSvYYqX7SBuA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAWZUshBg4hS8TIeLOEhJbglpo.jpg" tvg-name="Mr-9 Misión Mortal (2023)" ,Mr-9 Misión Mortal (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHh7ZH_eSk-bmGydFwJXwkEC1aM5__yFcKnuITHkP0oEA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUFZGYWlDU1SqfvV3ph3xrct013.jpg" tvg-name="Burga (2023)" ,Burga (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFzZlGtbMZzTm6t7NBXvJb_2qILBV2nQunaJAwv30MM4A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWwaW9Nt3u4zs61AnKiktgrD2jU.jpg" tvg-name="Tempestad De Hielo (2023)" ,Tempestad De Hielo (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHqPqVzPevHo6DA8qQc3pHHdiTFI5ArTOoE849OTC1Bkg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWUrJ9WiEpTGoDjlw2UhNHiUueW.jpg" tvg-name="El Demonio Entre Nosotros (2023)" ,El Demonio Entre Nosotros (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHHKauRoztMKP6f17p0CkVTpVUyzLroj3INy72TYbZQcA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg" tvg-name="El exorcismo de Eastfield (2023)" ,El exorcismo de Eastfield (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHibKkOuwHDjARop1tVkzTb-GaioMWrfbOFs8WoK1KPCQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvturWf7y6zjfBIIhb18TicuLh.jpg" tvg-name="Accion Rapida (2023)" ,Accion Rapida (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGPGI5cdIH1aGhjbWeDapkdKKRAxBnFIVdlPKgI-YDm4A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmJME2Hjwb3fISEQWyN3Vpto5O.jpg" tvg-name="Hotel serpiente (2023)" ,Hotel serpiente (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF9x8qWO1bg1FyDDTqYjxoE7GZfOLNs5cqsE41Iv1M1gg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" tvg-name="Proyecto Extracción (C) (2023)" ,Proyecto Extracción (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHFBBdknR1pXCMHs4ves-3go0OsDW4NsD_xzpZZO9Mryg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPDEY0M4pdzG7e2JM7OyB7TjFB.jpg" tvg-name="La Torre Del Infierno (C) (2023)" ,La Torre Del Infierno (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE7Kbc-qsaiaqhD0SVH73yuCcM3AF9K5JHS5yUxT3LyjA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MgeIWontRgJJSO2tnziEnpOfW.jpg" tvg-name="Atraco 88 (C) (2023)" ,Atraco 88 (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlyJWaRPzT4Q0PB2XgjC3PWOoy7qZ_FInP0T5RYtSlKg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r62EYMhiSR9ExYutKJZKXmfMzzd.jpg" tvg-name="Mutt (C) (2023)" ,Mutt (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE9hZFYXkXVTVoFX68AQ3f_HSuFA0BOBTtWq2Lpk4hmfA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ90n7OugxdqYct8Tb5TtljtMqs.jpg" tvg-name="The Shift: El gran Cambio (A) (2023)" ,The Shift: El gran Cambio (A) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF0-G2aH0oApVS7t8cCZh-bZxqeSKsH5ffzb7HUis5rMw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLVcHGky7KQthqe2Wsrmv2AeKS.jpg" tvg-name="El rapto (C) (2023)" ,El rapto (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHu0huK9nwl2sCWAfQVWvqbW3LJc-Wgxu1LZbCpw1IwzQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" tvg-name="65: Al Borde de la Extincion (2023)" ,65: Al Borde de la Extincion (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEAIlxxAg9mqdcnOk2Zo_fCfLKrL0L7j3X-kz2AEhvIVA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" tvg-name="Mafia de Mumbai: Policía contra el inframundo (2023)" ,Mafia de Mumbai: Policía contra el inframundo (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEpKAyUZwfpTNtoM-AMWegbAT4hXo9G7PeHWTp8-Q3w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1ocR7F1aIx4UhdXbmG1akSZ9Bj.jpg" tvg-name="Re/Member (2022)" ,Re/Member (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGjaCUkkF5WwSqz_9mM_Q9e2ixLY4Az08XO7xI2zRqR-A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHc4qiyNIi8qw3K4HDyL26Yut-EuXXZUk5mRwF3busgXQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r68DugmiasKiduv6V6Piulm8Gn.jpg" tvg-name="Los extraños (2023)" ,Los extraños (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFA66ixh7oNX7dQ3do7YQBzDF4wXiLu-ywaDs36XhFtxA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" tvg-name="Embaucadores (2023)" ,Embaucadores (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEh82icUHnEmrVaIk-gM8N7YQrpv3U9IOPmVKhtZJkVFw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byZCKMtAWIVI4iBIEY64Wd1Eh1l.jpg" tvg-name="Un fantasma anda suelto por casa (2023)" ,Un fantasma anda suelto por casa (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGt5DG01y4nKqF21BN-A51b4Iu3y2u0bozpMVc78hoCHg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" tvg-name="Hart: Duro de entrenar (2023)" ,Hart: Duro de entrenar (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHY0uJnG9ckkZUiImewmwRFjigzzlLWRfVazdSVOV7uXQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crUvuWFANaL0pWomG1lQCA3Pxcu.jpg" tvg-name="El visitante del futuro (2022)" ,El visitante del futuro (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHt6eOOWdqNatq1SP8KSjyGVz2yriatEe1owDRCXE345w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg" tvg-name="Operación Fortune: El gran engaño (2023)" ,Operación Fortune: El gran engaño (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhESpN3ryiq53cj6TtnE49sE-XcVlW1xgnJQ3lHOOkt-1Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fblgaYA1YC2V9cxv1vgHvRphZld.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF8XMhZ6v2TP8INZzizVzrS8WfPZ-JovOsIkJBO9HA2Jg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oURwoX6p103uvRmz4LgtsgrTcuM.jpg" tvg-name="Lobo Feroz (2023)" ,Lobo Feroz (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFvIHIAY6P8oSEqPIjxScpu57hDdbG4kn7GBl2Oa9ruwg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JIBwcHAEEteIAgepqf4asxRKSh.jpg" tvg-name="Ruido mental (2023)" ,Ruido mental (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF5DPIdoE0Eg0mrzKN52r9UpEV70ytyW-gH3MKObzGuHA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A70rat4oypHnFsb4J4MoSciNo3I.jpg" tvg-name="El rey de las sombras (2023)" ,El rey de las sombras (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHmcREX8-OiHBzlhx6M_TINQL1UYI297Y-95YsGhFD02w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg" tvg-name="El estrangulador de Boston (2023)" ,El estrangulador de Boston (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG6Z6C4ZWkNnggirWpR8qEr1Yj_qDJX8JqQrmOuZdTdEQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqt0jrqBG2zEScNkTuuRAd11Unc.jpg" tvg-name="Momias (2023)" ,Momias (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFFLFmAb0ShhHFMzrTP5G_SxIaqEf6K8_5aSBcOMb2c2Q#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5nXOX4GmuCNzv29qswOZrMWU5P.jpg" tvg-name="Vuelo al límite (2023)" ,Vuelo al límite (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHF4LZxDciqcn6rUO00L9Z7eT7GrxGFG0JeerbG0TRPlA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgVuWwp0UBAnpRdbhoLkObatsV.jpg" tvg-name="Soy inocente (2023)" ,Soy inocente (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQXP_uJl77EL0B6KWXF10iqwNrMx0FzPz5ChxSXQuXzw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cphIfZ7FYXib0Y4ZZ2cTv4Q3jAt.jpg" tvg-name="La resurrección de la momia (2023)" ,La resurrección de la momia (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFuXRkU8y5a8OViphO8BuqtqaroXgCKrwldnco9mpLkKg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9eaYQDTpJEcGJuR5BL8SbO6kG0.jpg" tvg-name="Rastros de sangre (2022)" ,Rastros de sangre (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHb8p8bAFDnN8LMPNqPYCtgbz06p0gzIANkuViMElNUMA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" tvg-name="A la intemperie (2023)" ,A la intemperie (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFox6nAtLwI_Yon6XJpmW9I8mlWK0mnmKbYVgkI8Phs6A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEtub2YWmhkoMbxJ4DXHRgFrZazuPO-2X5DAlu7bxnQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" tvg-name="Quasi (2023)" ,Quasi (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGIkNtPasJjIlP25DL1LuY5F67UP8IfC9VcQEixjYH_0Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0JffFtxcWEJBLKayH3d34WnNT.jpg" tvg-name="Scream VI (2023)" ,Scream VI (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF3vWWYlk1tTtXvyrqddg8_6jvl4e-a91bIDoxptEkIAQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tETzFLV6TtPIAxo10sSatI1W0UP.jpg" tvg-name="El último samurái (2003)" ,El último samurái (2003)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHgT6Tu3IlYh33u6FbfcxWhdpknZaOWVFVUXjHPMe19lw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9oWJaBm75spo2FUlb7kyTYGogc.jpg" tvg-name="El Ascensor del Diablo (2020)" ,El Ascensor del Diablo (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlZ2S2gqj7o7m6aQDQFDsGg13djFyP_QgyE3ZBTrMcaA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg" tvg-name="47 Meters Down: The Wreck" ,47 Meters Down: The Wreck
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGK-6XTXknn1N_hhD6vb8u30OlaZwkudV9QHDgR6uupNw#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKjxng2LOhtdaIudGe4ZEOyFLey.jpg" tvg-name="Muñecas Asesinas (2019)" ,Muñecas Asesinas (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEm8ZwOZxZ_Jax2P8FmhciFsmETb2cMw0bTGPwEIfNY7g#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg" tvg-name="El habitante (2018)" ,El habitante (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEOor0ev-I12Y9b35BCe_PC50lnESg_z_9EVcl15GVOSQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" tvg-name="A 47 metros 2 (2019)" ,A 47 metros 2 (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEHmY6pn9zw9HkAVxbd2Xkg_11iN08JS0qsZRXDHiN1lQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3k0rTHUc1Iw5NQuvWiUTA8KxSi.jpg" tvg-name="End The Silence (2019)" ,End The Silence (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEpBvZRlBjdoGFPpYrS5oHko16tChKA0dcgXzcfT4Xqpg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" tvg-name="Family Blood (2018)" ,Family Blood (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG653gPuV7uaqvgGQdH66Z3fa6lL1Yp8stoy8mErPXnDw#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15uFXE2wTPfPsjxzgm3DYp2TehQ.jpg" tvg-name="Archivo 253 (2015)" ,Archivo 253 (2015)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG1cpILc2efZzG2eYqaV9OS0rEz82u6TbXIrh4n3CXbQA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekf7Ufxhubi00h02oWq6gbkWX.jpg" tvg-name="Antebellum (2020)" ,Antebellum (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHn5VqNPkotjAsQmOaHz84ry3rE1UnPOE6Y_JjnCy_EQQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg" tvg-name="La casa en la playa (2019)" ,La casa en la playa (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFXPH3va_Afs8XpC-OGJ2RpW62ity0LjRBgOOIBASi0lg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bIdi1u4wq5axdW7gKhga5envh.jpg" tvg-name="La habitación (The room) (2019)" ,La habitación (The room) (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG0xD20xWkJw5gH1AeDGkLKbgC27Pi4T3u8Po7Z6SihCg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" tvg-name="Malevolent (2018)" ,Malevolent (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFovyuWEoJXFwhjrV7Ag1YFO0rj5m0mQWR82JWfk-nYmA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" tvg-name="La caja negra (2020)" ,La caja negra (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEKdm8Dx2Uekn6l3OnJP6aORgqQLK_uqUsiOt7ABRvk7A#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" tvg-name="Madre oscura (2020)" ,Madre oscura (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEdG-R1IIE_fRT4sCDlvYAIUytbcfQc4Gv7jffWVn14BQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg" tvg-name="No dormirás (2018)" ,No dormirás (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZAsifhaTFTvVY82ku4wHFr4gZ9HUy-JdUv1kQ0oEPKg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HH54SnZoRpFO26DgBbqdJd38zX.jpg" tvg-name="Perfect Days (2023)" ,Perfect Days (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH0ptl4EnN6kbikpeeQGVw818EeuEWCmNYqLjgBrAjizw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uotXQy2IKigAA6vvUIUsBPNHkH0.jpg" tvg-name="Los siete magníficos (2016)" ,Los siete magníficos (2016)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHtAcitE0SYlSF5ivht7vvTqG9kQ09_Q7AUb7GBi7Qs0Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iFkwShRf5M29yLABAdsEZyr9w6.jpg" tvg-name="Greenland: El último refugio (2020)" ,Greenland: El último refugio (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFCi7J9XWSOq2Jv_FZotK6HFUXmUULn94GQ7e8p7KVcQQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCYN3bccjOG0w857JTf5UOKsPEH.jpg" tvg-name="Vanguard (2020)" ,Vanguard (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFloXLLLTbmBUZCA30aio6_O0QyrZSoOrz4mXdmrFRi_Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg" tvg-name="Fast & Furious X (2023)" ,Fast & Furious X (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFUO9l1dvET45FF0oelmhQcLk-d0KD5Bnk21nvIXOqXrA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" tvg-name="13 Horas: Los soldados secretos de Bengasi (2016)" ,13 Horas: Los soldados secretos de Bengasi (2016)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZ70c5OZPl4zGWfj7fg-1Sf_eBOx4RMf4Eb7Ck1TGIhQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNOvlEsBPHpI3mekQ90ItaNzelu.jpg" tvg-name="AK-47 (2020)" ,AK-47 (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHd5VUAvwa9F07qXv5BNonn1VdW5NFUtPExKPqBrOuc_w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWzrUYxUfnpmLbm0rwyGKuFwpTO.jpg" tvg-name="Dunkerque (2017)" ,Dunkerque (2017)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEkplxuWXCb94Gd5HFHveml7NdnNLe9nifqLYw5AlHFnQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfmGUN9SW2t4hYUxIDu2niTJKhB.jpg" tvg-name="Midway (2019)" ,Midway (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF10Vx87jAB59t-TsWZtFuIMNJvxstFb8sqeDsGPKLJdA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhENCQXwzJw4JvOeHghsD_4aqvMzP9htSA8N0noby19S8A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5wXuE8GeupmdikwoJvCjCYMETh.jpg" tvg-name="Zona hostil (2017)" ,Zona hostil (2017)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG_Dcb70hB1n4ZyU6LnPpAl16aIA4WIvODGv9EnWtZ7EQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEYTJ6wEddRgJavPdTgRRJquz4gGy4hTn5sNxEkHVtyVw#.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-name="Capitana Marvel (2019)" ,Capitana Marvel (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH-1Y7ctCQsfgH32S4Ju3D7uYfAmg0Sy0yUQTEJCEukHA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Capitán América: El soldado de invierno (2014)" ,Capitán América: El soldado de invierno (2014)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFL6UHWa2IRaVXh9Mykk-zzev5irl327FC3SfPcvP53Ww#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes (2020)" ,Los nuevos mutantes (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQHUxTLyckC0Vg4akhi5h55BP3Px1yweXqaabzz4LaFg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEB5WeGmVbVmrgAqjv3qOkATrftrz7MmRABtK5TuyKYCQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" tvg-name="Guardianes de la Galaxia: Volumen 3 (2023)" ,Guardianes de la Galaxia: Volumen 3 (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHCpXl7xEzgPllF6B54LBtXL8QF7crccHlj6S2507gMBQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" tvg-name="Black Panther: Wakanda Forever (2022)" ,Black Panther: Wakanda Forever (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFJrf5VRtJhy5C73EYfMNjwfKhflvrKBwkujJfWCN2CTQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,DISNEY + & STAR + 1 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPQY6FWf8HRfUfspGpp3e8p/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 2 HD" ,DISNEY + & STAR + 2 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPnyWa_E6lvsqP01GhmWT2-/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" tvg-name="ɆSPN HD" ,ɆSPN HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNNLq7zyoM6XEuwfl6BQbYv/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN SD" ,ɆSPN SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOjDC9gc8x564pZiMs0iRO6/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/8z8DnB3H/ESPN-MEX.png" tvg-name="MX | E$PN 1 HD" ,MX | E$PN 1 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM4j8cVgs52Sv3tAvbDmHBL/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 HD" ,ɆSPN 2 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNcbShH_f7PVAZkaS7zo-Bo/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 SD" ,ɆSPN 2 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOCAmAKIcDOIEvkXm_KNVy9/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/rFM7dnv7/ESPN-2-MX.png" tvg-name="MX | E$PN 2 HD" ,MX | E$PN 2 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNAvZZYDYXOkxGAsMclHpkV/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="ɆSPN 3 HD" ,ɆSPN 3 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNVgUUBbGqrgZ7hfQRfMnLr/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="Ɇ$PN 3 SD" ,Ɇ$PN 3 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM_l5pknZ9LoekBzjgOnwpV/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/g2B7TYnP/ESPN-3-MX.png" tvg-name="MX | ESPN 3 HD" ,MX | ESPN 3 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOLmeOgYaFIsSjgTCaUEZLo/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 HD" ,ɆSPN 4 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNO0is9c7UaKvKk6zhP1bIu/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 SD" ,ɆSPN 4 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOMiRpMaRb-tPZF-uyk7qnk/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 HD" ,ɆSPN 5 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNjpibRRQNzWmFraIXyEhpm/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 SD" ,ɆSPN 5 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNfDY3kP96RhBL7vV4uu6xI/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 HD" ,ɆSPN 6 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPMipRUBhTjhFwvBH-JQZBv/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 SD" ,ɆSPN 6 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOc5Vl2GWswQcpM8wQNQ9w3/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 HD" ,ɆSPN 7 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPkE98HkxLCnnP7ftOy86yU/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 SD" ,ɆSPN 7 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPLNjsi0pCnqwJ0K5Bcbj5a/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM HD" ,ɆSPN PREMIUM HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPRNHsLpRqjemlAr-UMk_q6/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM SD" ,ɆSPN PREMIUM SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmN-j44RHmKZ_jz_5wSzITpl/m3u8
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k2YeLHxS3Y8W239JX3yCxQuIle.jpg" tvg-name="28 Días Paranormales S1 E1" ,28 Días Paranormales S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d2ef688b-82e5-4433-b20a-fbe05f49d63f.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59MxIhcmiVZsPgvUWRliSMPcpyh.jpg" tvg-name="28 Días Paranormales S1 E2" ,28 Días Paranormales S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a9d2e9b6-c58c-469c-aa0b-f0ff7907e3f5.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC7tSnNEjKwchWdUDLhz34FbbLB.jpg" tvg-name="28 Días Paranormales S1 E3" ,28 Días Paranormales S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/19061f2d-fd91-408d-840b-4bc2a65e7a57.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmiM8nwJhK0ThgnVPdXm86psNRY.jpg" tvg-name="28 Días Paranormales S1 E4" ,28 Días Paranormales S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9c831b8b-95ac-4c1e-85fc-d94651afcdf2.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj93iBw3i4wSsh778yqqeq4Gg4L.jpg" tvg-name="28 Días Paranormales S1 E5" ,28 Días Paranormales S1 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2a4149d7-f92b-410d-a566-43bb4e1fbb99.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vI31UfvpFW30kRSZrKspXJ7rIzY.jpg" tvg-name="28 Días Paranormales S1 E6" ,28 Días Paranormales S1 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/174818f9-54e4-48d8-8be8-48b7523c3c74.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nSAU9kqc08wE2XARMkMsAsrQcp.jpg" tvg-name="Acabo de matar a mi padre S1 E1" ,Acabo de matar a mi padre S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8a38998b-a4a2-49f8-9ea8-8b1b6eef69d1.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iyWpdThIGaBZpUPK4ESi98qRC6.jpg" tvg-name="Acabo de matar a mi padre S1 E2" ,Acabo de matar a mi padre S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/c254b258-e547-4f56-9e36-22b341fab4fb.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOkJPl9Wnfg5pWTsdZcrSODM6Ht.jpg" tvg-name="Acabo de matar a mi padre S1 E3" ,Acabo de matar a mi padre S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/386d92f5-0c84-4f20-af87-49dc5569af65.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBdQHy7IZSeg8VLZZiPotlYOJBX.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E1" ,Acosador nocturno: A la caza de un asesino en serie S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/542fff6f-77db-42dc-8d50-8ecc3c7cbd87.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMDex2ArVnjFrfsxVIMBKmmf4J7.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E2" ,Acosador nocturno: A la caza de un asesino en serie S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b6b62173-cd0f-4387-9271-759b5dc0190c.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRuuUxU11BrTrAcxfLUtW6xtJAX.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E3" ,Acosador nocturno: A la caza de un asesino en serie S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0558d74c-57aa-4614-b6a6-400833089a0a.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj12VVmPly3HvERVsyPTEqKDd49.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E4" ,Acosador nocturno: A la caza de un asesino en serie S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/297f3be2-da48-4513-a570-1014609a738e.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBp9lG3mKqliftYRqs5eoVvyYay.jpg" tvg-name="Amor y anarquía S1 E1" ,Amor y anarquía S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2ffcf65b-aeda-4bdf-817d-fb6eb4dbd92f.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgQ5JTXHrAO1GbutTabsrEec8cf.jpg" tvg-name="Amor y anarquía S1 E2" ,Amor y anarquía S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1d4cc318-79ad-43dd-a930-86567a2d07ac.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eXgNPiLSGi7O9ZqRQeCwau59mI.jpg" tvg-name="Amor y anarquía S1 E3" ,Amor y anarquía S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/c614db7c-7669-4b3a-81f9-48805a3cb5d5.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tYazOOTWAVJGtt0rvapTcg4OIR.jpg" tvg-name="Amor y anarquía S1 E4" ,Amor y anarquía S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/57a2e2a3-8e59-433c-b244-228bc626b5fe.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAIY3edIvGTt0xcDAQa1t3Gp56l.jpg" tvg-name="Amor y anarquía S1 E5" ,Amor y anarquía S1 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d8493115-c646-4c23-a6f8-3f773e011585.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U4NZhSjV0hf9joO8cSPbbytlL2.jpg" tvg-name="Amor y anarquía S1 E6" ,Amor y anarquía S1 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a6f20040-88f5-4ce1-9fca-523b17b12b9a.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgp1GMbHvs63UAAh6VgKfdthvwR.jpg" tvg-name="Amor y anarquía S1 E7" ,Amor y anarquía S1 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/acaf38c7-10ca-42f4-bbbc-8d43cd51ddcd.mkv
+#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sx4ux6LRXFFFYAW67M7RmUrNeC.jpg" tvg-name="Amor y anarquía S1 E8" ,Amor y anarquía S1 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/294189ad-b692-4735-a9c6-91162285efc9.mkv
+
+
+
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IZ2Naxyr38CFRAfLUsp7UB6cXG.jpg" tvg-name="La furia de la montaña (2021)" ,La furia de la montaña (2021)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH3BiH3N_EJmjSL0HJc4WXLwkApvhDQiNtuFO4YFGqBJg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUmRm043sZx4p5q93lklw0c6jMJ.jpg" tvg-name="A fuego lento (2023)" ,A fuego lento (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEa5jZPYjUQAI0Rt1jwVNUnqx8sIwtl5ALSvYYqX7SBuA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAWZUshBg4hS8TIeLOEhJbglpo.jpg" tvg-name="Mr-9 Misión Mortal (2023)" ,Mr-9 Misión Mortal (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHh7ZH_eSk-bmGydFwJXwkEC1aM5__yFcKnuITHkP0oEA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUFZGYWlDU1SqfvV3ph3xrct013.jpg" tvg-name="Burga (2023)" ,Burga (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFzZlGtbMZzTm6t7NBXvJb_2qILBV2nQunaJAwv30MM4A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWwaW9Nt3u4zs61AnKiktgrD2jU.jpg" tvg-name="Tempestad De Hielo (2023)" ,Tempestad De Hielo (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHqPqVzPevHo6DA8qQc3pHHdiTFI5ArTOoE849OTC1Bkg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWUrJ9WiEpTGoDjlw2UhNHiUueW.jpg" tvg-name="El Demonio Entre Nosotros (2023)" ,El Demonio Entre Nosotros (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHHKauRoztMKP6f17p0CkVTpVUyzLroj3INy72TYbZQcA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg" tvg-name="El exorcismo de Eastfield (2023)" ,El exorcismo de Eastfield (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHibKkOuwHDjARop1tVkzTb-GaioMWrfbOFs8WoK1KPCQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvturWf7y6zjfBIIhb18TicuLh.jpg" tvg-name="Accion Rapida (2023)" ,Accion Rapida (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGPGI5cdIH1aGhjbWeDapkdKKRAxBnFIVdlPKgI-YDm4A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmJME2Hjwb3fISEQWyN3Vpto5O.jpg" tvg-name="Hotel serpiente (2023)" ,Hotel serpiente (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF9x8qWO1bg1FyDDTqYjxoE7GZfOLNs5cqsE41Iv1M1gg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" tvg-name="Proyecto Extracción (C) (2023)" ,Proyecto Extracción (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHFBBdknR1pXCMHs4ves-3go0OsDW4NsD_xzpZZO9Mryg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPDEY0M4pdzG7e2JM7OyB7TjFB.jpg" tvg-name="La Torre Del Infierno (C) (2023)" ,La Torre Del Infierno (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE7Kbc-qsaiaqhD0SVH73yuCcM3AF9K5JHS5yUxT3LyjA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MgeIWontRgJJSO2tnziEnpOfW.jpg" tvg-name="Atraco 88 (C) (2023)" ,Atraco 88 (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlyJWaRPzT4Q0PB2XgjC3PWOoy7qZ_FInP0T5RYtSlKg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r62EYMhiSR9ExYutKJZKXmfMzzd.jpg" tvg-name="Mutt (C) (2023)" ,Mutt (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE9hZFYXkXVTVoFX68AQ3f_HSuFA0BOBTtWq2Lpk4hmfA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ90n7OugxdqYct8Tb5TtljtMqs.jpg" tvg-name="The Shift: El gran Cambio (A) (2023)" ,The Shift: El gran Cambio (A) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF0-G2aH0oApVS7t8cCZh-bZxqeSKsH5ffzb7HUis5rMw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLVcHGky7KQthqe2Wsrmv2AeKS.jpg" tvg-name="El rapto (C) (2023)" ,El rapto (C) (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHu0huK9nwl2sCWAfQVWvqbW3LJc-Wgxu1LZbCpw1IwzQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" tvg-name="65: Al Borde de la Extincion (2023)" ,65: Al Borde de la Extincion (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEAIlxxAg9mqdcnOk2Zo_fCfLKrL0L7j3X-kz2AEhvIVA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" tvg-name="Mafia de Mumbai: Policía contra el inframundo (2023)" ,Mafia de Mumbai: Policía contra el inframundo (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEpKAyUZwfpTNtoM-AMWegbAT4hXo9G7PeHWTp8-Q3w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1ocR7F1aIx4UhdXbmG1akSZ9Bj.jpg" tvg-name="Re/Member (2022)" ,Re/Member (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGjaCUkkF5WwSqz_9mM_Q9e2ixLY4Az08XO7xI2zRqR-A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHc4qiyNIi8qw3K4HDyL26Yut-EuXXZUk5mRwF3busgXQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r68DugmiasKiduv6V6Piulm8Gn.jpg" tvg-name="Los extraños (2023)" ,Los extraños (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFA66ixh7oNX7dQ3do7YQBzDF4wXiLu-ywaDs36XhFtxA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" tvg-name="Embaucadores (2023)" ,Embaucadores (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEh82icUHnEmrVaIk-gM8N7YQrpv3U9IOPmVKhtZJkVFw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byZCKMtAWIVI4iBIEY64Wd1Eh1l.jpg" tvg-name="Un fantasma anda suelto por casa (2023)" ,Un fantasma anda suelto por casa (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGt5DG01y4nKqF21BN-A51b4Iu3y2u0bozpMVc78hoCHg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" tvg-name="Hart: Duro de entrenar (2023)" ,Hart: Duro de entrenar (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHY0uJnG9ckkZUiImewmwRFjigzzlLWRfVazdSVOV7uXQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crUvuWFANaL0pWomG1lQCA3Pxcu.jpg" tvg-name="El visitante del futuro (2022)" ,El visitante del futuro (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHt6eOOWdqNatq1SP8KSjyGVz2yriatEe1owDRCXE345w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg" tvg-name="Operación Fortune: El gran engaño (2023)" ,Operación Fortune: El gran engaño (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhESpN3ryiq53cj6TtnE49sE-XcVlW1xgnJQ3lHOOkt-1Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fblgaYA1YC2V9cxv1vgHvRphZld.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF8XMhZ6v2TP8INZzizVzrS8WfPZ-JovOsIkJBO9HA2Jg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oURwoX6p103uvRmz4LgtsgrTcuM.jpg" tvg-name="Lobo Feroz (2023)" ,Lobo Feroz (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFvIHIAY6P8oSEqPIjxScpu57hDdbG4kn7GBl2Oa9ruwg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JIBwcHAEEteIAgepqf4asxRKSh.jpg" tvg-name="Ruido mental (2023)" ,Ruido mental (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF5DPIdoE0Eg0mrzKN52r9UpEV70ytyW-gH3MKObzGuHA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A70rat4oypHnFsb4J4MoSciNo3I.jpg" tvg-name="El rey de las sombras (2023)" ,El rey de las sombras (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHmcREX8-OiHBzlhx6M_TINQL1UYI297Y-95YsGhFD02w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg" tvg-name="El estrangulador de Boston (2023)" ,El estrangulador de Boston (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG6Z6C4ZWkNnggirWpR8qEr1Yj_qDJX8JqQrmOuZdTdEQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqt0jrqBG2zEScNkTuuRAd11Unc.jpg" tvg-name="Momias (2023)" ,Momias (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFFLFmAb0ShhHFMzrTP5G_SxIaqEf6K8_5aSBcOMb2c2Q#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5nXOX4GmuCNzv29qswOZrMWU5P.jpg" tvg-name="Vuelo al límite (2023)" ,Vuelo al límite (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHF4LZxDciqcn6rUO00L9Z7eT7GrxGFG0JeerbG0TRPlA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgVuWwp0UBAnpRdbhoLkObatsV.jpg" tvg-name="Soy inocente (2023)" ,Soy inocente (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQXP_uJl77EL0B6KWXF10iqwNrMx0FzPz5ChxSXQuXzw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cphIfZ7FYXib0Y4ZZ2cTv4Q3jAt.jpg" tvg-name="La resurrección de la momia (2023)" ,La resurrección de la momia (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFuXRkU8y5a8OViphO8BuqtqaroXgCKrwldnco9mpLkKg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9eaYQDTpJEcGJuR5BL8SbO6kG0.jpg" tvg-name="Rastros de sangre (2022)" ,Rastros de sangre (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHb8p8bAFDnN8LMPNqPYCtgbz06p0gzIANkuViMElNUMA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" tvg-name="A la intemperie (2023)" ,A la intemperie (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFox6nAtLwI_Yon6XJpmW9I8mlWK0mnmKbYVgkI8Phs6A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEtub2YWmhkoMbxJ4DXHRgFrZazuPO-2X5DAlu7bxnQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" tvg-name="Quasi (2023)" ,Quasi (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGIkNtPasJjIlP25DL1LuY5F67UP8IfC9VcQEixjYH_0Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0JffFtxcWEJBLKayH3d34WnNT.jpg" tvg-name="Scream VI (2023)" ,Scream VI (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF3vWWYlk1tTtXvyrqddg8_6jvl4e-a91bIDoxptEkIAQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tETzFLV6TtPIAxo10sSatI1W0UP.jpg" tvg-name="El último samurái (2003)" ,El último samurái (2003)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHgT6Tu3IlYh33u6FbfcxWhdpknZaOWVFVUXjHPMe19lw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9oWJaBm75spo2FUlb7kyTYGogc.jpg" tvg-name="El Ascensor del Diablo (2020)" ,El Ascensor del Diablo (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlZ2S2gqj7o7m6aQDQFDsGg13djFyP_QgyE3ZBTrMcaA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg" tvg-name="47 Meters Down: The Wreck" ,47 Meters Down: The Wreck
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGK-6XTXknn1N_hhD6vb8u30OlaZwkudV9QHDgR6uupNw#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKjxng2LOhtdaIudGe4ZEOyFLey.jpg" tvg-name="Muñecas Asesinas (2019)" ,Muñecas Asesinas (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEm8ZwOZxZ_Jax2P8FmhciFsmETb2cMw0bTGPwEIfNY7g#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg" tvg-name="El habitante (2018)" ,El habitante (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEOor0ev-I12Y9b35BCe_PC50lnESg_z_9EVcl15GVOSQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" tvg-name="A 47 metros 2 (2019)" ,A 47 metros 2 (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEHmY6pn9zw9HkAVxbd2Xkg_11iN08JS0qsZRXDHiN1lQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3k0rTHUc1Iw5NQuvWiUTA8KxSi.jpg" tvg-name="End The Silence (2019)" ,End The Silence (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEpBvZRlBjdoGFPpYrS5oHko16tChKA0dcgXzcfT4Xqpg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" tvg-name="Family Blood (2018)" ,Family Blood (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG653gPuV7uaqvgGQdH66Z3fa6lL1Yp8stoy8mErPXnDw#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15uFXE2wTPfPsjxzgm3DYp2TehQ.jpg" tvg-name="Archivo 253 (2015)" ,Archivo 253 (2015)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG1cpILc2efZzG2eYqaV9OS0rEz82u6TbXIrh4n3CXbQA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekf7Ufxhubi00h02oWq6gbkWX.jpg" tvg-name="Antebellum (2020)" ,Antebellum (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHn5VqNPkotjAsQmOaHz84ry3rE1UnPOE6Y_JjnCy_EQQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg" tvg-name="La casa en la playa (2019)" ,La casa en la playa (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFXPH3va_Afs8XpC-OGJ2RpW62ity0LjRBgOOIBASi0lg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bIdi1u4wq5axdW7gKhga5envh.jpg" tvg-name="La habitación (The room) (2019)" ,La habitación (The room) (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG0xD20xWkJw5gH1AeDGkLKbgC27Pi4T3u8Po7Z6SihCg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" tvg-name="Malevolent (2018)" ,Malevolent (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFovyuWEoJXFwhjrV7Ag1YFO0rj5m0mQWR82JWfk-nYmA#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" tvg-name="La caja negra (2020)" ,La caja negra (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEKdm8Dx2Uekn6l3OnJP6aORgqQLK_uqUsiOt7ABRvk7A#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" tvg-name="Madre oscura (2020)" ,Madre oscura (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEdG-R1IIE_fRT4sCDlvYAIUytbcfQc4Gv7jffWVn14BQ#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg" tvg-name="No dormirás (2018)" ,No dormirás (2018)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZAsifhaTFTvVY82ku4wHFr4gZ9HUy-JdUv1kQ0oEPKg#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HH54SnZoRpFO26DgBbqdJd38zX.jpg" tvg-name="Perfect Days (2023)" ,Perfect Days (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH0ptl4EnN6kbikpeeQGVw818EeuEWCmNYqLjgBrAjizw#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uotXQy2IKigAA6vvUIUsBPNHkH0.jpg" tvg-name="Los siete magníficos (2016)" ,Los siete magníficos (2016)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHtAcitE0SYlSF5ivht7vvTqG9kQ09_Q7AUb7GBi7Qs0Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iFkwShRf5M29yLABAdsEZyr9w6.jpg" tvg-name="Greenland: El último refugio (2020)" ,Greenland: El último refugio (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFCi7J9XWSOq2Jv_FZotK6HFUXmUULn94GQ7e8p7KVcQQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCYN3bccjOG0w857JTf5UOKsPEH.jpg" tvg-name="Vanguard (2020)" ,Vanguard (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFloXLLLTbmBUZCA30aio6_O0QyrZSoOrz4mXdmrFRi_Q#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg" tvg-name="Fast & Furious X (2023)" ,Fast & Furious X (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFUO9l1dvET45FF0oelmhQcLk-d0KD5Bnk21nvIXOqXrA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" tvg-name="13 Horas: Los soldados secretos de Bengasi (2016)" ,13 Horas: Los soldados secretos de Bengasi (2016)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZ70c5OZPl4zGWfj7fg-1Sf_eBOx4RMf4Eb7Ck1TGIhQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNOvlEsBPHpI3mekQ90ItaNzelu.jpg" tvg-name="AK-47 (2020)" ,AK-47 (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHd5VUAvwa9F07qXv5BNonn1VdW5NFUtPExKPqBrOuc_w#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWzrUYxUfnpmLbm0rwyGKuFwpTO.jpg" tvg-name="Dunkerque (2017)" ,Dunkerque (2017)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEkplxuWXCb94Gd5HFHveml7NdnNLe9nifqLYw5AlHFnQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfmGUN9SW2t4hYUxIDu2niTJKhB.jpg" tvg-name="Midway (2019)" ,Midway (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF10Vx87jAB59t-TsWZtFuIMNJvxstFb8sqeDsGPKLJdA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhENCQXwzJw4JvOeHghsD_4aqvMzP9htSA8N0noby19S8A#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5wXuE8GeupmdikwoJvCjCYMETh.jpg" tvg-name="Zona hostil (2017)" ,Zona hostil (2017)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG_Dcb70hB1n4ZyU6LnPpAl16aIA4WIvODGv9EnWtZ7EQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEYTJ6wEddRgJavPdTgRRJquz4gGy4hTn5sNxEkHVtyVw#.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-name="Capitana Marvel (2019)" ,Capitana Marvel (2019)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH-1Y7ctCQsfgH32S4Ju3D7uYfAmg0Sy0yUQTEJCEukHA#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Capitán América: El soldado de invierno (2014)" ,Capitán América: El soldado de invierno (2014)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFL6UHWa2IRaVXh9Mykk-zzev5irl327FC3SfPcvP53Ww#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes (2020)" ,Los nuevos mutantes (2020)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQHUxTLyckC0Vg4akhi5h55BP3Px1yweXqaabzz4LaFg#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEB5WeGmVbVmrgAqjv3qOkATrftrz7MmRABtK5TuyKYCQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" tvg-name="Guardianes de la Galaxia: Volumen 3 (2023)" ,Guardianes de la Galaxia: Volumen 3 (2023)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHCpXl7xEzgPllF6B54LBtXL8QF7crccHlj6S2507gMBQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" tvg-name="Black Panther: Wakanda Forever (2022)" ,Black Panther: Wakanda Forever (2022)
+http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFJrf5VRtJhy5C73EYfMNjwfKhflvrKBwkujJfWCN2CTQ#.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,DISNEY + & STAR + 1 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPQY6FWf8HRfUfspGpp3e8p/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 2 HD" ,DISNEY + & STAR + 2 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPnyWa_E6lvsqP01GhmWT2-/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" tvg-name="ɆSPN HD" ,ɆSPN HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNNLq7zyoM6XEuwfl6BQbYv/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN SD" ,ɆSPN SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOjDC9gc8x564pZiMs0iRO6/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/8z8DnB3H/ESPN-MEX.png" tvg-name="MX | E$PN 1 HD" ,MX | E$PN 1 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM4j8cVgs52Sv3tAvbDmHBL/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 HD" ,ɆSPN 2 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNcbShH_f7PVAZkaS7zo-Bo/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 SD" ,ɆSPN 2 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOCAmAKIcDOIEvkXm_KNVy9/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/rFM7dnv7/ESPN-2-MX.png" tvg-name="MX | E$PN 2 HD" ,MX | E$PN 2 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNAvZZYDYXOkxGAsMclHpkV/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="ɆSPN 3 HD" ,ɆSPN 3 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNVgUUBbGqrgZ7hfQRfMnLr/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="Ɇ$PN 3 SD" ,Ɇ$PN 3 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM_l5pknZ9LoekBzjgOnwpV/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/g2B7TYnP/ESPN-3-MX.png" tvg-name="MX | ESPN 3 HD" ,MX | ESPN 3 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOLmeOgYaFIsSjgTCaUEZLo/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 HD" ,ɆSPN 4 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNO0is9c7UaKvKk6zhP1bIu/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 SD" ,ɆSPN 4 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOMiRpMaRb-tPZF-uyk7qnk/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 HD" ,ɆSPN 5 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNjpibRRQNzWmFraIXyEhpm/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 SD" ,ɆSPN 5 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNfDY3kP96RhBL7vV4uu6xI/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 HD" ,ɆSPN 6 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPMipRUBhTjhFwvBH-JQZBv/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 SD" ,ɆSPN 6 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOc5Vl2GWswQcpM8wQNQ9w3/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 HD" ,ɆSPN 7 HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPkE98HkxLCnnP7ftOy86yU/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 SD" ,ɆSPN 7 SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPLNjsi0pCnqwJ0K5Bcbj5a/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM HD" ,ɆSPN PREMIUM HD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPRNHsLpRqjemlAr-UMk_q6/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM SD" ,ɆSPN PREMIUM SD
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmN-j44RHmKZ_jz_5wSzITpl/m3u8
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a83R6vXXHnJnzaJpfwc4cHruKPk.jpg" tvg-name="Cars: En La Carretera S1 E1" ,Cars: En La Carretera S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e85e3594-7d44-409a-ba86-1fb095724d0e.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldmJXyvMxBu2fa0B9L5jZDZUw2t.jpg" tvg-name="Cars: En La Carretera S1 E2" ,Cars: En La Carretera S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a2709e8a-d23f-4b40-88c9-003ec26f52a1.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40TNl5j2FZ95u7bhvNqPwHdIvj0.jpg" tvg-name="Cars: En La Carretera S1 E3" ,Cars: En La Carretera S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ef7e92e5-c043-42fd-8620-2aef1365e872.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Tnq7CWZOxjwP0vzwYwRZc9Dj3B.jpg" tvg-name="Cars: En La Carretera S1 E4" ,Cars: En La Carretera S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b6f86016-d0ae-46fb-b6b3-5526fb9b2ff8.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLZOjIA9aK90Wti67e3RUAOCbZ.jpg" tvg-name="Cars: En La Carretera S1 E5" ,Cars: En La Carretera S1 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/54b89f5e-5396-49b0-8caf-1985a79e34e4.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z8cyW0N6gOblFZVizfyRxO5aq7.jpg" tvg-name="Cars: En La Carretera S1 E6" ,Cars: En La Carretera S1 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4f67a765-1b60-4dc7-bfb5-7676328cadfb.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfZEQC2D6w5pHRsD7oAFtknB7lY.jpg" tvg-name="Cars: En La Carretera S1 E7" ,Cars: En La Carretera S1 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4e1ba00e-f190-48e2-9644-cf3138ede21c.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SaEhvz3aZaaK0GtNSBy3OctxG3.jpg" tvg-name="Cars: En La Carretera S1 E8" ,Cars: En La Carretera S1 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8b9e9d48-5aeb-4149-a49b-87fe5c5471a5.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/magIv71REHj30RQtw44EL6wHNb8.jpg" tvg-name="Cars: En La Carretera S1 E9" ,Cars: En La Carretera S1 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e390b656-fbc0-409c-9d98-cdba749c4bef.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99HTgLOFtZotTtHRwkXQFAOrDjN.jpg" tvg-name="Willow S1 E2" ,Willow S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fab4a12a-f67b-4edd-b9b3-94abc8cc5630.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCQ44uUqo1t8RtLYVvmnLLNHCHh.jpg" tvg-name="Willow S1 E3" ,Willow S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0ab3023e-a389-43f9-97a9-0e7fa7359280.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOGdTbrbnejZA917t8l4LyONhXd.jpg" tvg-name="Willow S1 E4" ,Willow S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4a4e9232-fc85-491e-8344-ecdd4c479c52.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90SxyOAoUkd5xTDOj31aul20GQ1.jpg" tvg-name="Willow S1 E5" ,Willow S1 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/82807d25-d553-4086-b9f5-d517912562cf.mkv
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/sR38RmCtE9RF2nL9ogfCEi9fpGD.jpg" tvg-name="The Gifted: Los elegidos S1 E1" ,The Gifted: Los elegidos S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2bfba565-7383-4da6-9884-6f9d75ecb0a3.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/qrIKgafF6AwFZp2gHTx3o0sPwk6.jpg" tvg-name="The Gifted: Los elegidos S1 E2" ,The Gifted: Los elegidos S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b0f8e552-c17a-495c-b4ae-ed00443eac3e.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/79DzFeGDYOcudkhmz4zkEvddDFZ.jpg" tvg-name="The Gifted: Los elegidos S1 E3" ,The Gifted: Los elegidos S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/92044101-f721-4aba-9900-72b5d81d1f73.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/pqdOKjek6HCccR1eiX5we85ATJG.jpg" tvg-name="The Gifted: Los elegidos S1 E4" ,The Gifted: Los elegidos S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0ed8c69d-3470-41f5-ad5a-2fe3ba956423.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/zltXLVeDfvJ9x7oN2XovpbPnUJ4.jpg" tvg-name="The Gifted: Los elegidos S1 E5" ,The Gifted: Los elegidos S1 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3fa931a9-6788-4dd2-9b74-d393f54587e6.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/in0uHxnWdrI7dJIyFWmMFHJpmXS.jpg" tvg-name="The Gifted: Los elegidos S1 E6" ,The Gifted: Los elegidos S1 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9652eff9-deca-42dc-98ce-fa7c754bdd12.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/qR9pDlcPDlQkWE5yIT7wJFwdJSV.jpg" tvg-name="The Gifted: Los elegidos S1 E7" ,The Gifted: Los elegidos S1 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ec3c7c02-41e5-4a6e-afe4-7cf74c00d3ac.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/fiKtwRuVOaeaafXOBlqVEfFMfSU.jpg" tvg-name="The Gifted: Los elegidos S1 E8" ,The Gifted: Los elegidos S1 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a0008ecf-2b68-46e8-83ae-3c4b2ea5145d.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/kFdxo0W04wOFcBmvbiwLvUzVHEw.jpg" tvg-name="The Gifted: Los elegidos S1 E9" ,The Gifted: Los elegidos S1 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f3bff133-9405-43bb-a953-a1b6d2819fd5.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/m9SLHQDBtn6vUovaLy1B4OOfdhb.jpg" tvg-name="The Gifted: Los elegidos S1 E10" ,The Gifted: Los elegidos S1 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/cf4e3c2f-bdfa-4069-81af-e3a61a93588a.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/jEeyaLXjlMDzimXyxevPVhNsFKw.jpg" tvg-name="The Gifted: Los elegidos S1 E11" ,The Gifted: Los elegidos S1 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/28a21ec5-e786-4ad3-b271-44ef952dd117.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/AbHT2L83QAoxv6Kkh3L6iX7Pt4t.jpg" tvg-name="The Gifted: Los elegidos S1 E12" ,The Gifted: Los elegidos S1 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/01e27e84-96cc-4431-b397-9c9d2d42a689.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/dyodv2hMlpUAaKsWjtv6mllBfrU.jpg" tvg-name="The Gifted: Los elegidos S1 E13" ,The Gifted: Los elegidos S1 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/5b93f82f-cff2-44e6-b1e1-f76462552353.mp4
+#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/jnXiBT1R6OaE6neND4pCG0Ba4XR.jpg" tvg-name="The Gifted: Los elegidos S2 E1" ,The Gifted: Los elegidos S2 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7f4a0be5-2f44-4b9d-b094-52e6a31e7695.mp4
+
+
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTARᵛᶦᵖ ◉
 http://embed-cloudfront.wistia.com/deliveries/bc4a7e0300ebdd8a9c3c05fe3ed7bc3cfd759efc.m3u8
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
