@@ -4,486 +4,6 @@
 #LISTA PUBLICA DE MI USO PERSONAL#
 
 
-
-
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IZ2Naxyr38CFRAfLUsp7UB6cXG.jpg" tvg-name="La furia de la montaña (2021)" ,La furia de la montaña (2021)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH3BiH3N_EJmjSL0HJc4WXLwkApvhDQiNtuFO4YFGqBJg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUmRm043sZx4p5q93lklw0c6jMJ.jpg" tvg-name="A fuego lento (2023)" ,A fuego lento (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEa5jZPYjUQAI0Rt1jwVNUnqx8sIwtl5ALSvYYqX7SBuA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAWZUshBg4hS8TIeLOEhJbglpo.jpg" tvg-name="Mr-9 Misión Mortal (2023)" ,Mr-9 Misión Mortal (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHh7ZH_eSk-bmGydFwJXwkEC1aM5__yFcKnuITHkP0oEA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUFZGYWlDU1SqfvV3ph3xrct013.jpg" tvg-name="Burga (2023)" ,Burga (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFzZlGtbMZzTm6t7NBXvJb_2qILBV2nQunaJAwv30MM4A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWwaW9Nt3u4zs61AnKiktgrD2jU.jpg" tvg-name="Tempestad De Hielo (2023)" ,Tempestad De Hielo (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHqPqVzPevHo6DA8qQc3pHHdiTFI5ArTOoE849OTC1Bkg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWUrJ9WiEpTGoDjlw2UhNHiUueW.jpg" tvg-name="El Demonio Entre Nosotros (2023)" ,El Demonio Entre Nosotros (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHHKauRoztMKP6f17p0CkVTpVUyzLroj3INy72TYbZQcA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg" tvg-name="El exorcismo de Eastfield (2023)" ,El exorcismo de Eastfield (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHibKkOuwHDjARop1tVkzTb-GaioMWrfbOFs8WoK1KPCQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvturWf7y6zjfBIIhb18TicuLh.jpg" tvg-name="Accion Rapida (2023)" ,Accion Rapida (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGPGI5cdIH1aGhjbWeDapkdKKRAxBnFIVdlPKgI-YDm4A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmJME2Hjwb3fISEQWyN3Vpto5O.jpg" tvg-name="Hotel serpiente (2023)" ,Hotel serpiente (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF9x8qWO1bg1FyDDTqYjxoE7GZfOLNs5cqsE41Iv1M1gg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" tvg-name="Proyecto Extracción (C) (2023)" ,Proyecto Extracción (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHFBBdknR1pXCMHs4ves-3go0OsDW4NsD_xzpZZO9Mryg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPDEY0M4pdzG7e2JM7OyB7TjFB.jpg" tvg-name="La Torre Del Infierno (C) (2023)" ,La Torre Del Infierno (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE7Kbc-qsaiaqhD0SVH73yuCcM3AF9K5JHS5yUxT3LyjA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MgeIWontRgJJSO2tnziEnpOfW.jpg" tvg-name="Atraco 88 (C) (2023)" ,Atraco 88 (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlyJWaRPzT4Q0PB2XgjC3PWOoy7qZ_FInP0T5RYtSlKg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r62EYMhiSR9ExYutKJZKXmfMzzd.jpg" tvg-name="Mutt (C) (2023)" ,Mutt (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE9hZFYXkXVTVoFX68AQ3f_HSuFA0BOBTtWq2Lpk4hmfA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ90n7OugxdqYct8Tb5TtljtMqs.jpg" tvg-name="The Shift: El gran Cambio (A) (2023)" ,The Shift: El gran Cambio (A) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF0-G2aH0oApVS7t8cCZh-bZxqeSKsH5ffzb7HUis5rMw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLVcHGky7KQthqe2Wsrmv2AeKS.jpg" tvg-name="El rapto (C) (2023)" ,El rapto (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHu0huK9nwl2sCWAfQVWvqbW3LJc-Wgxu1LZbCpw1IwzQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" tvg-name="65: Al Borde de la Extincion (2023)" ,65: Al Borde de la Extincion (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEAIlxxAg9mqdcnOk2Zo_fCfLKrL0L7j3X-kz2AEhvIVA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" tvg-name="Mafia de Mumbai: Policía contra el inframundo (2023)" ,Mafia de Mumbai: Policía contra el inframundo (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEpKAyUZwfpTNtoM-AMWegbAT4hXo9G7PeHWTp8-Q3w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1ocR7F1aIx4UhdXbmG1akSZ9Bj.jpg" tvg-name="Re/Member (2022)" ,Re/Member (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGjaCUkkF5WwSqz_9mM_Q9e2ixLY4Az08XO7xI2zRqR-A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHc4qiyNIi8qw3K4HDyL26Yut-EuXXZUk5mRwF3busgXQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r68DugmiasKiduv6V6Piulm8Gn.jpg" tvg-name="Los extraños (2023)" ,Los extraños (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFA66ixh7oNX7dQ3do7YQBzDF4wXiLu-ywaDs36XhFtxA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" tvg-name="Embaucadores (2023)" ,Embaucadores (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEh82icUHnEmrVaIk-gM8N7YQrpv3U9IOPmVKhtZJkVFw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byZCKMtAWIVI4iBIEY64Wd1Eh1l.jpg" tvg-name="Un fantasma anda suelto por casa (2023)" ,Un fantasma anda suelto por casa (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGt5DG01y4nKqF21BN-A51b4Iu3y2u0bozpMVc78hoCHg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" tvg-name="Hart: Duro de entrenar (2023)" ,Hart: Duro de entrenar (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHY0uJnG9ckkZUiImewmwRFjigzzlLWRfVazdSVOV7uXQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crUvuWFANaL0pWomG1lQCA3Pxcu.jpg" tvg-name="El visitante del futuro (2022)" ,El visitante del futuro (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHt6eOOWdqNatq1SP8KSjyGVz2yriatEe1owDRCXE345w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg" tvg-name="Operación Fortune: El gran engaño (2023)" ,Operación Fortune: El gran engaño (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhESpN3ryiq53cj6TtnE49sE-XcVlW1xgnJQ3lHOOkt-1Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fblgaYA1YC2V9cxv1vgHvRphZld.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF8XMhZ6v2TP8INZzizVzrS8WfPZ-JovOsIkJBO9HA2Jg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oURwoX6p103uvRmz4LgtsgrTcuM.jpg" tvg-name="Lobo Feroz (2023)" ,Lobo Feroz (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFvIHIAY6P8oSEqPIjxScpu57hDdbG4kn7GBl2Oa9ruwg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JIBwcHAEEteIAgepqf4asxRKSh.jpg" tvg-name="Ruido mental (2023)" ,Ruido mental (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF5DPIdoE0Eg0mrzKN52r9UpEV70ytyW-gH3MKObzGuHA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A70rat4oypHnFsb4J4MoSciNo3I.jpg" tvg-name="El rey de las sombras (2023)" ,El rey de las sombras (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHmcREX8-OiHBzlhx6M_TINQL1UYI297Y-95YsGhFD02w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg" tvg-name="El estrangulador de Boston (2023)" ,El estrangulador de Boston (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG6Z6C4ZWkNnggirWpR8qEr1Yj_qDJX8JqQrmOuZdTdEQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqt0jrqBG2zEScNkTuuRAd11Unc.jpg" tvg-name="Momias (2023)" ,Momias (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFFLFmAb0ShhHFMzrTP5G_SxIaqEf6K8_5aSBcOMb2c2Q#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5nXOX4GmuCNzv29qswOZrMWU5P.jpg" tvg-name="Vuelo al límite (2023)" ,Vuelo al límite (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHF4LZxDciqcn6rUO00L9Z7eT7GrxGFG0JeerbG0TRPlA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgVuWwp0UBAnpRdbhoLkObatsV.jpg" tvg-name="Soy inocente (2023)" ,Soy inocente (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQXP_uJl77EL0B6KWXF10iqwNrMx0FzPz5ChxSXQuXzw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cphIfZ7FYXib0Y4ZZ2cTv4Q3jAt.jpg" tvg-name="La resurrección de la momia (2023)" ,La resurrección de la momia (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFuXRkU8y5a8OViphO8BuqtqaroXgCKrwldnco9mpLkKg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9eaYQDTpJEcGJuR5BL8SbO6kG0.jpg" tvg-name="Rastros de sangre (2022)" ,Rastros de sangre (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHb8p8bAFDnN8LMPNqPYCtgbz06p0gzIANkuViMElNUMA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" tvg-name="A la intemperie (2023)" ,A la intemperie (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFox6nAtLwI_Yon6XJpmW9I8mlWK0mnmKbYVgkI8Phs6A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEtub2YWmhkoMbxJ4DXHRgFrZazuPO-2X5DAlu7bxnQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" tvg-name="Quasi (2023)" ,Quasi (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGIkNtPasJjIlP25DL1LuY5F67UP8IfC9VcQEixjYH_0Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0JffFtxcWEJBLKayH3d34WnNT.jpg" tvg-name="Scream VI (2023)" ,Scream VI (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF3vWWYlk1tTtXvyrqddg8_6jvl4e-a91bIDoxptEkIAQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tETzFLV6TtPIAxo10sSatI1W0UP.jpg" tvg-name="El último samurái (2003)" ,El último samurái (2003)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHgT6Tu3IlYh33u6FbfcxWhdpknZaOWVFVUXjHPMe19lw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9oWJaBm75spo2FUlb7kyTYGogc.jpg" tvg-name="El Ascensor del Diablo (2020)" ,El Ascensor del Diablo (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlZ2S2gqj7o7m6aQDQFDsGg13djFyP_QgyE3ZBTrMcaA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg" tvg-name="47 Meters Down: The Wreck" ,47 Meters Down: The Wreck
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGK-6XTXknn1N_hhD6vb8u30OlaZwkudV9QHDgR6uupNw#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKjxng2LOhtdaIudGe4ZEOyFLey.jpg" tvg-name="Muñecas Asesinas (2019)" ,Muñecas Asesinas (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEm8ZwOZxZ_Jax2P8FmhciFsmETb2cMw0bTGPwEIfNY7g#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg" tvg-name="El habitante (2018)" ,El habitante (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEOor0ev-I12Y9b35BCe_PC50lnESg_z_9EVcl15GVOSQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" tvg-name="A 47 metros 2 (2019)" ,A 47 metros 2 (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEHmY6pn9zw9HkAVxbd2Xkg_11iN08JS0qsZRXDHiN1lQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3k0rTHUc1Iw5NQuvWiUTA8KxSi.jpg" tvg-name="End The Silence (2019)" ,End The Silence (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEpBvZRlBjdoGFPpYrS5oHko16tChKA0dcgXzcfT4Xqpg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" tvg-name="Family Blood (2018)" ,Family Blood (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG653gPuV7uaqvgGQdH66Z3fa6lL1Yp8stoy8mErPXnDw#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15uFXE2wTPfPsjxzgm3DYp2TehQ.jpg" tvg-name="Archivo 253 (2015)" ,Archivo 253 (2015)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG1cpILc2efZzG2eYqaV9OS0rEz82u6TbXIrh4n3CXbQA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekf7Ufxhubi00h02oWq6gbkWX.jpg" tvg-name="Antebellum (2020)" ,Antebellum (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHn5VqNPkotjAsQmOaHz84ry3rE1UnPOE6Y_JjnCy_EQQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg" tvg-name="La casa en la playa (2019)" ,La casa en la playa (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFXPH3va_Afs8XpC-OGJ2RpW62ity0LjRBgOOIBASi0lg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bIdi1u4wq5axdW7gKhga5envh.jpg" tvg-name="La habitación (The room) (2019)" ,La habitación (The room) (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG0xD20xWkJw5gH1AeDGkLKbgC27Pi4T3u8Po7Z6SihCg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" tvg-name="Malevolent (2018)" ,Malevolent (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFovyuWEoJXFwhjrV7Ag1YFO0rj5m0mQWR82JWfk-nYmA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" tvg-name="La caja negra (2020)" ,La caja negra (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEKdm8Dx2Uekn6l3OnJP6aORgqQLK_uqUsiOt7ABRvk7A#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" tvg-name="Madre oscura (2020)" ,Madre oscura (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEdG-R1IIE_fRT4sCDlvYAIUytbcfQc4Gv7jffWVn14BQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg" tvg-name="No dormirás (2018)" ,No dormirás (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZAsifhaTFTvVY82ku4wHFr4gZ9HUy-JdUv1kQ0oEPKg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HH54SnZoRpFO26DgBbqdJd38zX.jpg" tvg-name="Perfect Days (2023)" ,Perfect Days (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH0ptl4EnN6kbikpeeQGVw818EeuEWCmNYqLjgBrAjizw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uotXQy2IKigAA6vvUIUsBPNHkH0.jpg" tvg-name="Los siete magníficos (2016)" ,Los siete magníficos (2016)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHtAcitE0SYlSF5ivht7vvTqG9kQ09_Q7AUb7GBi7Qs0Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iFkwShRf5M29yLABAdsEZyr9w6.jpg" tvg-name="Greenland: El último refugio (2020)" ,Greenland: El último refugio (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFCi7J9XWSOq2Jv_FZotK6HFUXmUULn94GQ7e8p7KVcQQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCYN3bccjOG0w857JTf5UOKsPEH.jpg" tvg-name="Vanguard (2020)" ,Vanguard (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFloXLLLTbmBUZCA30aio6_O0QyrZSoOrz4mXdmrFRi_Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg" tvg-name="Fast & Furious X (2023)" ,Fast & Furious X (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFUO9l1dvET45FF0oelmhQcLk-d0KD5Bnk21nvIXOqXrA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" tvg-name="13 Horas: Los soldados secretos de Bengasi (2016)" ,13 Horas: Los soldados secretos de Bengasi (2016)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZ70c5OZPl4zGWfj7fg-1Sf_eBOx4RMf4Eb7Ck1TGIhQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNOvlEsBPHpI3mekQ90ItaNzelu.jpg" tvg-name="AK-47 (2020)" ,AK-47 (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHd5VUAvwa9F07qXv5BNonn1VdW5NFUtPExKPqBrOuc_w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWzrUYxUfnpmLbm0rwyGKuFwpTO.jpg" tvg-name="Dunkerque (2017)" ,Dunkerque (2017)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEkplxuWXCb94Gd5HFHveml7NdnNLe9nifqLYw5AlHFnQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfmGUN9SW2t4hYUxIDu2niTJKhB.jpg" tvg-name="Midway (2019)" ,Midway (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF10Vx87jAB59t-TsWZtFuIMNJvxstFb8sqeDsGPKLJdA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhENCQXwzJw4JvOeHghsD_4aqvMzP9htSA8N0noby19S8A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5wXuE8GeupmdikwoJvCjCYMETh.jpg" tvg-name="Zona hostil (2017)" ,Zona hostil (2017)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG_Dcb70hB1n4ZyU6LnPpAl16aIA4WIvODGv9EnWtZ7EQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEYTJ6wEddRgJavPdTgRRJquz4gGy4hTn5sNxEkHVtyVw#.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-name="Capitana Marvel (2019)" ,Capitana Marvel (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH-1Y7ctCQsfgH32S4Ju3D7uYfAmg0Sy0yUQTEJCEukHA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Capitán América: El soldado de invierno (2014)" ,Capitán América: El soldado de invierno (2014)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFL6UHWa2IRaVXh9Mykk-zzev5irl327FC3SfPcvP53Ww#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes (2020)" ,Los nuevos mutantes (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQHUxTLyckC0Vg4akhi5h55BP3Px1yweXqaabzz4LaFg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEB5WeGmVbVmrgAqjv3qOkATrftrz7MmRABtK5TuyKYCQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" tvg-name="Guardianes de la Galaxia: Volumen 3 (2023)" ,Guardianes de la Galaxia: Volumen 3 (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHCpXl7xEzgPllF6B54LBtXL8QF7crccHlj6S2507gMBQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" tvg-name="Black Panther: Wakanda Forever (2022)" ,Black Panther: Wakanda Forever (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFJrf5VRtJhy5C73EYfMNjwfKhflvrKBwkujJfWCN2CTQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,DISNEY + & STAR + 1 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPQY6FWf8HRfUfspGpp3e8p/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 2 HD" ,DISNEY + & STAR + 2 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPnyWa_E6lvsqP01GhmWT2-/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" tvg-name="ɆSPN HD" ,ɆSPN HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNNLq7zyoM6XEuwfl6BQbYv/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN SD" ,ɆSPN SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOjDC9gc8x564pZiMs0iRO6/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/8z8DnB3H/ESPN-MEX.png" tvg-name="MX | E$PN 1 HD" ,MX | E$PN 1 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM4j8cVgs52Sv3tAvbDmHBL/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 HD" ,ɆSPN 2 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNcbShH_f7PVAZkaS7zo-Bo/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 SD" ,ɆSPN 2 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOCAmAKIcDOIEvkXm_KNVy9/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/rFM7dnv7/ESPN-2-MX.png" tvg-name="MX | E$PN 2 HD" ,MX | E$PN 2 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNAvZZYDYXOkxGAsMclHpkV/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="ɆSPN 3 HD" ,ɆSPN 3 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNVgUUBbGqrgZ7hfQRfMnLr/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="Ɇ$PN 3 SD" ,Ɇ$PN 3 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM_l5pknZ9LoekBzjgOnwpV/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/g2B7TYnP/ESPN-3-MX.png" tvg-name="MX | ESPN 3 HD" ,MX | ESPN 3 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOLmeOgYaFIsSjgTCaUEZLo/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 HD" ,ɆSPN 4 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNO0is9c7UaKvKk6zhP1bIu/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 SD" ,ɆSPN 4 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOMiRpMaRb-tPZF-uyk7qnk/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 HD" ,ɆSPN 5 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNjpibRRQNzWmFraIXyEhpm/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 SD" ,ɆSPN 5 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNfDY3kP96RhBL7vV4uu6xI/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 HD" ,ɆSPN 6 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPMipRUBhTjhFwvBH-JQZBv/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 SD" ,ɆSPN 6 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOc5Vl2GWswQcpM8wQNQ9w3/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 HD" ,ɆSPN 7 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPkE98HkxLCnnP7ftOy86yU/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 SD" ,ɆSPN 7 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPLNjsi0pCnqwJ0K5Bcbj5a/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM HD" ,ɆSPN PREMIUM HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPRNHsLpRqjemlAr-UMk_q6/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM SD" ,ɆSPN PREMIUM SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmN-j44RHmKZ_jz_5wSzITpl/m3u8
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k2YeLHxS3Y8W239JX3yCxQuIle.jpg" tvg-name="28 Días Paranormales S1 E1" ,28 Días Paranormales S1 E1
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d2ef688b-82e5-4433-b20a-fbe05f49d63f.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59MxIhcmiVZsPgvUWRliSMPcpyh.jpg" tvg-name="28 Días Paranormales S1 E2" ,28 Días Paranormales S1 E2
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a9d2e9b6-c58c-469c-aa0b-f0ff7907e3f5.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC7tSnNEjKwchWdUDLhz34FbbLB.jpg" tvg-name="28 Días Paranormales S1 E3" ,28 Días Paranormales S1 E3
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/19061f2d-fd91-408d-840b-4bc2a65e7a57.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmiM8nwJhK0ThgnVPdXm86psNRY.jpg" tvg-name="28 Días Paranormales S1 E4" ,28 Días Paranormales S1 E4
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9c831b8b-95ac-4c1e-85fc-d94651afcdf2.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj93iBw3i4wSsh778yqqeq4Gg4L.jpg" tvg-name="28 Días Paranormales S1 E5" ,28 Días Paranormales S1 E5
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2a4149d7-f92b-410d-a566-43bb4e1fbb99.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vI31UfvpFW30kRSZrKspXJ7rIzY.jpg" tvg-name="28 Días Paranormales S1 E6" ,28 Días Paranormales S1 E6
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/174818f9-54e4-48d8-8be8-48b7523c3c74.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nSAU9kqc08wE2XARMkMsAsrQcp.jpg" tvg-name="Acabo de matar a mi padre S1 E1" ,Acabo de matar a mi padre S1 E1
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8a38998b-a4a2-49f8-9ea8-8b1b6eef69d1.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iyWpdThIGaBZpUPK4ESi98qRC6.jpg" tvg-name="Acabo de matar a mi padre S1 E2" ,Acabo de matar a mi padre S1 E2
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/c254b258-e547-4f56-9e36-22b341fab4fb.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOkJPl9Wnfg5pWTsdZcrSODM6Ht.jpg" tvg-name="Acabo de matar a mi padre S1 E3" ,Acabo de matar a mi padre S1 E3
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/386d92f5-0c84-4f20-af87-49dc5569af65.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBdQHy7IZSeg8VLZZiPotlYOJBX.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E1" ,Acosador nocturno: A la caza de un asesino en serie S1 E1
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/542fff6f-77db-42dc-8d50-8ecc3c7cbd87.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMDex2ArVnjFrfsxVIMBKmmf4J7.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E2" ,Acosador nocturno: A la caza de un asesino en serie S1 E2
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b6b62173-cd0f-4387-9271-759b5dc0190c.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRuuUxU11BrTrAcxfLUtW6xtJAX.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E3" ,Acosador nocturno: A la caza de un asesino en serie S1 E3
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0558d74c-57aa-4614-b6a6-400833089a0a.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj12VVmPly3HvERVsyPTEqKDd49.jpg" tvg-name="Acosador nocturno: A la caza de un asesino en serie S1 E4" ,Acosador nocturno: A la caza de un asesino en serie S1 E4
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/297f3be2-da48-4513-a570-1014609a738e.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBp9lG3mKqliftYRqs5eoVvyYay.jpg" tvg-name="Amor y anarquía S1 E1" ,Amor y anarquía S1 E1
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2ffcf65b-aeda-4bdf-817d-fb6eb4dbd92f.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgQ5JTXHrAO1GbutTabsrEec8cf.jpg" tvg-name="Amor y anarquía S1 E2" ,Amor y anarquía S1 E2
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1d4cc318-79ad-43dd-a930-86567a2d07ac.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eXgNPiLSGi7O9ZqRQeCwau59mI.jpg" tvg-name="Amor y anarquía S1 E3" ,Amor y anarquía S1 E3
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/c614db7c-7669-4b3a-81f9-48805a3cb5d5.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tYazOOTWAVJGtt0rvapTcg4OIR.jpg" tvg-name="Amor y anarquía S1 E4" ,Amor y anarquía S1 E4
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/57a2e2a3-8e59-433c-b244-228bc626b5fe.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAIY3edIvGTt0xcDAQa1t3Gp56l.jpg" tvg-name="Amor y anarquía S1 E5" ,Amor y anarquía S1 E5
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d8493115-c646-4c23-a6f8-3f773e011585.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U4NZhSjV0hf9joO8cSPbbytlL2.jpg" tvg-name="Amor y anarquía S1 E6" ,Amor y anarquía S1 E6
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a6f20040-88f5-4ce1-9fca-523b17b12b9a.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgp1GMbHvs63UAAh6VgKfdthvwR.jpg" tvg-name="Amor y anarquía S1 E7" ,Amor y anarquía S1 E7
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/acaf38c7-10ca-42f4-bbbc-8d43cd51ddcd.mkv
-#EXTINF:-1 group-title="▶️ SERIES NETFLIX ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sx4ux6LRXFFFYAW67M7RmUrNeC.jpg" tvg-name="Amor y anarquía S1 E8" ,Amor y anarquía S1 E8
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/294189ad-b692-4735-a9c6-91162285efc9.mkv
-
-
-
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IZ2Naxyr38CFRAfLUsp7UB6cXG.jpg" tvg-name="La furia de la montaña (2021)" ,La furia de la montaña (2021)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH3BiH3N_EJmjSL0HJc4WXLwkApvhDQiNtuFO4YFGqBJg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUmRm043sZx4p5q93lklw0c6jMJ.jpg" tvg-name="A fuego lento (2023)" ,A fuego lento (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEa5jZPYjUQAI0Rt1jwVNUnqx8sIwtl5ALSvYYqX7SBuA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAWZUshBg4hS8TIeLOEhJbglpo.jpg" tvg-name="Mr-9 Misión Mortal (2023)" ,Mr-9 Misión Mortal (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHh7ZH_eSk-bmGydFwJXwkEC1aM5__yFcKnuITHkP0oEA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUFZGYWlDU1SqfvV3ph3xrct013.jpg" tvg-name="Burga (2023)" ,Burga (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFzZlGtbMZzTm6t7NBXvJb_2qILBV2nQunaJAwv30MM4A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWwaW9Nt3u4zs61AnKiktgrD2jU.jpg" tvg-name="Tempestad De Hielo (2023)" ,Tempestad De Hielo (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHqPqVzPevHo6DA8qQc3pHHdiTFI5ArTOoE849OTC1Bkg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWUrJ9WiEpTGoDjlw2UhNHiUueW.jpg" tvg-name="El Demonio Entre Nosotros (2023)" ,El Demonio Entre Nosotros (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHHKauRoztMKP6f17p0CkVTpVUyzLroj3INy72TYbZQcA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg" tvg-name="El exorcismo de Eastfield (2023)" ,El exorcismo de Eastfield (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHibKkOuwHDjARop1tVkzTb-GaioMWrfbOFs8WoK1KPCQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvturWf7y6zjfBIIhb18TicuLh.jpg" tvg-name="Accion Rapida (2023)" ,Accion Rapida (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGPGI5cdIH1aGhjbWeDapkdKKRAxBnFIVdlPKgI-YDm4A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmJME2Hjwb3fISEQWyN3Vpto5O.jpg" tvg-name="Hotel serpiente (2023)" ,Hotel serpiente (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF9x8qWO1bg1FyDDTqYjxoE7GZfOLNs5cqsE41Iv1M1gg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" tvg-name="Proyecto Extracción (C) (2023)" ,Proyecto Extracción (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHFBBdknR1pXCMHs4ves-3go0OsDW4NsD_xzpZZO9Mryg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPDEY0M4pdzG7e2JM7OyB7TjFB.jpg" tvg-name="La Torre Del Infierno (C) (2023)" ,La Torre Del Infierno (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE7Kbc-qsaiaqhD0SVH73yuCcM3AF9K5JHS5yUxT3LyjA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MgeIWontRgJJSO2tnziEnpOfW.jpg" tvg-name="Atraco 88 (C) (2023)" ,Atraco 88 (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlyJWaRPzT4Q0PB2XgjC3PWOoy7qZ_FInP0T5RYtSlKg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r62EYMhiSR9ExYutKJZKXmfMzzd.jpg" tvg-name="Mutt (C) (2023)" ,Mutt (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhE9hZFYXkXVTVoFX68AQ3f_HSuFA0BOBTtWq2Lpk4hmfA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ90n7OugxdqYct8Tb5TtljtMqs.jpg" tvg-name="The Shift: El gran Cambio (A) (2023)" ,The Shift: El gran Cambio (A) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF0-G2aH0oApVS7t8cCZh-bZxqeSKsH5ffzb7HUis5rMw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLVcHGky7KQthqe2Wsrmv2AeKS.jpg" tvg-name="El rapto (C) (2023)" ,El rapto (C) (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHu0huK9nwl2sCWAfQVWvqbW3LJc-Wgxu1LZbCpw1IwzQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" tvg-name="65: Al Borde de la Extincion (2023)" ,65: Al Borde de la Extincion (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEAIlxxAg9mqdcnOk2Zo_fCfLKrL0L7j3X-kz2AEhvIVA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" tvg-name="Mafia de Mumbai: Policía contra el inframundo (2023)" ,Mafia de Mumbai: Policía contra el inframundo (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEpKAyUZwfpTNtoM-AMWegbAT4hXo9G7PeHWTp8-Q3w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1ocR7F1aIx4UhdXbmG1akSZ9Bj.jpg" tvg-name="Re/Member (2022)" ,Re/Member (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGjaCUkkF5WwSqz_9mM_Q9e2ixLY4Az08XO7xI2zRqR-A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHc4qiyNIi8qw3K4HDyL26Yut-EuXXZUk5mRwF3busgXQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r68DugmiasKiduv6V6Piulm8Gn.jpg" tvg-name="Los extraños (2023)" ,Los extraños (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFA66ixh7oNX7dQ3do7YQBzDF4wXiLu-ywaDs36XhFtxA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" tvg-name="Embaucadores (2023)" ,Embaucadores (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEh82icUHnEmrVaIk-gM8N7YQrpv3U9IOPmVKhtZJkVFw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byZCKMtAWIVI4iBIEY64Wd1Eh1l.jpg" tvg-name="Un fantasma anda suelto por casa (2023)" ,Un fantasma anda suelto por casa (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGt5DG01y4nKqF21BN-A51b4Iu3y2u0bozpMVc78hoCHg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" tvg-name="Hart: Duro de entrenar (2023)" ,Hart: Duro de entrenar (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHY0uJnG9ckkZUiImewmwRFjigzzlLWRfVazdSVOV7uXQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crUvuWFANaL0pWomG1lQCA3Pxcu.jpg" tvg-name="El visitante del futuro (2022)" ,El visitante del futuro (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHt6eOOWdqNatq1SP8KSjyGVz2yriatEe1owDRCXE345w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg" tvg-name="Operación Fortune: El gran engaño (2023)" ,Operación Fortune: El gran engaño (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhESpN3ryiq53cj6TtnE49sE-XcVlW1xgnJQ3lHOOkt-1Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fblgaYA1YC2V9cxv1vgHvRphZld.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF8XMhZ6v2TP8INZzizVzrS8WfPZ-JovOsIkJBO9HA2Jg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oURwoX6p103uvRmz4LgtsgrTcuM.jpg" tvg-name="Lobo Feroz (2023)" ,Lobo Feroz (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFvIHIAY6P8oSEqPIjxScpu57hDdbG4kn7GBl2Oa9ruwg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JIBwcHAEEteIAgepqf4asxRKSh.jpg" tvg-name="Ruido mental (2023)" ,Ruido mental (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF5DPIdoE0Eg0mrzKN52r9UpEV70ytyW-gH3MKObzGuHA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A70rat4oypHnFsb4J4MoSciNo3I.jpg" tvg-name="El rey de las sombras (2023)" ,El rey de las sombras (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHmcREX8-OiHBzlhx6M_TINQL1UYI297Y-95YsGhFD02w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg" tvg-name="El estrangulador de Boston (2023)" ,El estrangulador de Boston (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG6Z6C4ZWkNnggirWpR8qEr1Yj_qDJX8JqQrmOuZdTdEQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqt0jrqBG2zEScNkTuuRAd11Unc.jpg" tvg-name="Momias (2023)" ,Momias (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFFLFmAb0ShhHFMzrTP5G_SxIaqEf6K8_5aSBcOMb2c2Q#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5nXOX4GmuCNzv29qswOZrMWU5P.jpg" tvg-name="Vuelo al límite (2023)" ,Vuelo al límite (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHF4LZxDciqcn6rUO00L9Z7eT7GrxGFG0JeerbG0TRPlA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgVuWwp0UBAnpRdbhoLkObatsV.jpg" tvg-name="Soy inocente (2023)" ,Soy inocente (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQXP_uJl77EL0B6KWXF10iqwNrMx0FzPz5ChxSXQuXzw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cphIfZ7FYXib0Y4ZZ2cTv4Q3jAt.jpg" tvg-name="La resurrección de la momia (2023)" ,La resurrección de la momia (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFuXRkU8y5a8OViphO8BuqtqaroXgCKrwldnco9mpLkKg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9eaYQDTpJEcGJuR5BL8SbO6kG0.jpg" tvg-name="Rastros de sangre (2022)" ,Rastros de sangre (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHb8p8bAFDnN8LMPNqPYCtgbz06p0gzIANkuViMElNUMA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" tvg-name="A la intemperie (2023)" ,A la intemperie (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFox6nAtLwI_Yon6XJpmW9I8mlWK0mnmKbYVgkI8Phs6A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhETEtub2YWmhkoMbxJ4DXHRgFrZazuPO-2X5DAlu7bxnQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" tvg-name="Quasi (2023)" ,Quasi (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGIkNtPasJjIlP25DL1LuY5F67UP8IfC9VcQEixjYH_0Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0JffFtxcWEJBLKayH3d34WnNT.jpg" tvg-name="Scream VI (2023)" ,Scream VI (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF3vWWYlk1tTtXvyrqddg8_6jvl4e-a91bIDoxptEkIAQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tETzFLV6TtPIAxo10sSatI1W0UP.jpg" tvg-name="El último samurái (2003)" ,El último samurái (2003)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHgT6Tu3IlYh33u6FbfcxWhdpknZaOWVFVUXjHPMe19lw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9oWJaBm75spo2FUlb7kyTYGogc.jpg" tvg-name="El Ascensor del Diablo (2020)" ,El Ascensor del Diablo (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGlZ2S2gqj7o7m6aQDQFDsGg13djFyP_QgyE3ZBTrMcaA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg" tvg-name="47 Meters Down: The Wreck" ,47 Meters Down: The Wreck
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGK-6XTXknn1N_hhD6vb8u30OlaZwkudV9QHDgR6uupNw#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKjxng2LOhtdaIudGe4ZEOyFLey.jpg" tvg-name="Muñecas Asesinas (2019)" ,Muñecas Asesinas (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEm8ZwOZxZ_Jax2P8FmhciFsmETb2cMw0bTGPwEIfNY7g#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg" tvg-name="El habitante (2018)" ,El habitante (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEOor0ev-I12Y9b35BCe_PC50lnESg_z_9EVcl15GVOSQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" tvg-name="A 47 metros 2 (2019)" ,A 47 metros 2 (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEHmY6pn9zw9HkAVxbd2Xkg_11iN08JS0qsZRXDHiN1lQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3k0rTHUc1Iw5NQuvWiUTA8KxSi.jpg" tvg-name="End The Silence (2019)" ,End The Silence (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEpBvZRlBjdoGFPpYrS5oHko16tChKA0dcgXzcfT4Xqpg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" tvg-name="Family Blood (2018)" ,Family Blood (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG653gPuV7uaqvgGQdH66Z3fa6lL1Yp8stoy8mErPXnDw#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15uFXE2wTPfPsjxzgm3DYp2TehQ.jpg" tvg-name="Archivo 253 (2015)" ,Archivo 253 (2015)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG1cpILc2efZzG2eYqaV9OS0rEz82u6TbXIrh4n3CXbQA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekf7Ufxhubi00h02oWq6gbkWX.jpg" tvg-name="Antebellum (2020)" ,Antebellum (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHn5VqNPkotjAsQmOaHz84ry3rE1UnPOE6Y_JjnCy_EQQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg" tvg-name="La casa en la playa (2019)" ,La casa en la playa (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFXPH3va_Afs8XpC-OGJ2RpW62ity0LjRBgOOIBASi0lg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bIdi1u4wq5axdW7gKhga5envh.jpg" tvg-name="La habitación (The room) (2019)" ,La habitación (The room) (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG0xD20xWkJw5gH1AeDGkLKbgC27Pi4T3u8Po7Z6SihCg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" tvg-name="Malevolent (2018)" ,Malevolent (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFovyuWEoJXFwhjrV7Ag1YFO0rj5m0mQWR82JWfk-nYmA#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" tvg-name="La caja negra (2020)" ,La caja negra (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEKdm8Dx2Uekn6l3OnJP6aORgqQLK_uqUsiOt7ABRvk7A#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" tvg-name="Madre oscura (2020)" ,Madre oscura (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEdG-R1IIE_fRT4sCDlvYAIUytbcfQc4Gv7jffWVn14BQ#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg" tvg-name="No dormirás (2018)" ,No dormirás (2018)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZAsifhaTFTvVY82ku4wHFr4gZ9HUy-JdUv1kQ0oEPKg#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HH54SnZoRpFO26DgBbqdJd38zX.jpg" tvg-name="Perfect Days (2023)" ,Perfect Days (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH0ptl4EnN6kbikpeeQGVw818EeuEWCmNYqLjgBrAjizw#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uotXQy2IKigAA6vvUIUsBPNHkH0.jpg" tvg-name="Los siete magníficos (2016)" ,Los siete magníficos (2016)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHtAcitE0SYlSF5ivht7vvTqG9kQ09_Q7AUb7GBi7Qs0Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iFkwShRf5M29yLABAdsEZyr9w6.jpg" tvg-name="Greenland: El último refugio (2020)" ,Greenland: El último refugio (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFCi7J9XWSOq2Jv_FZotK6HFUXmUULn94GQ7e8p7KVcQQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCYN3bccjOG0w857JTf5UOKsPEH.jpg" tvg-name="Vanguard (2020)" ,Vanguard (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFloXLLLTbmBUZCA30aio6_O0QyrZSoOrz4mXdmrFRi_Q#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg" tvg-name="Fast & Furious X (2023)" ,Fast & Furious X (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFUO9l1dvET45FF0oelmhQcLk-d0KD5Bnk21nvIXOqXrA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" tvg-name="13 Horas: Los soldados secretos de Bengasi (2016)" ,13 Horas: Los soldados secretos de Bengasi (2016)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGZ70c5OZPl4zGWfj7fg-1Sf_eBOx4RMf4Eb7Ck1TGIhQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNOvlEsBPHpI3mekQ90ItaNzelu.jpg" tvg-name="AK-47 (2020)" ,AK-47 (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHd5VUAvwa9F07qXv5BNonn1VdW5NFUtPExKPqBrOuc_w#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWzrUYxUfnpmLbm0rwyGKuFwpTO.jpg" tvg-name="Dunkerque (2017)" ,Dunkerque (2017)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEkplxuWXCb94Gd5HFHveml7NdnNLe9nifqLYw5AlHFnQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfmGUN9SW2t4hYUxIDu2niTJKhB.jpg" tvg-name="Midway (2019)" ,Midway (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhF10Vx87jAB59t-TsWZtFuIMNJvxstFb8sqeDsGPKLJdA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhENCQXwzJw4JvOeHghsD_4aqvMzP9htSA8N0noby19S8A#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5wXuE8GeupmdikwoJvCjCYMETh.jpg" tvg-name="Zona hostil (2017)" ,Zona hostil (2017)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhG_Dcb70hB1n4ZyU6LnPpAl16aIA4WIvODGv9EnWtZ7EQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" tvg-name="The Outpost (2020)" ,The Outpost (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEYTJ6wEddRgJavPdTgRRJquz4gGy4hTn5sNxEkHVtyVw#.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-name="Capitana Marvel (2019)" ,Capitana Marvel (2019)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhH-1Y7ctCQsfgH32S4Ju3D7uYfAmg0Sy0yUQTEJCEukHA#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Capitán América: El soldado de invierno (2014)" ,Capitán América: El soldado de invierno (2014)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFL6UHWa2IRaVXh9Mykk-zzev5irl327FC3SfPcvP53Ww#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes (2020)" ,Los nuevos mutantes (2020)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhGQHUxTLyckC0Vg4akhi5h55BP3Px1yweXqaabzz4LaFg#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhEB5WeGmVbVmrgAqjv3qOkATrftrz7MmRABtK5TuyKYCQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" tvg-name="Guardianes de la Galaxia: Volumen 3 (2023)" ,Guardianes de la Galaxia: Volumen 3 (2023)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhHCpXl7xEzgPllF6B54LBtXL8QF7crccHlj6S2507gMBQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" tvg-name="Black Panther: Wakanda Forever (2022)" ,Black Panther: Wakanda Forever (2022)
-http://daleplay.club:80/play/TmxOLOajg9Um1LjmjLSKSQDYV7gQPC7hqG3ROyVSXhFJrf5VRtJhy5C73EYfMNjwfKhflvrKBwkujJfWCN2CTQ#.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,DISNEY + & STAR + 1 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPQY6FWf8HRfUfspGpp3e8p/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 2 HD" ,DISNEY + & STAR + 2 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPnyWa_E6lvsqP01GhmWT2-/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" tvg-name="ɆSPN HD" ,ɆSPN HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNNLq7zyoM6XEuwfl6BQbYv/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN SD" ,ɆSPN SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOjDC9gc8x564pZiMs0iRO6/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/8z8DnB3H/ESPN-MEX.png" tvg-name="MX | E$PN 1 HD" ,MX | E$PN 1 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM4j8cVgs52Sv3tAvbDmHBL/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 HD" ,ɆSPN 2 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNcbShH_f7PVAZkaS7zo-Bo/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 SD" ,ɆSPN 2 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOCAmAKIcDOIEvkXm_KNVy9/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/rFM7dnv7/ESPN-2-MX.png" tvg-name="MX | E$PN 2 HD" ,MX | E$PN 2 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNAvZZYDYXOkxGAsMclHpkV/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="ɆSPN 3 HD" ,ɆSPN 3 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNVgUUBbGqrgZ7hfQRfMnLr/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="Ɇ$PN 3 SD" ,Ɇ$PN 3 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmM_l5pknZ9LoekBzjgOnwpV/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/g2B7TYnP/ESPN-3-MX.png" tvg-name="MX | ESPN 3 HD" ,MX | ESPN 3 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOLmeOgYaFIsSjgTCaUEZLo/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 HD" ,ɆSPN 4 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNO0is9c7UaKvKk6zhP1bIu/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 SD" ,ɆSPN 4 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOMiRpMaRb-tPZF-uyk7qnk/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 HD" ,ɆSPN 5 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNjpibRRQNzWmFraIXyEhpm/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 SD" ,ɆSPN 5 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmNfDY3kP96RhBL7vV4uu6xI/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 HD" ,ɆSPN 6 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPMipRUBhTjhFwvBH-JQZBv/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 SD" ,ɆSPN 6 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOc5Vl2GWswQcpM8wQNQ9w3/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 HD" ,ɆSPN 7 HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPkE98HkxLCnnP7ftOy86yU/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 SD" ,ɆSPN 7 SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPLNjsi0pCnqwJ0K5Bcbj5a/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM HD" ,ɆSPN PREMIUM HD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPRNHsLpRqjemlAr-UMk_q6/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM SD" ,ɆSPN PREMIUM SD
-http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmN-j44RHmKZ_jz_5wSzITpl/m3u8
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a83R6vXXHnJnzaJpfwc4cHruKPk.jpg" tvg-name="Cars: En La Carretera S1 E1" ,Cars: En La Carretera S1 E1
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e85e3594-7d44-409a-ba86-1fb095724d0e.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldmJXyvMxBu2fa0B9L5jZDZUw2t.jpg" tvg-name="Cars: En La Carretera S1 E2" ,Cars: En La Carretera S1 E2
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a2709e8a-d23f-4b40-88c9-003ec26f52a1.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40TNl5j2FZ95u7bhvNqPwHdIvj0.jpg" tvg-name="Cars: En La Carretera S1 E3" ,Cars: En La Carretera S1 E3
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ef7e92e5-c043-42fd-8620-2aef1365e872.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Tnq7CWZOxjwP0vzwYwRZc9Dj3B.jpg" tvg-name="Cars: En La Carretera S1 E4" ,Cars: En La Carretera S1 E4
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b6f86016-d0ae-46fb-b6b3-5526fb9b2ff8.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLZOjIA9aK90Wti67e3RUAOCbZ.jpg" tvg-name="Cars: En La Carretera S1 E5" ,Cars: En La Carretera S1 E5
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/54b89f5e-5396-49b0-8caf-1985a79e34e4.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z8cyW0N6gOblFZVizfyRxO5aq7.jpg" tvg-name="Cars: En La Carretera S1 E6" ,Cars: En La Carretera S1 E6
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4f67a765-1b60-4dc7-bfb5-7676328cadfb.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfZEQC2D6w5pHRsD7oAFtknB7lY.jpg" tvg-name="Cars: En La Carretera S1 E7" ,Cars: En La Carretera S1 E7
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4e1ba00e-f190-48e2-9644-cf3138ede21c.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SaEhvz3aZaaK0GtNSBy3OctxG3.jpg" tvg-name="Cars: En La Carretera S1 E8" ,Cars: En La Carretera S1 E8
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8b9e9d48-5aeb-4149-a49b-87fe5c5471a5.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/magIv71REHj30RQtw44EL6wHNb8.jpg" tvg-name="Cars: En La Carretera S1 E9" ,Cars: En La Carretera S1 E9
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e390b656-fbc0-409c-9d98-cdba749c4bef.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99HTgLOFtZotTtHRwkXQFAOrDjN.jpg" tvg-name="Willow S1 E2" ,Willow S1 E2
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fab4a12a-f67b-4edd-b9b3-94abc8cc5630.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCQ44uUqo1t8RtLYVvmnLLNHCHh.jpg" tvg-name="Willow S1 E3" ,Willow S1 E3
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0ab3023e-a389-43f9-97a9-0e7fa7359280.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOGdTbrbnejZA917t8l4LyONhXd.jpg" tvg-name="Willow S1 E4" ,Willow S1 E4
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4a4e9232-fc85-491e-8344-ecdd4c479c52.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90SxyOAoUkd5xTDOj31aul20GQ1.jpg" tvg-name="Willow S1 E5" ,Willow S1 E5
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/82807d25-d553-4086-b9f5-d517912562cf.mkv
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/sR38RmCtE9RF2nL9ogfCEi9fpGD.jpg" tvg-name="The Gifted: Los elegidos S1 E1" ,The Gifted: Los elegidos S1 E1
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2bfba565-7383-4da6-9884-6f9d75ecb0a3.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/qrIKgafF6AwFZp2gHTx3o0sPwk6.jpg" tvg-name="The Gifted: Los elegidos S1 E2" ,The Gifted: Los elegidos S1 E2
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b0f8e552-c17a-495c-b4ae-ed00443eac3e.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/79DzFeGDYOcudkhmz4zkEvddDFZ.jpg" tvg-name="The Gifted: Los elegidos S1 E3" ,The Gifted: Los elegidos S1 E3
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/92044101-f721-4aba-9900-72b5d81d1f73.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/pqdOKjek6HCccR1eiX5we85ATJG.jpg" tvg-name="The Gifted: Los elegidos S1 E4" ,The Gifted: Los elegidos S1 E4
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0ed8c69d-3470-41f5-ad5a-2fe3ba956423.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/zltXLVeDfvJ9x7oN2XovpbPnUJ4.jpg" tvg-name="The Gifted: Los elegidos S1 E5" ,The Gifted: Los elegidos S1 E5
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3fa931a9-6788-4dd2-9b74-d393f54587e6.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/in0uHxnWdrI7dJIyFWmMFHJpmXS.jpg" tvg-name="The Gifted: Los elegidos S1 E6" ,The Gifted: Los elegidos S1 E6
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9652eff9-deca-42dc-98ce-fa7c754bdd12.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/qR9pDlcPDlQkWE5yIT7wJFwdJSV.jpg" tvg-name="The Gifted: Los elegidos S1 E7" ,The Gifted: Los elegidos S1 E7
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ec3c7c02-41e5-4a6e-afe4-7cf74c00d3ac.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/fiKtwRuVOaeaafXOBlqVEfFMfSU.jpg" tvg-name="The Gifted: Los elegidos S1 E8" ,The Gifted: Los elegidos S1 E8
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a0008ecf-2b68-46e8-83ae-3c4b2ea5145d.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/kFdxo0W04wOFcBmvbiwLvUzVHEw.jpg" tvg-name="The Gifted: Los elegidos S1 E9" ,The Gifted: Los elegidos S1 E9
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f3bff133-9405-43bb-a953-a1b6d2819fd5.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/m9SLHQDBtn6vUovaLy1B4OOfdhb.jpg" tvg-name="The Gifted: Los elegidos S1 E10" ,The Gifted: Los elegidos S1 E10
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/cf4e3c2f-bdfa-4069-81af-e3a61a93588a.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/jEeyaLXjlMDzimXyxevPVhNsFKw.jpg" tvg-name="The Gifted: Los elegidos S1 E11" ,The Gifted: Los elegidos S1 E11
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/28a21ec5-e786-4ad3-b271-44ef952dd117.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/AbHT2L83QAoxv6Kkh3L6iX7Pt4t.jpg" tvg-name="The Gifted: Los elegidos S1 E12" ,The Gifted: Los elegidos S1 E12
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/01e27e84-96cc-4431-b397-9c9d2d42a689.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/dyodv2hMlpUAaKsWjtv6mllBfrU.jpg" tvg-name="The Gifted: Los elegidos S1 E13" ,The Gifted: Los elegidos S1 E13
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/5b93f82f-cff2-44e6-b1e1-f76462552353.mp4
-#EXTINF:-1 group-title="▶️ SERIES DISNEY ▶️" tvg-logo="https://image.tmdb.org/t/p/w1280/jnXiBT1R6OaE6neND4pCG0Ba4XR.jpg" tvg-name="The Gifted: Los elegidos S2 E1" ,The Gifted: Los elegidos S2 E1
-http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7f4a0be5-2f44-4b9d-b094-52e6a31e7695.mp4
-
-
-
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTARᵛᶦᵖ ◉
 http://embed-cloudfront.wistia.com/deliveries/bc4a7e0300ebdd8a9c3c05fe3ed7bc3cfd759efc.m3u8
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
@@ -4466,6 +3986,7 @@ http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af9f2c33-c1d5
 
 
 
+
 #EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/av4YCVk0p3ch2ladEt1arZek9lP.jpg" tvg-name="Jungla de cristal" ,Jungla de cristal
 http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a270ae14-f4ca-47af-9f8a-48b4631c4fa1.mp4
 #EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg" tvg-name="La jungla 2: Alerta roja" ,La jungla 2: Alerta roja
@@ -5112,3 +4633,2467 @@ http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed5ac919-53d
 http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a05bfcbe-c738-4edd-9143-203de0096a26.mp4
 #EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg" tvg-name="Scary Movie 5" ,Scary Movie 5
 http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a7a11ca-369c-4dcb-ac68-4089d4d3d535.mp4
+
+
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLOf5qU2vx3cYRGkm5PDJBHxEq4.jpg" tvg-name="7 prisioneros" ,7 prisioneros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/959dcd42-6286-4b3b-809a-3abcbd31067f.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wj8hLGHAP9goBvvJ45TIK2RjsA.jpg" tvg-name="1922" ,1922
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59b1b3ad-c3d3-4676-9ce6-4593fc56a8d0.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ2aNqcIGopI2AsTREc8sQlz6CN.jpg" tvg-name="A descubierto" ,A descubierto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0f42b36b-afe0-4691-869d-82cd2badce4c.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg" tvg-name="Amina" ,Amina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e1c02cf-d2cf-4e98-95ac-e14a3f3f69cf.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1eeiiSYdna006YRQ6CXQPbKc3D.jpg" tvg-name="Amor al cuadrado" ,Amor al cuadrado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bef0687-ebcb-47fa-bc5a-ee7331b94a4f.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLZsYdbCKyK5bILoIX98nrdNPLX.jpg" tvg-name="Amor sin medida" ,Amor sin medida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/51dc33c0-ef3e-4685-9db5-320597fcc5bc.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bGVC0tkhvihjZHNFJuiuY2YcN7.jpg" tvg-name="A todos los chicos: Para siempre" ,A todos los chicos: Para siempre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ee42f926-5b35-44a9-9511-c48d51b82b79.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZdzQTmdwe6ztwW7m7TEpu3D1sw.jpg" tvg-name="Bajocero" ,Bajocero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2f8e87c5-98e2-4b81-86c5-c14d8a7a6cc4.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B33UMfA8Yr79qP7g90eMSLggXm.jpg" tvg-name="Historias de Amor" ,Historias de Amor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6272dfa3-2943-4018-8b13-560494331239.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQyi0oEk0WtkiWJxPi58M53Crzv.jpg" tvg-name="Barrenderos espaciales" ,Barrenderos espaciales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97213c61-cc19-44a9-85a1-c51d1474d7ee.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg" tvg-name="Bartkowiak" ,Bartkowiak
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/720e508f-5466-4b17-96fc-df763ace2be9.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79pacM3h5FoETnfuRC6O2qPfzn4.jpg" tvg-name="Benji" ,Benji
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7141be76-22fe-4190-b16f-348d5f4c3bb0.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eoRQY7VUMawwBnuD6uwN4szc8k.jpg" tvg-name="Blame!" ,Blame!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85815bfe-ab4f-40bb-a99b-2ad990c906a0.mkv
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8POGKMj4wbrBJPit6BofggbQMeh.jpg" tvg-name="Bleach" ,Bleach
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e6171ed-a7ed-49aa-97e9-f48ede48a22c.mkv
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xWEhLPlP9yg3DJbkKaBayBN98V.jpg" tvg-name="Bright" ,Bright
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f338564-c269-42e0-8497-10bd9e17d398.mkv
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TWRvY9XkDiFFcr72n0vs0oc0Vg.jpg" tvg-name="Bright: Alma de samurái" ,Bright: Alma de samurái
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/508079d1-9c63-4ef7-9e49-020fa2a98894.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpz8Ls7rI5nxMJ2UhQfTM42xvCo.jpg" tvg-name="Calle de la Humanidad, 8" ,Calle de la Humanidad, 8
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aaeeea90-9a3c-41bd-9dce-cd011b460dc9.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ4JUvORj4SRflrhE6qy8e6qHGY.jpg" tvg-name="Campo secreto: Nazis en EE. UU." ,Campo secreto: Nazis en EE. UU.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d2b68f5-0c0e-4c06-9d25-c92e56d2fb2b.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" tvg-name="Carnaval" ,Carnaval
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/601132f9-2340-49da-8692-a76225d5c7cd.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz60oMLIyZfkww0y4AiZ5uTNRqL.jpg" tvg-name="Centinela" ,Centinela
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b06b54c-a939-420c-b6f6-56e0de5cc4da.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBkdKValTGR64hvciuWX3O8fwUe.jpg" tvg-name="Cielo rojo sangre" ,Cielo rojo sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/52ede791-47ca-4089-8a56-637ca45e908a.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFM7N0k11HnNbAUfdur5vgSGRfH.jpg" tvg-name="Cowboy de asfalto" ,Cowboy de asfalto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/29ca4dc0-b874-4ee1-9d08-51de964c7089.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaDCR6bgZceYNcFWF7KHPo3FVXQ.jpg" tvg-name="Confesiones de una chica invisible" ,Confesiones de una chica invisible
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e343a256-bc49-47eb-947f-120f36a163a9.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rgRK0Hwt6KcQzn5MEc34JlR5RV.jpg" tvg-name="Cuentos al caer la noche" ,Cuentos al caer la noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c315b0d2-afc5-408a-a9af-672c9e5f9055.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5n3jwXdrNs1gVjmLC4eIj7QI310.jpg" tvg-name="Culpable" ,Culpable
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f626d1b-51eb-473b-a1c6-d29fa553924f.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" tvg-name="Dancing Queens" ,Dancing Queens
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d1f9d42-da42-4735-8ff9-0158dedba326.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdmXZ1As7T8ifUVNQ8ah3HrS0Lo.jpg" tvg-name="Diarios de intercambio" ,Diarios de intercambio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/615fb8a3-7d81-44ee-9144-a5bfa10cbbc7.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg" tvg-name="La horma de su zapato" ,La horma de su zapato
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/90042106-2afa-4ada-b93d-ea15b518fc56.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOnuOKJsD0aianDG9UJ5DzUrWNl.jpg" tvg-name="El violín de mi padre" ,El violín de mi padre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/32a09494-cfcd-4eda-9f28-f407260baf5e.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSupXsU5tTga9WYxbULEamu6ZW.jpg" tvg-name="El día del Sí" ,El día del Sí
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65a051e6-174b-49e7-8bb7-65e8a317f096.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCTinqGh3JDRDw2JoiUqEE01yiY.jpg" tvg-name="El fantástico Halloween de Tibucán" ,El fantástico Halloween de Tibucán
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/364356b3-4791-4da3-9cd7-25b601567b64.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAQhNzmZiWiPd5pJgB0HHzkI783.jpg" tvg-name="Este niño es un trasto" ,Este niño es un trasto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ab84790e-944d-485a-8e80-ea1c3a9172de.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjdYOYNpPTgL9Ll8fVGlTyfbc08.jpg" tvg-name="El niño que domó el viento" ,El niño que domó el viento
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0e4426f7-8784-4f46-8b64-2a34db8809f0.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8qv4BUA6kUKyvS2Wah6Zqaplod.jpg" tvg-name="Fauces de la noche" ,Fauces de la noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e3faeff1-c7a9-48e9-ab5c-2cad7000a198.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eC2jWvN7OhDbvOm4qZ8TNfPrbQx.jpg" tvg-name="Fullmetal Alchemist" ,Fullmetal Alchemist
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8fda2bb6-0541-482c-b388-2d4ca0a437da.mkv
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LqRCLqvQ1d0qa7F9ofbq3dosJs.jpg" tvg-name="La belleza y el enigma" ,La belleza y el enigma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bfc954d9-5b1f-4132-87f8-aa581e2c09d5.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4qCDRElLi7zwREDmkfe5AOetF4.jpg" tvg-name="Hay alguien en tu casa" ,Hay alguien en tu casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/758165a1-94cc-49e4-9a8c-07579c7b8106.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lge7oQ4AyhINB8lrTWwg1z9bEPF.jpg" tvg-name="Alguien como él" ,Alguien como él
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/528fed1a-ca0e-4f7f-af8c-b3ae2a25267e.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGCNVKSaMlEsAVjIFdfzKjEWwwJ.jpg" tvg-name="Herida" ,Herida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2832fc3-28f9-4d42-bb9a-97b0dd86bee8.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3YsY2VVvniaPIFX1ky3tyT8mCI.jpg" tvg-name="Hypnotic" ,Hypnotic
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f598a216-6574-4316-a877-ff0beca28a42.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg" tvg-name="Intrusión" ,Intrusión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7deffb94-d8bb-4e0d-9c77-7e6f75ab7443.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" tvg-name="Kate" ,Kate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08ac2b3c-4153-4530-8561-f1dec3350409.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGf1snRLGQpiUkWvJSGwiSXW9sR.jpg" tvg-name="La calle del terror - Parte 1: 1994" ,La calle del terror - Parte 1: 1994
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ed491ca-c101-467f-9ac2-6f4f14ed7206.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPcLH9QHrRb9ZRplxWOMO38ImL8.jpg" tvg-name="La calle del terror - Parte 2: 1978" ,La calle del terror - Parte 2: 1978
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5283b435-8b34-447f-9323-0481cfe8c329.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouTHprNeiOYDS5zw5x7wrBF79q7.jpg" tvg-name="La calle del terror - Parte 3: 1666" ,La calle del terror - Parte 3: 1666
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c7521c2-7ceb-415d-92d6-c2820a893c51.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WjFS2RHHif6zeiDZiUIb2CNDip.jpg" tvg-name="La felicidad es para siempre" ,La felicidad es para siempre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9374c1da-fc62-4d3e-9f86-3a094ac8d9fa.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVcOR5f1bKhqSWWxViOfmOJ7aqc.jpg" tvg-name="Loco por ella" ,Loco por ella
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8930d972-8789-413e-9930-5ec4bcb40f49.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2LroBlpT6uRTuGybRT1dwMirVW.jpg" tvg-name="Los reyes de la estafa" ,Los reyes de la estafa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fab4124e-83be-4af7-90d8-8cde1cb1254b.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9CuMsgohrfud5Y9eP3WL0M5Tu.jpg" tvg-name="Más dura será la caída" ,Más dura será la caída
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48d4dc24-c0be-46ff-8d4a-a3e2ca280903.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nR4IHco9T4fjb6qiHEljXJAwavv.jpg" tvg-name="Mas locos que una cabra" ,Mas locos que una cabra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3a3c5d5a-a92d-4c06-bc9a-a53603f65244.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIzHQXSxD8u0iCnIxwhDHDxvWo.jpg" tvg-name="Noche de fuego" ,Noche de fuego
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fa59c548-db6d-4514-9bb8-df5052629468.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slb0P0lUpxvlDQgVOPeIXUFImZC.jpg" tvg-name="No todos pudimos madurar" ,No todos pudimos madurar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca2490c6-0975-4f6a-a3fb-dd30d4732ff3.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh4I5G1VxZl5jGLaT2J0hvNQ4Tw.jpg" tvg-name="Un padre por Navidad" ,Un padre por Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac7dea9c-cba7-4ff8-a336-b60e604eb111.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hRAvXdpCMDm9WDOMFksY7nZAhl.jpg" tvg-name="Ser padre" ,Ser padre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b090ae73-50a9-4826-9170-c3d1fc18b639.mp4
+#EXTINF:-1 group-title="*VOD NETFLIX *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLvjIuGphJt46xwgGRPTofHp2lV.jpg" tvg-name="¡Qué duro es el amor!" ,¡Qué duro es el amor!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6a573874-7955-4654-a548-632f3f60cd47.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdA4lphQwywsPcEKj5sgQ9QSR55.jpg" tvg-name="Blancanieves y los siete enanitos" ,Blancanieves y los siete enanitos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40f9ba19-f09d-480c-9ef7-41b2a2557b7c.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9F1Ucv2raJWFYE3uqbodEx55gh.jpg" tvg-name="Fantasía" ,Fantasía
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/13ac9749-0ede-4de2-a060-8e2ce178795f.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyNuGVAoBpyAx9mGNOq7okE5HKW.jpg" tvg-name="Los tres caballeros" ,Los tres caballeros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5035339e-9693-4468-b910-c35b4f1fcff0.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f88zNVDwrJSnT45e5zW7GdK36Tf.jpg" tvg-name="Música, maestro" ,Música, maestro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eaf97abf-e51b-4f16-83c1-9808fbe66aee.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bt8qmhxVsgbxFLQCoAcekdCFiw.jpg" tvg-name="La Leyenda de Sleepy Hollow" ,La Leyenda de Sleepy Hollow
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ded239d2-f7e7-4436-b538-b937461de6a3.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4in9pWwnYeXyf1Z3303nXbzFAS.jpg" tvg-name="La dama y el vagabundo" ,La dama y el vagabundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/851a431a-f8d7-43d8-8b39-a7400bdcd8c7.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" tvg-name="La bella durmiente" ,La bella durmiente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/29e19ed7-5703-4f5c-84c4-b720f70952d9.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMAVsdyj0O13AJF4HK15WxaFsBm.jpg" tvg-name="Merlín el encantador" ,Merlín el encantador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/747d0e28-2a44-4341-b398-e06be8274e7a.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1w8wk8htVPW5cdCYnRU4bt5y5Fw.jpg" tvg-name="El libro de la selva" ,El libro de la selva
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd3bbac4-0783-4edf-9e0e-02d3a7ab7996.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9DsxlbVE1HvHnCz50GdHDBeZRy.jpg" tvg-name="Los aristogatos" ,Los aristogatos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76721299-9dc4-4db5-83e9-15ea99d8a56f.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49XBX5xwFrJVP1bQLJf4MFFOavZ.jpg" tvg-name="Robin Hood" ,Robin Hood
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9240e48-f829-4482-8409-7568e8dfb0d7.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lTCHEQ1iYEEJ7wRpVCSQBJICae.jpg" tvg-name="Lo mejor de Winnie the Pooh" ,Lo mejor de Winnie the Pooh
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1a87b831-6fd7-4e4f-94d1-c12f40af3d5c.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdFsS0A2dCcVXUdaxcUfnvLOTqz.jpg" tvg-name="Tod y Toby" ,Tod y Toby
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0b134592-9f5e-4018-8781-53f654e1270f.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O6kh1pUdJBDEtDr2Ev3i9Hn3OG.jpg" tvg-name="Taron y el caldero mágico" ,Taron y el caldero mágico
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8feeb31d-9a20-4a2c-ab5a-bb903bd3af3b.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osNTFX6TRPCXbujQJWyXc912DgE.jpg" tvg-name="Basil, el ratón superdetective" ,Basil, el ratón superdetective
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e650878-8bab-4296-848f-1707090da24a.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRKG2hyw5OKUX4bTRqJwGhaoQZ7.jpg" tvg-name="Oliver y su pandilla" ,Oliver y su pandilla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b222bc7d-44fd-48bf-99d0-a0a411bc043e.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" tvg-name="Pocahontas" ,Pocahontas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f894ac6-2c25-449e-bfe6-9d654007dcd5.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwjP7ImLzXZjKHnCUChJThEtNJG.jpg" tvg-name="Hércules" ,Hércules
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cca3e3eb-ba82-49d0-8d95-5d3247f6ff0d.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg" tvg-name="Tarzán" ,Tarzán
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e2c78d7-9dbf-4e66-be1f-8401693d80a8.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EkzzLf3TxYrhGmEo2ZTmH49KLE.jpg" tvg-name="Lilo & Stitch" ,Lilo & Stitch
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e84941d-5044-4fee-8806-eacfc05b9c7a.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwwRIK1V1R6QQKromGi0OaJLD8l.jpg" tvg-name="El planeta del tesoro" ,El planeta del tesoro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5ca9af77-4915-4d94-8125-82f230ad75c0.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V34tiUPo3memMuCFlGhpA7ODbj.jpg" tvg-name="Descubriendo a los Robinsons" ,Descubriendo a los Robinsons
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44fa35bd-2ce7-4f22-a162-d5ec28686ad0.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg" tvg-name="Tiana y el sapo" ,Tiana y el sapo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c6127c2-9e62-45dc-b677-563904c89f26.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg" tvg-name="Aviones: Equipo de rescate" ,Aviones: Equipo de rescate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e12777f-ae67-4d4d-9a36-6cf5e859a0f6.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqWF0q31AgZTPDlCEgQlMNopnHy.jpg" tvg-name="Cenicienta" ,Cenicienta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2f4a737e-0596-47e0-b30c-cb913944a813.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UP3KgQUX4vmxzNcalpbi0nUKvE.jpg" tvg-name="Ciao Alberto" ,Ciao Alberto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/169158f0-cd8f-484d-af8d-156ac670fafe.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQUSsbOvZSAtOUcdtxjwTRG5wq1.jpg" tvg-name="Abducido" ,Abducido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/69758e91-e303-42b8-b16e-9d66f8553b2c.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKz7XRXvdy1i7pW4eotaWZSrAx2.jpg" tvg-name="Bao" ,Bao
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b582f64a-e4a7-4541-b003-3f81468820e2.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg" tvg-name="Big Hero 6" ,Big Hero 6
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/719f7357-2c49-4b06-9501-5194e719e11c.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" tvg-name="Buscando a Dory" ,Buscando a Dory
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/50773cdc-cf1b-4d6c-9c11-8d94f7f7ebcb.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" tvg-name="Christopher Robin" ,Christopher Robin
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/adcf9485-e0e0-484f-964d-edf257530e5a.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h19m4mgoSlkii1PU9mwOffUmkK8.jpg" tvg-name="Artemis Fowl" ,Artemis Fowl
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3f9da6da-0bf4-48d2-a100-9e18f822d608.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weHsxRcrCpiaoYQPEVVwhfArgJX.jpg" tvg-name="El Juego De Geri" ,El Juego De Geri
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/06db6f48-5cce-4cd5-bc43-d107951c96f3.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRvQP1wLqyPJEgBjjn35bInO7it.jpg" tvg-name="John Carter" ,John Carter
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ffa469bc-08be-4afd-bd43-994145b9271e.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg" tvg-name="Dinosaurio" ,Dinosaurio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/71d3ab2f-a537-474d-8a36-da54d1697634.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WsIHFV3STIQp0G9aGq3VzdfbH4.jpg" tvg-name="El coche nuevo de Mike" ,El coche nuevo de Mike
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57fbbd59-98ef-4296-9fe8-1010cefc4cf8.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOn5Rr0KO0ahTQtr5uulYCE46cd.jpg" tvg-name="El Hombre Orquesta" ,El Hombre Orquesta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0b8a4ddb-44d4-4f6f-b18e-fe85095723e9.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weHsxRcrCpiaoYQPEVVwhfArgJX.jpg" tvg-name="El Juego De Geri" ,El Juego De Geri
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d89ba54b-3b2c-4c07-8b51-1e07481c77ff.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9bLYgkgppdsyGaI4uSrZedBKpA.jpg" tvg-name="El regreso de Mary Poppins" ,El regreso de Mary Poppins
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40a4fb23-9673-493c-b80c-b9c739fddc09.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Abzt1CufBYyqjz2WEqJtKslweuk.jpg" tvg-name="Frozen Fever" ,Frozen Fever
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1a2e9a5d-44a3-43e7-8592-2e8834eda5ba.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" tvg-name="Frozen 2" ,Frozen 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1d760436-ab1d-4e2d-9f73-e911b5d16609.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgeXR2oE5uBQZYte0ETUZUeRtvI.jpg" tvg-name="Jack-Jack Ataca" ,Jack-Jack Ataca
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed0fffbc-b42b-42b2-9de0-79e39cd9dae8.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRvQP1wLqyPJEgBjjn35bInO7it.jpg" tvg-name="John Carter" ,John Carter
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/51fe09d4-dd8b-44e4-a7e9-12f839edbaa8.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuKMIP50VbVwZWFuO49iqvMk9v0.jpg" tvg-name="La Dama Y El Vagabundo" ,La Dama Y El Vagabundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27d2b9ec-e519-4593-83e2-8129fe4aff22.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2zXtf4MdAMHIGW6VtHBMZDzKzc.jpg" tvg-name="La Leyenda De Mordú" ,La Leyenda De Mordú
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5bc07bc-a525-4201-96e6-473fe78f2b2c.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IM6KmDyYX1rDPlZ4bQE617T8rZ.jpg" tvg-name="Luxo Jr." ,Luxo Jr.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e4985094-1fbc-422c-a764-be3288ac8a2f.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asmKQG2qhpVM1KD6x5kODAZPmZl.jpg" tvg-name="Presto" ,Presto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f1cd8998-513e-408d-89e9-2402796ef469.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTpE4JQ2C09NicqvDhwi70IRz62.jpg" tvg-name="¡Rompe Ralph!" ,¡Rompe Ralph!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ab0c47cb-a5a2-4a14-a1f9-1e45184821e7.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIEV9tf9tjlzns2oygAxrSFv4sr.jpg" tvg-name="George Y A.J." ,George Y A.J.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a3c729f9-15d6-4299-962e-15ad759be578.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg" tvg-name="Ralph rompe Internet" ,Ralph rompe Internet
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/653a6933-ab4d-4f8d-85d5-4a6c0cc0e47b.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg" tvg-name="Cruella" ,Cruella
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7de19be6-de5f-4771-8614-35489ee6349f.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aanpR48XsGzRFKx79aHLbVQsNEu.jpg" tvg-name="Disney Princess Remixed: An Ultimate Princess Celebration" ,Disney Princess Remixed: An Ultimate Princess Celebration
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ae48cc9-1f32-4322-9d30-4b0994d21367.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1cmE1bDlFOpYjKsAm15o9A4c4l.jpg" tvg-name="El diario de Greg" ,El diario de Greg
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e7d94b7-aa85-4457-aad0-e0902cf1ff35.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KlzkeqqmXaDdXo7D6pq7qQLJoM.jpg" tvg-name="La llamada de lo salvaje" ,La llamada de lo salvaje
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2752231d-9e3b-4bf9-bd91-85f4022134e0.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbEA2LEFh1MX9EraNQSiq9ajs24.jpg" tvg-name="El rey y yo" ,El rey y yo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9a5225a-7aac-41f2-ad7b-892bdc24f1ce.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1lrMNkg2EiIlcmcK92OGzO0Ptx.jpg" tvg-name="Encanto" ,Encanto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0b5e0c7f-e713-4b83-8446-c01dba726f17.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYMlJg9sqM1e80pNb9lCK3oJ4v.jpg" tvg-name="Hay que salvar a Papá Noel" ,Hay que salvar a Papá Noel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b769dbca-c8d5-47b8-877f-d94d5db11ad8.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehesNeYjfTkkJgIYbKKrWcqY2fA.jpg" tvg-name="Flora y Ulises" ,Flora y Ulises
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/30f727e2-08fa-4645-baa4-ff9a6218aacb.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySBDRXsZSKVBNtZZAEKccNHPZ5o.jpg" tvg-name="Stargirl en Hollywood" ,Stargirl en Hollywood
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/855ea458-55bc-4b8a-a26d-e8896f244f43.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" tvg-name="Los Increíbles 2" ,Los Increíbles 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec50c65f-adad-496a-8797-51e2d91fa3ca.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuKMIP50VbVwZWFuO49iqvMk9v0.jpg" tvg-name="La Dama Y El Vagabundo" ,La Dama Y El Vagabundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7044f1b3-6807-48f6-a710-595cc9c0d294.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMAVsdyj0O13AJF4HK15WxaFsBm.jpg" tvg-name="Merlín el encantador" ,Merlín el encantador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a59f1cc4-7476-4e79-bfff-16e32fe28e65.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gumCa7HRNHE2wBLWdDgj0tvaKx.jpg" tvg-name="La gran película de Piglet" ,La gran película de Piglet
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ee89b3d-001c-4071-8ee2-78654f79bbbd.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quVOyQALS1JVOoiGekllFfEfwwD.jpg" tvg-name="La mansión encantada" ,La mansión encantada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e1edcaf4-cfc7-46cf-abad-a85a335f7727.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN7aRB5wrxKklCZZKSJKeb6LCFo.jpg" tvg-name="Desastre y Total: Agencia de detectives nº1" ,Desastre y Total: Agencia de detectives nº1
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e489484f-973b-4d35-82f5-70b24b2a0ae8.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebQ8RXIjKZoGnpZ7mFs7z2iklb6.jpg" tvg-name="Lejos del árbol" ,Lejos del árbol
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d2f667c-64ba-4c8a-b218-95e7a318a62f.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueOyIHbdn1m57WC8afeqkTi9fXH.jpg" tvg-name="Los Muppets en Haunted Mansion" ,Los Muppets en Haunted Mansion
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3adcb2cd-1d1d-4098-a354-3f0141fd8e1b.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dagjxde57bpFgiSDsfTDgLjzLyn.jpg" tvg-name="Luca" ,Luca
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd01bc15-8872-429c-a4d9-4b4f5d4277d2.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg" tvg-name="Magia del revés" ,Magia del revés
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ced0925f-0ac4-4bfa-b574-78f2889aa757.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQA8rl7HJRNQqpdRQ9saQyAZ6cX.jpg" tvg-name="¡Menuda momia!" ,¡Menuda momia!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/55e0078a-d535-4c3f-81c2-53d78ef7191b.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" tvg-name="Raya y el último dragón" ,Raya y el último dragón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd8d3a6f-fb93-4270-a780-7299e2a23b4c.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkxKo08e8PhIKz6itm2b83scYQ7.jpg" tvg-name="Sneakerella: Cenicienta en zapatillas" ,Sneakerella: Cenicienta en zapatillas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/778ada61-c0f9-479e-9d79-af06a3ed2289.mkv
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWAatef80X3zooIBQN0Y4tQCM1K.jpg" tvg-name="Spin" ,Spin
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b527b6c-307f-44c6-949e-a51f61ba62ca.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg" tvg-name="El retorno del Jedi" ,El retorno del Jedi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea2ee772-e355-46c7-9bab-f0806e047c1a.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vh5QyyFgWCVNipA6C70BT3cRt0.jpg" tvg-name="Carlitos y Snoopy: La película de Peanuts" ,Carlitos y Snoopy: La película de Peanuts
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b79f2006-d99f-4bbe-8263-eb624b5ce08e.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" tvg-name="Togo" ,Togo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8806f04f-bf07-46f9-92f4-f63f9a7b3f9d.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBIkCS3PQlHY86agofKY411jLM7.jpg" tvg-name="Las aventuras de Bo Peep" ,Las aventuras de Bo Peep
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f7550c4-ab30-4839-af5e-0f02a02249ac.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3m8SkdSzWOkNodITnuqXCGaIdFG.jpg" tvg-name="Toy Story: El Tiempo Perdido" ,Toy Story: El Tiempo Perdido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/75fdf2b6-8084-40c4-9ddc-5b1c05a7bc98.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qHktwFKXN4OGoNxegz9tj1dlT6.jpg" tvg-name="Toy Story: ¡Terror!" ,Toy Story: ¡Terror!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d180bdf8-e619-4a7b-ba10-2821ec778bdd.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hcab3uFL8u3C2852lr5DvJdfCh.jpg" tvg-name="La bruja novata" ,La bruja novata
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9496349d-d50f-43d3-9b17-d20ba43f18fb.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" tvg-name="Onward" ,Onward
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/86ef8aaf-18f7-435c-8ac3-45f5e32dbe7c.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3gKwcubqhN8J7pLcMcCDY1YJLJ.jpg" tvg-name="WALL·E: Batallón de limpieza" ,WALL·E: Batallón de limpieza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2077173a-5a0a-402e-a5f3-a15a5ecbcdd4.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy6TJ97pUgjM0I4yhF53duTjvWY.jpg" tvg-name="Up" ,Up
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/461fd4c5-9493-42e0-a5de-033959fa6a25.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" tvg-name="Buscando a Nemo" ,Buscando a Nemo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8cbf20d-b4fc-4ce8-b2b2-2e299e983c9d.mp4
+#EXTINF:-1 group-title="* VOD DISNEY *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg" tvg-name="Intensamente" ,Intensamente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b188aee0-937d-4d3a-9471-1f9a9639a079.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZZhYLLDU4g4XGQ5tvjYNVytxc.jpg" tvg-name="Coco" ,Coco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e27d6d7-4baa-4c69-9fed-acfdefdee0e9.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg" tvg-name="Aladdín (C)" ,Aladdín (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed531689-2f67-4ff1-8765-f647377d396e.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vh5QyyFgWCVNipA6C70BT3cRt0.jpg" tvg-name="Carlitos y Snoopy: La película de Peanuts (C)" ,Carlitos y Snoopy: La película de Peanuts (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f98f937f-433d-4cdb-81d4-87b559d16b6c.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgbx0mlSdwVT8sNqx7x2KtO2FpS.jpg" tvg-name="Un lugar para soñar (C)" ,Un lugar para soñar (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d169976c-fb9c-41f9-9e9b-a25b1f8d8ae4.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz3BdtQuWxBvjyXqhwLCdzbTxj.jpg" tvg-name="48 deseos de Navidad" ,48 deseos de Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b2c09c08-2ffe-43ad-ab1c-18b881aa9efe.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK7uVGIgwNoyAenEIEGsTe3OasZ.jpg" tvg-name="Dr. Dolittle 4" ,Dr. Dolittle 4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97da55fd-4850-4a80-8dd2-8f319bcd6a8f.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orU6wJ9QdhTL07aLBZ7F3NTqFab.jpg" tvg-name="Chestnut: El héroe de Central Park" ,Chestnut: El héroe de Central Park
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d8e4e890-d595-4025-a149-9f6583e8e443.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zcHLbkPIuY0hOeZ9hYWvi2uYpx.jpg" tvg-name="De vuelta a casa: Un viaje increíble" ,De vuelta a casa: Un viaje increíble
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08932782-91d7-41e9-9a1e-cb102993384e.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg" tvg-name="Dr. Dolittle" ,Dr. Dolittle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd40833f-b2fe-48ed-8c3f-e63a91508445.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfTK7SS6HEKA6RWlNbfRTd3FXz8.jpg" tvg-name="George de la jungla 2" ,George de la jungla 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78c42726-6b9c-424d-b5d3-7d3a8da8f13a.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhZ7IB4sWLqWMA9sDeP0oMg7Ulo.jpg" tvg-name="Cariño, he encogido a los niños" ,Cariño, he encogido a los niños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5d6d535b-25f5-4cf8-ac75-ee52063d83f7.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zHGNWo4vrAzB5ZqQC0e3p4A2lp.jpg" tvg-name="Noelle" ,Noelle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0f2d6a7-b641-4d88-b643-da6b3fed6863.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg" tvg-name="Infinite" ,Infinite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b12fbd9-d8a3-433f-bc9d-8570a976a21c.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V1j8kckMYSkz6tykkNrb1qEG1n.jpg" tvg-name="Mi marciano favorito" ,Mi marciano favorito
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8de7d4c9-1a69-4cec-8bf4-1a0469f3554e.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guvfz4sLlMU3JS9gS5zhwjxrIpM.jpg" tvg-name="Santa Claus 2" ,Santa Claus 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1a036083-04e7-4a2a-9926-32de8720ed32.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9bLYgkgppdsyGaI4uSrZedBKpA.jpg" tvg-name="El regreso de Mary Poppins" ,El regreso de Mary Poppins
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0107e4b5-cbd4-4d47-b08f-4a20504a8a59.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/720eeviFT6G8SStX2lEgFsYzqAp.jpg" tvg-name="Solo en casa 3" ,Solo en casa 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/289093bf-34da-452e-8cb7-a00ce51bae12.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cvSfLIsKoSvTWyEnLPOdXgxqG.jpg" tvg-name="Misión sin permiso" ,Misión sin permiso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6721b28b-c46f-48f1-9ffe-002faa89138d.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEqi2AMFZk550l4Rnsh9FsZ0MLy.jpg" tvg-name="Operación Feliz Navidad" ,Operación Feliz Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35cfa379-9dbf-40d4-b4c8-97b0966344d2.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YRcVjYVDaFdgqdnqvryLLDrkAm.jpg" tvg-name="Hotel para perros" ,Hotel para perros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e8931c0-d469-4c23-8d7e-c2c49b1356d2.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heYt5iHBemRHzeNCjGBy5u1YMlr.jpg" tvg-name="Milagro en la ciudad" ,Milagro en la ciudad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0a7e41b4-4a4b-4e49-857a-6d6359843559.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg" tvg-name="Solo en casa" ,Solo en casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3f384832-606c-4eed-bce8-bf6158177178.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipkhAexxfaTXEInrNzlhIeuel8p.jpg" tvg-name="Fred Claus, el hermano gamberro de Santa Claus" ,Fred Claus, el hermano gamberro de Santa Claus
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6059fc9a-ba27-4ff7-96e0-d5cd0aa26a14.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9BAc2Q37oQWcRlMKUkuRilJ90E.jpg" tvg-name="Solo en casa 4" ,Solo en casa 4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/344ad5fe-bcba-40b1-bda9-316b6392ce61.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YdnypRPGEY89Sd1N3KD12SI8pJ.jpg" tvg-name="Dr. Dolittle 5" ,Dr. Dolittle 5
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/543051ea-2062-4f02-8ec9-0f4893dd0570.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oBSAKp65I9Xjmk7jZqJ2HmllTj.jpg" tvg-name="George de la jungla" ,George de la jungla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fa4afa6f-7755-4a71-8906-f164ee6e0f7b.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg" tvg-name="Sonic: La película" ,Sonic: La película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4876eb76-9a05-4ac8-896e-e67afda8c3de.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kKrB0HNe7hRFFpB3QCWEd1ilY8.jpg" tvg-name="Pinocho" ,Pinocho
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a5d70b2c-ad4c-424c-a8d1-3c5cdbfb0fb1.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IWAjgqhcW6dqTen7eUCtyzYlwJ.jpg" tvg-name="Un chihuahua en Beverly Hills 2" ,Un chihuahua en Beverly Hills 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9a055c9-0cb4-4c55-bee5-94b8abaea33e.mkv
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg" tvg-name="Jack Frost" ,Jack Frost
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/905090f9-337a-45e9-8eda-af8443614d91.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k52QsJelqWajXPFSnclMCxMaSTQ.jpg" tvg-name="Santa Claus 3: Por una Navidad sin frío" ,Santa Claus 3: Por una Navidad sin frío
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc3536c3-9ebe-40de-8573-b2cd917e049c.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DoiFnHXzZhkyNyGw6s7DGpaauA.jpg" tvg-name="Oddball" ,Oddball
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4cfda227-2c2f-4090-984e-084a67918ae7.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq2UIelgzgDN7kTr0bb61AK54GW.jpg" tvg-name="Rompedientes 2" ,Rompedientes 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f7b82b9-d429-4532-8759-2bfc27b6dd08.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2bIGAs9BI46UPyF6o1hrsBMEl8.jpg" tvg-name="Un chihuahua en Beverly Hills" ,Un chihuahua en Beverly Hills
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9368ff7d-8d3d-413d-8f35-4886bb31451c.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2huResrXqSSSBeHz08nlKE3lVIg.jpg" tvg-name="Polo Norte: Abierto en Navidad" ,Polo Norte: Abierto en Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba073130-7107-4261-bd67-cae798183a75.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niPpFwLZJOA3zDgdoBbqnrVVXpe.jpg" tvg-name="Siete vidas, este gato es un peligro" ,Siete vidas, este gato es un peligro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6a42945-2c38-4195-8148-3ce35550874a.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yyw20gloVgbzR9a5B15GqPdqux.jpg" tvg-name="Space Jam" ,Space Jam
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ece2475b-30c8-4c8b-8aaa-47ab21c4853a.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62R0utZbq1ya1oJa6pxVjTF5GGn.jpg" tvg-name="Un vecino con pocas luces" ,Un vecino con pocas luces
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba93abd6-c12a-4c23-98bb-2efee9bd835e.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyAFRbO8WpxG8he8wW3sWUnFyxf.jpg" tvg-name="Zipi y Zape y el club de la canica" ,Zipi y Zape y el club de la canica
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d54fc1f9-2ea0-41fe-b924-4089a5e0e248.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXtT1o8bLUflTSh1e0XvDSzCFs4.jpg" tvg-name="Sky High: Una escuela de altos vuelos" ,Sky High: Una escuela de altos vuelos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/64286d61-cb17-476b-bef8-4dc50afca138.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQEtAnfiMvBI9Sl2NZBTXzxoGB4.jpg" tvg-name="Un chihuahua en Beverly Hills 3: ¡Que viva la fiesta!" ,Un chihuahua en Beverly Hills 3: ¡Que viva la fiesta!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4543ea52-109e-4177-bcb0-a89c80f91b2f.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg" tvg-name="Solo en casa 2: Perdido en Nueva York" ,Solo en casa 2: Perdido en Nueva York
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e5483ef7-4e3a-49a0-9000-9e5eb89ff48d.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq7oRDzpSSldtyUuhW8aDL53OCV.jpg" tvg-name="Tu mejor amigo: Un nuevo viaje" ,Tu mejor amigo: Un nuevo viaje
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/238b9cad-1b7a-4098-ac2a-598e5a40e6c8.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us6f635Lq7k9oIBAosl1hx87jgr.jpg" tvg-name="Pensar como un perro" ,Pensar como un perro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e990d3cb-5ea7-4744-9ba2-daea4c30c52e.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHoOp5qOwdFjckZZfKo8CGe3Iam.jpg" tvg-name="Venganza implacable" ,Venganza implacable
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c50d4c8-a0e6-4b15-9dcd-51fe3e82c27b.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxGoMGwxXyixPq9nBM5R6WRYElM.jpg" tvg-name="El peque se va de marcha" ,El peque se va de marcha
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b2ccdedb-1d3c-4420-9b17-eeaf3ac9db94.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZDXSPfeKNtai6l8yE4J5LwVQMY.jpg" tvg-name="Un perro de otro mundo" ,Un perro de otro mundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9fb4ee9d-207f-4eeb-898b-4badd73326b7.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MeuzcdtXtZtrggxq53ew5p1Ekb.jpg" tvg-name="¡Vaya Santa Claus!" ,¡Vaya Santa Claus!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/356cbe9b-d558-4dc5-a493-3c9347ea0a87.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39B20BSnUykv6KM6EZOZ52dmUcx.jpg" tvg-name="Dios bendiga el camino roto" ,Dios bendiga el camino roto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eb2239df-2681-4f81-ae0c-cd3f83f9849a.mkv
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DqgIFHVJwjlaIITCcYtobrirfd.jpg" tvg-name="Alvin y las ardillas 2" ,Alvin y las ardillas 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44fa751c-f8f4-40f8-aed4-977d493cf809.mkv
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpInKihOnJZ9QePD5letvwDV9W8.jpg" tvg-name="Alvin y las ardillas" ,Alvin y las ardillas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e1cac89d-1111-4dec-af5c-fe8575424697.mkv
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipy52l2X0sj5cLuuA6DggMdx8yW.jpg" tvg-name="Alvin y las ardillas 3" ,Alvin y las ardillas 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09a895c8-9a87-4617-84b4-e9a2a77505d9.mkv
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewbrfD0N6x8r86yAalFrWrRcDby.jpg" tvg-name="De vuelta a casa 2: Perdidos en San Francisco" ,De vuelta a casa 2: Perdidos en San Francisco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/586e4caf-59a8-4104-9b19-ce0748ff7971.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJrvkckDP7MKfimogB6lNUfQRx.jpg" tvg-name="Elf" ,Elf
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae7da5f3-18a4-43ee-bb7c-57ca379cfc3f.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-name="4 chicos y " ,4 chicos y "Esto"
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c498d9f-b4f4-445f-ad51-18952b0a22e4.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgZkugYgYqONzP5MC6hYzVtpIKa.jpg" tvg-name="Una Navidad de locos" ,Una Navidad de locos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8d8297d8-64af-429b-9cf4-fb555abd5e53.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajuYAcn5LDxXE7yoDISTsL0BCuy.jpg" tvg-name="Un padre en apuros" ,Un padre en apuros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10f7e063-27df-41ac-897f-0214e5862104.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLWyxCwKt90ocYUu2Fcq067fqRE.jpg" tvg-name="Dino Dana: La Película" ,Dino Dana: La Película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/589389e4-d148-4804-a094-69c73a7a36f0.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRCYKdzUxEZVfAd97C1vDv4lBvR.jpg" tvg-name="The J Team" ,The J Team
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f67ab8ed-c5d2-4cdc-8fdb-440f7bfe884e.mkv
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOBr6cJVh3X9woaJNf47rgVHFbO.jpg" tvg-name="Abracadabra" ,Abracadabra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b382a54-5549-4203-a01b-08ee3fe5d3f1.mp4
+#EXTINF:-1 group-title="* VOD - FAMILIARES *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbbZNVuGSD6cPGZ4sfcrA59EKNY.jpg" tvg-name="Abracadabra 2" ,Abracadabra 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bed433e7-1a7d-4a74-8447-9326c66a3b81.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" tvg-name="Ant-Man y la Avispa: Quantumanía" ,Ant-Man y la Avispa: Quantumanía
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47c1c6bf-48c6-4fd0-87b8-75ddc00f891b.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" tvg-name="Ant-Man" ,Ant-Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8d3fc63e-b18b-4ed0-8786-9e12f7faf2e2.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" tvg-name="Vengadores: Endgame" ,Vengadores: Endgame
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7bb40087-fa31-4a2c-8847-d6af6f597e53.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" tvg-name="Vengadores: La Era de Ultrón" ,Vengadores: La Era de Ultrón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/258d3060-ffcc-46c6-8b5c-c3a8afeaf8bc.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" tvg-name="Vengadores: Infinity War" ,Vengadores: Infinity War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac6f78b7-1dfa-487d-8f1f-29229ffccaf4.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg" tvg-name="Viuda negra" ,Viuda negra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0146b6b-ec17-4832-87a5-bba297244d5c.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-name="Capitana Marvel" ,Capitana Marvel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc4749f4-cf66-4f77-bb7b-2464a9d02baf.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Capitán América: El soldado de invierno" ,Capitán América: El soldado de invierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2b38e5c-13a4-4ccc-8f51-169bb76bc643.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg" tvg-name="Capitán América: Civil War" ,Capitán América: Civil War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f717402-f37f-4393-9728-fe173fc9c964.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg" tvg-name="Capitán América: El primer vengador" ,Capitán América: El primer vengador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d607b84c-50e1-40fa-b55a-63a5596071de.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg" tvg-name="Doctor Strange en el multiverso de la locura" ,Doctor Strange en el multiverso de la locura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e16e1517-7a5c-4a54-9008-ec029925a547.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" tvg-name="Doctor Strange" ,Doctor Strange
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27e7f542-1203-4a0b-b6e6-666caa5fcae5.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp85WEn9YKM3Cajk4m4ZDcbCHpp.jpg" tvg-name="Eternals" ,Eternals
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/36361266-810e-4c3c-a9fa-cd8472eedd60.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzEmtM8qrvRKNdJUUiizdNHTccV.jpg" tvg-name="Guardianes de la galaxia" ,Guardianes de la galaxia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2066d7e9-9ac2-4fd0-b2d1-80b2bc8f1909.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" tvg-name="Guardianes de la galaxia Vol. 2" ,Guardianes de la galaxia Vol. 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ab4cfde-2f28-4242-a914-27d35ab9fac6.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" tvg-name="Guardianes de la Galaxia: Volumen 3" ,Guardianes de la Galaxia: Volumen 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85f857bf-27b8-4908-a602-8e6481910b8f.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" tvg-name="Iron Man 2" ,Iron Man 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b437b0c7-896b-4853-b1e7-6b6182e642c7.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" tvg-name="Iron Man 3" ,Iron Man 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a147a35c-27e1-49b4-a0db-7768f7529664.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" tvg-name="Iron Man" ,Iron Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/156fb4c8-5200-451e-9ea6-2df82df875ef.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg" tvg-name="Black Panther" ,Black Panther
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ca7836f-4f66-4e04-b8b1-12bce071e4d9.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" tvg-name="Black Panther: Wakanda Forever" ,Black Panther: Wakanda Forever
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/faab4723-c111-4358-bc6c-3d89f8308ecf.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j7u3lqe2WJOlh9tEKHcbSMCBmW.jpg" tvg-name="Shang-Chi y la leyenda de los Diez Anillos" ,Shang-Chi y la leyenda de los Diez Anillos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/df05635a-4ee6-4f52-920b-4fa0adfbbc40.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg" tvg-name="Los Vengadores" ,Los Vengadores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a392313e-79df-4b88-baa0-1a96340ba23d.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" tvg-name="The Marvels" ,The Marvels
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7600a22c-cc14-4f93-a3ba-bd96c70c860a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg" tvg-name="Thor" ,Thor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/55fb23d6-13c3-478a-a927-3cb8c8abba1a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" tvg-name="Thor: Love and Thunder" ,Thor: Love and Thunder
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7e2b1bf-fb7f-494d-8ec3-5744a18af7a5.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" tvg-name="Thor: Ragnarok" ,Thor: Ragnarok
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/61cd24bb-6a21-4103-b671-306630490f6c.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" tvg-name="Thor: el mundo oscuro" ,Thor: el mundo oscuro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f9c639ee-98db-4248-a53d-7ca22b6f1ce1.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" tvg-name="Los 4 fantásticos" ,Los 4 fantásticos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7282c8a5-499d-4c5c-b15e-a82b02944182.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg" tvg-name="Cuatro Fantásticos" ,Cuatro Fantásticos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc563d09-480f-48ee-8e52-b66d2c2e43a0.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvFjow9ET16axWcQdXSBqehiFL1.jpg" tvg-name="Los 4 fantásticos y Silver Surfer" ,Los 4 fantásticos y Silver Surfer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9725e43d-0f1d-408f-a5fb-01843a06ca7d.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" tvg-name="Spider-Man" ,Spider-Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2df6f2c-c2f3-438c-9d6d-3790e45a5191.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9R3lUNzpHnivyGpKwEPUNGdmmH.jpg" tvg-name="Spider-Man 2" ,Spider-Man 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cef78fb2-6b5f-4eaf-98a1-d2ed4176aa92.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkuQzlShE2uzJcsZYU4zBI4VQZP.jpg" tvg-name="Spider-Man 3" ,Spider-Man 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/259d54d5-96ef-4198-abd7-1067218bc73e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" tvg-name="Spider-Man: Cruzando el Multiverso" ,Spider-Man: Cruzando el Multiverso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/689696ce-c287-46c0-af98-fb6c9b3988f2.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg" tvg-name="Spider-Man. Homecoming" ,Spider-Man. Homecoming
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/03214458-4037-42c1-9caf-d6356aaa6710.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" tvg-name="Spider-Man. Lejos de casa" ,Spider-Man. Lejos de casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bfd6bc8-6dcb-4a65-aa55-2c9c3e61fc5a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miZFgV81xG324rpUknQX8dtXuBl.jpg" tvg-name="Spider-Man: No Way Home" ,Spider-Man: No Way Home
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0770cd71-00b2-434f-8ab8-4e869887160e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg" tvg-name="Spider-Man: un nuevo universo" ,Spider-Man: un nuevo universo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9eb602f0-04ce-4db0-8d9e-3d02a6bea49a.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MsCANWyLJmz2MAEqiy9vKMpyc8.jpg" tvg-name="The Amazing Spider-Man" ,The Amazing Spider-Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6cb1ddc1-6667-4eba-ac2a-82bcc4a1eda2.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxjizLYG86Bxl4mntCWaWXZAko.jpg" tvg-name="The Amazing Spider-Man 2: El poder de Electro" ,The Amazing Spider-Man 2: El poder de Electro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20bf79aa-eef7-4356-820a-0cd3f6a93f8f.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg" tvg-name="X-Men: Primera Generación" ,X-Men: Primera Generación
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c1fcc914-4465-4d16-a074-d06c0e57ac6d.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg" tvg-name="X-Men: Días del futuro pasado" ,X-Men: Días del futuro pasado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c495069d-0f2f-4b6f-ac57-4e2dc80d52cd.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chiX6x3esPxQrE1lCUScVnR0uN5.jpg" tvg-name="X-Men orígenes: Wolverine" ,X-Men orígenes: Wolverine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e15a4211-64d6-4e11-bedc-da9b11863419.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rJeh8mrbJdkIZ49K2cZIdAwbEj.jpg" tvg-name="X-Men: Apocalipsis" ,X-Men: Apocalipsis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/69cb03ab-f3e2-4cf3-b152-a7c639bf7d29.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" tvg-name="X-Men: Fénix oscura" ,X-Men: Fénix oscura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac50a289-b9a0-413b-bc39-40df70e33635.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" tvg-name="X-Men" ,X-Men
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7de3f14-bca3-4fa2-b061-57be56d57f0f.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtrd4qieMAhoUshu83Vi1GazM1O.jpg" tvg-name="X-Men 2" ,X-Men 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cabb6f6-fb42-4573-9078-7c61f2a7d48e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY43xX0k1raU7M9FZHwOj0WNYhF.jpg" tvg-name="X-Men 3: La Batalla Final" ,X-Men 3: La Batalla Final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4c2d14a1-6289-49dd-9999-198bf5bc7252.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5IFVd8PQjcGk0KKaSP97jze3wP.jpg" tvg-name="Wolverine Inmortal" ,Wolverine Inmortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d859f8bc-020d-4332-85a8-c78a10d79a14.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg" tvg-name="Deadpool" ,Deadpool
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/948f83c5-98e1-43ea-bd18-dbed5c4784b9.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoGRi9XjtSC2sqmrwnkglyX8Dr7.jpg" tvg-name="Deadpool 2" ,Deadpool 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b89762a5-53a1-4fc8-8bae-f009966c6a8e.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0ktjN9eKww26HhM8or8iUB1I68.jpg" tvg-name="Logan" ,Logan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe1ef712-8523-4423-813e-bb32e3022f75.mp4
+#EXTINF:-1 group-title="✅ VOD | MARVEL ✅" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" tvg-name="Los nuevos mutantes" ,Los nuevos mutantes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bdcfdcf4-e3f9-4600-8b85-ae1ca573df02.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Wc4S6rFHKJ7jyghOdZVWVVC49j.jpg" tvg-name="Sangre por sangre" ,Sangre por sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/06782916-1d6e-4af4-8789-562158b0575a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPef3gXYTQpiQYTbuk1CXkzWzHa.jpg" tvg-name="Detective Knight: Sin piedad (C)" ,Detective Knight: Sin piedad (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5ece69e3-350c-4766-b663-0f4a26f22600.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWJLsCVU7MckdprbbQi8g02wRYr.jpg" tvg-name="Banjo" ,Banjo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b3f2cf4d-03b1-45ed-8c5b-274976165506.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUwqfJ1us0jtyuPiV2gEItqzKdK.jpg" tvg-name="El golpe del siglo (C)" ,El golpe del siglo (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78a40f2b-c4fe-4c55-a0db-b617a4d1fdcb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg" tvg-name="Origen" ,Origen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/63dfd62a-7d8c-4de6-a006-6789abda0b8a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZ4PQlxChT0uJLaYFwMhghMlCd9.jpg" tvg-name="The International: Dinero en la sombra" ,The International: Dinero en la sombra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31f4ba32-03c9-42c1-8196-d20627876526.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7444SjkZCUw8ele2uETxd8zXKgW.jpg" tvg-name="La rosa venenosa" ,La rosa venenosa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/faa269e1-20b7-4ebf-882c-a42b25547b11.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c156owEtfOYVIOl0LSrqjRewZdg.jpg" tvg-name="Millennium: Lo que no te mata te hace más fuerte" ,Millennium: Lo que no te mata te hace más fuerte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8ff9d698-4c8e-48c0-b9c1-b5c913936e9b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tETzFLV6TtPIAxo10sSatI1W0UP.jpg" tvg-name="El último samurái" ,El último samurái
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a9d0fbdb-e6a1-49d7-9cc8-0dd0c0a12859.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rX7us4Z78XVEX1RMkmIhKqK9DdV.jpg" tvg-name="Premonición" ,Premonición
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/70c385f2-bd78-4405-8bed-e1ab44164486.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYidcvZGfJ0NEPcYGfF5sci92KD.jpg" tvg-name="Tokarev" ,Tokarev
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/500019ef-71dc-4b3e-8c1f-9a6eb2fb0deb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb3ElIvaek5Ou8HeMaF0H0q0Kud.jpg" tvg-name="Beowulf" ,Beowulf
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85d172fa-8c92-487c-9df5-c63688636c16.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsPkDpX5GvIXYknmyDk2JqkHiDB.jpg" tvg-name="Бутерброд" ,Бутерброд
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5709107e-f7a9-44c2-8aa9-fb1c41a26637.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhzoJZC9HfeSsEwZr0manmJEykq.jpg" tvg-name="Millennium: Los hombres que no amaban a las mujeres" ,Millennium: Los hombres que no amaban a las mujeres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e3ce16b-88b4-4bf0-bbf8-30d7f3b1148d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UsWOlHuSCGti6Y8HdV26IkDpsv.jpg" tvg-name="El vuelo del Fénix" ,El vuelo del Fénix
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/295e9a91-8c5c-41c9-ab94-f19035dc8ebe.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KsCeZMxwzpyR7pjyoAurohjaFI.jpg" tvg-name="Wanted" ,Wanted
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eb97890b-7538-43f2-9a54-9ef812f041ce.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqISioPJ1cZnDuEIMI9y3i9ILuT.jpg" tvg-name="Sólo Dios perdona" ,Sólo Dios perdona
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd9cea72-4a3d-44ba-a307-75242239c05b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9P0URZBpYTPL1h1pYG2ooTiKOH5.jpg" tvg-name="Juego de asesinos" ,Juego de asesinos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ad1a7010-74ab-4164-898c-fc62d8d00ace.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPTphSqJ0dF0EPeeAR1qeeNbMPV.jpg" tvg-name="578: Magnum" ,578: Magnum
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cbe57113-b543-4009-b36e-ffc3b2a27f7d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SSauP7tx3rwTThb30svJFy9BFA.jpg" tvg-name="Hasta el final" ,Hasta el final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44f43334-16ec-4648-a195-a7a05852b23f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytmiG3gLTPmjTgePtsfMAjfCYPd.jpg" tvg-name="El invitado" ,El invitado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3010b599-a28f-4cc2-b945-fded2306accb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHSbYI7l9ID1vuH3PiM4CWek38g.jpg" tvg-name="Hollywoodland" ,Hollywoodland
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78aacbad-7da7-4b02-9a8a-30a35563326f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg" tvg-name="Street Fighter: La última batalla" ,Street Fighter: La última batalla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e8d0bd5-79a4-4f6c-b5a1-281246293307.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bIvXIAf2i7NRMnrGowMhJJzPuY.jpg" tvg-name="Constantine" ,Constantine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9f1d1801-b937-45a3-9db2-4ee71b7d9858.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rg96JWGgjI3KPCJRczfvH51bmyl.jpg" tvg-name="Los sustitutos" ,Los sustitutos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7dbc88c7-0810-4a8f-b27e-b3a412d2a9a1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vPqEwaYU1uV94YXW1ejktuCpQc.jpg" tvg-name="12 trampas 2" ,12 trampas 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a6043e45-f747-4ba7-a1a8-503f0c3b56c6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg" tvg-name="12 monos" ,12 monos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1030bd3f-5b6b-497e-b630-c0858a33e1ef.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuyYqZVFGmF2rCBy8C6QytaAbBY.jpg" tvg-name="13 Horas: Los soldados secretos de Bengasi" ,13 Horas: Los soldados secretos de Bengasi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/91002a9e-4046-487e-9e18-fc26994bfb2c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wAIu7q72mINXVplVnU6pMbZmQQ.jpg" tvg-name="12 trampas 3" ,12 trampas 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/26d28532-7cd9-4a95-8d1b-afdb15747e3e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnznvBLkpin6L8D4plfAS8EbJx3.jpg" tvg-name="Infiltrados en clase" ,Infiltrados en clase
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a6f59e86-48b7-4c26-a94e-4ff5f4132b4b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgFebehDmRJLr1SoI52gnpuyDZp.jpg" tvg-name="22 balas" ,22 balas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f69b7d53-aa04-4a4d-9c85-d4c0d762efca.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOHbTyE3wDKu2ExhsfhGZQOIVUm.jpg" tvg-name="30 minutos o menos" ,30 minutos o menos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9f05ec5f-c747-4bb9-9f24-7b7980a72a53.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kIVvJJpzc4BNms8wBzB9GPvfdE.jpg" tvg-name="3 ninjas contraatacan" ,3 ninjas contraatacan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cba66902-75c8-4c1a-93c1-d3672fd1b164.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SR6ZXRh1gmuesCvcuuAiImnva5.jpg" tvg-name="La leyenda del samurái (47 Ronin)" ,La leyenda del samurái (47 Ronin)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a5c4a02f-8d30-401b-be3a-e98849fa7a8c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg" tvg-name="La primera purga: La noche de las bestias" ,La primera purga: La noche de las bestias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f25fa0b5-8ea5-427f-b515-b3c78dae1129.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBmGRMVgHziY3LO0nztOGQNExqg.jpg" tvg-name="Papillon" ,Papillon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bbe650a3-bfcf-405c-b8d9-2f9309911999.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg" tvg-name="El regreso de la momia" ,El regreso de la momia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f1e0dec-b3c5-45e3-bb3f-c7b421d95c27.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nR8baQ0AO9fxf9C85njgJ07vkm.jpg" tvg-name="The Negotiator" ,The Negotiator
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c26f4b87-ad61-405d-9b31-6e20c276369b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RoOAqRKgjvTyNDTYVpICiaAgIX.jpg" tvg-name="A Dirty Carnival" ,A Dirty Carnival
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/22b75ca2-e779-49e1-98fe-42ba9c598560.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YP9vQBsYHylBsKwsD6VStbbX8j.jpg" tvg-name="4/20 Masacre" ,4/20 Masacre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/11ec7aba-043e-4b0a-8b85-104163be0288.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg" tvg-name="Election: La noche de las bestias" ,Election: La noche de las bestias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2137030a-b180-4200-9362-6ca6c93fea73.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anomz7b3GQtHPFH34SODDBBIUad.jpg" tvg-name="Train to Busan" ,Train to Busan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b42374d0-cf87-411e-a04a-35f6f667dec8.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKDnyKw87E3RdZsnN7fzqqk3nMy.jpg" tvg-name="The Warriors: The Way Home" ,The Warriors: The Way Home
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8dfdc206-05db-4d2a-a9cd-8870d6bcff99.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ8jVLAVUG3XozFcFKyXMaWam2D.jpg" tvg-name="Transporter Legacy" ,Transporter Legacy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f4f3a196-28fc-474b-bf11-b5c8fda407da.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBNY8eV1KbQQUUegTMLVC57RYDA.jpg" tvg-name="Ladrones de mentes" ,Ladrones de mentes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c41e86a3-465a-4409-9d29-b8e936e575d0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg" tvg-name="Cuando éramos soldados" ,Cuando éramos soldados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/151f9a0c-c2a8-429c-b840-b7c4006cd808.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WQ3EWu8P3mML3pV9D3PKbvfwxb.jpg" tvg-name="La jungla: Un buen día para morir" ,La jungla: Un buen día para morir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72edea50-a897-4da3-b23f-9c5eaff05c5b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aS4UqKiuFKfIQPQUGxOGk3KQucf.jpg" tvg-name="Zombiology: Enjoy Yourself Tonight" ,Zombiology: Enjoy Yourself Tonight
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9d38470-10c3-4b3b-a366-3c0353a8d8ac.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llp6oHKjNd0VwthPgSkh8lA7Iub.jpg" tvg-name="Actos de venganza" ,Actos de venganza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c5a93e9-0b3e-4289-a7b1-b7f038432349.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5otfV0DzbtLlPIoZTpJd7pkWh8.jpg" tvg-name="Accident Man: De vacaciones" ,Accident Man: De vacaciones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0706aca6-9112-4dd9-a82c-ffc8f8d74b6e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UFz4TrbVdwBaJTz0rZn3PFI5kp.jpg" tvg-name="Asesino: misión venganza (American Assassin)" ,Asesino: misión venganza (American Assassin)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db7f71b5-3e4a-4a68-8f12-157798b9682a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg" tvg-name="Action Point" ,Action Point
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/02dcc978-8377-4cb2-b1db-fa25f6018857.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvs2ZLlqzF0wyzC8pZBDCSfrDBV.jpg" tvg-name="El escuadrón del diablo" ,El escuadrón del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbba26d2-c51e-4833-8eb3-4857e03536fc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXtRq5tYHfOuaGYVEksk9DP4z8.jpg" tvg-name="White Chicks, Incorporated" ,White Chicks, Incorporated
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/908ca825-70bc-4ba0-b93a-54230642fef1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuUpcP9zOjiVZUveQEBFCOlIG2I.jpg" tvg-name="Alien Warfare" ,Alien Warfare
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b24e0070-fb49-4c06-a6a8-80fd322e20d4.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eewRu7UdCHqUOI5JKCLymSroVYK.jpg" tvg-name="Amenaza en lo profundo" ,Amenaza en lo profundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e6a01d6-3630-4b3f-9e74-89ef755389b2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkPuLliBUL0M3dnhqutoqC4wjVU.jpg" tvg-name="Escuadrón de élite" ,Escuadrón de élite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c6d856c5-5a52-4220-ac71-ce7c860dc8d6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vWqRab0UbFvSAMvWE4D7LYpcub.jpg" tvg-name="Ataque Fatal" ,Ataque Fatal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15063438-05fd-4640-a37d-81031e83efb5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" tvg-name="Ant-Man: el Hombre Hormiga" ,Ant-Man: el Hombre Hormiga
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e50ab32-dc78-42fd-998f-3d5e1f2ad9c0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLIj0HJcGl0OCyEdGE3PjGz8tpn.jpg" tvg-name="Cuerpos especiales" ,Cuerpos especiales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/165e881c-22bf-403c-b8c4-06609adcf8ae.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg" tvg-name="El reino prohibido" ,El reino prohibido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e77db221-7333-47e6-984a-2a9fc7b30218.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7hUCFTFF0bovABDCgY1gsKYb4j.jpg" tvg-name="12 Rounds" ,12 Rounds
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/694a662f-19ac-4a4c-ac68-c407252018af.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxmKUiQef4E2K11kEnocQVpnEOF.jpg" tvg-name="Los tortolitos" ,Los tortolitos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/899f5519-e280-4c1a-8e60-712ae55b0b6c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bH82UMPNU9hx3qzjyHUnwghqmDS.jpg" tvg-name="300" ,300
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46b8a09a-cf9c-40c2-8321-d1b09ea34948.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy2TvHFwgKk6UzxxKnPsLkbQwTt.jpg" tvg-name="Lucy" ,Lucy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/655a0f26-f99b-4b7f-b21e-f9e52f047c02.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg" tvg-name="27: El club de los Malditos" ,27: El club de los Malditos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f835c942-e8aa-4604-9e94-72041837f69b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBcsGcLuDXYQCZGEjyRd8QM0Xmm.jpg" tvg-name="La leyenda del luchador borracho" ,La leyenda del luchador borracho
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bc09dba3-3f25-4d61-8c6b-0de6ae04d253.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6hhVCaCYkrYy6ji8SqtqAfV2xz.jpg" tvg-name="After Earth" ,After Earth
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47118be0-893d-4828-a859-1becc9e5c00e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMeFA5Jy8NvuuvnYmYywRsM62ca.jpg" tvg-name="Altered Carbon: Reenfundados" ,Altered Carbon: Reenfundados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a6da5a49-8763-457b-87b4-2eee82610a9c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwmCdtTvjnJZK79JKYkzkb0MFOP.jpg" tvg-name="Ant-Man y la Avispa" ,Ant-Man y la Avispa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0eec6e5-2ee4-4dc9-93de-d34e34b668d7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v453pRRshPun2gxRRBnNg8AIT0A.jpg" tvg-name="Alerta máxima 2" ,Alerta máxima 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6af9f24d-8056-4740-8ad4-12edac15c113.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjyGCKyEZKhZF2YkqxyzrfoeKoL.jpg" tvg-name="Apocalypto" ,Apocalypto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/600d247e-4a6f-43fe-b4c1-502697822181.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rklrzv8F2Cz10iMAGdDs9wAwj9.jpg" tvg-name="Terror en el Lago Ness" ,Terror en el Lago Ness
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd480d54-8510-4a82-995e-ef417d875f5d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT29bkqVszT8r6DhC9lTuOx6rK.jpg" tvg-name="Duro de Cuidar" ,Duro de Cuidar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ad85dca-68f2-4838-bba9-73e52ed11241.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76yQcIZR6NG191Ab38JqKR4JWQL.jpg" tvg-name="Operación: Huracán" ,Operación: Huracán
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbae2c46-1c3a-4a2b-9b24-c26d1cb2e55e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg" tvg-name="Bandidas" ,Bandidas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a958607-a78d-4e77-aad0-5c88e831a971.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nagh5PjkfBnDf5SKXyHupWu4yod.jpg" tvg-name="Training Day (Día de entrenamiento)" ,Training Day (Día de entrenamiento)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd8f1e6c-aa3b-42fd-bbab-a27db0d14d1f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgQwjFTQIbhq1uIO57k3YZNUGtR.jpg" tvg-name="El extranjero" ,El extranjero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c26843dd-3205-4c6c-9488-e64bfddb5e6e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IgMSK6ehZcfniZoWFRLSxEPcHS.jpg" tvg-name="El quinto elemento" ,El quinto elemento
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6a2391c7-7c8b-4b31-84ee-d3f41ec3c518.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkh7PLfMCYqMXHKWpRjzKFmb3lV.jpg" tvg-name="El agente" ,El agente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cf4a442-59ad-41b6-b749-235cc9fa4ede.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32vcJ7Fz03cNWGZt8FD75Z9pCO3.jpg" tvg-name="El tesoro del Amazonas" ,El tesoro del Amazonas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7dd667b7-9f46-45b4-93f1-7de31b3c9615.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UPlLPXINfeeABoV6zyvQKLW2I4.jpg" tvg-name="211" ,211
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a22c2147-b5eb-4c70-b7b3-bf6c0204e3a5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i4FKExsjSWMSHzRmxmsBMtR6gd.jpg" tvg-name="El rey escorpión 2: El nacimiento del guerrero" ,El rey escorpión 2: El nacimiento del guerrero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/193e464e-0f2d-4c49-a90d-4c52da4db187.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SHIZpuZ2cGoTGq5nbihIgy43rC.jpg" tvg-name="El Señor de los Anillos" ,El Señor de los Anillos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b31927aa-a0d5-48b8-a8e6-64c7453a928d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xCBshzQNkaUpiRV23mIGTKaN1k.jpg" tvg-name="El rey escorpión 3: Batalla por la redención" ,El rey escorpión 3: Batalla por la redención
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/87f976f8-abeb-4a18-87d0-7448ad1e23f7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" tvg-name="El rey escorpión 4: La búsqueda del poder" ,El rey escorpión 4: La búsqueda del poder
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54ce6caf-6cd1-47f0-af67-52b55b616316.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" tvg-name="Underworld: Guerras de sangre" ,Underworld: Guerras de sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/75801fb0-857d-4ebe-994e-08e33cedd39f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1tFx8XViVOLt3CNrEooMTWG41Y.jpg" tvg-name="El último Sharknado: Ya era hora" ,El último Sharknado: Ya era hora
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c26b5079-8564-4a3f-9f31-4694272c5602.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEiyyNU0CVZBgmH08l3GMgw4BfZ.jpg" tvg-name="El transportador" ,El transportador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d599906-b228-45bd-a0ff-a3feefc10869.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5OOPzncdTzQCYciaOmgoMUlrD2.jpg" tvg-name="El coloso en llamas" ,El coloso en llamas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cc46141-c52a-40e3-9ba8-d247c975aaaa.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" tvg-name="Guardians" ,Guardians
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b709edde-5c32-467a-8a65-c2a3f5bae3b6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMlyGSd5PIBpVWftx89yuLkzMwb.jpg" tvg-name="Irish American Ninja" ,Irish American Ninja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ff04f95-c95c-4380-858f-6e01be5dea37.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwDiK9Dd7cHMAEWP9b8flhu7Wlg.jpg" tvg-name="El transportador 2" ,El transportador 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0772262b-c161-4174-9216-8002db5c49c6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yADcc2D0uaIwP2BHCaKPz0daAAI.jpg" tvg-name="La noche que salvamos a mamá" ,La noche que salvamos a mamá
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dc5af12b-3783-4cd8-9565-9f754d13d3da.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syQkoFYfCADPOnP5ZPlyddGPtqC.jpg" tvg-name="El último hombre" ,El último hombre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/26e8bbc9-19c8-4f5e-9cc9-40077e8c0890.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lGFVecQmk8XYuL1McuU5EDwsNY.jpg" tvg-name="Undercover vs. Undercove" ,Undercover vs. Undercove
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/593cce92-0276-42cc-a8e0-7ffe2e0214ad.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg" tvg-name="Guerra Mundial Z" ,Guerra Mundial Z
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5940f5ba-0437-4dd7-9f17-d6cce0161f9a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjk5FQWR9NNYiMBHz99hcSoW7ct.jpg" tvg-name="Torque: Rodando al límite" ,Torque: Rodando al límite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6fd5b190-d897-4606-9c1e-93600599a006.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" tvg-name="La verdadera historia de la banda de Kelly" ,La verdadera historia de la banda de Kelly
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/50ff0201-df41-40f7-b473-1be3663bc0ef.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWTh9XfbDSOZiafEbtaCfyp75s4.jpg" tvg-name="Mi primer gran combate" ,Mi primer gran combate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c1535c1d-0aa5-42cd-aa08-034f55a3fd7e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtCpQc9SP6fB7EVSmE36G0pCK1r.jpg" tvg-name="La roca" ,La roca
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cbae411a-638e-449f-8fd9-f9fdc9b17b43.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yU72cy699Cc1ysdgnOJG9qWZGwW.jpg" tvg-name="Random Acts of Violence" ,Random Acts of Violence
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d590edae-d9b6-4b49-ba12-3ff459f8869a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUHvcexSHzYk1akPZ5kVNqr5YDo.jpg" tvg-name="Asesino Kung Fu" ,Asesino Kung Fu
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae2cd27d-e108-445b-aa65-3d73d0736810.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNj3QzKMLVS3rcEKhm93rfHu8qb.jpg" tvg-name="Misión secreta" ,Misión secreta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/974ad653-83ca-42e6-8da5-4a91bb42fbb5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzYP4eiDmBoVztMUmWtKqMZcUGN.jpg" tvg-name="La vieja guardia" ,La vieja guardia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47aed491-d717-49a8-8b9e-1670c3d50f3d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTBK4Sf1fJs9XzdhgT7hNJZwNU9.jpg" tvg-name="The Iceman (El hombre de hielo)" ,The Iceman (El hombre de hielo)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72589d6b-a9f3-40cf-a8bb-b7f91670518d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilqVN4fYuRLeLOL3rVicugp2TFX.jpg" tvg-name="Sting of the Black Scorpion" ,Sting of the Black Scorpion
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/69315c37-e4c0-4a5c-b840-00e23e4b87e5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmS0qlJ7JJFZFqv6iTVDXyjn97r.jpg" tvg-name="The Italian Job" ,The Italian Job
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/161976bb-13b0-416d-8e32-402b67aaf79e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFDKLW9wEO4GoIFMM3ttelxsxI.jpg" tvg-name="The Last Stand" ,The Last Stand
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b41ef3df-a0a5-448e-8fc9-afed49014146.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfInJORLPluOdeG8OcSNlY66j0N.jpg" tvg-name="The Great Wall" ,The Great Wall
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc65c50a-99ac-4661-b34b-6f466ec5afaf.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JEbMNds0ZRBD5AYcIIhCqRVgQU.jpg" tvg-name="La momia" ,La momia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/176c3a91-b9cf-48ea-88a9-5aee5681e905.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktniKrRfM6yXI2zEsLz9M3gNWP.jpg" tvg-name="La momia: La tumba del emperador Dragón" ,La momia: La tumba del emperador Dragón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ab79e567-c1f5-453c-b27f-86f045539d45.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nklWhTBnbFw0NutlupxNbDB9TZZ.jpg" tvg-name="Mifune: The Last Samurai" ,Mifune: The Last Samurai
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9358cf7-2a26-4fa4-870c-8a5bef060f35.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCRajSyw3XiiwfC9L5DZTIicJJ4.jpg" tvg-name="Conexión Estambul" ,Conexión Estambul
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8669de6-9536-4364-b00d-58c005b89d35.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXphpQgetq4FZJN1cNnX1FpGcS5.jpg" tvg-name="El Arma Perfecta" ,El Arma Perfecta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d4cc232-cb8a-4520-865b-084616449046.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6ewiz929IJcEFcphL8AANZ6xfC.jpg" tvg-name="The Animal World" ,The Animal World
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a39837d1-9c4c-4f63-b50c-72f0779dc451.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AFxCOOjb76Jfsw8VvKUGLV6Wfz.jpg" tvg-name="The Myth of Garrincha" ,The Myth of Garrincha
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6fe14a9f-27ff-4060-b7a1-9cc158518698.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTfhfGiwXTEiK3NQwsAwbw7aTEb.jpg" tvg-name="El santo" ,El santo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac18b533-892a-42bd-8c5d-76cc48667bfe.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvcy6SJpP9Gq0Ev6YKX8GRjjhCG.jpg" tvg-name="The Scorpion King" ,The Scorpion King
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/777802ea-635e-4f3b-9228-6bb856624ce1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVh4hMzkXNLnScudbid6hDvjMPk.jpg" tvg-name="The Siege" ,The Siege
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/866bb46d-7211-4d5c-b1ac-246ae805c087.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sExHMmSPju1S2BqkLpCaqR0wE6.jpg" tvg-name="Young Guns 2" ,Young Guns 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/808315d7-0a59-44fa-a24b-9e0f9255f1c2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj0ZYr2ZvAFT0uPuBdaLb9yYZQv.jpg" tvg-name="Anaconda" ,Anaconda
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/984df17e-6c2a-4b59-9f47-b1917224aadb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w3Lq72FkvmyZxqDCc7ILdCsrDy.jpg" tvg-name="El último vikingo" ,El último vikingo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/459afefb-0283-42fa-a645-a3b48c008599.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckZdXv33GogySzxEkUtjuzHOrzl.jpg" tvg-name="Welcome to Acapulco" ,Welcome to Acapulco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c023b6a1-8847-42b3-8b43-5115b169047f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph64l6cJSfSiQwIKK9JbzQpWBy3.jpg" tvg-name="Anacondas: La cacería por la orquídea sangrienta" ,Anacondas: La cacería por la orquídea sangrienta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dee8608a-9e5b-4931-8418-de22eb349c6e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waIV0wdDJB7yjGpwLPrTC8QuPsj.jpg" tvg-name="The Hard Way" ,The Hard Way
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e690574f-cb74-4830-9bcb-b12634196bfd.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRZCIwo8nWqJCiGqpO553gHyBYI.jpg" tvg-name="Los Campeones" ,Los Campeones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a84251f2-0067-4ad6-9f36-7e3fdafe57d0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ3ez6ibWaiLlPjeNTbWhBRowOn.jpg" tvg-name="Se busca" ,Se busca
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cc9ff31-15ab-4205-8543-46c5187db930.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWjL0OjDZmJBuUxHdNGkymeqiwGT2WxfuvuSEm5lzjDj1Ju3pj" tvg-name="Los dos federales" ,Los dos federales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed96552f-114b-432d-871c-0dd48f8196f0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGWZficHvCEerMlJ9nq4jfnEZku.jpg" tvg-name="The Foreigner" ,The Foreigner
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/053ab387-dd3e-4fa7-9279-cd8c2b28e51e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JrUTUQe32V5r4vErNfu8WI9K8J.jpg" tvg-name="Guns" ,Guns
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ddb463e2-1a49-4c7f-b36d-b2e11328fd46.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZQkvLOewY0dhuIliNCK0CQM9tm.jpg" tvg-name="The One" ,The One
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1d4fd662-8c95-4245-9717-3c767262247b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYmlvSGTS9W97tK5xUNRW4wvtfj.jpg" tvg-name="Mein Krieg" ,Mein Krieg
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/430236e3-5938-41ba-b5b6-7aa4ec316f77.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH38A0TjqHw792z03RsiIPqCzKw.jpg" tvg-name="The Gunman" ,The Gunman
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e8683f2-737c-4486-9cee-743fc15d2238.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNL0PmH0ksITHhUl5A7c5xCY5Tb.jpg" tvg-name="La armadura de Dios" ,La armadura de Dios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eb75066c-e1cd-4632-a59b-64e9436ad897.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg" tvg-name="Bandidas" ,Bandidas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1a1d20c6-a1dc-4753-9961-c7c762fe2719.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZrk6VCcA3xZQ4OrGkGT1S7qmvH.jpg" tvg-name="15:17 Tren a París" ,15:17 Tren a París
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/11d707cd-16d1-4015-982c-b9795fd5ef78.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg" tvg-name="Ninja Turtles: Fuera de las sombras" ,Ninja Turtles: Fuera de las sombras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2eef69b3-62de-4701-a187-cd37bb8dc1ac.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg" tvg-name="Acero Puro" ,Acero Puro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f011a58c-1e85-407d-8994-f8fe0e1d8db5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xXl8FefyjfGk3TIPQhsHV40ulS.jpg" tvg-name="Kenshin, el guerrero samurái (Rurouni Kenshin)" ,Kenshin, el guerrero samurái (Rurouni Kenshin)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0274e387-84ae-447f-b1bf-e24d1a68bab6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" tvg-name="Backdraft 2" ,Backdraft 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/337d85b7-5e8c-4a66-b27d-fe9b7d639a78.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGzAld6Vs3dyp79ShnIpNPdBPFU.jpg" tvg-name="Self" ,Self
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/14e1c46c-bbb0-4551-b995-6396c184b55a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWHpCti0TWpU9g3HkmIShIjnYhW.jpg" tvg-name="Duro de matar (Rumble in the Bronx)" ,Duro de matar (Rumble in the Bronx)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b6cea828-e99e-404a-9623-a10598c64e34.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IBB0Z2dZAWZNkRq6hF9pJsmMtE.jpg" tvg-name="Babylon A.D." ,Babylon A.D.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53da7680-50f5-4332-9c88-a88726118d17.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJhjEpSlKGOIuaZg6sPJB9I75RV.jpg" tvg-name="2012" ,2012
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53f7b61f-0b69-400e-9a01-a1c268bd136f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" tvg-name="Vengadores: Infinity War" ,Vengadores: Infinity War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/906aef5c-f441-44c2-b0db-21bcc2142b48.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YEp2SBnnkSvY0tBs0W12R4KVnQ.jpg" tvg-name="Tamara Drewe" ,Tamara Drewe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e3c823d8-ab6b-46d5-a9b7-a95e7512e149.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCPPXAbhJ70M1uMC0rmsfSDzhzQ.jpg" tvg-name="La venganza de Ninja" ,La venganza de Ninja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00b62b9f-9f33-4ab7-91ff-d2e5e8bfa355.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2lHozzpR6kzsKJluUidDsNfbY.jpg" tvg-name="La bala perdida" ,La bala perdida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/642c5e2f-6659-4e02-b78c-203747f1829e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://m.media-amazon.com/images/I/81JgsD1EoIL._AC_UF894,1000_QL80_.jpg" tvg-name="universal source code" ,universal source code
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1519f3c6-db39-4441-85d4-256a486f1481.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFfr61aXpw40kPRSQIFoYxZzi0t.jpg" tvg-name="Distrito 13" ,Distrito 13
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/beb8df6a-57b2-4438-b623-91f596edbc39.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FceOv1z6BYtxWVRuwa2xKygWIF.jpg" tvg-name="Cisne blanco" ,Cisne blanco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8996db5-2752-4d4c-af0a-9d4ed64e1e0d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" tvg-name="Batman vs Superman: El amanecer de la justicia" ,Batman vs Superman: El amanecer de la justicia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a430542-41a0-4c8a-9a1b-31c7371a2b8f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fC877InD7W0wu4ainQ3CGjfxMTg.jpg" tvg-name="Armored" ,Armored
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e5d15181-60a2-42f3-a4c8-65fdacac277f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGSrcBefZyl9g6LlzuwtW73mH7u.jpg" tvg-name="El último rey" ,El último rey
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/437fd603-7b31-48a6-b752-d092f0280d1b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uxu51U2wNuEnuQtlyDbCgS4IPI.jpg" tvg-name="Black Hawk derribado" ,Black Hawk derribado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0990ee9-ead7-45c3-8192-3509078125a6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QIbBgYHuXb987FqnfxmHFGWc5u.jpg" tvg-name="El guerrero nº 13" ,El guerrero nº 13
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/034bf744-b928-40d9-8301-da63fa5098f6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzaDFE1fjketqXEE4yYJgVG5g4q.jpg" tvg-name="Armstrong" ,Armstrong
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6b991225-2ef4-4bed-b3b8-bc54bd8db27c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwVuJhfWEViIbln8dl38Yhm4TlF.jpg" tvg-name="Furia ciega" ,Furia ciega
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8cda51d8-c76a-443a-b3f8-7504569bd7a7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" tvg-name="Ava" ,Ava
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d03c68e3-a18d-4afb-800e-7a9917a5cbe0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bxUZxA2NdkjKGYcLwS03BgguOO.jpg" tvg-name="Asalto en París" ,Asalto en París
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eb57591d-562f-4664-955d-4fab3af18ca8.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdEE0qGuagjMnzKNGYR6uaBITA.jpg" tvg-name="Batman vuelve" ,Batman vuelve
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72151900-a6e6-4a08-be16-be1d5c6c2273.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B0z2yquZCOUPsk9p6Btfjr7v7F.jpg" tvg-name="El sexto día" ,El sexto día
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27ac3ec3-eee8-48fe-b2d8-2dc4d2797d3f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL2GQORmn0UDfIuGfDKOYyjxZ3j.jpg" tvg-name="Ciudad sin ley" ,Ciudad sin ley
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c1838fa-6daf-4578-9573-250375bcfc34.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sdAHQxt53W8gZKivX0Pdk4DuXA.jpg" tvg-name="Las vengadoras de Grimm" ,Las vengadoras de Grimm
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/765d6112-23a6-471f-aad4-facbe359ee13.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hn2C89W1APrPPoZ1XQv69jJb1RP.jpg" tvg-name="Boyka: Invicto IV" ,Boyka: Invicto IV
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0bb1d72-136b-4d93-b5e0-67f471cc1f85.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZE3KqlfNz2Rm6LC4kAUULno84D.jpg" tvg-name="La espada del inmortal" ,La espada del inmortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b7b1e85-4ace-4887-a485-7d50a5bf32a9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKevdQnQxn6Z9qHVSiCxhMdmO9J.jpg" tvg-name="El imperio del fuego" ,El imperio del fuego
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/934c999f-20ea-4751-bc2e-1abaa8a1b294.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrMbljFWCaHBojYYAc1hN3EwzEN.jpg" tvg-name="Attrition" ,Attrition
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9a36a6a-f7cd-4b94-93a5-d80edff14750.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3S1f7LuJd6UmndmyVFJ1NVaBwn.jpg" tvg-name="Gay Batman Forever" ,Gay Batman Forever
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d4bc6d2-7916-4b81-983d-49faa04baa75.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njB8UnVBp6GznmIzlTNm51LwiHR.jpg" tvg-name="Assassin's Creed" ,Assassin's Creed
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/475b93bf-d5f2-416b-b65a-6cdf9949c650.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5bTogJOMXO9Chj9IX3hiHKoMgT.jpg" tvg-name="Disparo letal" ,Disparo letal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f24527fc-1309-4ddf-a40a-a1d61d84fc83.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtJTwBMxMFnUDMMHqyt69Tx0aw6.jpg" tvg-name="Los elegidos" ,Los elegidos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7fd8869f-96fd-40dc-8a39-baed1ecb179e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxZUuAiqn2ubCQZqJ8Ukxg9DbY3.jpg" tvg-name="El despertar de los dragones (SPL2)" ,El despertar de los dragones (SPL2)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e684a634-e3b9-4d84-8f2e-e730a755c48d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MsCANWyLJmz2MAEqiy9vKMpyc8.jpg" tvg-name="The Amazing Spider-Man" ,The Amazing Spider-Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e7aea731-82e0-4587-9d74-cac5a778efa6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g05aWJdYKCwTbcLsYzjQvhQDBmm.jpg" tvg-name="Furia y honor" ,Furia y honor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec69c1d6-80b0-4331-a99e-6eb291ebd94d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5VJiWgGp1O2OtjESZVd37gepYQ.jpg" tvg-name="Baaghi" ,Baaghi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ae84494-fd07-48a4-9575-6122ffcddedd.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9JXmVg42jaEB2zuIQ9zHCbZNyy.jpg" tvg-name="Ajuste de cuentas" ,Ajuste de cuentas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/93a825c4-c701-4076-896d-b6240c3bf7e0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg" tvg-name="Bāhubali: The Beginning" ,Bāhubali: The Beginning
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59d52506-2783-46c2-be2a-e67d31395551.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spuftWtVIYSHhxt8LLpTscAGdfL.jpg" tvg-name="Lago Shimmer" ,Lago Shimmer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78476022-c474-4906-b398-a1f989f916df.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XR7Pbo8qdwdpOIsFtWJOEiOJD6.jpg" tvg-name="Bad Boys for Life" ,Bad Boys for Life
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b67be77-10f1-4aa9-a9ff-f9e84e81bbd3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgBBB3Auky610UPhWdb0hBnwQzM.jpg" tvg-name="Batman vs. las Tortugas Ninja" ,Batman vs. las Tortugas Ninja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/81a5501d-7f95-456b-bede-c25f94a94ded.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" tvg-name="Batman vs Superman: El amanecer de la justicia" ,Batman vs Superman: El amanecer de la justicia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e89cd3b8-ca34-4a8f-b859-eca99603c233.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBl7jUR6U55q9p7EWibTkdWv8Gh.jpg" tvg-name="Alien: Battlefield Earth" ,Alien: Battlefield Earth
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e83d1bbe-e03e-42a5-a96c-0786aa222549.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWJLsCVU7MckdprbbQi8g02wRYr.jpg" tvg-name="Banjo" ,Banjo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74cc3e9d-dbe8-452b-9713-d294940bc18f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U2L8tOFhTKD1eEIPFTFxfk7knm.jpg" tvg-name="Baires" ,Baires
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d33a41ca-8cec-4cd2-b1df-62f52d2d6940.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxqF36Tbt6xLVRMUkYg0EXhPMVX.jpg" tvg-name="(Bigmaechi) Big Match" ,(Bigmaechi) Big Match
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8385c2b-3ef6-4671-be9b-8692223d5e7b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZLtd1fR4hpcyGVwOLM1ka1t8HX.jpg" tvg-name="Jo Pil-Ho: El despertar de la rabia" ,Jo Pil-Ho: El despertar de la rabia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b1c16d1a-73b3-4089-a80a-936b888910ef.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg" tvg-name="Blade Runner 2049" ,Blade Runner 2049
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/509f06cf-26be-48df-9c82-b02c03217461.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg" tvg-name="Barely Lethal" ,Barely Lethal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/570aab62-697f-4c4e-8d8d-19745e06f214.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8POGKMj4wbrBJPit6BofggbQMeh.jpg" tvg-name="Bleach" ,Bleach
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ad579bbc-88be-485e-be47-2e483b7e7474.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVzoXzG1lyZVLlnTAQXRFF6utLr.jpg" tvg-name="Big Game" ,Big Game
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7125415d-1697-488e-99f2-248013dcd6c7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg" tvg-name="Venganza: Conexión Estambul" ,Venganza: Conexión Estambul
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a0355f59-57ca-4675-bbe4-facbcd5bf813.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uokKo45TZUhDnL5qQ81NqHYKpPv.jpg" tvg-name="Blackhats" ,Blackhats
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/81d20f5e-7b7a-47a3-90ec-a47e1880ab0b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg" tvg-name="El caballero oscuro: La leyenda renace" ,El caballero oscuro: La leyenda renace
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c2222fe-da3e-468d-9ed0-20a5e8c5dcd7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg" tvg-name="Batman Begins" ,Batman Begins
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57cf8d50-2690-4bc3-b9aa-812052d130ee.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg" tvg-name="Venganza: Conexión Estambul" ,Venganza: Conexión Estambul
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/03749e00-4a22-4971-b5cf-453198b1316a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZV5RHdFUor2SKp3ywVCjFtiSff.jpg" tvg-name="Blindado" ,Blindado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a6dcb6b6-58b6-4176-ad71-3a4fc2f88863.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR2716VZn7CigrEikQ5PfEITqun.jpg" tvg-name="El libro de Eli" ,El libro de Eli
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7afdfa23-bd28-4f13-bc38-1f8afdeee1d7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVfSGAbOK4FucTwkYrXJjeBFqv4.jpg" tvg-name="Bloodsport II: La mano de hierro (Bloodsport II: The Next Kumite)" ,Bloodsport II: La mano de hierro (Bloodsport II: The Next Kumite)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/931fd17d-6459-4d8c-a43f-9afd788f6210.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irkcFSVhPuqDw6ZtJ4Mb26eVboa.jpg" tvg-name="Ben 10 contra el Universo: La película" ,Ben 10 contra el Universo: La película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ab66fed-fb64-49b7-891c-b58c998ec66e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qobimZ1TkVJYiJDAOzVRMdBX3a8.jpg" tvg-name="La mensajera" ,La mensajera
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ce77b12-5893-482d-9461-a9d2a19bc7dc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg" tvg-name="Blade" ,Blade
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dff322a3-a9d8-401d-83de-02ec96d74183.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hENBZsCWVJiq2wYcDUsbxjHfvhV.jpg" tvg-name="Braven (El Leñador)" ,Braven (El Leñador)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c23bf45-45ea-415d-8183-2363e253164d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4fPiaxCmMyRCo2VD155GXonXXg.jpg" tvg-name="Las aventuras de Sharkboy y Lavagirl" ,Las aventuras de Sharkboy y Lavagirl
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58c281a8-8154-49a4-b39a-d2c13c8ec73a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quB2uGN5VzhP7VZnarnMtJB8Qdi.jpg" tvg-name="Tortugas Ninja III" ,Tortugas Ninja III
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a762ae98-44a3-4dfd-aab5-1ae0cfc567b6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vreJ8BKz4ZN5VBHO8ghSqlr07j.jpg" tvg-name="Los aeronautas" ,Los aeronautas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e08adc22-63ff-4d11-b3ea-0f778212aff7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg" tvg-name="Blade II" ,Blade II
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ccda9d88-0a69-4646-abbd-3da36f96dd76.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUeucJ9xJObQDrlGtXMEx84Vfve.jpg" tvg-name="Priest" ,Priest
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6bb8f80c-d037-42d3-9d06-5869474e820d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKLvBS6eGIAzaFNjW9JRszwEs40.jpg" tvg-name="El club secreto de los no herederos al trono" ,El club secreto de los no herederos al trono
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dfb24ad8-6276-4e6f-8296-38c26b9226ec.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56utveUWJwmG12YU7c2zKw6pbRZ.jpg" tvg-name="Shutter Island" ,Shutter Island
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec518d09-c8b3-45a9-b6bb-e2ddf9fe94fe.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rom0NoTExJcBWSf1TqzUV5sgYdb.jpg" tvg-name="Boogie, el Aceitoso" ,Boogie, el Aceitoso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a191c879-8bb0-4397-9904-bb4a2214104d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVUUO2JSNukKX0Bj5BUwvcxnVWm.jpg" tvg-name="Los elegidos 2: El día de todos los santos" ,Los elegidos 2: El día de todos los santos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0751026a-5e43-42f8-837f-d46bef906b2c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zo40Q5LMzP0lGt7pwRre3DLEhQW.jpg" tvg-name="¡Scooby-Doo! Y la maldición del fantasma número 13" ,¡Scooby-Doo! Y la maldición del fantasma número 13
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/903bc177-0f34-45bf-9efc-cc1fc29e26c9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUaiBGMcToBgiuvGtvRHjHps9Qe.jpg" tvg-name="Salty" ,Salty
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c7d0074-b1df-43b8-bc04-d8bb64c6cdf2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiHhy9eH6Xa5Ua3uDLfOwKO3mfj.jpg" tvg-name="Salt" ,Salt
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/22eee93e-48dd-4b27-9851-6f07aacfe649.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAcx8WoYNmWVfqTrwpEmuH1sSN0.jpg" tvg-name="Espectro" ,Espectro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d233104-7db4-4816-aa60-9982d3989ae6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRLVyhQfkW2hn15e8NIqarswLAr.jpg" tvg-name="Son of a Gun" ,Son of a Gun
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eaf14bf9-58b2-4f7a-afc0-452452efc961.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Sokh7DazDAxGOpt0ln9soTTET.jpg" tvg-name="Bloodshot" ,Bloodshot
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eaf03490-7a88-498c-ae70-0ab4013831c2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l10eghFN1nQmWwMSt91MlLvZZFA.jpg" tvg-name="Red Sonja" ,Red Sonja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e622ff8-3bcf-4d88-a13f-9b3a3298a62f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnFd3ACnXFTSF07DUIWFrM6Np8b.jpg" tvg-name="El gran jefe" ,El gran jefe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e6a99ad-54e5-4c30-b2be-8519f069533d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buUQCdQrJM8itUd0MmtIikjJyEl.jpg" tvg-name="De ladrón a policía" ,De ladrón a policía
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/514a6f1c-e490-460d-a5dc-387ce1ea6bd4.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAOaxJhs8o2Sj2Hxm0wybRiuNUl.jpg" tvg-name="The Cold Light of Day" ,The Cold Light of Day
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bf9c7b8a-25b6-49bd-a215-b423b0005fb8.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCqzSQuPQ9jvWkT76ZvQLHINqZC.jpg" tvg-name="The Takers" ,The Takers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60a75bc0-5f84-4506-a313-a2c28d563fb9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jon5ux36iUn6GnntxkZaNtB6AZT.jpg" tvg-name="Bait" ,Bait
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cf414bcf-0320-4936-b2d1-c582b14b44d9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAc9kMtLTCs6QHf2dgPVOoWK58k.jpg" tvg-name="Suicide Squad" ,Suicide Squad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5689c443-5ebe-451d-9ea0-1a18f4fbad70.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpBtuiaFaCEsVxqJpYcGy6BXKta.jpg" tvg-name="El corruptor (The corruptor)" ,El corruptor (The corruptor)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca04de4d-c451-48f8-a3f9-197a962f5e1e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jp72AlHelWLPt1SwOCidOxsEj3a.jpg" tvg-name="Amigos muy íntimos" ,Amigos muy íntimos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f247c02-a310-453e-927d-74b658675779.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSOnZHWx32rO8zdApGsbHxwABO0.jpg" tvg-name="El gran golpe" ,El gran golpe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7efac8c8-df18-4580-a0c2-596391193caf.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZDFly2PVQRtoogskeMRH3goeeM.jpg" tvg-name="Bestia de carga" ,Bestia de carga
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f441737c-2c0d-482d-98a5-df71b9895d4a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTshd9hjQMWyRijWucqszKPrp5z.jpg" tvg-name="Venganza" ,Venganza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/abac15f2-bd04-48c4-a132-781204fa3ac6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vRATNOWA8y8qN6W4pzCh0SC0Cy.jpg" tvg-name="Insurgente" ,Insurgente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/de211e1c-1fbb-4433-a297-e731c06653c3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hd6iyViluCMOqIJz5TsiyBFqp9.jpg" tvg-name="Black Water" ,Black Water
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/770a890e-97af-4f42-a9fd-bf303afa65c7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOxkZGKeiasZtczCh4Yj1U7WZSh.jpg" tvg-name="El rehén" ,El rehén
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5e4dfd19-8434-4420-8bea-cc946015e6ae.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GCqF17I2ST5M8iSkwh1jwqvi7F.jpg" tvg-name="Aves de presa (y la fantabulosa emancipación de Harley Quinn)" ,Aves de presa (y la fantabulosa emancipación de Harley Quinn)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5cb2a444-5847-4929-b0e4-420312996576.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycUlgIxAatM0TBi9jqSDnNSq9ge.jpg" tvg-name="The Assignment" ,The Assignment
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73ba7cab-8a54-42e8-915f-169a236b8c51.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r52ZlnCWP3TBzqYOhUJ8DR9w3XZ.jpg" tvg-name="El Justiciero" ,El Justiciero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/70b6a8bc-f65c-48c6-9f50-8511117de5c6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/X9iFHeIYgfqoZImvdidx8b9v4R.jpg" tvg-name="The Crow" ,The Crow
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3229d075-20d4-40b8-81eb-c1f24c19810f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knfGcU0nRMYUD36ZwlSUF5LG9aJ.jpg" tvg-name="Blanco o negro" ,Blanco o negro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd20d98d-5225-4d9a-9acf-de49d62ec767.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYQwNesm0YfU6TJXamJlxVyP362.jpg" tvg-name="Los aventureros" ,Los aventureros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9235c5c-f467-42d8-b6b3-240b9b36e72c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1igPGF1k45Z1YlKZ0Zx3E4XvG9G.jpg" tvg-name="El monje" ,El monje
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c52996d5-8227-40fe-a49b-96c0603af319.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Capitán América: El soldado de invierno" ,Capitán América: El soldado de invierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eca7b950-6c6a-4559-86c0-35c0c3e779db.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmgRgyY6NhPhsjbpBLypzRx9qiB.jpg" tvg-name="Bulletproof" ,Bulletproof
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1506f838-4dcf-4f03-908f-66282fdd3b33.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbchW8F1Cy0qv1w8uOkcZwZCfXr.jpg" tvg-name="Che: El argentino" ,Che: El argentino
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f15c62f-462a-48db-b9a0-3b10afb6a020.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAVXQOpL2hEAjRe1V0pHccPI3l3.jpg" tvg-name="Guerra de flechas" ,Guerra de flechas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8afba57a-30eb-4739-9821-5ac999a26326.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMGcxUu3hiOyVlk0K9gnAIfVCG1.jpg" tvg-name="Bushwick" ,Bushwick
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20dd913e-8cc9-4a38-9cd3-4c7816426bbc.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F0Rz5SObtMlbT6U0kGVKcdTXN2.jpg" tvg-name="Cellular" ,Cellular
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/51db58f4-0e23-4eb6-804e-c1820d7022be.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xWEhLPlP9yg3DJbkKaBayBN98V.jpg" tvg-name="Bright" ,Bright
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b5624636-fcf9-4165-ba2c-da51400cf2b0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ1NsL2A7dwY63mBkHdP1K4kD3T.jpg" tvg-name="Gurren Lagann: Las luces en el cielo son estrellas" ,Gurren Lagann: Las luces en el cielo son estrellas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a3476d2f-7ef7-495f-86b4-fde52e1d06dd.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voM9RFRBMxb73ruMqAFoEFica5w.jpg" tvg-name="Pánico nuclear" ,Pánico nuclear
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ebf1161-650d-4594-892a-05aa2017e1c2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" tvg-name="Christopher Robin" ,Christopher Robin
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0783661c-61c4-4a1b-8491-627056155e31.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4yzPH9lhJbGaV0ZkvWWKTF3gGi.jpg" tvg-name="Line Walker 2: Espía invisible" ,Line Walker 2: Espía invisible
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/899aa8e7-8c41-4206-abd8-2183d040f08a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Jhk48r4SRaUprLjaAnWeqfdWka.jpg" tvg-name="Logan" ,Logan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6273e6b3-7749-471d-8e70-fba07d5458eb.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztTnfnqAX8O0ik1ZhZrjJPGjtnd.jpg" tvg-name="El soldado de Dios" ,El soldado de Dios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e2ef1ce-59fd-43f2-a755-4d52e7f11bda.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" tvg-name="Los Increíbles 2" ,Los Increíbles 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0d7d17cd-adfc-45c8-b410-28302d3035c4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scYpFhhFPxFgmb4mMN9kXIZdtwm.jpg" tvg-name="Mercury Rising (Al rojo vivo)" ,Mercury Rising (Al rojo vivo)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f8d9c4da-f9dd-472a-af9a-95340421c53e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewPz4CtrgyQZaCRpubtG5IedIkp.jpg" tvg-name="Men in Black: International" ,Men in Black: International
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57f8b5f8-6ab9-48ce-872e-87bae3481e23.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cA6a4xW76bNZdXZKLCr4YkdpElK.jpg" tvg-name="Comando" ,Comando
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2f902b0e-dbc0-4161-8c72-5222e28b2ad4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vISsOjLk8HGQAK1HgajNSBGQWy.jpg" tvg-name="Los ángeles de Charlie" ,Los ángeles de Charlie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3f4deb33-42fd-4959-bef5-54786c343026.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92a6R4NgNqXpiDpZb9zdCstPx86.jpg" tvg-name="Check Point" ,Check Point
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a16e737-7424-4cdc-ab4e-d7e4bf06942a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJiZDk1ZGMtYjdhNy00YWU2LThmZjMtNzcyOGIzNGQ1NTBiXkEyXkFqcGdeQXVyNDAzMTMyODg@._V1_.jpg" tvg-name="Ahora me ves 3" ,Ahora me ves 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/28cc46e1-29b3-4f40-8f4e-ff40bd9e288f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg" tvg-name="Ocean's Eleven. Hagan juego" ,Ocean's Eleven. Hagan juego
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6acd4f73-cda3-4f99-8f2a-3747fc083de4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BVwATUyspEyWwW4H6ZbfBY0HxM.jpg" tvg-name="Ninja Assassin" ,Ninja Assassin
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ccb7d41-8ed9-4eaa-9213-42651e3b39cb.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU2OWNiMjktNDliOS00YmZkLTkzMDctMjY1YWZjZWQ0M2Q2XkEyXkFqcGdeQXVyNzQ3NTAwOTE@._V1_FMjpg_UX1000_.jpg" tvg-name="Once Upon a Time in Chinatown" ,Once Upon a Time in Chinatown
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b127a0fe-e8f9-4ad6-a2d6-9fdf05dcd36d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65bDKGakIDaBcJ5lhitHKNGOpO5.jpg" tvg-name="Dolor y dinero" ,Dolor y dinero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dbd075b4-dcec-445a-b4c0-8a115661f7cd.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHfS6bnkdYdfw5xpg7nYe6z9ORt.jpg" tvg-name="Última llamada" ,Última llamada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/82d5999b-7f32-480b-a18c-c101b14c3df3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UElHPbyw7c7lcqR5bqhlemiQMr.jpg" tvg-name="A sangre fría" ,A sangre fría
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9262dbf1-3f1c-4653-bdec-224a1bc8123b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyAGJ75aJXwDVDZqBWLWNxb82AA.jpg" tvg-name="Predator" ,Predator
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/050cf751-32e3-4a2d-8642-094edc15cf6a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKVJ2WDJ0Rg7zThjAq8vt8QYZfh.jpg" tvg-name="The Phone Booth" ,The Phone Booth
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c84d4c4d-fe11-472b-b17b-b8b411ad6882.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeiytfIUHnpP9uTurPe4DFNYbmO.jpg" tvg-name="Vuelven los mejores" ,Vuelven los mejores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dde6ff8d-337f-444e-b0f1-70c93cd915b1.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZkRMq0zt1cxZI2Fe5A3NypiDBG.jpg" tvg-name="Vamos de polis" ,Vamos de polis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/70c8676f-a155-4d1f-a45c-e855c3050cab.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" tvg-name="Destroyer. Una mujer herida" ,Destroyer. Una mujer herida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c819a2b4-c960-4e4f-ae9b-00b99354d157.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcijzAh9W8JWqHYXlY0bsnvlUwX.jpg" tvg-name="La asesina" ,La asesina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a575f53e-705e-4155-97b1-fafce4a4b522.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfZClfVlLJI6RWjKlMBiuvosYEy.jpg" tvg-name="Venganza bajo cero" ,Venganza bajo cero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a15c30c-f4fb-4b25-a523-786c1857ff09.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxgpV9lVOMhtaVxwlpUiZea31KY.jpg" tvg-name="Conan el bárbaro" ,Conan el bárbaro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e570ca96-c9c0-4d8b-ba17-264d4c3c9bad.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmwYv8vIGlQQo5sZCWuTo8bhFmy.jpg" tvg-name="A Bullet in the Head" ,A Bullet in the Head
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/522a0645-494c-458b-82c2-f2a4cf3ba39c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25H2JzYmsBG5869h0bxkShDyov1.jpg" tvg-name="Crank: Alto Voltaje" ,Crank: Alto Voltaje
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/84c872cf-66dd-4707-8f6f-117361718dcc.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MAElUYN8q0oDxxqX5roSd9aFiD.jpg" tvg-name="Collide" ,Collide
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9c60462-5288-44dd-8101-680542157552.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdpeyCw1VlvfSFKAtvnHRjPQaUL.jpg" tvg-name="Danny the Dog" ,Danny the Dog
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/26898b20-27e2-4305-b4d4-56d28d2a1cbf.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg" tvg-name="Capitán América: Civil War" ,Capitán América: Civil War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/280da8a9-a167-4819-b7e5-bddf6a65763c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oYdnnS9jVy9CQd47rBdv7W7bd5.jpg" tvg-name="La flecha de Orión" ,La flecha de Orión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/05bbb083-782e-47ae-99c2-a3d040556368.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ums8dP9tOD3aN4vAxR3Xy53PrVa.jpg" tvg-name="La maldición de la flor dorada" ,La maldición de la flor dorada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b09ef9cf-dc72-4b52-b2fa-997eebb067b5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4VV2lPHXbRgeTsfn0MEfZlKeNi.jpg" tvg-name="Libertad para morir" ,Libertad para morir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ef83bc3-4a21-4396-b8df-da37db48d42e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-name="Capitana Marvel" ,Capitana Marvel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/70bb1bc9-6c2e-4eef-b837-b86d636c1687.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQXAoHhSV0j7uSXODEaowR7QEkr.jpg" tvg-name="Cowboy Bebop, la película: Llamando a las puertas del cielo" ,Cowboy Bebop, la película: Llamando a las puertas del cielo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a72b4645-adfd-47aa-88c5-db0cb8f03dab.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTQfod1ZSLp4lQ1HAyUQhp6oocm.jpg" tvg-name="Caos" ,Caos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01f0c1fc-82af-4328-b25b-d0bd5dc467cc.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIzNzE1MTIwMV5BMl5BanBnXkFtZTgwMzY1MzQxMTE@._V1_.jpg" tvg-name="Change Of Plans God s Way" ,Change Of Plans God s Way
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d7b5d2f-3d76-481e-9fb8-f15d8ec35d04.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3A8yF8B8o9QxxcmqJJzzqBWJ1P.jpg" tvg-name="Venganza personal" ,Venganza personal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fde675be-06e9-45d8-9c56-18cbec4c00ef.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcfrqN4ev1b2nGUwv12MC5TYoRN.jpg" tvg-name="Yo soy la justicia IV" ,Yo soy la justicia IV
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fdfd5d44-d966-4b13-a408-a9ccd0748391.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mI8yqZZBlZpvd0aT5YXbR8oEvT.jpg" tvg-name="Death Race 2050" ,Death Race 2050
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0092d22e-7da8-421e-a7af-c09d840e1652.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc6Cjed79ENqzktwQUeYkp0YWaQ.jpg" tvg-name="Hércules: El origen de la leyenda" ,Hércules: El origen de la leyenda
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fec8bfa9-e9a1-4ce1-aade-03ab7adffcf3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2kVBpRljENCi8KskBi0tedK3UE.jpg" tvg-name="Chappie" ,Chappie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c95fce8b-6dc5-460d-a667-ad532f92785c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Syk3aavoOpFjZhH5MamYnJruIA.jpg" tvg-name="Burn Out" ,Burn Out
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d398b1f9-5191-488a-b713-6a252705d825.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1xcetd3F9uKKH8B6Vk3P1T7tot.jpg" tvg-name="Logan Noir" ,Logan Noir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e3320c1-6a83-46d5-8c8e-0a3162cd706e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg" tvg-name="Leal" ,Leal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db85b67f-3cf0-43f6-93b7-4eebfcbe6b93.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbT6u0CN8oh08x4vf7roQun0qMG.jpg" tvg-name="Código negro" ,Código negro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b90b948-a6e6-4f92-baae-682eb5b76a48.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg" tvg-name="Chronicle" ,Chronicle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bb860a4a-829d-49b2-82a8-6a096a141510.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1olLaXsFPh0mMHmTGuEjjv3Iz7q.jpg" tvg-name="Loki 7" ,Loki 7
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd4579b7-10d5-4538-801a-91e8eea1fc5f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uBBgn2aslRLcY78UMl43vliji9.jpg" tvg-name="Desaparecido en Venice Beach" ,Desaparecido en Venice Beach
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/368ac104-5def-472a-bf1a-74b25ad82f71.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ToZGJadpR5wQjy1rpuzgNZqYmw.jpg" tvg-name="Commitment" ,Commitment
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e59ad57d-8709-41f3-b48d-635a80213940.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wz2BL1qMVqX80NzUBrTSombrwmN.jpg" tvg-name="Cyborg" ,Cyborg
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dde18663-788d-406d-99c9-0f5515613073.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs166jcsSkRhOvblIEPnFs04aXS.jpg" tvg-name="Compadres" ,Compadres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dbb09f80-f448-4874-97a4-2e30a7c51db8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTzuFkYy0JKsiZtv3hdVB6pAHhv.jpg" tvg-name="Countdown" ,Countdown
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a820407-b9c2-4777-94e6-03de3998649c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75x104UiD4G6Pxa4m1A0SBBtHol.jpg" tvg-name="Daybreakers" ,Daybreakers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7fe4ee60-6b68-4431-bca1-60fcd04963e9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojavJiW2YPeZhePBLTrZ8jwdp8l.jpg" tvg-name="Conan, el destructor" ,Conan, el destructor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b8f0bf0-c53b-4dc8-bfb2-30601dc5d55b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZQ4f7k5CRiCi85i4qw3XFBtIJ5.jpg" tvg-name="Crying Freeman: Los paraísos perdidos" ,Crying Freeman: Los paraísos perdidos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5aef8d7b-36e2-4a44-95de-73ba57d4dc10.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1l1vC446IM89iD3wBaQc3erp9Z.jpg" tvg-name="Daredevil" ,Daredevil
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a07114c7-8a57-4409-97d5-26b2e64e8829.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC8ykZpV1K0lLxrbr3tbkqZFnXE.jpg" tvg-name="Conan, el bárbaro" ,Conan, el bárbaro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/86450cb8-9bd0-41cf-8196-faaac2c1677d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg" tvg-name="Daphne & Velma" ,Daphne & Velma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7ac7daf5-e94f-4af8-9b62-b24c4e13d3a6.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8EqTKzNMzxSVVONvOQWchTzd7c.jpg" tvg-name="Cross: Rise of the Villains" ,Cross: Rise of the Villains
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6d8c0a9-e2e5-4b8c-b1c4-73e00b373c13.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ertjPu1KE774z1dduteQ2sfCd8v.jpg" tvg-name="DC Super Hero Girls: Leyendas de la Atlántida" ,DC Super Hero Girls: Leyendas de la Atlántida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19f9e74c-1923-4bf8-b1f5-45b46e13439d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGgCTPrWqyyUpfXVXETBmmOQdHr.jpg" tvg-name="La deuda 2" ,La deuda 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/511382ee-1d85-41c6-9ef5-d10bbc553f87.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCJGThrH249sLUAzIS80xM7BEKz.jpg" tvg-name="Deathstroke: Caballeros y Dragones" ,Deathstroke: Caballeros y Dragones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/05fa7878-dab5-42b5-9df4-5135a7ab2817.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mG6MNa9fR6LIOaJhkJONflpGPvB.jpg" tvg-name="Danger One" ,Danger One
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8b9f0be8-b10c-4c25-a3e5-39b574cf17bb.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUwOcEUwln99ou8ul3SUb3vjwNd.jpg" tvg-name="На близком расстоянии" ,На близком расстоянии
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a748430d-d72e-4097-82e2-c13b22b5da83.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg" tvg-name="Deadpool" ,Deadpool
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c18befa-df97-476e-b346-2821a87ce1f6.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcuHdnVtAOsbvE93bN9MhiBVF0J.jpg" tvg-name="Django: La otra cara" ,Django: La otra cara
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43729375-ffd8-4191-946b-a61304cafed4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg" tvg-name="Doctor Strange en el multiverso de la locura" ,Doctor Strange en el multiverso de la locura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2627992-ad89-4872-aece-36aa4df582ef.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIFsQaAn2vFi7RHK70Nx1U0cE1Q.jpg" tvg-name="Django: En el nombre del hijo" ,Django: En el nombre del hijo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/30a3fe5e-fad3-49b6-ac35-4dc86c1a0953.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RII7rlh6tbonKLE60E3FuO91cc.jpg" tvg-name="Despido procedente" ,Despido procedente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/747b3c1f-3f44-43ec-bcb0-3d04b210047c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffC1PVoC4Uj8L0CAFps8kFqRm1b.jpg" tvg-name="El escuadrón vigilante" ,El escuadrón vigilante
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/87d51580-3781-41e7-99c3-32a6f15bbe41.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOACVnxwVKmD21wbFQQAen4DgbP.jpg" tvg-name="Downhill" ,Downhill
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1231f708-9604-4699-80f8-7309127d835b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5oswpgpukI3sg2L49jY0ITVz4O.jpg" tvg-name="Domino" ,Domino
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/931eefae-455a-414e-b985-c77000dc2bf5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR6mmG4hPqqu4QiqWBsbjOTPT8M.jpg" tvg-name="Django: Sangre de mi sangre" ,Django: Sangre de mi sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/149ac4f1-c00f-41f0-8669-58c66a68e017.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/234oXaXKIcyXpWMMFISsZ94tas9.jpg" tvg-name="La delgada línea roja" ,La delgada línea roja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/23b51e0d-d9ef-455a-8e83-bfa2f48d4159.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EGElXVSNnqcPjuhXPd6UVUX1rD.jpg" tvg-name="Doom: Annihilation" ,Doom: Annihilation
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba220c9d-6c22-4bd8-a15d-42c27d6749f3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xoizvqv9k0Am1vNQrTHkVFXzBE.jpg" tvg-name="Doble impacto" ,Doble impacto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/311f249a-f12b-4ceb-9c16-cdaf9d0f7673.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUrGR7tlMUtgM0KhXYunWs0NK3G.jpg" tvg-name="Diverted eden" ,Diverted eden
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c23ce18-1cbe-4a56-b848-9c27c54577a9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VHLlq4Nps7BtkBQiCNMvjN02Ew.jpg" tvg-name="濱西小鎮" ,濱西小鎮
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/249593c9-35d0-4335-814b-e04e31f72a96.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMIvov9d0Vse2rcJLtBg4zzS9Rl.jpg" tvg-name="La noche más oscura" ,La noche más oscura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b84eb810-40b3-4397-b69a-ad9bb459871a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahcOViJGgwGojoncRVDMq5R7WDN.jpg" tvg-name="La guerra de los mundos" ,La guerra de los mundos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/daa2deff-1748-4e30-a075-25c209b19953.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fITzPnmagU97nF455DOBSa5Bgg.jpg" tvg-name="Doom" ,Doom
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2681e223-6382-4a18-88ac-39f8de9e6bc4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6ogdhdjP9KDCLJR9i4HG3bplQL.jpg" tvg-name="Looper" ,Looper
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/621829f8-6308-4c33-b6f6-d10f242f8a12.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tQTBA1pS04rkHfpUeH9ExcRFKz.jpg" tvg-name="La Isla" ,La Isla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e54c0d82-1694-44e8-8037-7de33f9380d9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tjnOQh8Q46pVSpY6r4YWt91SMG.jpg" tvg-name="The Last Letter (La Derniere Lettre)" ,The Last Letter (La Derniere Lettre)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c374ca1-b801-4bca-938b-f9248b049261.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJTU1T2fiDfGXgolykEEQrTXY0e.jpg" tvg-name="Los 8-6" ,Los 8-6
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f962a8c-23e5-4770-9c77-458f60bd0f18.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg" tvg-name="Mechanic: Resurrection" ,Mechanic: Resurrection
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b29a5bd-11fb-42f5-a90b-eb2cd8a673ae.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0CW09HLnx2EUw9mFQOyOFfCsID.jpg" tvg-name="Destruction: Los Angeles" ,Destruction: Los Angeles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01653071-1694-4865-b60e-8cb165bac807.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b3PEKi1yJLXriRjGfzo2mz7STx.jpg" tvg-name="Man of Steel" ,Man of Steel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e82b2953-844a-4984-bd59-3b1f20c47bf5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8liJJDKzUC96dDpyIbNl71oubw.jpg" tvg-name="Las plagas de Breslavia" ,Las plagas de Breslavia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e5c477b-c36f-4d30-96f6-e9ee6fb65c0f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5B36DEulWanKgXUEscrEEs2bTfP.jpg" tvg-name="Latte y la piedra mágica" ,Latte y la piedra mágica
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d65b4e8-4e24-412e-bb6e-8697bea9eb3f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFhBpKr8ElXKTw3Srox1mKFbNwj.jpg" tvg-name="Nighthawks" ,Nighthawks
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e70e701-4887-42f8-8b3b-278d7f91ed4f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQhvSEzAVia3Rod8XPDKEDMsryK.jpg" tvg-name="El infiltrado" ,El infiltrado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f36fbea-c2ef-4ef2-b0a2-ef7c531ae472.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOkz7D3TFqp5fzbPy2NLB0Sqgjy.jpg" tvg-name="Only the Brave" ,Only the Brave
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a987aee3-611b-4084-8a1f-a0346188a9ee.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc25JS5MmHHXvuk1j99XQh777MB.jpg" tvg-name="Divergente" ,Divergente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ea0ce8d-4b4d-4661-a01b-00efc863b37a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdfuTAysvXQRGwd8LKilbRzFj7O.jpg" tvg-name="Conspiracy Theory" ,Conspiracy Theory
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/569716ca-fdae-4c20-a958-960bf4c16f97.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p79k98xykfrbpA8oOGAqjqK2C4O.jpg" tvg-name="Warrior" ,Warrior
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76d12861-8270-407a-a19e-83ee294535b3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYxNzkyNjYtMzNlYS00Nzc0LWEyYzktMDQzMTdjOTU5Y2NlXkEyXkFqcGdeQXVyMzQzMDc2MDk@._V1_.jpg" tvg-name="Police Story" ,Police Story
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c971c60a-d5f2-434e-93a4-89354d4d80a2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEA1MuEdubDun5OzKPJvCT2INYZ.jpg" tvg-name="Huida a medianoche" ,Huida a medianoche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d2ead57-b289-4d02-a97a-b5612de5ab6f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuhWzb39UawF0dQnfEV2tFSdycp.jpg" tvg-name="Dragonheart 4: Corazón de fuego" ,Dragonheart 4: Corazón de fuego
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/131f5ec7-db1f-47dc-a6b8-48af4a6e4e50.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LVocsQ2Pnc0RaKNhUhGvEs8ekM.jpg" tvg-name="El rey escorpión: El libro de las almas" ,El rey escorpión: El libro de las almas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/590308d8-ab4c-475f-a996-3520e2b30514.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/day7ZzHVA4fVWkFp9LDGLqOUSD4.jpg" tvg-name="Dropa" ,Dropa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20dc2f48-5282-48cf-be15-716c1a08281b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9nO9oeBewM2ahMdEof14dYYSOR.jpg" tvg-name="El gran maestro" ,El gran maestro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/046f9c3f-8ba3-4b3f-a8fe-2a2bd29099ce.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnGQbumT2SejsZprnszaI2bLA4R.jpg" tvg-name="El guardaespaldas" ,El guardaespaldas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6f9840d0-7f8d-425d-925b-1bbcdb2946c0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/7jHrYKpG3gHRFtTvLcDp75OSrZo.jpg" tvg-name="El juego de Ender" ,El juego de Ender
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbc5a7fe-8e92-42e1-8cff-8b52fa1ebb64.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33TgkZ5XuVPCarCSylm3g8iYK1k.jpg" tvg-name="La trampa" ,La trampa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/734cec98-1d93-44a5-87b3-120ad575b5cd.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEdwDsEwny5rAZ8WEPA97XBqtru.jpg" tvg-name="Elysium" ,Elysium
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e30fa016-03a4-4e32-918c-8872ca7d3a9b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8qn2A0Qfjj45EXlZVt92WnX7iH.jpg" tvg-name="Maléfica" ,Maléfica
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/492513cc-e5c1-4ef3-9d1b-00091c5d5fd2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssZnHf4cPRJGpQGv9unW8B76nrb.jpg" tvg-name="Operación Dragón" ,Operación Dragón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8aacb0bd-ce16-4bb8-b891-6b58c19a63ee.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfqBRWRdHNNaCTnq5nUljGnCmxL.jpg" tvg-name="Al límite" ,Al límite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/356ce50c-1c88-4327-aaf3-d30b9e237bd2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7hVPGrEeHh9V3RjHT4Dcijc8T.jpg" tvg-name="Empire State" ,Empire State
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/49f9c184-9569-49ec-b80a-215322fde58e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXowyvjvE3z2npTuqdsJVzL2KiM.jpg" tvg-name="2013: Rescate en L.A." ,2013: Rescate en L.A.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6a3463c-508b-4469-88ed-e37989141bc3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXOqUxLZPann2ifjzx2yDHO96nD.jpg" tvg-name="Dredd" ,Dredd
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1516aa90-36aa-4342-bc17-5afdbd32f479.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbVrvCi8UPTPjdnX3Lm7C4pmXj1.jpg" tvg-name="Decisión crítica" ,Decisión crítica
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/943a7168-35b6-403a-bab9-5977d1cf0fca.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPYRQYycflQbUcb6H0XRGwZkGLz.jpg" tvg-name="El reino" ,El reino
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/29b59d78-3448-48d7-867d-ac01fd43a02d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg" tvg-name="Dragonheart: Vengeance" ,Dragonheart: Vengeance
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/305ec65c-2ace-45ac-9ffc-07354939d396.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkpysKRxELppiBohAlVeruvsCoP.jpg" tvg-name="La muerte de Superman - Parte 2: el reinado de los superhombres" ,La muerte de Superman - Parte 2: el reinado de los superhombres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4cc3f25-1279-4ad1-a31a-a387d1256244.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" tvg-name="Los 4 fantásticos" ,Los 4 fantásticos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cce58f67-e1de-42ab-acba-5a6be1e0f26c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFNwX6AxfWgsZEISJUtr6PxCEH9.jpg" tvg-name="El mito" ,El mito
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d89542ba-0e22-49c2-8f6b-cc0cecb1b7d5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC6xWWNvc9vMx4uBzEDpsWMf22e.jpg" tvg-name="League of Gods" ,League of Gods
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2134fd30-12d9-4613-9846-11bcbc5da966.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHgwWPga7CMlpXYkIBqT5HOL3s0.jpg" tvg-name="G.I. Joe: la venganza" ,G.I. Joe: la venganza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b99fe999-98ef-4fb2-ac7a-d722b3e2610b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM2bXInHW0CQdRDgM5GiJjAV1QQ.jpg" tvg-name="El Gringo" ,El Gringo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd318ed2-03a0-440c-99fb-0e78416513d9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keDM2BwLZnGsOTZP2LMBidSmiWD.jpg" tvg-name="Lluvia de Acero" ,Lluvia de Acero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d1d03c37-7c61-4ba3-ac49-6ab2291fe405.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kue9ebIeISpKUVVfU9v4mRSjalp.jpg" tvg-name="Vacaciones en el infierno" ,Vacaciones en el infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15611880-d3e4-49e5-b597-2562c715c42a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIhvZ14f8HqFAu1Bzd4n6TQ8drh.jpg" tvg-name="Ghost rider spirit of vengeance" ,Ghost rider spirit of vengeance
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a68dd4dc-8387-4862-95fe-b2f4831fece3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eAOZNb0d54nIIahYQANeZYk8uS.jpg" tvg-name="Godzila devorador de planetas" ,Godzila devorador de planetas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2ec81dc-8af7-4e33-89ac-33b001303f22.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5amZzZjtvVxAAS4fFusFtFu6xL.jpg" tvg-name="Grimsby" ,Grimsby
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ce16d17-c8dd-48ac-a696-280704168230.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIhvZ14f8HqFAu1Bzd4n6TQ8drh.jpg" tvg-name="Ghost rider spirit of vengeance" ,Ghost rider spirit of vengeance
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f47b24e2-57dc-4804-a83e-7bd228c561de.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6RDEmmkkDwF8hoAWh9xiYybYC7.jpg" tvg-name="Dioses de Egipto" ,Dioses de Egipto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0630c4b9-6471-4cbc-be96-c5626718a968.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/el-rascacielos/138124797-1-esl-ES/El-rascacielos.jpg?resize=320:*" tvg-name="El Rascacielos Latino" ,El Rascacielos Latino
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e2c0d8bc-18c8-4717-a356-4cc753f288d3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v2q8W7L5FoAYeY10vNkQnx9UCV.jpg" tvg-name="Héroe" ,Héroe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4327c88c-96fa-4970-b41c-62e04654ac88.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLAS4FUfmskwJwIoFs23U3tEpnE.jpg" tvg-name="El Paletero" ,El Paletero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/835add58-0a57-4b26-8307-5698761d25dc.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otoP1PvGKmInNpOQkCkxTYDn42g.jpg" tvg-name="El Hombre de Negro" ,El Hombre de Negro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/79d9a90a-9fb2-4507-86d0-02f388d71339.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg" tvg-name="Operación Cacería 2" ,Operación Cacería 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6a20c3de-1ecb-406c-b6ce-5f2f03c64536.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC6ykM4OcOaxS7mLMdF7eebdk1Z.jpg" tvg-name="Drive el Escape" ,Drive el Escape
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1baf7213-3dd5-4381-99a1-d8d88f2ff66d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5KpNrp8jPaNTkyENgQ9aPrM20V.jpg" tvg-name="Operación Cacería" ,Operación Cacería
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7ea1d2c-86c7-4cfc-8972-a0bdddb14387.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFKBBtzuP11yBDOPIXYzDVyGog6.jpg" tvg-name="Peso Pesado" ,Peso Pesado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/608ccc37-9c97-4a88-a6e4-c07f005e9356.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCXOwQnthbsagUPbZKXDTJ1tJ0Q.jpg" tvg-name="Hora punta" ,Hora punta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1d709fe4-a212-4d96-a13a-366b43a340aa.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1Nebn3yTUYtToYpa932mkWzYl5.jpg" tvg-name="El Plan Perfecto" ,El Plan Perfecto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/83648e0c-0d55-4ac9-ae0e-68fc26e939fa.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Lc7z9nRXVcmTx6FYN0lcLrqxUX.jpg" tvg-name="Enemies of the State" ,Enemies of the State
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a796fb2-2147-4087-967f-414aa13bc2a0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVkZaPOlSnoxkAPtYQzCmsTzz1z.jpg" tvg-name="Enemigo inmortal" ,Enemigo inmortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/18bbb470-9538-495d-9c82-2358d48d2200.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg" tvg-name="Escape Room" ,Escape Room
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c83e4db-81b0-4d7a-9a91-a2751c238438.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCiTioVufIGpIgC8OlG7boEzm9.jpg" tvg-name="Final Fantasy VII: Advent Children" ,Final Fantasy VII: Advent Children
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/79d0b0c8-ce28-4f68-93b5-63bbc9d35a4b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IGyynXrXUntPxK2vukXwq0ajAc.jpg" tvg-name="Freed by Fire" ,Freed by Fire
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2ef1b3b-5998-4eed-bcdb-39704bf1b346.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" tvg-name="Face/Off" ,Face/Off
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5319f4de-aa4a-4f68-9417-3f3594d10d13.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qaVTcP2Sl0rxc3xY0UFK1QV2h6.jpg" tvg-name="Errementari el herrero y el diablo" ,Errementari el herrero y el diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f70832d6-e80d-4de2-b95b-1393581432c4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ufwb0W9a0Ol2HcFUTO3Pu6rpNe.jpg" tvg-name="Fatal Fury: La Película" ,Fatal Fury: La Película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/18d6bffe-0f8c-4df3-bbbb-ed5e78858493.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuL7S7km0MShxUIb4nztjuVrNzM.jpg" tvg-name="Fatal Fury 2: La nueva batalla" ,Fatal Fury 2: La nueva batalla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4219aecb-6456-4413-bc00-def487d5e3b9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRbOch5HHr6LHIFHInXoX4UKdcL.jpg" tvg-name="First Kill" ,First Kill
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20e3520c-9656-4943-93ac-35859fe9db1f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg" tvg-name="Gabriel" ,Gabriel
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/175538ba-b335-4130-a200-7a922b4bfc6a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsC2AKvwgZzkYbWrBnq1TvvcUCm.jpg" tvg-name="Fabricated City" ,Fabricated City
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fffeebd7-3139-4746-9d54-b5121432dfb7.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHSe6SRAqvlsb2GgMLTRfi3VVrm.jpg" tvg-name="Fatal Fury: La leyenda del lobo hambriento" ,Fatal Fury: La leyenda del lobo hambriento
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac27350d-749e-4439-9714-c0e6d26706df.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBADZqcKcf5Lk9l3R7LyN2lGsOc.jpg" tvg-name="Fuego contra fuego" ,Fuego contra fuego
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c367b76-e79a-428e-9cdb-cb65751d132c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyHg2QH4B34fp941h0pGs4E9kxJ.jpg" tvg-name="Flash Gordon" ,Flash Gordon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60745d84-8a73-4e59-8d19-2ab3c30a2bb3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDbp1SSzxpCFOcjvIe0rDTwOOoJ.jpg" tvg-name="Gamer" ,Gamer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b575a455-748a-4abf-81ad-ca9b9942d1a9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iI9c8XNdPuwB4RYbHMd62QNhoRK.jpg" tvg-name="El duelo final" ,El duelo final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da23c715-6e5d-4dee-b54d-edd23224a15d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" tvg-name="Ford vs Ferrari" ,Ford vs Ferrari
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b719870f-12ba-4f90-8491-8286afe7122e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlV1ff7gJFYAwTxZ1M77g3Gk9Xl.jpg" tvg-name="Comandante General" ,Comandante General
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be146249-2307-4e5a-82bd-676672b55d01.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg" tvg-name="Depredador" ,Depredador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bd5dcc7-d90a-4acd-9d64-b7ddadec42dd.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kGNhuYP3YzL7ornZdDtNF9NyYv.jpg" tvg-name="Fuego cruzado" ,Fuego cruzado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8d0654e-2da7-48e6-a08e-8bfbe5fe9fad.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TwfNYxj4pHtLioN94kFhjYtKip.jpg" tvg-name="Guardianes de la noche" ,Guardianes de la noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/28e7b79b-a5a9-46d9-895f-6ff71a511679.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epcK83nqmFZw2MJA6Ia0L5v51gf.jpg" tvg-name="Gridlocked" ,Gridlocked
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d5d8993-64d1-4b9a-a22e-8c1c52f584c5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXQQHVTAfn5emTEVm4uqUsE4FIJ.jpg" tvg-name="Fuego negro" ,Fuego negro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a93da72-bdc7-480c-a784-c6934709e0b4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8toDIronC85Qsd0EhKdtzJAIs4q.jpg" tvg-name="Hollow Point" ,Hollow Point
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f02fe08-362d-44c2-b905-e9a9735d9cce.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1t0FcqSsBs51PDhDkFd7EiEytU6.jpg" tvg-name="Godzilla" ,Godzilla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ce436e94-0a8e-4eea-8556-a4c9ed8bce3e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slkTic7dUO6aSoALibXb6Tv0S4.jpg" tvg-name="Ghost Rider" ,Ghost Rider
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d929cb6a-b4ba-4f3e-82d5-db8708ba5062.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsgs5bi0P0cHp5sdGfzoomMKYmK.jpg" tvg-name="Hacker" ,Hacker
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8177c0fb-2105-4c2f-a846-7277ed9e4793.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YNlKVqRs2laZl1sEkwqdadNNPs.jpg" tvg-name="Confidential Assignment" ,Confidential Assignment
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db63f20e-5a26-49ba-aec6-036ebdda21e4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96GU42rpVTSm3L2CzdWXPtPAjD6.jpg" tvg-name="Gotti" ,Gotti
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f42c9671-dbef-4adc-a53d-1b11136c91b0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVjt1UhbpVvEOOCk0TZurfQmXFq.jpg" tvg-name="Persecución muy, muy caliente" ,Persecución muy, muy caliente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9f0d1ce-9850-4892-9578-747cc98e97e1.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDMUHIanrtvejBFVfYDHMfX4DIY.jpg" tvg-name="Guardianes del día" ,Guardianes del día
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20f49ce8-d1a8-439e-90bb-7a31fa8798a9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmqU2qJAEbDHnbttZvLEIlurIXw.jpg" tvg-name="ROH: Escape From New York" ,ROH: Escape From New York
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f5858349-61dc-466e-a968-933b24c86058.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swNGiyindNZaZdJfOKFcFX9TvdC.jpg" tvg-name="Hitman" ,Hitman
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b978fe29-f9e9-423a-a19d-fd3b4e744bd8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6sh4OOIh8uEpmbnRSm5VYq9p97.jpg" tvg-name="Headshot" ,Headshot
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6f991335-f4ac-4605-9cbe-dcda9d23e993.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Wc4S6rFHKJ7jyghOdZVWVVC49j.jpg" tvg-name="Sangre por sangre" ,Sangre por sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c462124-11db-4b97-8ab2-19a92dc755d5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hO3jsfq2aa1jbE1p41okla9bEJ4.jpg" tvg-name="Hombres de honor" ,Hombres de honor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bd0e1f6-ef19-427b-b99c-3da90105cb1d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWFNNnaIjbgml8blv7Nlj3BKfqD.jpg" tvg-name="Hombres De Negro 3" ,Hombres De Negro 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9a388dd-e25f-464e-bc46-62157d4e16ee.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLDPLia17AwMqSaRHccyAlInkch.jpg" tvg-name="Heavenquest: A Pilgrim's Progress" ,Heavenquest: A Pilgrim's Progress
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a109153f-5b5e-4d19-9367-0eb12ef15799.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWFNNnaIjbgml8blv7Nlj3BKfqD.jpg" tvg-name="Men in Black 3" ,Men in Black 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d4021042-7ea3-40f6-b78b-4e9628819ace.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sQtHZ7m3eFYQWzbouiBLlVaAmy.jpg" tvg-name="Hitman: Agente 47" ,Hitman: Agente 47
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/312cc262-1bb9-42f0-8ff2-f1b7a459215c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Zcv876XIEguIG8T3gedzjxeWD.jpg" tvg-name="Extraction" ,Extraction
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15a0d08f-8d5a-4496-94f5-ce51271c0cda.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYEBOdqt2vb9LrF7z6c0DJBRCKt.jpg" tvg-name="Greenland" ,Greenland
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bcb52167-9f7c-4a4c-ba51-f3a8cf926c5f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z56iISeo45PwlFTpqyzPzBVy6yt.jpg" tvg-name="Fair Game" ,Fair Game
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b67356b6-2c51-4c96-8752-d82df92cde37.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9dUF1YjDPL5OOlR6GbeYcvu6Q0.jpg" tvg-name="Gun" ,Gun
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47db4b81-07e7-4362-be0f-410138cc4d81.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGU0dJt4F1FNVlqGIMuM7MvUNiK.jpg" tvg-name="Hermanos de sangre" ,Hermanos de sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e56c3427-574a-4cf9-bc13-6aa7ea6f88f0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLfguMfGmu9cQ4aPPaDOo1Yr5AE.jpg" tvg-name="¡Alto! o mi madre dispara" ,¡Alto! o mi madre dispara
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92d0ffa2-2891-4222-8945-8b3c3eb9e2aa.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg" tvg-name="Soldado universal" ,Soldado universal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6f8b4053-79ac-4c36-8386-b9f2ba620615.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYWfXTIfuAUr9ZmgYnQc5sjz26j.jpg" tvg-name="Triple frontera" ,Triple frontera
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be1a33aa-ac8d-4522-90f9-daf2a4ffcc6c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48a89gSBAu52u6VpcAdRyV5sNJI.jpg" tvg-name="60 Segundos" ,60 Segundos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec5413dd-326b-4ffe-b4a4-5799f69ff93c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBr2mh78B5jpissP6ibgvYeglIx.jpg" tvg-name="Los rebeldes de Shanghai" ,Los rebeldes de Shanghai
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/377d90fa-dad2-4ca9-a635-fa33932f6a22.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDv96UbDxkmMNx2hQKIlR0mPfIQ.jpg" tvg-name="16 calles" ,16 calles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/82aaad60-2ea6-4206-8cc7-f05aa2e5292f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keazz55QSZLZhaUi53BfiAVMuKb.jpg" tvg-name="Noche y día" ,Noche y día
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3a4c84c9-8cf9-453c-8356-47b4afe7de12.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wokMJ7WJCJw32cMAzjSCMqvqj0e.jpg" tvg-name="Misión imposible: Fallout" ,Misión imposible: Fallout
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/98fa5b65-6ba9-43ca-9444-ce19dea0fc27.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjOTwymu2iBfgbhp8weax1w3ivW.jpg" tvg-name="Los piratas del mar de China" ,Los piratas del mar de China
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d380c574-0772-4017-8024-81c3d9c54f7e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZRRTAZyrQr4pnv15h81Dd2K4NT.jpg" tvg-name="Replicant" ,Replicant
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/132be8d8-df4c-4da0-97d1-63e06771bff5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg" tvg-name="Arma letal" ,Arma letal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d4e01335-6f7e-4ab1-aabe-03429b757784.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg" tvg-name="Air Force One (El avión del presidente)" ,Air Force One (El avión del presidente)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d13604a6-67c5-4c80-a6dd-d97535f54fd6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvBAQOg2ObZKYXZGxYSz3Fkr7Qt.jpg" tvg-name="Cincuenta sombras más oscuras" ,Cincuenta sombras más oscuras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/654dea17-c3f1-48de-8b8c-f8e9d1ea3537.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxoCIZaHysHONN22rnGGhS8w67Z.jpg" tvg-name="Atrapados sin salida" ,Atrapados sin salida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2bf6d838-fed4-4a1a-8030-1429dfd5531d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlw0YXWYu1aGn7oWJWQ06qpS1Tq.jpg" tvg-name="Supercop (Police Story 3)" ,Supercop (Police Story 3)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ecab57b-ddb6-44c4-9a65-24d9f6295192.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4r3AwNkYdrDYZeM8gG9zheiW7r.jpg" tvg-name="Lágrimas del sol" ,Lágrimas del sol
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/71b0b5a8-55b4-4ff6-9286-cd31bf3902bc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vdNMYDV6KDDrDVa1R7QDzOUUe.jpg" tvg-name="Red Scorpion 2" ,Red Scorpion 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48631158-7d0c-49b7-a670-647a1fd092e3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5dpHRk7Vuw54JocWGDTuRK22nU.jpg" tvg-name="Jugada de rey" ,Jugada de rey
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9e81cd6-3ae7-41c9-84e5-02433e0d36e3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg" tvg-name="Dungeons & Dragons: Honor entre ladrones" ,Dungeons & Dragons: Honor entre ladrones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e7f166bb-a735-4243-86d0-6be4dd34c970.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjk5FQWR9NNYiMBHz99hcSoW7ct.jpg" tvg-name="Torque: Rodando al límite" ,Torque: Rodando al límite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/39979579-7dfd-47c8-b53d-c7c8c81a2628.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60lsR1XuNjmA676sXUJtmEgiY4X.jpg" tvg-name="Arma letal 2" ,Arma letal 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e20d2474-54a7-489e-b301-d3bc9bcc3dba.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHWDwVlsk2y2FBEG0tyYtdMG5Zz.jpg" tvg-name="Air America" ,Air America
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/328e55ba-ede1-4e54-a04c-216d84126f29.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYWxutu32mftDyzODRzQjgK3Tdw.jpg" tvg-name="Sabotage" ,Sabotage
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2cb4e21d-c065-444b-9e42-e777eb7f68bc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeYOMwcWeZTvmepmSYmxLjJfIyh.jpg" tvg-name="Una Bala En La Cabeza" ,Una Bala En La Cabeza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5b318fea-4ee9-437e-9b61-434d79dfb26a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dev4QedPHqgSEtH6qPVujDoOklt.jpg" tvg-name="¿Quién soy?" ,¿Quién soy?
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/79e39aec-dfbc-41d1-9c12-5badeb3fda0e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SzYZtPKbNHYILBJWF92TqDqdQ7.jpg" tvg-name="El protector" ,El protector
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bb2e4e6b-d41b-4eca-8e80-5c8fee4b51e9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MPDmmApFMsvurrHPZJWikelglf.jpg" tvg-name="Los tres dragones" ,Los tres dragones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/955d0878-e75b-42f3-a33c-8571c333438f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rL93mjR4y8bUbqUy9uKo9FcPEeH.jpg" tvg-name="Pasajero 57" ,Pasajero 57
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ea56ba2-38b6-4966-b6e8-d897ff9e2ec6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qyjNzIbeEvfAB3QkQ0fQIaqtCD.jpg" tvg-name="Asesino invisible" ,Asesino invisible
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/98352728-141a-4c24-844c-cb3ea0de2f78.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNL0PmH0ksITHhUl5A7c5xCY5Tb.jpg" tvg-name="La armadura de Dios" ,La armadura de Dios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56d2510b-cb11-4d19-bf49-4c79955278f7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" tvg-name="Cincuenta sombras de Grey" ,Cincuenta sombras de Grey
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/93a857e6-f045-4d35-86a9-33594c6be423.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuhJznTC8KEdDj08kJS5u3lvYOP.jpg" tvg-name="Soldado" ,Soldado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/abedee95-a066-49b1-9238-3c56778f34b3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s57oup4Cig0DgQMu7p4R2m4ZDUl.jpg" tvg-name="Plan de escape" ,Plan de escape
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4bfbd8db-d7f0-4674-b2e3-43ea796646b9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiggnkMgzWMyI5d34C2Pq7TBj2K.jpg" tvg-name="El negociador" ,El negociador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db17c2af-98c3-4529-acec-37e0843a911f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HTFEi2aifnmNMWYb5amvyAG86z.jpg" tvg-name="Shanghai Kid, del este al oeste" ,Shanghai Kid, del este al oeste
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/83e3441e-a640-4a80-a03e-399ec065f150.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDxaXrWtJIZqzU0rLR8mS3kEWsC.jpg" tvg-name="El caso Slevin" ,El caso Slevin
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0fe1db82-c641-4a0c-97af-2a010047d09d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTEFQBKnCoHbomgupXKYEXA7Y81.jpg" tvg-name="Turbulencia: Abróchense los cinturones" ,Turbulencia: Abróchense los cinturones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53cd8e28-961c-420a-b03d-a3a2355cf02f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crtFjNykJ8T8OVfOHVEbUFFm1Ua.jpg" tvg-name="Speed 2" ,Speed 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/709f9714-b796-4db0-b251-c0ffa6a2d813.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZzW5kJLclS9qXvu2DFzxhUNu4V.jpg" tvg-name="Caza humana" ,Caza humana
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4d61be47-0d95-4380-aff0-472326f5f1a1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lU57nwsR2I7uIah1XnbIF15krmM.jpg" tvg-name="Conexión Tequila" ,Conexión Tequila
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a92b898-289c-4581-beb7-0b0f29104555.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9JfRIxP5YyHyMOp6yvItiRgjEY.jpg" tvg-name="Breakdown" ,Breakdown
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1600ca1a-d133-4c88-8ecb-4f3e35149389.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hulB3uxIRzerZfjwXdKSKVn2orV.jpg" tvg-name="Enola Holmes 2" ,Enola Holmes 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e06a8b2b-0524-4b72-a322-443b2ef6dfe8.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjIccIjA4XpiOBtDdtoYAen062.jpg" tvg-name="Chinese Zodiac: La armadura de Dios" ,Chinese Zodiac: La armadura de Dios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/301ab430-66cf-402f-8a5d-c3e36489a150.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krmkuERKlawXgw1Ttp45DY3GwXM.jpg" tvg-name="Velocidad terminal" ,Velocidad terminal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eced632a-4661-47a4-81ce-8e87f123615d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" tvg-name="Cincuenta sombras liberadas" ,Cincuenta sombras liberadas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ebff080e-682a-48e3-957c-b9aca47e6e18.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69djlBb4Ol8ZFHikj0h3GE3NG7O.jpg" tvg-name="Twin Dragons" ,Twin Dragons
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a094d5e-8a48-4e27-8a65-975b373f9ca0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daWolaS3RNGcOwy8dxndNFvyIrl.jpg" tvg-name="Juego de asesinos" ,Juego de asesinos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/102dff32-fe90-468f-9cb3-1cbcf80ded54.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDmRzz6nIv8ZDniKQu4WaJSmyFD.jpg" tvg-name="Los tesoros del mar de China" ,Los tesoros del mar de China
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aa537996-b3bc-4425-a3a8-081b6d7903ab.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDnk39a4MJA3FyYRhJf32RE5WMS.jpg" tvg-name="La guerra de Hart" ,La guerra de Hart
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eea219ef-4ead-46a9-bc3f-1e23ed6b5cfb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5A6rdGrfFBas8trY75uHBvHaVV.jpg" tvg-name="Van Damme's Inferno" ,Van Damme's Inferno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a55b2f7c-973f-4ed8-b6d9-dd3502ab04bf.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6zbQuWNPoLmwWsYsm7u3roXYuZ.jpg" tvg-name="Juego de dragones" ,Juego de dragones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/374550f0-9264-4b03-b989-fc854b5ff22e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89DOVIUSu0Jyqulk7xkQRiGMIvG.jpg" tvg-name="The Score (Un golpe maestro)" ,The Score (Un golpe maestro)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bd9c4ba-1622-45aa-9864-8861f766b402.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15M6VqYV4xWxJZvGu3nTbuMzEmj.jpg" tvg-name="El puño del dragón" ,El puño del dragón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/953ae212-f5ca-490e-a895-a3496547cd59.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWTq9bYtxaqwJfyNahzhXlw3Fbc.jpg" tvg-name="Copland" ,Copland
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/33137f40-757b-4d86-b72a-6d861cdb0ea3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg" tvg-name="12 monos" ,12 monos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/587f1881-2f3d-454e-a921-ed1dcfdc740a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg" tvg-name="El justiciero" ,El justiciero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/169e79a3-30da-402c-8428-256f52b5bd21.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As4rgbUJkmizYpefeozyUXYrOx3.jpg" tvg-name="7117" ,7117
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ac639e0-e5eb-4067-aa08-975c8f785a0e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ovvE8jpdDi0S1JPQT7qDvhNQBz.jpg" tvg-name="Operación Reno" ,Operación Reno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ce61e808-6d49-4497-961a-3371867b9b8c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IH11xlrzrdldYymyEN99b6TTjC.jpg" tvg-name="El protector" ,El protector
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/478834bb-60de-4f66-a86e-1256d377efc1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cbwgrlj22dXH47lQUzvSUsTtAZ.jpg" tvg-name="La armadura de Dios 2: Operación Cóndor" ,La armadura de Dios 2: Operación Cóndor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b451f59-5cac-4b00-8b1e-913d477b8403.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7t0ML0ny69f1tl0MESW5Ms3kDxC.jpg" tvg-name="Little Tokyo: Ataque Frontal" ,Little Tokyo: Ataque Frontal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44942a22-855b-4ae4-b8d3-88db15e49c21.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXlPJpyxlbFRz0WXhQDoFdYBfXq.jpg" tvg-name="Arma letal 4" ,Arma letal 4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19b715e5-7422-40b5-a1cd-490d80bfa557.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEWy3z3QfVzLbL3T0pZVczARy17.jpg" tvg-name="Mejor que nunca" ,Mejor que nunca
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41d01f63-b62b-4ca1-b7dd-4a1aac6ffc84.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85G9TlKm32BwiWkAxRgECLLnAjn.jpg" tvg-name="El reino de los cielos" ,El reino de los cielos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/75f921a9-3f75-443f-a98f-6b9f6d947555.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4LWnCBeAl6ifC9MCL20P80rxv8.jpg" tvg-name="Black Friday" ,Black Friday
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bbdbf24c-4fb0-4473-88e6-74e67b922e09.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtU0fiXEg6htBMTkna7CTbLRN3U.jpg" tvg-name="Fuerza de ataque" ,Fuerza de ataque
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f9b69d1-37a5-47ef-896b-443af62c5cc7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6jlIEypfVZP1mfwktFXEYxpoe7.jpg" tvg-name="Una jaula de grillos" ,Una jaula de grillos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/51440e1b-1131-45c2-8c3b-6f9c628107fd.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwGsxfMNLx3RUQGyl23419CC1RO.jpg" tvg-name="El diablo sobre ruedas" ,El diablo sobre ruedas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eb5a5a8c-6f6f-4eb9-9497-e0587fbd61f1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y19SicM0TfVx7VwCb2SVw5r2VoR.jpg" tvg-name="Ladrones" ,Ladrones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9e5ce4f-ff06-482a-83e7-56db9b7d7ea9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNwuAV8AQiPjiAVfypb0QocOdP.jpg" tvg-name="El chino" ,El chino
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cb47c4af-bdbf-4102-b055-a2af563d89b6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGMX3xPlJwOgbNWalvSviUZxFsD.jpg" tvg-name="Kiss Kiss, Bang Bang" ,Kiss Kiss, Bang Bang
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9473954-b470-4305-a80c-66b0a5c594c0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14AUhr2kryo1NZiFQ2HPkT2tKvg.jpg" tvg-name="Jack Reacher" ,Jack Reacher
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5061469f-3604-46e7-926e-c5ad43731bec.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrOStRuxjRHSql743lk3eEBvn39.jpg" tvg-name="Superpolicia en apuros" ,Superpolicia en apuros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/13397a0c-4a7a-4610-ab2e-b65acdf135a7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FwbHkZJLmkxGOzh4ctuVNtpq7t.jpg" tvg-name="Historia Policiaca" ,Historia Policiaca
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b82530a-31cc-4096-9bfe-4440bdc603fb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIEjy32CFCxPXOdyS82E0g75aT0.jpg" tvg-name="5150" ,5150
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4bbfbf75-8fed-4c02-b317-34f67ed0f068.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzPETPy01xQ0UsFKXwSZ9BOCxy5.jpg" tvg-name="17" ,17
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b734208a-edda-4f3b-b567-67f38d735e1a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xksULjOKqqbG82PUTgID6HrfPkT.jpg" tvg-name="中泰拳壇生死戰" ,中泰拳壇生死戰
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da0e4086-c44c-4959-97f8-2d25635f0c9f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3BP44EvnJIIhyNVwPT0IpvNAoc.jpg" tvg-name="Alerta roja" ,Alerta roja
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72af1557-452a-40d0-9349-361b0ade46e0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" tvg-name="Alien: Covenant" ,Alien: Covenant
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e92c67c-b50c-45ea-9510-ab1d408b03e8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg" tvg-name="Infiltrados en la universidad" ,Infiltrados en la universidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bb1f3349-a2ca-4a41-99f9-21135b6247b0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GmPXcuD8RFoivUaGay7j5cPURl.jpg" tvg-name="24 horas para vivir" ,24 horas para vivir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6cd15f5d-21bc-4d10-8502-2896d452319d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg" tvg-name="300: El origen de un imperio" ,300: El origen de un imperio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8cd883d8-994b-458d-b6e7-05ca88f971a3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vppaSfqiihKSRs0ky4ZLkcdVKms.jpg" tvg-name="Welcome to the Jungle" ,Welcome to the Jungle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/592cb700-2645-4ab4-94de-96f734db2ec2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytSN0Adr4oYTLGd5q7zfOLMGC1d.jpg" tvg-name="El efecto sombra" ,El efecto sombra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c0f62eb-277f-435f-b8c3-4035e1dac7b4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oft1aBGl5WYA7mCI0r8DeTBcqIe.jpg" tvg-name="El último mohicano" ,El último mohicano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d337e194-5319-47d6-826e-0096bf4d9aa3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvdS2CnwgoOXTC94u4QddX7KwoV.jpg" tvg-name="El jugador" ,El jugador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a2c42b4-a02f-4128-9fc0-717f8bd6216e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B0z2yquZCOUPsk9p6Btfjr7v7F.jpg" tvg-name="El sexto día" ,El sexto día
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bafadf45-714e-4f08-ac7d-120472e36785.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hz3gpUqya5QSZmW7ewvlonw3BAm.jpg" tvg-name="6 días" ,6 días
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89fd05fe-8aed-4ed8-be06-4eb5281e38dd.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43P6TrUiRUdd8aC4Z6KjaBz0fnA.jpg" tvg-name="Los olvidados" ,Los olvidados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/548890db-b353-4ffe-b17e-64aea74d7a93.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" tvg-name="6 en la sombra" ,6 en la sombra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3a505b3c-8d14-4337-9e5b-a37fe2df50d9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5A6rdGrfFBas8trY75uHBvHaVV.jpg" tvg-name="Van Damme's Inferno" ,Van Damme's Inferno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9e0d1e2-1553-4f29-8309-24687a7c8208.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quWP5VIzTUf0Hr8AJZLloM6js8I.jpg" tvg-name="Alita: Ángel de combate" ,Alita: Ángel de combate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aa9eea53-e2b3-4cbe-9bad-8842d2f1536d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg" tvg-name="War" ,War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7cd82a89-37e1-4169-a9d5-3a79fce6aff9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eVoUM8JA0fUpzGo065VNOa8m6k.jpg" tvg-name="Total Recall" ,Total Recall
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2fbae90d-9f48-4442-8b00-23126a88d494.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thr9HGH7fHuSjGl9hfNXy3jvzzk.jpg" tvg-name="Cut Off" ,Cut Off
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54b20458-17d7-47cd-8940-26de77c264ee.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOhMZ6is0mDnuMqOPs5FRUztU3L.jpg" tvg-name="Operación Ultra (American Ultra)" ,Operación Ultra (American Ultra)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed3d1e69-deff-4716-a2f2-42a762db2993.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" tvg-name="Agente bajo fuego (Angel Has Fallen)" ,Agente bajo fuego (Angel Has Fallen)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fb436161-e6bc-43b2-8523-69c5376a7baf.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzyygafdiKmg81ryXVnGcaY5aU7.jpg" tvg-name="The Hunted (La presa)" ,The Hunted (La presa)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/416f2ade-7fd1-42f7-b4af-03e1437b9524.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtiLigiYP5E0tNuYOT8It1pFH2p.jpg" tvg-name="Jackie Chan: Maestro en Kung Fu" ,Jackie Chan: Maestro en Kung Fu
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b9d425a-ec60-4b86-8d49-9b99a0ad01ea.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0tphnqFx70ElN7TYmsKM8qD2r.jpg" tvg-name="Combate en el cielo" ,Combate en el cielo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da888d5f-1d74-4132-8c86-dd5c3731aca5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c0sybcPnVF1fmVk9JKdG2fH1Au.jpg" tvg-name="21 Blackjack" ,21 Blackjack
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0b9d682-fd96-4fc7-b808-3c3b71073368.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG2AB6mjdvvwnbWxPkauw6kv9oc.jpg" tvg-name="Los reyes del crimen" ,Los reyes del crimen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ea9a12b-6f3a-4f0f-be0a-725b9048c8bc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNLYneTNnlfjf0jVUADlqA7RXaf.jpg" tvg-name="Dragon Blade" ,Dragon Blade
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2bda982a-fec2-4141-8849-09c34ac7a67c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz5pn8vOvvyUaEGbThMkfYN3kcX.jpg" tvg-name="Las crónicas de Blancanieves: El cazador y la reina del hielo" ,Las crónicas de Blancanieves: El cazador y la reina del hielo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f5ad17da-b383-49d8-9f0d-191d1a21c744.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXxpmoZpAh9pDSceCOB7GT501h4.jpg" tvg-name="La última fortaleza" ,La última fortaleza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a1b38d74-f083-416c-b7c4-963903fafeda.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ8jVLAVUG3XozFcFKyXMaWam2D.jpg" tvg-name="El transportador recargado" ,El transportador recargado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4d6e37f4-b437-4258-af3a-ef8762a89581.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ylREjQcZQuW9TZDTGmcy3tMpqc.jpg" tvg-name="Marea negra" ,Marea negra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/458349f1-5dd7-42bd-844d-fdf7189b6deb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlw0YXWYu1aGn7oWJWQ06qpS1Tq.jpg" tvg-name="Supercop (Police Story 3)" ,Supercop (Police Story 3)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a97aae0f-9599-4baa-a0ac-cfa7562d2527.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4DuzWnRkjfY84NnhL8biEgimmh.jpg" tvg-name="La liga de los hombres extraordinarios" ,La liga de los hombres extraordinarios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d394c8dc-4108-4bf9-9a69-42fb0d9942c8.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8eznt2qshQS8qnZ70vdsM6UBeF.jpg" tvg-name="La aventura del Poseidón" ,La aventura del Poseidón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/939efaa9-1ee6-4cb1-a353-aa6bc48a014d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27wWLeNsswowMJYN7VbHw9gQSO2.jpg" tvg-name="The Real Hunt for Red October" ,The Real Hunt for Red October
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc627a45-638e-408d-8022-6b678f2c157b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foVrfw3wPIvlSlh8D2qryJfedRY.jpg" tvg-name="PWG: Game Over, Man" ,PWG: Game Over, Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0e74b78e-4eeb-4074-b04e-5cc2d6dd59b6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg" tvg-name="Vengadores: Endgame" ,Vengadores: Endgame
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b93fef2d-9b96-41c6-b024-668bf2f9e7a9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY2yhcZ9KmpnPsluMLd6f309Nwa.jpg" tvg-name="Amanecer rojo" ,Amanecer rojo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74c40578-e567-4d8a-9ba8-32dc056dcb1d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg" tvg-name="A-X-L" ,A-X-L
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9fe81dab-86f2-47b0-86f3-b9518babddf3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCLR9iQS3dRo8mYnq2I73EK9KEf.jpg" tvg-name="Danko: Calor rojo" ,Danko: Calor rojo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e107ead-5619-43f5-ab9f-951265cb38bc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJMIcYfM8ktbb55T7dwAgzYoFWw.jpg" tvg-name="Apocalipsis zombie" ,Apocalipsis zombie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3f9d6575-1e92-4bfb-88e5-efce47a03933.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg" tvg-name="Dos policías rebeldes II" ,Dos policías rebeldes II
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/26caa18a-5b7f-46c0-bbdc-7e0ee5f6d12a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtpRfyfTHapfKvrF1CgaXU01YLI.jpg" tvg-name="Sniper: Al límite" ,Sniper: Al límite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/163618ce-46d7-4144-afa7-80d1ee76bf86.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRllPNdcpuw2nhe1IGOQqcQHHy.jpg" tvg-name="Sin City" ,Sin City
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0dc6c3f4-d41b-4618-b774-e51409d45c2c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" tvg-name="¡Shazam!" ,¡Shazam!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fce03dc5-0f37-4786-97fc-c264145eca55.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rT70FZPn3DEFB5UdMHlkwaYQWNV.jpg" tvg-name="El día de mañana" ,El día de mañana
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85fdcc72-635d-4438-bb91-bfde894e694b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg" tvg-name="Ninja Turtles: Fuera de las sombras" ,Ninja Turtles: Fuera de las sombras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e71c5a3a-a8c4-4a30-8a3d-21156f9b895f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBhGBVfjePWKzTMdT6CYUEeqQlS.jpg" tvg-name="Distrito 13: Ultimatum" ,Distrito 13: Ultimatum
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3b01f8ca-dea3-49be-a88c-2a3f295556f0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY2TaCAp5LDMB8l4757N7PjnedI.jpg" tvg-name="Aquaman" ,Aquaman
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f16e141b-7e5b-4fd7-accf-5e7e3a15b2b2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYtlk1E28L1kQG6VcazkHhv29Ur.jpg" tvg-name="Armageddon" ,Armageddon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e7450c0-3018-4f73-b2b6-af7556c295f9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddQI1uU1A7dm50J49tCTPGF179z.jpg" tvg-name="Battleship" ,Battleship
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e0db6f1-1282-4fb0-8514-d5d840af8490.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnD9FClkeJC2e9wFc6sKqJpwR0c.jpg" tvg-name="Blood Father" ,Blood Father
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae3aab41-8da9-4f5a-ae07-3d9448e25002.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJAvyXHdIjeKHS07Dlim7LETBEK.jpg" tvg-name="Batman y Robin" ,Batman y Robin
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/992eb26d-b704-46e7-b7d8-0e52a72ab3a7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpY5cNPIbKYpdBtukCMtBMMt1s3.jpg" tvg-name="Batman" ,Batman
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ecc41257-d9d2-44c2-8703-7b3101a1685a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYAGOLyEH93GePufC7vQ9gzFwn7.jpg" tvg-name="Black and Blue" ,Black and Blue
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c639146d-349a-468f-bd0b-a835aef379ef.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erYt0ukEhMn50QKsN1Hqu3T3Dn0.jpg" tvg-name="Beasts Of No Nation" ,Beasts Of No Nation
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c9cd674-ff80-4916-b03c-9a443807eabb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkR15HZB5C5pZuMmyhusQVGSmjy.jpg" tvg-name="Børning: Más rápido, más peligroso" ,Børning: Más rápido, más peligroso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5e4918a-eba9-4bd5-9066-2fe4cf376fd5.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxjizLYG86Bxl4mntCWaWXZAko.jpg" tvg-name="The Amazing Spider-Man 2: El poder de Electro" ,The Amazing Spider-Man 2: El poder de Electro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aee85346-54e9-4da8-baf7-5258be630176.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpd1vAoVdR7brvAp6Revxij6fsm.jpg" tvg-name="Delta Force" ,Delta Force
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e89db82b-f936-4431-a13c-5acdab8cecf4.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiXERZK4ICJ4nQmsrPQOwVThYuf.jpg" tvg-name="En el límite del peligro" ,En el límite del peligro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a4a36cdb-64a9-4f2e-8a61-828abd7fae30.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwK6Pgtdp3HE9MYDC1mn5Bj8cFp.jpg" tvg-name="Return of the Dragon" ,Return of the Dragon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c7d8ca2-3788-47cc-84dd-75a0f5a8faa0.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aRQlzp1CttwSDgHOKGy1TrLPpL.jpg" tvg-name="Los mercenarios 3" ,Los mercenarios 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ccf58f25-9985-4f97-b915-1a69072b2a54.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPB609vfOSIn4bFceyErf03mUFK.jpg" tvg-name="Auftauchen" ,Auftauchen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d73a2ca-fce1-4336-9c8b-40dc40b4e69e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3IeBtqOrmBQm6K5oDJH8OkLP3t.jpg" tvg-name="Teenage Mutant Ninja Turtles: Turtle Tunes" ,Teenage Mutant Ninja Turtles: Turtle Tunes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54ed7e12-74fa-4a97-af4f-b4882b144d81.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vO55jzk7sWaadjmpgWpOyxm23j.jpg" tvg-name="Borut" ,Borut
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4110a8d3-70f3-4262-94f1-e0bce9623f41.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AhtbvxwpQD80UuAUuZ3WnUHsre.jpg" tvg-name="Leal" ,Leal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/181cab73-ae91-4a8e-8773-3ca6e439def4.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oucwxVcEo9mO9owjO7ml0czGRtR.jpg" tvg-name="Stretch" ,Stretch
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89052018-3785-4fc9-be84-4db4f4479afc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qvydVpdhQyYJzTyBLeZErMZAEa.jpg" tvg-name="Arma Letal 5" ,Arma Letal 5
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/98ed7706-0524-4dc2-898f-8e88c34918de.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjIccIjA4XpiOBtDdtoYAen062.jpg" tvg-name="Chinese Zodiac: La armadura de Dios" ,Chinese Zodiac: La armadura de Dios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/993a655e-749e-4958-ba38-c1300a8ea1b1.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GTP7DFXBuwvMUpq9rJnCBZz9Oa.jpg" tvg-name="Catástrofe helada" ,Catástrofe helada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a0ae0a47-2759-473e-96a8-b6230858e896.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ck7y1li6vefAzqXqCs27Sju4qO9.jpg" tvg-name="Chokehold" ,Chokehold
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46fb1171-e70c-415e-8ad9-78871dd52f22.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6fnlbV9jeNbwBvGJsmW3ZGFug.jpg" tvg-name="Viviendo y muriendo" ,Viviendo y muriendo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d88665a5-235d-48d4-a190-103081559294.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM7N86wO8aK0kCJRTshC6JWem8l.jpg" tvg-name="Los ángeles de Charlie: Al límite" ,Los ángeles de Charlie: Al límite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6e03645-95b9-4507-8dc5-a81b73e85a69.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d64S30YeHZlCJzscBXJqC16TtiU.jpg" tvg-name="El profesional (Léon)" ,El profesional (Léon)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da2db327-f29b-480a-8988-ef873847fb2d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v2zWare31ryOxPWpqORfgSDa7K.jpg" tvg-name="El poder del Tai Chi" ,El poder del Tai Chi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3714b66d-6f10-4ef1-8c4e-bcd145f1c526.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEBoWZscD4O6L46r2PSlt01XsKz.jpg" tvg-name="Desaparecido en combate" ,Desaparecido en combate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f546d52-f28e-4449-a53f-b89c2939dc48.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqysGH8mVwS5vrbQblkI5nspuha.jpg" tvg-name="Los Indestructibles" ,Los Indestructibles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/def39d3b-70f7-41b6-8626-d83498f0b118.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89vRTXCoxHLpaIXXYRHfdJLTHqf.jpg" tvg-name="Marauders" ,Marauders
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/95d5a712-0679-4a00-8f6b-2b7dec72832e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IE8NXNBdIMw0TqqosEPSwX4NX8.jpg" tvg-name="El imperio de las sombras" ,El imperio de las sombras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ff5de64e-cd59-4d2c-b554-adaf8d4fa8e3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j3vhv2IVwvV7UQFf5YtuDLcO0h.jpg" tvg-name="Desaparecido en combate 2" ,Desaparecido en combate 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b96033b1-dc8f-4ca7-815c-20c01a7ff790.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKxphQBjYiMfbNqnE5AJ7r8ps1X.jpg" tvg-name="Close" ,Close
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c32750f6-def7-4861-a54e-3bd4368da554.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gVoUTjFqxdkNxywEySRzYNzzhk.jpg" tvg-name="La búsqueda 2: El diario secreto" ,La búsqueda 2: El diario secreto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/96fd6061-093d-46a3-8b5e-be7b9ad20717.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rt1tMhK6AeO4462lwi9wJZorWF.jpg" tvg-name="Nikita. Dura de matar" ,Nikita. Dura de matar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/271e5e51-cbfd-4323-abac-25c33e0d5ac3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEUfxyi2o4T7J9cqGG0D5UEJlzT.jpg" tvg-name="Natural Born Zombie Killers" ,Natural Born Zombie Killers
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c06128a6-6c5d-45b8-9cc2-d75752d196b0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FjRpEHSQ7f6yPSbUgpe3ZTJ1rU.jpg" tvg-name="Cobra" ,Cobra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3250861f-0db2-4b36-90f7-b938dffecbc7.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHJX5D5FKKoC0GWUAWFq2qJZrPv.jpg" tvg-name="John Wick (Otro día para matar)" ,John Wick (Otro día para matar)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58bc9b02-85f4-4fbe-8c4c-1f1f089c806f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W0499Pyhhl6bLaO2qjxIU8xt79.jpg" tvg-name="Juego de patriotas" ,Juego de patriotas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d30e734e-6a4a-45c5-9c00-56860e6ad66f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" tvg-name="Cara a cara" ,Cara a cara
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0a3f16de-c475-4467-9f20-7ba8e932b16d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyEMpboOTWKEnZw0viCPu8iObFI.jpg" tvg-name="Érase una vez en México (Once Upon a Time in Mexico)" ,Érase una vez en México (Once Upon a Time in Mexico)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc24b999-ad2e-4715-9dab-106a682cbea3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10brAuF62tu6PQ5mxES2nBbTje0.jpg" tvg-name="Juego secreto" ,Juego secreto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/620f62dc-cd47-460f-8f94-438d00bb7f5f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k58xQGJRoFa2FBIoF5l6vXF5pB.jpg" tvg-name="Outcast" ,Outcast
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dec65f90-3258-4e3d-ae46-18c10d5d5c14.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vISsOjLk8HGQAK1HgajNSBGQWy.jpg" tvg-name="Los ángeles de Charlie" ,Los ángeles de Charlie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54d0419c-8182-4944-b651-56ebe14d8557.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5eSA5DK5iAv53SB4yv57bN56o6.jpg" tvg-name="Capitán América: El primer vengador" ,Capitán América: El primer vengador
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3b143d39-3c04-4ddc-b10d-8b793c32d3b3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3odqCnNnsHVlclV9OseyL4QVCWg.jpg" tvg-name="Overdrive" ,Overdrive
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57d733c9-316a-4f7c-a246-7272017a5613.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXmHtfpAafWp1CwCziMXuYkifzu.jpg" tvg-name="Tapped Out" ,Tapped Out
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89897345-5d54-4661-8bf1-48de47ee2abf.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nd7qy1kk3KWpnIYICSLV8aWcNEH.jpg" tvg-name="Cold War II" ,Cold War II
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9956bcb-8410-419d-a87a-b74a7063e32b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RZfZxIqyom7XVtXlHKnlNezZua.jpg" tvg-name="Comando 2" ,Comando 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/14f0fcf5-1ed5-4419-9cfe-e99fa70da705.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIJ4QhxaOTbGe2EMQRRGm8j2wZq.jpg" tvg-name="El vidente" ,El vidente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c79ac7c3-62f2-4e95-896c-4ec318684b2a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21lqkTHnVHZG4uuJL26Qeqltgbq.jpg" tvg-name="Legión de héroes" ,Legión de héroes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a61f5317-ef04-4c42-ba8e-7078b7d2b4c0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23gXLji2tc2fXUcZeGbJ3Cez5Ke.jpg" tvg-name="Bronx" ,Bronx
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15c973b8-7270-43ea-a23f-076c59377839.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSpuv5CLGG2WgQo38nzDpxFuKUG.jpg" tvg-name="Carter and  June" ,Carter and  June
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d43a0b59-4a2d-4774-a652-dc2d0c4d30e8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://m.media-amazon.com/images/I/919STtmJKwL._AC_UF894,1000_QL80_.jpg" tvg-name="Juego de ladrones 2" ,Juego de ladrones 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2beb939-c302-45e5-b0b6-af95bc826831.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crMBh4HYSmUdUwwVkHRxjsIxGEk.jpg" tvg-name="Cartel De A Kilo" ,Cartel De A Kilo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58fffb8a-7861-4fe9-8e84-63d78fb82166.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8SPUn6rMm36d8dbPCQytrcasr1.jpg" tvg-name="El único superviviente" ,El único superviviente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c657667d-ecb6-41de-83fd-847ac283d0b7.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDJ2Mq18XhCsgQw9LQMpoSGWWPZ.jpg" tvg-name="Cross Wars" ,Cross Wars
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2ff19ea-8dab-4b7a-b3e1-95cf283d4ed2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGHnzn564AGAsCTRrJWrGRqSHdH.jpg" tvg-name="டி3" ,டி3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ebb09e8a-ad40-46c2-8567-1067ad866ba6.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UZSc2yAIP8SFnEpzCvWkpSKdAn.jpg" tvg-name="Death Wish Club" ,Death Wish Club
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e47bb30d-7859-474e-82c9-108f57fad4c8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUj7MHaUugxTZEcbIZI9IDGibMH.jpg" tvg-name="Darc" ,Darc
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3094e3aa-f5ff-44a3-a713-a4d092664d5f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83hXrNOZTnEEhDnHorjDBowWvxd.jpg" tvg-name="Cyborg X" ,Cyborg X
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40b081d0-dcf3-4092-bed7-5b8d49297033.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" tvg-name="Deep Blue Sea 3" ,Deep Blue Sea 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56e66d88-d3b1-42ce-bacd-f5fc3af5b665.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijRdz3Ukc2jnnyIb1kuU8y0iubM.jpg" tvg-name="Diablo. La última carrera" ,Diablo. La última carrera
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5e8df139-ba16-4434-9c6b-99f9a90827c3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeLheRsqqnuUq7ArWEoRr1T40JX.jpg" tvg-name="Dos policías en apuros" ,Dos policías en apuros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f91e9b6-30e0-4939-8edc-939810ff651b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4r3AwNkYdrDYZeM8gG9zheiW7r.jpg" tvg-name="Lágrimas del sol" ,Lágrimas del sol
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/21adc3f2-b278-4728-8d3f-185fbff4cbd9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCAN4Tl4mDPBIFhytj4VbF4pXLS.jpg" tvg-name="Les conquistadores" ,Les conquistadores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/11661cc3-0159-446b-b867-2f521182da1e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxqlkMj49KmgZxghY1CHpnqRnO9.jpg" tvg-name="Death Wish" ,Death Wish
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b239e8a5-28dd-473d-8fbe-4cc9212235e7.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTzISkd9xeRZEYcNgo10PB8zDFF.jpg" tvg-name="Deja vu" ,Deja vu
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/539df215-8741-46e9-a708-b97c5deba073.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8XIWXCc0z9yr2kqaGtMyiH2Fwc.jpg" tvg-name="The Deep Blue Sea" ,The Deep Blue Sea
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e6c155b1-570f-4ba1-81f2-79a078ce0e57.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRkt03dXCVKnbvcQm3ygU1cjg9Y.jpg" tvg-name="Hot Rod" ,Hot Rod
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08f90127-0a54-4457-9a4f-98d8dd7e2c3b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3APp2ZPPOM0QvAYkbJOSshLhCF.jpg" tvg-name="El protector" ,El protector
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca375ee3-72ea-4f46-b037-b9847d4be051.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsJHnIjAuwukZl4SMifx5pcZX4y.jpg" tvg-name="Eliminadores" ,Eliminadores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a40bb13-8e42-4b6b-a8e6-06483ceea112.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvqIv59EgwY7lJ5QfqSWpCxOFxK.jpg" tvg-name="Despierta la furia" ,Despierta la furia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b23c622-1df8-4b4e-aaf4-6e9949c46a08.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hrMDwajbeAPFuTwzvWBKLwYuiD.jpg" tvg-name="Resident Evil: La maldición" ,Resident Evil: La maldición
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd21c714-1f16-4328-9f6d-8e422f9066ee.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0j9rHYpRML7dKm5xw9e97HTDJF.jpg" tvg-name="Venom: habrá matanza" ,Venom: habrá matanza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b720ab4-ab26-4f86-ace3-bc83fdf0ba97.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaSJB0kUtlrMiImHoSo4RfGSDtL.jpg" tvg-name="El ataque del tiburón de dos cabezas" ,El ataque del tiburón de dos cabezas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/adf039b9-954b-4fd6-b6ef-2e938ce7f82b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDu2Ti4uwF1yq6jgjsybe7UzZDI.jpg" tvg-name="Sherlock Holmes: Juego de sombras" ,Sherlock Holmes: Juego de sombras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6dc513fe-b21b-4f39-b669-56ae6865c60d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPNM1iP7YS9w4OQsBOChLzbHmBF.jpg" tvg-name="Elektra" ,Elektra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5d5020c5-eff5-4522-86bb-712a68593532.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvNOI8x3K6ZTNJVjvTkPq4KyrW1.jpg" tvg-name="Extraordinary Mission" ,Extraordinary Mission
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cf9aa95c-8599-452d-8867-55673b2c50a0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNj1p2rItPNlUXck8yLFIC39T1u.jpg" tvg-name="Plan de escape 3" ,Plan de escape 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b7ef111e-11e2-48e7-9e93-0c09fd7e3d72.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg" tvg-name="Equilibrium" ,Equilibrium
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4aa6ad16-a6d0-4f13-93d7-91596cfecf31.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo4PUj0SWiX33uQMgxyzE2ZOPBK.jpg" tvg-name="Ghost in the Shell" ,Ghost in the Shell
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e409fca7-d482-4a64-b4d2-c69a21570001.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15Ro5IkMB47rNgGB2TE7AQooNZD.jpg" tvg-name="精武陈真" ,精武陈真
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0ed1911-c16a-4e85-99c3-b5a3f88dd725.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HtCW7TO9HvsEyK7Nm1bQYwcgxD.jpg" tvg-name="Cuatro hermanos" ,Cuatro hermanos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da8673d4-e960-4ffc-8b78-5986df281000.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R4IyFqcQv8T4BmBdTyEb1ptXr3.jpg" tvg-name="Geostorm" ,Geostorm
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ed8e12c-86be-43cf-b55c-36d48b893ac0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y50YnyDwvGgqGdRXbOrcV6BvBeQ.jpg" tvg-name="Godzilla" ,Godzilla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e876832-d1cb-48fc-8be3-70df4c722b1c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zzp3Vyu6ld6Ome6wxykQDqLl0U.jpg" tvg-name="Godzilla: King of the Monsters- Castle Bravo" ,Godzilla: King of the Monsters- Castle Bravo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7366a203-1240-4dfd-b6f0-eb6c047f9ff6.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJSDj8S0Fes1yhvxyomCQ1BmbtR.jpg" tvg-name="Hero" ,Hero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/13e0c7a7-4e3c-4c63-be2d-d2dd5184474a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foVrfw3wPIvlSlh8D2qryJfedRY.jpg" tvg-name="PWG: Game Over, Man" ,PWG: Game Over, Man
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/086b578a-41a5-4c33-aa92-7f9be18be0ed.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q9Ic0Q4vMcs2AbTE640fRuB0Qe.jpg" tvg-name="Hércules" ,Hércules
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4c0b00ed-eda6-4aa8-8ec9-ff28ada8eb50.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg" tvg-name="Caza en la noche" ,Caza en la noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92fc7925-4c7e-4894-98ff-45be3f907693.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cmOtEjmpwlyriZ2I5KVYraoRPv.jpg" tvg-name="El portal del guerrero" ,El portal del guerrero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f03a578e-46ba-4bd4-b845-a479cc82cf6c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqu4G6sghlca1CGBIa5TXKVtGLP.jpg" tvg-name="Hardcore Henry" ,Hardcore Henry
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/624a0895-ebb3-4b02-bd2d-700dfd5667f7.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Tpd6wGTsMMHvaNindz4465wXPb.jpg" tvg-name="God of War" ,God of War
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4145a867-7d44-4511-ad9d-c326ca0ad342.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fShaGUuwkDgobYRZCwntmzjjn2i.jpg" tvg-name="10,000 A.C." ,10,000 A.C.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5e1560d-aafb-4434-91c4-a30b58d2290f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMhlUzLuehdL9ksyVxxtV4VwZf9.jpg" tvg-name="Message from the King" ,Message from the King
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da56a090-4c0b-400e-bf1c-55f4f268813d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5A6rdGrfFBas8trY75uHBvHaVV.jpg" tvg-name="Van Damme's Inferno" ,Van Damme's Inferno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e1b7d28f-6690-40d8-81c4-ba9e285cda7a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AYVXfpC4tE7pYNpa6Zf6wKu6f2.jpg" tvg-name="Arma letal 3" ,Arma letal 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b41ffe7-63cb-4d29-a997-b16716ed924a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khAED7ox0Dfk4Ef5LAf6jPEe4oy.jpg" tvg-name="Chapo, el escape del siglo" ,Chapo, el escape del siglo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4d6220d4-e292-450e-b5ea-15ff0aa488c7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Rq8FBUeSoYUWlKIWHHyADZGQiH.jpg" tvg-name="Al Filo del Mañana" ,Al Filo del Mañana
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/18c26319-25ea-4187-9503-83471a7d9d71.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKTFCdZjocd4kFwVkhBoKFokWzY.jpg" tvg-name="Comando War Pigs" ,Comando War Pigs
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a0f14fe-89e3-4722-ae84-8cbd86e04b29.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sJwyJP7MdTZ7pJTYV5cPD3m5NA.jpg" tvg-name="4554" ,4554
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44ece21d-1f95-4fda-9d3b-b1282fad8841.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rioi10CVPKxFz7oiE4PcXpr9yKm.jpg" tvg-name="Bandits (Bandidos)" ,Bandits (Bandidos)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/efe5b49a-5faf-44d5-abe6-22a9e1628877.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxbDwHWN70IfRpCbstoNezd1UzT.jpg" tvg-name="Dulce venganza" ,Dulce venganza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e4c208f-1852-4a27-8865-f1c0a68c7a4b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg" tvg-name="Fuego contra fuego" ,Fuego contra fuego
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c37d71d-4177-49c1-af91-c847c99314a0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/jFZc2BkgemIibi7t6xokdUZ8DgD.jpg" tvg-name="Brigada A - Los magníficos" ,Brigada A - Los magníficos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/91f1f158-53df-463e-9abe-d224e466d9c1.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/d0jScEen662Q1RzEYHmVhvl0UGc.jpg" tvg-name="300 (2007)" ,300 (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fae863e7-4d2d-4f80-ac9f-688c48f4ab8a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="1942 La Gran Ofensiva.mkv" ,1942 La Gran Ofensiva.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a241c50-6915-4a04-ba30-7ea3adf438bc.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/czBaPIWYuTdPvAh6TNh5bKOG4ty.jpg" tvg-name="Agente X: Última misión (2023)" ,Agente X: Última misión (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47c5fec4-e171-40c4-b11f-7378c37e7715.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg" tvg-name="Aliens: El Regreso (1986)" ,Aliens: El Regreso (1986)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d8fb1843-afd3-4898-aa3b-16d7c08d03de.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/qDdLfQJ4rR8zV5NLNVO6w2azp7n.jpg" tvg-name="Alien Danger 3! With Raven Van Slender" ,Alien Danger 3! With Raven Van Slender
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aabe0fc2-92aa-43b9-ad1f-e03c27302e09.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/6MLQ5ehGD3b8E0JZ9K2G4cZeFaI.jpg" tvg-name="Alien: La resurrección (1997)" ,Alien: La resurrección (1997)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b4f025ae-dcd6-49e8-983a-4460f1c445c6.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/c1agDaiqalendKz8q2fLg7AELxS.jpg" tvg-name="Anaconda: El despertar (2022)" ,Anaconda: El despertar (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c6fd2212-9cf6-4768-a7b8-64430439d620.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/cowPjNTci3mXasaXp0j9o54VqAW.jpg" tvg-name="Historia Policiaca (1985)" ,Historia Policiaca (1985)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9f781b9-86f2-4479-8730-57a921b24cff.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/wSnBSv7oHgm1kZmiM8IqithlTmJ.jpg" tvg-name="Atlas (2024)" ,Atlas (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/21da4f80-ef75-4746-8370-b664ff48ead2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg" tvg-name="Avatar (2009)" ,Avatar (2009)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5cf3ffba-a339-45cc-9279-43e596461692.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="BadBoys 1.mkv" ,BadBoys 1.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/839826fa-1b04-42c1-a90b-984734743eef.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Badboys 2.mkv" ,Badboys 2.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cf8d5510-dd6f-4b34-87d3-08472d4c74a0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/ddQI1uU1A7dm50J49tCTPGF179z.jpg" tvg-name="Battleship: Batalla Naval (2012)" ,Battleship: Batalla Naval (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56db42d8-9ad9-4d1a-83d6-6bddd754be79.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg" tvg-name="Beekeeper: Sentencia de muerte (2024)" ,Beekeeper: Sentencia de muerte (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d55bab77-7a5d-480e-826c-0143bc83df77.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/4xWEhLPlP9yg3DJbkKaBayBN98V.jpg" tvg-name="Bright (2017)" ,Bright (2017)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbe89215-631f-4fc7-b04f-ab3ddba6df53.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Buscando a Jackie Chan.mkv" ,Buscando a Jackie Chan.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b5783b5-583d-4cad-8036-df98072d375b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/iAbufkVeB2pE1XqsvXBiV4oWk3K.jpg" tvg-name="Cacería Humana (2024)" ,Cacería Humana (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/62377781-cd07-4452-9b6e-ebdd47284fa4.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/dvjgzmGnlroprDeFPb4024T1Tpi.jpg" tvg-name="Campo de batalla: La caída del mundo (2022)" ,Campo de batalla: La caída del mundo (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/11e8ff3e-448d-4d80-8495-58282c48fa0f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Cazador Citadino.mkv" ,Cazador Citadino.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd76e42a-d61c-4283-8b5b-c2f9eebab9fd.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Cerco De Terror Ataque Al Templo .mkv" ,Cerco De Terror Ataque Al Templo .mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e23fa381-4719-424e-b259-ac7b67846fe6.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/rS1QWmamAy4cOMzHprMf0dvIJNZ.jpg" tvg-name="Cinco de Mayo (2013)" ,Cinco de Mayo (2013)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fb7cdfc7-1ce6-4c18-9e62-cca250b8667f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/hxzHKNtkRbH5EVIVJmKc50aEfIV.jpg" tvg-name="Guerra Civil (2024)" ,Guerra Civil (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/422dc5d6-2fb8-439b-a62e-046c1c36e390.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" tvg-name="Contracara (1997)" ,Contracara (1997)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0bdcb15d-acb6-40d3-b9df-ef9675374865.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/3Nc4gK8naRXUy9c8u74I89zWqLg.jpg" tvg-name="Contra Todos (2024)" ,Contra Todos (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00ea16b4-d6ce-4a4d-a17a-fd2a97c60a75.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/j8c8DTXDdpSK6PytaoNgImR2ZFY.jpg" tvg-name="Corazón de Dragón 2: Un Nuevo Comienzo (2000)" ,Corazón de Dragón 2: Un Nuevo Comienzo (2000)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f5e3cdc-c010-4927-8fd7-fde3a71d3cc2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/xAhuGvBECZQoNo2h0JFP3Z0iLhy.jpg" tvg-name="Código flecha rota (1996)" ,Código flecha rota (1996)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e080df97-c0c8-4b80-b7a6-1d5b689e65db.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/5iaMKY9gTnDx16d5Ht9BtUDX94V.jpg" tvg-name="El Aprendiz De Kung Fu (1978)" ,El Aprendiz De Kung Fu (1978)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/413a1920-3a2a-4c07-9eca-92d44be1217f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/lfWI76UsYcJsy3ReTBNFzm4TzqX.jpg" tvg-name="El despiadado (1990)" ,El despiadado (1990)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6af82083-17b3-4d56-bbbc-054b38525e8d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/4Fpei8pdNZU9OwNMGI0gUAv1NPR.jpg" tvg-name="Artes de Shaolin (1978)" ,Artes de Shaolin (1978)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e426ba0f-0dbd-4c7b-a150-e6750f950a37.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/sSA0bmScT6gOjYp18IS5EEFijhv.jpg" tvg-name="El Fantasma y la Oscuridad (1996)" ,El Fantasma y la Oscuridad (1996)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9077886-41fb-4bd2-8165-df88c0b6342b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="El Invencible Kung Fu Legs.mkv" ,El Invencible Kung Fu Legs.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/02b182cc-901d-48b6-be8e-84c78f9b30b2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/ojNwuAV8AQiPjiAVfypb0QocOdP.jpg" tvg-name="El joven maestro (1980)" ,El joven maestro (1980)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25b967bf-7088-45f8-9cc3-3d870374aef5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/wszKyngvXqBp5trBSUkllHQenpW.jpg" tvg-name="El Maestro Borracho (1978)" ,El Maestro Borracho (1978)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c470b149-57b0-40d9-9d44-db697b4e6314.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/qWT8exDZ3kq4b7gSyN84sIVt3bY.jpg" tvg-name="El maestro de los dragones (Lord Dragón) (1982)" ,El maestro de los dragones (Lord Dragón) (1982)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/17e1f82e-ff7a-4611-9146-f73065931a2e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg" tvg-name="Guerra sin reglas (2024)" ,Guerra sin reglas (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f3c2c95-b7e3-45c2-aac9-840923b23c58.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/4vsTMm9HttoWkqhCoFVV9rPb5cS.jpg" tvg-name="El poder del talismán (2003)" ,El poder del talismán (2003)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9d66579-640b-4f74-a5ac-559592681b8e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/2cX5gY6FFsJW6ZXi6PLB3zm0vHr.jpg" tvg-name="El Precio del Mañana (2011)" ,El Precio del Mañana (2011)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e604c332-224f-41cc-9466-7dbc86c6a37b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/s6T6Sg2d98FKo3g1VCAjzJcW4H0.jpg" tvg-name="Torrente 3: El protector (2005)" ,Torrente 3: El protector (2005)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f5a70d74-3644-4f3a-86b8-2925c66b41b7.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="El Puo del Dragon.mkv" ,El Puo del Dragon.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73c22e2a-990a-43c9-8a49-998371e2169d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="El Regreso de la Banda De Los Supercamorristas.mkv" ,El Regreso de la Banda De Los Supercamorristas.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bc2cfad9-68a8-4d55-9513-cc0819fdafd2.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" tvg-name="El planeta de los simios: Nuevo reino (2024)" ,El planeta de los simios: Nuevo reino (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04d92bed-20b3-40f3-a533-1cec5996eb98.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/lR24whhvdUuBKL1dG91VAepXir4.jpg" tvg-name="El robo más grande de la historia (2013)" ,El robo más grande de la historia (2013)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b5f1aa2f-88c9-4abd-a864-92c8bd03d71b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/dJKY61Y6ytOzEntvg5BQpd5s5xh.jpg" tvg-name="María Soledad: El fin del silencio (2024)" ,María Soledad: El fin del silencio (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bed17366-a0b9-47e2-b79b-889fe517bee8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Escapando Del Paraíso.mkv" ,Escapando Del Paraíso.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/45e8ec7e-0739-487d-9e63-12e3954f1ffc.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Espiritual Kung Fu.mkv" ,Espiritual Kung Fu.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0e059afb-3b9f-4224-86ef-0f709e243d94.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/suaooqn1Mnv60V19MoGxneMupJs.jpg" tvg-name="Free Guy: Tomando el Control (2021)" ,Free Guy: Tomando el Control (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a0f11e9e-8219-4c4f-8512-701bad1e1874.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" tvg-name="Furiosa: De la saga Mad Max (2024)" ,Furiosa: De la saga Mad Max (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8c06a901-09fe-4c23-9ac2-a9d3a168e684.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Ganadores y Pecadores.mkv" ,Ganadores y Pecadores.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f8b6e818-5e75-4646-871d-ca978ada4d06.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/1t0FcqSsBs51PDhDkFd7EiEytU6.jpg" tvg-name="Godzilla (2014)" ,Godzilla (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d416e182-0859-4301-b9d9-7eef114cd065.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Godzilla 02 El rey de los monstruos.mkv" ,Godzilla 02 El rey de los monstruos.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a5adc987-cd0d-448e-9065-542e916118fd.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/mu4KeHb8GOjKbZGIeE4C5dXBx9B.jpg" tvg-name="Godzilla 1 (1954)" ,Godzilla 1 (1954)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae08e403-939e-4c46-8499-d1476a11184b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/3twE5Btcw061WnswGqYMNqBYQ2E.jpg" tvg-name="Godzilla 2 (1955)" ,Godzilla 2 (1955)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e91a26d-c0af-4b14-b1dc-21add2ea391a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/gi0M8XFT5mNJDNNoJtZgXaXZw4n.jpg" tvg-name="Godzilla contra Biollante (1989)" ,Godzilla contra Biollante (1989)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/adc7a9fc-9fe7-426f-9403-a865967bfa6c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" tvg-name="Godzilla vs Kong (2021)" ,Godzilla vs Kong (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9f8fc46d-308c-4f89-beba-ed3d55a9662d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" ,Godzilla y Kong: El nuevo imperio (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2daad36f-b5c3-4f9d-a277-9503cd746d2b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/pn4A89Rdv0fI7KuugdhSbgfJZs7.jpg" tvg-name="Gángster Americano (2007)" ,Gángster Americano (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/66e66fe2-bfea-4ebc-afd2-404b1405e2f6.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/5QkoSqDPwSVWx51r2lBCUre7GzE.jpg" tvg-name="Hancock (2008)" ,Hancock (2008)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7101a9c7-9cab-4670-9ff5-5f282cfb0d11.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/pI4My5TzzmpJ3SkZAf08kwwKjnq.jpg" tvg-name="Hiena salvaje (1979)" ,Hiena salvaje (1979)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0052b7b4-9932-454b-9ba6-b530bc55a230.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/8JQH2yBLQkpA3TS8aIymeQqFt6n.jpg" tvg-name="Hiena salvaje II (1983)" ,Hiena salvaje II (1983)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f5cc1c64-2010-4253-a678-38a3daa9cc8a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zrOStRuxjRHSql743lk3eEBvn39.jpg" tvg-name="Historia Policiaca 2 (1988)" ,Historia Policiaca 2 (1988)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6cff67e6-4089-4c2e-94d3-436fb1e9c9af.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/swNGiyindNZaZdJfOKFcFX9TvdC.jpg" tvg-name="Hitman (2007)" ,Hitman (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09f9a2c2-e0e2-4c9c-887e-e19004d6911d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/ewPz4CtrgyQZaCRpubtG5IedIkp.jpg" tvg-name="Hombres de negro: Internacional (2019)" ,Hombres de negro: Internacional (2019)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8f82b45-91d3-45fb-883a-813c33151d1a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zX1Hi0j7Yn4jv2eDHyIMlHP8lDb.jpg" tvg-name="Hombres de Negro 2 (2002)" ,Hombres de Negro 2 (2002)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5aca9150-a4f7-4384-836c-f5939a98bbb3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/aWFNNnaIjbgml8blv7Nlj3BKfqD.jpg" tvg-name="Hombres de Negro 3 (2012)" ,Hombres de Negro 3 (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c170811d-668b-4847-b334-858920a07b3c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/oTmJME2Hjwb3fISEQWyN3Vpto5O.jpg" tvg-name="Hotel serpiente (2023)" ,Hotel serpiente (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8252a41-3080-4024-8a2c-d12a81d23818.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/pjto3zbasNrpwQvHK4SzWwSecIG.jpg" tvg-name="Primer Impacto [Historia Policiaca 4] (1996)" ,Primer Impacto [Historia Policiaca 4] (1996)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0334ab30-96ce-447b-b979-ee507eb0e19a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/nuQCqkGacGLc5IfjSKGGMgpNaZH.jpg" tvg-name="Infierno de Hielo (2019)" ,Infierno de Hielo (2019)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c3f31d91-0c68-4094-835b-143299072246.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Ip Man 4 The End.mkv" ,Ip Man 4 The End.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c811daa4-b8f3-4656-9ea6-89e3e34d557a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/k2nEAHto6vWwiCZ5SjDqaGue29v.jpg" tvg-name="Impacto (2021)" ,Impacto (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2bc82e92-9a7c-4b8c-b3b0-5484154e6ac9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/dwdMd1MS75YrcZQaLk01nAiV5N6.jpg" tvg-name="Juana de Arco (1999)" ,Juana de Arco (1999)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bb158879-bc6e-47d2-a6a8-7c0eb6b227bb.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg" tvg-name="King Kong (2005)" ,King Kong (2005)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc237a31-d9e8-4a6a-b153-a798a6cd53f9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/v4lxYywAyEuT974dVi22y8TGP0t.jpg" tvg-name="King Kong vs. Godzilla (1963)" ,King Kong vs. Godzilla (1963)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ee2593e-feaa-4664-9239-504e2c4f393c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Kingsman 02 El círculo de oro.mkv" ,Kingsman 02 El círculo de oro.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58d004df-d47d-4a9b-9776-2e1b52b9a69e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/gJlyA7f4kMus9xK1ZUzq98rwcmz.jpg" tvg-name="Kung Fu Yoga (2017)" ,Kung Fu Yoga (2017)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a1985d89-0bf0-4562-9b1e-f66a8a24ad65.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="La Emboscada" ,La Emboscada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ba1d2b3-2edd-4ee3-a7ab-2dcdf3e0cb3a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/oQGcfsgCHmYvPMzraisRGjJUhOW.jpg" tvg-name="La gran pelea (1980)" ,La gran pelea (1980)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/928f313b-669e-4241-9eb7-047f2a059e0c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/4MSR6cVLrmmR6EtINauceeuIdiS.jpg" tvg-name="La furia de Jackie (1973)" ,La furia de Jackie (1973)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ff46bb0c-1331-4bbf-8ba1-343946cd971f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="La Furia de La Serpiente.mkv" ,La Furia de La Serpiente.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/001e4535-fe23-46b2-9269-9868c139da14.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/fk0lB5M5sMFy98zyl8Vkfndse63.jpg" tvg-name="新精武門 (1976)" ,新精武門 (1976)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/69682d17-3e11-4e22-b07d-9891b1424c9e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/h0xF7q5k07BRVJz9Z3A8dGdbpLR.jpg" tvg-name="La Guerra de los Mundos: El Ataque (2023)" ,La Guerra de los Mundos: El Ataque (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73010c57-2c2c-4c30-a1d6-da06b611790c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/saRrhHfacxNiBwDXWnjLQk6oc7c.jpg" tvg-name="La mano de la muerte (1976)" ,La mano de la muerte (1976)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ea1dbf0-0476-4637-84f7-218f57133ee3.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg" tvg-name="La Noche de la Expiación (2013)" ,La Noche de la Expiación (2013)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d625ee36-e7a6-4cd7-88ba-f8e20879b6af.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="La purga el origen.mkv" ,La purga el origen.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/efaaaf1c-99eb-4ac4-94e2-b8abac00fa1a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/rHRIajKl7NPnoFVpbO1xaCJRnnh.jpg" tvg-name="La serpiente a la sombra del águila (1978)" ,La serpiente a la sombra del águila (1978)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1448326c-85f5-4dd1-ae72-40c78f0591ed.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/veUHao6XPxcb5MeRDdhokevxiz5.jpg" tvg-name="Lift: Un robo de primera clase (2024)" ,Lift: Un robo de primera clase (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/586a23e8-8cd6-4db6-abc2-42e50eb5210a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/kGSCTz9MOML5pW9PooX5UU0g4lW.jpg" tvg-name="Vecinos cercanos del 3er tipo (2012)" ,Vecinos cercanos del 3er tipo (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e80593d-59c9-47ee-8a94-ebe0212e6c83.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/44EwZZhkNuuYWAtTeW3HVQ1uL4f.jpg" tvg-name="Los Conquistadores (2007)" ,Los Conquistadores (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ed29228-8bcb-4dc3-bafd-d00b7e0dac43.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/yvLdUaaRrOK42VAoTeUXD3PspiC.jpg" tvg-name="Los indestructibles 2 (2012)" ,Los indestructibles 2 (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8ad1d672-cbe9-4953-8c38-ed018cf3dc39.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/k3g58cX7u0m6z10w8LmQecTf6qc.jpg" tvg-name="Los juegos del hambre: Sinsajo - Parte 1 (2014)" ,Los juegos del hambre: Sinsajo - Parte 1 (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5ec79f03-d261-476b-ac8b-143c4932073d.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/eaiUgabhNozGGmBb1wlUybWoBoQ.jpg" tvg-name="Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)" ,Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7735d584-2e2a-4643-b42c-a88a4e3ab437.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zil6UkG1NeaTwjRh4nagLXzn5CV.jpg" tvg-name="Los juegos del hambre: Sinsajo - Parte 2 (2015)" ,Los juegos del hambre: Sinsajo - Parte 2 (2015)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be27d0e3-ab3f-40b6-b64b-0f90eb5a2394.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/qXW0mYhnTtCkLCozFKiHjHKKqVW.jpg" tvg-name="Speed Zone (1989)" ,Speed Zone (1989)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3a8e156-b90f-481a-a397-1fadfa9b66c9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/jjOTwymu2iBfgbhp8weax1w3ivW.jpg" tvg-name="Proyecto A (1983)" ,Proyecto A (1983)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/772060d5-7557-48a3-b361-737f2d86091f.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Los Superguardaespaldas.mkv" ,Los Superguardaespaldas.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8cd1a67f-a081-4d80-b3b9-9a07b882c034.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/40VKEurrfmz4CVt07PxI9v0mCcX.jpg" tvg-name="Los Últimos Guerreros (2010)" ,Los Últimos Guerreros (2010)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/acb2aee3-75d5-4644-91c6-9ca267538802.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Mad Max 01 Salvajes de autopista.mkv" ,Mad Max 01 Salvajes de autopista.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/05c3e3ef-a2b5-4cf2-b45b-82f0dfa0a735.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Mad Max 02 El guerrero de la carretera.mkv" ,Mad Max 02 El guerrero de la carretera.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c7bebc9-d67f-4005-92f2-8418a749bdb0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Mad Max 03 Más allá de la cupula del trueno.mkv" ,Mad Max 03 Más allá de la cupula del trueno.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aa1d0675-0e6b-4226-9aa1-12f6042a0071.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zWHpCti0TWpU9g3HkmIShIjnYhW.jpg" tvg-name="Masacre en Nueva York (1995)" ,Masacre en Nueva York (1995)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd7e05d2-0cf9-45f0-b593-d6a955ee7230.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg" tvg-name="Maze Runner: Correr o morir (2014)" ,Maze Runner: Correr o morir (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e7016f69-2571-4d2f-aad1-4883d52a5136.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/s15DTCtxbXpsOuMsukDVFpuPOL1.jpg" tvg-name="Meteoro inmortal (1976)" ,Meteoro inmortal (1976)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e5a791d-3953-4c13-a225-74bb2d1741ab.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/3r5phNygoJa2e4CCPaIyn9ghWb2.jpg" tvg-name="Mi estrella de la suerte (1985)" ,Mi estrella de la suerte (1985)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e426d472-ba26-4ce6-930d-9c43c89bc934.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/nTtU378IJ0EQhDZIcE2YKF2M1eS.jpg" tvg-name="Chasers: Misión explosiva (1994)" ,Chasers: Misión explosiva (1994)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2f9a72c-7120-45a9-a682-7626f44d8573.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zNWvZMPg7DcRDfn53nwFEevMhI1.jpg" tvg-name="Mi vecino es un espía (2010)" ,Mi vecino es un espía (2010)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0caa576e-840f-42f6-bb50-844f8db4b961.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/lIUUOu59O7lmt2NxMATiB4mgULc.jpg" tvg-name="Momentum (2015)" ,Momentum (2015)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b7a05ca3-19a3-45a5-aa05-a097c0003f11.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/qbW9Ww77rl4zsLR05ouERk3PXaL.jpg" tvg-name="Godzilla contra Mothra (1964)" ,Godzilla contra Mothra (1964)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2cb53898-42f4-4014-9348-e18d75bc249e.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/udniPSAJS6RDarNgSBK8IUsFthf.jpg" tvg-name="Nadie podrá salvarte (2023)" ,Nadie podrá salvarte (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/39804aed-51f0-44fb-a755-4e4679dfe0bd.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/eVBtX5L7O5InYXk3GwstXR1sXCr.jpg" tvg-name="Operación Golpiza (2022)" ,Operación Golpiza (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e66e510d-e5c5-4137-92f6-fa97a215537a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/aVFu40yaM7QSGvMTnPdVkJgAzvX.jpg" tvg-name="Operación Hunt (2022)" ,Operación Hunt (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e0093114-cecd-448f-8562-b45bc0b00756.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg" tvg-name="Otra bala más (2024)" ,Otra bala más (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cf23a66-ba21-4fe8-9e2a-dc5a56e01c52.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/7mEX07jWRYrjarW84sBeFghGMfa.jpg" tvg-name="Plan familiar (2023)" ,Plan familiar (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6b738bf2-807e-4d6f-a75d-9ddc806d2236.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/yDmRzz6nIv8ZDniKQu4WaJSmyFD.jpg" tvg-name="Proyecto A 2: El heredero del crimen (1987)" ,Proyecto A 2: El heredero del crimen (1987)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/68c219c9-3ce9-42d3-88cd-97b0aa3215d0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/9VwXVMZRGwHMlRMOUualprXiKlI.jpg" tvg-name="¿Quién soy yo? (1970)" ,¿Quién soy yo? (1970)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1214df3d-25a0-4f55-ad46-e6a4759f0203.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/b6cYVH4cJKeREt7e8yWRGUHDxl2.jpg" tvg-name="Take the Night (2022)" ,Take the Night (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/093c626d-ec6d-4599-bfb3-6cd7b86ee3b1.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Revolucion De 1911.mkv" ,Revolucion De 1911.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48247aac-2347-478c-b195-7044d3ad15d0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/nYhXrQVnEoG3TWDeoq0YIwq6E1c.jpg" tvg-name="Our RoboCop Remake (2014)" ,Our RoboCop Remake (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c0adac82-2f56-43a7-9439-0411f44f7fd5.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Sangre por Sangre Por el Honor.mkv" ,Sangre por Sangre Por el Honor.mkv
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3105f449-bc47-4329-b103-5b8fcb35ebb9.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/cOH1ejWdBWgn1bzv0jsnZ2fAUWG.jpg" tvg-name="Wanted Man: Se Busca (2024)" ,Wanted Man: Se Busca (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2678f5a7-c873-495f-b68f-1a8faf4b343b.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/wedNiWBLOtGVNtJzE64w18AH45U.jpg" tvg-name="Приключения Шерлока Холмса и доктора Ватсона: Двадцатый век начинается. Часть 2 (1988)" ,Приключения Шерлока Холмса и доктора Ватсона: Двадцатый век начинается. Часть 2 (1988)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f18f8230-362a-480f-99d2-265f315cd4c8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg" tvg-name="Soldado Universal (1992)" ,Soldado Universal (1992)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/30512d50-b645-4607-9a9d-02a9012f8975.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/sqq4GGsAuW8IxnENbGOJcgWqllq.jpg" tvg-name="Soldado Universal 2 (1998)" ,Soldado Universal 2 (1998)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/233b210e-e14b-4117-ba61-63f7caa8584c.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/mS6nV0tWZTa8pqCfchomQw3ai42.jpg" tvg-name="Soldado Universal 3: La última batalla (2009)" ,Soldado Universal 3: La última batalla (2009)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eef27f18-4ad4-47f1-819b-ed8e55ae91a1.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/wVmVCX28whqv18BWr6NIssBy6EO.jpg" tvg-name="Soldado Universal 4: El día del juicio final (2012)" ,Soldado Universal 4: El día del juicio final (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e360ab9-8faf-461d-8a5c-0f480812b346.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/x83JFWT3zeqI1j2ubPp1xfPhJq4.jpg" tvg-name="Dragon Ball Z: El Regreso del Guerrero Legendario (1994)" ,Dragon Ball Z: El Regreso del Guerrero Legendario (1994)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec08c6e3-141a-4d0d-8178-ac61eda7fda8.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg" tvg-name="Matrix (1999)" ,Matrix (1999)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a30f12d3-5bf5-4092-a4b8-e0c57ca139eb.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/bfYxW49qwF6ruBs9QvM4VwKsUuz.jpg" tvg-name="Tropa de Élite (2007)" ,Tropa de Élite (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/842a2008-ae55-44cb-af79-3946a709ad85.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/geK5X7cIWap06q7J2ZiyQr2scrc.jpg" tvg-name="Tropa de Élite 2 (2010)" ,Tropa de Élite 2 (2010)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/edbf1ec0-7135-4f53-9665-ffd59d59f75a.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/f22q6UGTq0IRL7uM6hzqwjpW5DQ.jpg" tvg-name="Ultravioleta (2014)" ,Ultravioleta (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e8fbd43-afc7-4440-ab6b-74043df3d881.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/6ZQIQ7GBwtZFW90kfI19KYGDX5.jpg" tvg-name="Se Busca (2008)" ,Se Busca (2008)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40951612-6761-4aa7-a4e9-9530ee957ea0.mkv
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg" tvg-name="57 Segundos Atrás (2023)" ,57 Segundos Atrás (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/abf4db70-e3f8-4a95-91d9-c05fff227b3c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/5NqUrL2kmhvZFxawccpqMf8UFrU.jpg" tvg-name="El Club de los Asesinos (2023)" ,El Club de los Asesinos (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c125d028-00f8-4a9a-947e-a93a8c349ff6.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg" tvg-name="Atrapados en lo Profundo (2024)" ,Atrapados en lo Profundo (2024)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd3a5941-72b0-48a2-b9c4-c55282f28c82.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/5yk0f45lv7TqLd3qSgaNNiPX7js.jpg" tvg-name="Basic (2003)" ,Basic (2003)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0d855cb-80cc-466f-a72e-aec5d11b1f73.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/ioU6K3KSbrPAVJ8J6FqyOmjuqGJ.jpg" tvg-name="Invasión del Mundo: Batalla Los Ángeles (2011)" ,Invasión del Mundo: Batalla Los Ángeles (2011)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/799bfbfb-1a15-491c-a5a6-a0e3f3cecdab.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/b2lGaaXlIA5xVRdRagqs0tZJ7Y0.jpg" tvg-name="Chains of Gold (1991)" ,Chains of Gold (1991)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/62094460-f637-43b0-81b9-5d76fb9d70ee.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg" tvg-name="El planeta de los simios: Confrontación (2014)" ,El planeta de los simios: Confrontación (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0dbcf829-8607-4945-ac52-c764bfdb6c27.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zvYgZFoEc2AzFktwIv78rj4qn3e.jpg" tvg-name="El experimento de Belko (2016)" ,El experimento de Belko (2016)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f65a923-42e8-4887-87fa-5b6caa45e1e1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/di6xYVAmaPOHGHd7sj87mMefXyO.jpg" tvg-name="El gran atraco armado (2022)" ,El gran atraco armado (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e98f7b5-8165-40e0-aedc-0c54b7ba1f6e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/94DZGLTwuWTjRXRSlyK9BgmH8dI.jpg" tvg-name="The Nomad (2023)" ,The Nomad (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/abe5b1cd-9fdd-46e4-84bb-bc717b770297.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg" tvg-name="El planeta de los simios: (R)evolución (2011)" ,El planeta de los simios: (R)evolución (2011)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/98ccf1c4-753d-4939-81d7-20c55e6524b1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/2PpjBMUOQE7i2feQUqZkT249ZZL.jpg" tvg-name="El pacto (2018)" ,El pacto (2018)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/12e981a8-bccb-467a-a2b2-a8c8284b57ae.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/y6INaAmwDKl94bTsSmP5WjZKhEx.jpg" tvg-name="El retorno de Godzilla (1984)" ,El retorno de Godzilla (1984)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73e3abe3-8264-473d-9405-231349d9d136.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/egX3IyHva7VDZPCSO4TSTGlGmsg.jpg" tvg-name="El sustituto (2021)" ,El sustituto (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5b39647c-e9a1-4bdc-9936-b0e1f335d825.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/koXt9UM6AkK0XPMJrnXrGcdJiA0.jpg" tvg-name="En el valle de violencia (2016)" ,En el valle de violencia (2016)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b88baa91-39da-46a2-a1ab-6225c160cfa8.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/uT49crqAK6qDWfoAERnFxqod1Ha.jpg" tvg-name="Entrenado para Matar (2021)" ,Entrenado para Matar (2021)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d897306-8ed4-41be-8065-56bf264130eb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/X13cOdC037SHDHpzLMQDTJjfjU.jpg" tvg-name="Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)" ,Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20150d0f-34f1-444c-b06b-b94cb2dcaf98.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/tf2baOEkFodZ5NYXMfb7gxcZgV.jpg" tvg-name="Detencion de la Muerte (2012)" ,Detencion de la Muerte (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6334ad63-1089-43a6-93df-40d0599bed2c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Ghidora el dragon de tres cabezas.mp4" ,Ghidora el dragon de tres cabezas.mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0d6bbad1-8f90-49a5-a76f-7a45d122523a.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg" tvg-name="Guerra mundial Z (2013)" ,Guerra mundial Z (2013)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c62fd96-39c6-486f-969d-b3832dce0811.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/cSoRQKVITESDpSCOdzgAyCy6xeE.jpg" tvg-name="Hansel y Gretel: Cazadores de brujas (2013)" ,Hansel y Gretel: Cazadores de brujas (2013)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/87b27686-eecc-40d2-b62c-908843d94836.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/wZzMbYDomCgj6LUN1b33ha7BiGh.jpg" tvg-name="Heavenly Sword (2014)" ,Heavenly Sword (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/792232fe-679f-4a58-8694-db2bdac59fcb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/s3YsY2VVvniaPIFX1ky3tyT8mCI.jpg" tvg-name="Hipnosis: Arma Invisible (2023)" ,Hipnosis: Arma Invisible (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a065d7a7-cf2e-472b-b404-597a032223b4.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Inframundo (2013)" ,Inframundo (2013)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b33e358c-951a-424b-9bd9-767f864504b9.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" tvg-name="Inframundo 5: Guerras de sangre (2016)" ,Inframundo 5: Guerras de sangre (2016)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f982d8f-5988-43f6-807c-52c6e06c87e1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/lvzqDNt7YWKVEGdHFKyJHz5aeR8.jpg" tvg-name="Inframundo 3: La rebelión de los Lycans (2009)" ,Inframundo 3: La rebelión de los Lycans (2009)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0eb96f80-e7a0-4d96-a597-67b2862bb998.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/pkxle3iqeacvt3NC716YflfWxa2.jpg" tvg-name="Inframundo 4: El despertar (2012)" ,Inframundo 4: El despertar (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e333b74-330c-4165-b257-0117eff8419f.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" tvg-name="John Wick 4 (2023)" ,John Wick 4 (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/806f3474-fc84-475f-bed4-08038c2acb67.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg" tvg-name="John Wick 2: Un Nuevo Día para Matar (2017)" ,John Wick 2: Un Nuevo Día para Matar (2017)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c488fb8-a1cd-4c81-ab21-2f9cdb7016e4.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" tvg-name="John Wick 3: Parabellum (2019)" ,John Wick 3: Parabellum (2019)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ebba0c54-8210-441e-8680-66181443b0cd.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="KingsMan la primer misión.mp4" ,KingsMan la primer misión.mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67f91766-211b-499c-b4a6-89a1a86ca753.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/fHBms2W4Wm5bCeQh0LpBzdUOxCT.jpg" tvg-name="Kung Fu Basket (2008)" ,Kung Fu Basket (2008)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c270bda-c294-408d-91b1-b23ba0ebbad2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/234oXaXKIcyXpWMMFISsZ94tas9.jpg" tvg-name="La delgada línea roja (1998)" ,La delgada línea roja (1998)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59156976-b5e4-434f-a415-2639f6f09ce1.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/4s51V3REPzdABoEDLC4TPDPkY3b.jpg" tvg-name="El Planeta de Los Simios 3: La Guerra (2017)" ,El Planeta de Los Simios 3: La Guerra (2017)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2cbb9dfc-04ff-44c2-9978-76e43b470673.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="La purga 3 Para siempre.mp4" ,La purga 3 Para siempre.mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7cadf566-377b-47a0-9daf-8ca1048cde4b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/7444SjkZCUw8ele2uETxd8zXKgW.jpg" tvg-name="La rosa venenosa (2019)" ,La rosa venenosa (2019)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7bde6207-e34a-41d6-9c82-dab274b7f151.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/zFzwJ2OJ7XU0oAlSjyeyv8zKD2O.jpg" tvg-name="Project Legion (2022)" ,Project Legion (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/66aadfb0-cb96-4c25-96d5-c13a8c3caf42.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg" tvg-name="Mad Max: Furia en el camino (2015)" ,Mad Max: Furia en el camino (2015)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/016cf12d-0af9-4b56-9dc8-eafff8c10602.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg" tvg-name="Megalodon (2018)" ,Megalodon (2018)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1585e725-351d-4d39-b078-f9ac92fbc221.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/mBgynPDplmo5JTY9VfGqY35OjDu.jpg" tvg-name="Megalodón 2: El gran abismo (2023)" ,Megalodón 2: El gran abismo (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4b81a33-b62b-4c1b-9222-3fb6ea4ef4c3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/ly61iN6LM1I5lk2DOPDAYKi1VKS.jpg" tvg-name="Misión Ataque (2022)" ,Misión Ataque (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/91ae9d2b-1047-4b83-81ae-dd76fe986f1c.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/9BVwATUyspEyWwW4H6ZbfBY0HxM.jpg" tvg-name="Ninja Asesino (2009)" ,Ninja Asesino (2009)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d956d225-77ef-4ef7-b8b1-a2b631202ed2.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-name="Operación Pez Espada.mp4" ,Operación Pez Espada.mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a1fb163b-0745-4c31-9565-2c682f7ccfb7.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" tvg-name="Pandemia (2016)" ,Pandemia (2016)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/084be696-66a7-4ced-a90a-6649b62c4aac.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/a6N8QCsdWxAQvdob3oCHcsVyLvc.jpg" tvg-name="Rampage (2009)" ,Rampage (2009)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5fedaf5d-2d9c-4168-951d-52e35f0bf729.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/lZRRxutZIXQSAq0mXNHdM7kPfBP.jpg" tvg-name="Rápidos y furiosos X (2023)" ,Rápidos y furiosos X (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e60959ec-e37b-4a4e-bd53-b4af226dce0e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/9OYC68a3NH5ySyTBjLQDzxhApMi.jpg" tvg-name="Rapidos y Furiosos 3.mp4" ,Rapidos y Furiosos 3.mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1adc08f4-1dfb-4273-94f6-ad12a5b3b935.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg" tvg-name="Rápidos y furiosos (2009)" ,Rápidos y furiosos (2009)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fb9a41dd-2ef4-425d-952e-d480f44bd903.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/dbN7VhlJOqJWWIYVP6620cgVw3.jpg" tvg-name="Resident Evil: Isla de la Muerte (2023)" ,Resident Evil: Isla de la Muerte (2023)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/791a15d2-a0f4-487f-b8bf-1850d9b8f80b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg" tvg-name="Resident Evil: Apocalipsis (2004)" ,Resident Evil: Apocalipsis (2004)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3f7c1032-ab46-4fdc-ac63-501a84be48e4.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/lP0cconRQqe6O4c6L2mVADDvFyt.jpg" tvg-name="Resident Evil 3: La extinción (2007)" ,Resident Evil 3: La extinción (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a5472058-8b4b-4f8b-be01-0451c42c0425.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/j7obkD5UQUydpBOBRpToLWIWkwq.jpg" tvg-name="Resident Evil 4: La resurrección (2010)" ,Resident Evil 4: La resurrección (2010)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b12aa041-7a7b-4021-ba45-787ffcddeb96.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/yYZQXdfGNPMjBi18suxPuWii6MP.jpg" tvg-name="Resident Evil 5: La venganza (2012)" ,Resident Evil 5: La venganza (2012)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31d7f40d-ac05-4e7b-89ee-edb6c2613906.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/cC2dEleI8zDT045QhuqVjf527yv.jpg" tvg-name="Resident Evil 6: Capítulo final (2016)" ,Resident Evil 6: Capítulo final (2016)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d310927-1e04-49cc-b920-9a7261730873.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg" tvg-name="Caracortada (1983)" ,Caracortada (1983)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fb37c054-c901-421d-8f41-c05317dabbaf.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/uhls3dFqMZyesWWrIHoaCvoIUQC.jpg" tvg-name="Godzilla Resurge (2016)" ,Godzilla Resurge (2016)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5af2924a-134e-499c-b42a-797edf7928cd.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/o8jDwu5EGpgyqmH219CUdA2LFYS.jpg" tvg-name="Sin City 2: Una Dama Fatal (2014)" ,Sin City 2: Una Dama Fatal (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc8262a1-ddaf-4dfb-8683-23a3f5cef7d8.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/vTfqiOZ4bZZZpIJp8sXT1UB6QS5.jpg" tvg-name="Sin novedad en el frente (2022)" ,Sin novedad en el frente (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4fb409f-c784-4baf-96ac-3ef91359f0cc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/l1h0vckonVoVFgUzXS4phDhcXDt.jpg" tvg-name="Soldado de élite (2022)" ,Soldado de élite (2022)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8b52c56f-7616-42ba-875b-0bd84e3396da.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg" tvg-name="Tiempos Violentos (1994)" ,Tiempos Violentos (1994)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b1bbc46b-c246-40b7-9c7a-b94a741c933b.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/qJum5ArxWCquaDmK0OXDKecRIeq.jpg" tvg-name="Transformers (2007)" ,Transformers (2007)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4124964d-0d65-41ac-bad5-bf260fba8100.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/pRGFjbsddmGotXkXlX12gxjxPqF.jpg" tvg-name="Transformers: la venganza de los caídos (2009)" ,Transformers: la venganza de los caídos (2009)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b1c7539a-c1f3-47c7-abf8-5f1de9307abc.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/fMqXNNgzTaxalU1ve9KevpELiGe.jpg" tvg-name="Transformers: el lado oscuro de la luna (2011)" ,Transformers: el lado oscuro de la luna (2011)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/49066538-c462-472d-b535-007eb14627bd.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/owqV5Qo2DMMomfB1fS6xYWv3yEh.jpg" tvg-name="Transformers 4: La Era de la Extinción (2014)" ,Transformers 4: La Era de la Extinción (2014)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7eb20f3e-3a1c-438d-98c6-64abe17719f3.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/A8d76iKmHvNyjzbTGpTqtHelnyy.jpg" tvg-name="Transformers 5: El Ultimo Caballero (2017)" ,Transformers 5: El Ultimo Caballero (2017)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f7e46252-2a11-4351-9ef4-954b15af25de.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/6hlI9Ea1O4IeJ2cj7OiNinqg8Qd.jpg" tvg-name="UNCHERTED Fuera Del Mapa.mp4" ,UNCHERTED Fuera Del Mapa.mp4
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2125256-f9fd-42a5-98d0-fde4933cbddb.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg" tvg-name="xXx - Triple X (2002)" ,xXx - Triple X (2002)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a232882c-ff1f-4281-8e2d-3642d0504d3d.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg" tvg-name="xXx 2: Estado de Emergencia (2005)" ,xXx 2: Estado de Emergencia (2005)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cfe4006d-7af4-47fe-9ce9-b39c2a6f935e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg" tvg-name="xXx: Reactivado (2017)" ,xXx: Reactivado (2017)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/de5d2b2c-156d-4872-aad4-debc287d032e.mp4
+#EXTINF:-1 group-title="* VOD | ACCION✅*" tvg-logo="https://image.tmdb.org/t/p/w400/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" tvg-name="Zombieland 2: Tiro de Gracia (2019)" ,Zombieland 2: Tiro de Gracia (2019)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed0655d4-1a2b-4e24-af65-32d3804ad4fa.mp4
+#EXTINF:-1 tvg-logo="https://ipectv.com/l352" tvg-name="RADIO REDONDA QUITO 96.9 fm." ,RADIO REDONDA QUITO 96.9 fm.
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/8ab980e1-1c1a-4a07-8d3c-e5ba658e057a.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/484da74d8d9ef8204b4385b7ccf6305a.png" tvg-name="RAD ll SONORAMA FM (PP)" ,RAD ll SONORAMA FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/d528af71-7a58-4f28-8d5a-199903d882da.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/54281b0728452bfd146f76df18b74de7.png" tvg-name="RAD ll CANELA GUAYAQUIL 90.5 FM (PP)" ,RAD ll CANELA GUAYAQUIL 90.5 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/40f73813-202d-4bd5-956f-c24a0b859f0c.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/12f9c0beea5ed1ecc14081323b2d2f40.png" tvg-name="RAD ll DIBLU 88.9 FM (PP)" ,RAD ll DIBLU 88.9 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/ef06ba32-9fa0-462e-b5bc-d823e0572515.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/8866c2f1032f80ff6a8439d089a9ab9d.png" tvg-name="RAD ll LA OTRA QUITO 91.3 FM" ,RAD ll LA OTRA QUITO 91.3 FM
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/dd1b63a1-8ff2-4834-96d5-20910d956606.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/e1de2cfbfd7979bf2eb085566ec4f7ff.png" tvg-name="RAD ll CANELA QUITO  106.5 FM (PP)" ,RAD ll CANELA QUITO  106.5 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/ec64f48c-8776-4e1e-a724-a1e622d4208e.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/f4a91eef9cf563390f96e866093818db.png" tvg-name="RAD ll RADIO CRISTAL FM (PP)" ,RAD ll RADIO CRISTAL FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/25d035b9-5846-4b0b-b693-1e86fcdbf398.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/19208f71e5dd8442690b1202a8a44513.png" tvg-name="RAD ll RADIO CARAVANA FM (PP) RADIOS DE ECUADOR" ,RAD ll RADIO CARAVANA FM (PP) RADIOS DE ECUADOR
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/2e6b3d7c-a2b7-4f74-a81e-d21c7febfbdf.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/1a5e1c0ea590528636e87281b8377c34.png" tvg-name="RAD ll ROMANCE FM (PP)" ,RAD ll ROMANCE FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/6f3e2599-aed4-4c5b-9712-397efdbcc7c9.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/78998e40218e84d94624c8a2f787b4e9.png" tvg-name="RAD ll AMERICA ESTEREO FM (PP)" ,RAD ll AMERICA ESTEREO FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/0c63088b-f463-424a-a048-4e15a8916a56.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/71525db3d7ce6674cd80958ef7d6c2f4.png" tvg-name="RAD ll RADIO GALAXIA FM (PP)" ,RAD ll RADIO GALAXIA FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/863f6209-5f95-4d12-bda6-1220f3e1e8a0.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/09e305bf5a6d06255a5afaa5ecbe77fd.png" tvg-name="RAD ll JC RADIO FM (PP)" ,RAD ll JC RADIO FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/b0891d64-9b34-479b-a223-dfb24895b4bb.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/7c05fec9e492490d4280256352cbc2be.png" tvg-name="RAD ll ANTENA 3 FM (PP)" ,RAD ll ANTENA 3 FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/a39a7aef-6970-464b-8264-8be68ee7ac98.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/ec05ac79922192e31916a6c1faf93dd5.png" tvg-name="RAD ll RADIO ONDA POSITIVA FM" ,RAD ll RADIO ONDA POSITIVA FM
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/153c4bdd-ef56-4854-93a2-888db3307ffd.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/0818cda5294155dd72ae83440cdc5faa.png" tvg-name="RAD ll RADIO TROPICALIDA FM (PP)" ,RAD ll RADIO TROPICALIDA FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/1d8a0bc3-ff38-4ee9-917a-2af49d757483.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/70a81e3d41b000bf5ad5b0c983b8a6f8.png" tvg-name="RAD ll METRO ESTERIO FM (PP)" ,RAD ll METRO ESTERIO FM (PP)
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/0ec1ea24-8ce6-4f5e-bc05-47f02c99d1a5.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/5e5080c78c70a4627da3c9babec715c6.jpg" tvg-name="RADIO LA RED" ,RADIO LA RED
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/de2cecea-3e05-48b3-9266-5e3940823ecb.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/66a1c6257f8ee1453fc814aa09c56e44.png" tvg-name="RADIO ECUASUR FM" ,RADIO ECUASUR FM
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/6a1fde1e-6732-4655-92e7-99a7cdee2e78.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/56d4fa06523f5418810a463d57d8404e.jpg" tvg-name="RADIO LA BRUJA" ,RADIO LA BRUJA
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/4bf4517f-3da2-42ef-aff3-db47461e7dad.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/862a7cde3eac396f84615fccbf6de8d0.jpg" tvg-name="RADIO REDONDA GUAYAQUIL" ,RADIO REDONDA GUAYAQUIL
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/66440bec-6bad-4005-8d12-4fc9260fe22b.m3u8
+#EXTINF:-1 tvg-logo="https://admin.auto-messenger.ru/storage/radios/17049/35205/conversions/4jnCSVlFo0YDxyxqDpgaWCLIpLET9Z-metaNjguanBn--lg.webp" tvg-name="LA PODEROSA 92.9 fm. QUITO" ,LA PODEROSA 92.9 fm. QUITO
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/b89dfcd3-9db2-402b-8467-fd65f2473373.m3u8
+#EXTINF:-1 tvg-logo="https://radiosecuador.online/7buf" tvg-name="RAD ll WILD-METAL" ,RAD ll WILD-METAL
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/6e9b9ee7-e54b-4afb-b62e-c14ec714f714.m3u8
+#EXTINF:-1 tvg-name="cadena 100" ,cadena 100
+http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/516b7cf1-109c-46e9-af0c-02604ace0310.m3u8
+#EXTINF:-1 tvg-name="Altera S1 E1" ,Altera S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/10436563-a347-46fa-a5bb-cf8bd6146b15.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWzh-lYfnOUB8J1Sfl1UPYXrlycSUHRhwfIIyCa2YfcTbaeYx9MmY6D22LWapOgUiw.jpg" tvg-name="Todo el mundo odia a Chris S1 E1" ,Todo el mundo odia a Chris S1 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/afe06944-7cab-4cb2-bfdd-8208f9598a72.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWEsA3wuhgoQ7Urfd_C6fW_mXsgxWmDigWvlF-ydu7uxf2jHi347yjSITKUCtBTR54.jpg" tvg-name="Todo el mundo odia a Chris S1 E2" ,Todo el mundo odia a Chris S1 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/294100f5-d9ba-4e7c-9d57-b8c949d20706.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVhu3kl9w4VPQewN7_7boxPkXw_n61w1RiVzmiB5ZJm_SjVafMD-gs98BbDMX2FEDs.jpg" tvg-name="Todo el mundo odia a Chris S1 E3" ,Todo el mundo odia a Chris S1 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e9179f32-ef8c-4675-8165-c47607dd8abd.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWfuFBXRKnuOt6TUAD6hdj34eSVw3MlXr8uoXmkE79qb8GyjKKPFglWRYP2RfGA8HQ.jpg" tvg-name="Todo el mundo odia a Chris S1 E4" ,Todo el mundo odia a Chris S1 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8504a7e2-19af-4f76-b0a1-dd82e5f5d269.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXhtxoa6BBWtSoEl1GvtVXS-nuB16DZzAEtWWFlisEvrzkNotvmU5MelHB-8fKUGoU.jpg" tvg-name="Todo el mundo odia a Chris S1 E5" ,Todo el mundo odia a Chris S1 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f8bc24b7-42c6-4986-bd9e-3a056a76d5bd.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXsESvXDfKqYI1ZBd-v1v3F9cPSfNJtjl8Jh1jU6x4Er6ZMPJ02TuFqx6cw2W3cgyc.jpg" tvg-name="Todo el mundo odia a Chris S1 E6" ,Todo el mundo odia a Chris S1 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9aacdf7b-756f-496a-8730-6d1bb3fee18b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWvaB2TAjRHfGOBigfTi2qsY1BxqxpCzDSF8vHVzDE1NOKVJYvudACPv-JPHhhdGr0.jpg" tvg-name="Todo el mundo odia a Chris S1 E7" ,Todo el mundo odia a Chris S1 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/c5e721a1-4594-4a89-b991-529c01434b6b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUU67D8l2RvrWaW-ZzvjMJAs0t0QAcFu6QRe35AEaca8eXvAWAIBaNqG3Ea8R3rNc0.jpg" tvg-name="Todo el mundo odia a Chris S1 E8" ,Todo el mundo odia a Chris S1 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3636cf41-21f6-4fd8-9a78-8b2953cf45e7.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUajPHJWP1cU5ZKAXZ_4zyzOqYlmMui3RrXu5t5EHuthX-OoXJw-hR9uaUsxMqgVLE.jpg" tvg-name="Todo el mundo odia a Chris S1 E9" ,Todo el mundo odia a Chris S1 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/de46e91e-7937-4cfd-95ef-cb97a87a2f84.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVxienqlbP76VaVCjW7CkJ-zZeeFChSKz02e02Korr5aaCqEPUMYCsILIYMExVrbAY.jpg" tvg-name="Todo el mundo odia a Chris S1 E10" ,Todo el mundo odia a Chris S1 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0f2d781e-5da1-4e61-8f86-27ef63d2183d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUJZjckafGx_Iz9HchnMJVPP9_uuFHdk-GSvmlbFqGZXnB7HuhstoYi2VgqesK6KXg.jpg" tvg-name="Todo el mundo odia a Chris S1 E11" ,Todo el mundo odia a Chris S1 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/26bed5ca-baa7-4c9e-b516-59a29a1efd11.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWI5Mmun2XrpXq5-1LY0H6cPYYsWUUMn5W6vnoyRoKK-ikWy4n6sltm3sW5rayi_nw.jpg" tvg-name="Todo el mundo odia a Chris S1 E12" ,Todo el mundo odia a Chris S1 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1c563954-0fc5-4b81-ad1a-83ad7b9e9e22.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX8E3C0nS5AqPxCeG6g-xsPGx8cKTmFW_jbgZGds9dxJc0WoHuAMntzVR4Hz0SJMNg.jpg" tvg-name="Todo el mundo odia a Chris S1 E13" ,Todo el mundo odia a Chris S1 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9a626133-7efb-4696-b0f1-8f0153de526b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUPIV4O_8d1_r5X2xbJfKglEKWxt_jCSUB_d4elPT9K1fT64O-0oJMGxaYNmuf39xM.jpg" tvg-name="Todo el mundo odia a Chris S1 E14" ,Todo el mundo odia a Chris S1 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3f555162-f5f2-4100-b058-8985afc444bb.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXdoAbHU8KYP5hwKVnIBvJQwDWDmL_r_N-S6u7ts89v4PCQGJKM897zHXP5NIFlD1Q.jpg" tvg-name="Todo el mundo odia a Chris S1 E15" ,Todo el mundo odia a Chris S1 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/bf9500e4-9202-4d0f-b197-ff82509e7e9a.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUq9st7eEpPBgp-HKgZdDAQlGrtpbhS1Afdb7VYno7d45VlKxRAddyTgxIZ9xTs3nU.jpg" tvg-name="Todo el mundo odia a Chris S1 E16" ,Todo el mundo odia a Chris S1 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f9049ebf-8f28-4d5b-922b-ed4d624359a6.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWyfXLdsp-PJSUNZ_994dw8fvRi-ZKj8tnXfb5GIPcOGsvkuKXTLpB3md5ZeL5sgdA.jpg" tvg-name="Todo el mundo odia a Chris S1 E17" ,Todo el mundo odia a Chris S1 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e4793bd2-78d2-420e-a04d-5fe6615b937f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUjN4AaUm188Wx6MKn2VWtvm3fH758D4Ih4hzhafY2ZQw.jpg" tvg-name="Todo el mundo odia a Chris S1 E18" ,Todo el mundo odia a Chris S1 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7ac40254-0d8f-42e4-a346-91944e4d6c47.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUh0Xnj-Ai5Yi39AkqK5tJxvltgsdnmRX-z8Q2J06e3UwcfPKzG-N-ka9P4XhpDvV0.jpg" tvg-name="Todo el mundo odia a Chris S1 E19" ,Todo el mundo odia a Chris S1 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/14167162-da93-45c3-a3b7-b70e0956cd4a.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbREdyhRkdhk9d_aXTT7wGsY9I14Q-b1BQlo8YZJOfSDnHu_7HNbqjiyvAOLwkKCk.jpg" tvg-name="Todo el mundo odia a Chris S1 E20" ,Todo el mundo odia a Chris S1 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4a9faa85-792a-4ba6-8512-0c49a11e3cc0.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU2jHf90M9dObgE_5O-iGLxvbEOExwDYmxWrs1PF98WMu0IpdzuNLywJI50nEBpFgo.jpg" tvg-name="Todo el mundo odia a Chris S1 E21" ,Todo el mundo odia a Chris S1 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/41962bec-1f95-4b99-88c2-9344105a6342.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUqIddI2dUQkCHk0WQjyfGfxxoTm7Ej_vptm74uOx8CxC7weRQMPUcl4QsGCS_n0-0.jpg" tvg-name="Todo el mundo odia a Chris S1 E22" ,Todo el mundo odia a Chris S1 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d1b12787-1c69-4464-830a-469038934cdf.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV_ALJnyvUelrGH65bLoFGuaZVJYsPUdpx4il8_0MS-RCp5zPnp1o9lqDRjGkIGAMc.jpg" tvg-name="Todo el mundo odia a Chris S2 E1" ,Todo el mundo odia a Chris S2 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/bf220c94-a11b-43f7-a3e3-83cab9842e99.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVoK6xG_uCVLsyQi_x6j3WYmNa-Yzt4DX-Wxb_DWdv_v70-0l1XjHH62hLh9QuI2vY.jpg" tvg-name="Todo el mundo odia a Chris S2 E2" ,Todo el mundo odia a Chris S2 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/cdb622b5-89a3-4e9a-94d0-f4194f8b71f2.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUnEuJwLorFXt5XEen3pTe3W2lw1JItXW3smzU3NlAzmgw5O33Ai-qVnLQFvi_dp_Y.jpg" tvg-name="Todo el mundo odia a Chris S2 E3" ,Todo el mundo odia a Chris S2 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/13da8c70-48fc-44e6-ac88-0cf210af7535.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWMJuQYnRv9yyKrwVFEt0Q2Yg9lobGSLIl_QU_HUETCAUSkPqO40JJ0Q9J_Ahar04s.jpg" tvg-name="Todo el mundo odia a Chris S2 E4" ,Todo el mundo odia a Chris S2 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/75f75541-d526-46df-ab84-68cb46e3223d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX1lVQx9Pt4v81vnA0VI_ffXznFhXvw9UoZyioN67mARJFJon-zwXlAovNFEdrMkl0.jpg" tvg-name="Todo el mundo odia a Chris S2 E5" ,Todo el mundo odia a Chris S2 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/18080022-ed57-4efd-8c11-3575c922092d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUgAYo2UrZ2UzKC-vVoEcMZHzCB4ulYL14e-qoN_6dLBYlgdEmz3h7rBKPa_ttUvnk.jpg" tvg-name="Todo el mundo odia a Chris S2 E6" ,Todo el mundo odia a Chris S2 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ac7ed270-8db0-4c30-b2d6-fe6ead7c2caf.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXG-fxD9L4VsySu7mKBLsRNhnEITkSkNuu8tHjYq3kcv7Ek7klW4HYLm5f1OdbC78o.jpg" tvg-name="Todo el mundo odia a Chris S2 E7" ,Todo el mundo odia a Chris S2 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fdfb106b-3b0a-4dec-ae03-12685480cdaf.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXxS_J-xa2PJaSYjdWIyJG9bBSnYyIAn5wPm11wFvdPMHKtBx6IXIjokKo7uO6dCcQ.jpg" tvg-name="Todo el mundo odia a Chris S2 E8" ,Todo el mundo odia a Chris S2 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2b5c2560-5e03-4e82-9de1-54f2a06e0745.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXTls6LyHci0pO7mZDZF0JDN24uORtnxkhnAswu9oqcH_kXTDmJUsdnwaSJbz6IWks.jpg" tvg-name="Todo el mundo odia a Chris S2 E9" ,Todo el mundo odia a Chris S2 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a4bbd0e9-e05e-4fbd-a154-7c24e7b7b16d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXJqMLEASpDHrLfjr4UjLsZbiFzB_xDLBLZqlfWL2ATVRYjx80VSM_sBu9wlcoGLhA.jpg" tvg-name="Todo el mundo odia a Chris S2 E10" ,Todo el mundo odia a Chris S2 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8ba2a444-60c0-4711-ba31-77a31087ba76.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUCFErC7CjsFAmQkreLu0iWuJDpQYNLhGJMOL0wvcz6u3oQBmZA9tZAM-J0vtFRnuw.jpg" tvg-name="Todo el mundo odia a Chris S2 E11" ,Todo el mundo odia a Chris S2 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a1b9a9a3-66d1-45b2-bc68-9a79efbdd7ed.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUOICyoxQ9tZ23QeS2wgvK3xATYv7N4iMdZUjK7wYrER3SQpAa59ZRIh27WrLp5ESQ.jpg" tvg-name="Todo el mundo odia a Chris S2 E12" ,Todo el mundo odia a Chris S2 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/cb8a2f22-70c7-47d6-b8a0-a60243e21020.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVXtqjIzOqcTCCvpB_ulTK1O18anfuNOkLoDTUeVmBxXaj-F2VySENu8492FDvReO4.jpg" tvg-name="Todo el mundo odia a Chris S2 E13" ,Todo el mundo odia a Chris S2 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/21c2dd95-e1de-4ec4-a043-961c87500fe1.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXBXsV_cBtfz6pLAcDmFNRWbmlxC_D3uaHxCyIZ4OG_zXi24C57NzgTrY5AGnAoWzE.jpg" tvg-name="Todo el mundo odia a Chris S2 E14" ,Todo el mundo odia a Chris S2 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8a63c2bb-9080-400b-8426-4c2c0f81b170.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVqzgLSnoS_PBWksuXerOq1vBjL1wX--Ad7tZM4ROBv1SqwR-0xIZv-Nt-O8Nj3Il4.jpg" tvg-name="Todo el mundo odia a Chris S2 E15" ,Todo el mundo odia a Chris S2 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ed334697-44b4-4680-ad69-96ef4870ca81.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWZSa-TYNKtPe4f-6F31JAEmcXke6ysD6EHSdzUgpXUjrR7_fmGbUGdCCTn4cQjZqs.jpg" tvg-name="Todo el mundo odia a Chris S2 E16" ,Todo el mundo odia a Chris S2 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/593d311b-d820-49ef-a132-3f6519fe10ae.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW1TIrClQ-jT1fbfPYuFu-gMg6n3gkZak-BxG1v5zpQO3dT8AkDLF7uadfUQu4p9Vw.jpg" tvg-name="Todo el mundo odia a Chris S2 E17" ,Todo el mundo odia a Chris S2 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/0e02f779-4d8f-4518-bb24-3a6f5ac8d744.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW02gV-A-JcQdf5Bgr3V7154TAZJVOrEAyrZRRlbRmr4lQZ3ZafOgto5iNs3xaDfWY.jpg" tvg-name="Todo el mundo odia a Chris S2 E18" ,Todo el mundo odia a Chris S2 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/54eccc59-6a21-4bb1-9599-464b782ca319.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVhRxfUR53z5iOf_zO4iDiaDrIKY41Edkk9GOkmYbpIDQ.jpg" tvg-name="Todo el mundo odia a Chris S2 E19" ,Todo el mundo odia a Chris S2 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/dd92d09b-1350-48ce-b8ea-361798e2c198.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXswJLLmgqZlbye6hRg0un1LF95L8fvcQ8WnqMLXIuxm_JK4fgx50vwcD5lSbW-Npk.jpg" tvg-name="Todo el mundo odia a Chris S2 E20" ,Todo el mundo odia a Chris S2 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/5af18787-1330-4f58-ba56-279724380426.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXve9zFbYsfWvSxgM2Mna4_ceLvR0VC7p9ridT7Bh3KHthgUspQsvQTE2u7VEWOpeM.jpg" tvg-name="Todo el mundo odia a Chris S2 E21" ,Todo el mundo odia a Chris S2 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b84fdc46-c96d-4599-ab23-98f14e56cfb9.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVKbyBggy9O0HQoLe3P5PvgNZKKys5Rc_xSz5CjfzJfheK0DK7Z8HvCRAUn-BEvRLE.jpg" tvg-name="Todo el mundo odia a Chris S2 E22" ,Todo el mundo odia a Chris S2 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4ef9e164-0aab-4c1b-9c80-9b13a2b51b13.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXCP325YGjxbVEdLVntJhiTHwu_vKOaKJmElq6i3Mg4zo038Gd7MaQLBIHO6CYZ-zM.jpg" tvg-name="Todo el mundo odia a Chris S3 E1" ,Todo el mundo odia a Chris S3 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/3c5c4ba3-4963-4460-a39f-8b3473d179da.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXa-xYfoft8fu-QAG8-o5fg-UcNGVASf1Vch_YKEWZLKP9PmKqXcsv_LUCHJyGusAk.jpg" tvg-name="Todo el mundo odia a Chris S3 E2" ,Todo el mundo odia a Chris S3 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/6d8a5dcb-e3ff-47d5-a285-14346fea6572.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUArN_hLtNZ3J-T5pJAZrRnT96hv9W9exjpJ_jeN0ETxsMgIK1lIdJeIZNe9PziLXs.jpg" tvg-name="Todo el mundo odia a Chris S3 E3" ,Todo el mundo odia a Chris S3 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a53f4d1c-4ed1-4bfe-a287-ae5d89773899.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXTQeAHRt1tgA2gRcpY0tdwR0Sdv54hP7UU_qVPdCBCv5jEe-Kxgy-U300Ym6i2las.jpg" tvg-name="Todo el mundo odia a Chris S3 E4" ,Todo el mundo odia a Chris S3 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ddfbaa2b-1285-439a-887a-660d402ba62e.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWd2DpupBd3iQ8-UsD9RFRWpnTvOe6aaXLehBIkYkqVitjrzkXk1Zrnp2IOPXSoWE0.jpg" tvg-name="Todo el mundo odia a Chris S3 E5" ,Todo el mundo odia a Chris S3 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/334cc4dd-7a2f-4c86-8073-1b3a137c2277.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU2ZI0_CV8c2cKWJiYKtDJ7IWKhWh6dzbj_DytxCWyjTMCrk-7FH9CZAKlN8FCJjSg.jpg" tvg-name="Todo el mundo odia a Chris S3 E6" ,Todo el mundo odia a Chris S3 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/906e364a-3593-4f2e-ad01-841efa830520.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXpBivI_MjjipyLrBWxh8gR6_ZM0l4o7w2jw5odJQaeXai1BcjXvvnQ66BtWev3QkE.jpg" tvg-name="Todo el mundo odia a Chris S3 E7" ,Todo el mundo odia a Chris S3 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4c486314-33ec-4616-afb7-cb1bc790348e.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXd0l9tkyuXF2aC_n6zHbzBkTUri60__nwv6wIs5S_-rQ.jpg" tvg-name="Todo el mundo odia a Chris S3 E8" ,Todo el mundo odia a Chris S3 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2b35becd-482a-4da7-ba9c-54b9a0e1a206.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXfGjLyYu2usSARyDDU8MVvFYnJEQ6pOWZuPFDsgTpn57aGayQgKYY0vQvYRDvQ7yg.jpg" tvg-name="Todo el mundo odia a Chris S3 E9" ,Todo el mundo odia a Chris S3 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/603b6327-f028-4b1c-87c6-d0900283222e.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUHn2ZSVHjwfOLb_E4x607oiJgHylKC6RXc7Opdx1ahDxlD3Dej8IU1wOCCiZQSX74.jpg" tvg-name="Todo el mundo odia a Chris S3 E10" ,Todo el mundo odia a Chris S3 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/8556ade9-40af-47ae-8dfc-593db1b5aa60.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVpD8qSgojcmkor6eXDHawfXdtgtwFWZtr0uR1Wp7NDYnunROiU85k-XyQ10wFwAA8.jpg" tvg-name="Todo el mundo odia a Chris S3 E11" ,Todo el mundo odia a Chris S3 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e90640b6-97c0-4a71-902a-c06ebfb857ac.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW4QaPGRxN1gVGFcavK4wV1Yd_Zc162WSOJKPWpHoKrRX3KeGwnP9tz64sAYuzLFuA.jpg" tvg-name="Todo el mundo odia a Chris S3 E12" ,Todo el mundo odia a Chris S3 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/ac6eff8b-c2ba-4dcf-8481-1774cbd40250.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUW2Lnfetb6-eiCCwCXSk5ZuZQWOugx6JGIqkq6332lxlZz5gZDwcsLcCl2Ej9uAWI.jpg" tvg-name="Todo el mundo odia a Chris S3 E13" ,Todo el mundo odia a Chris S3 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fe6abefa-6c93-499d-b4d4-8b47602472f5.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUfDnOzV_NuvjzU_mobnqqjMptTQEFQxysv3ri1qGUR4gGBnn_bKsF0AvGw6a7SL9Y.jpg" tvg-name="Todo el mundo odia a Chris S3 E14" ,Todo el mundo odia a Chris S3 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/4ff5b604-ce71-4d1d-90fc-2b7fba668b26.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXr5KobJHAqUecuaE3i5qXDhGgT9H09m_W-Qw6FAyRc5k6HKGDsbhFcY6xGaxa0P_A.jpg" tvg-name="Todo el mundo odia a Chris S3 E15" ,Todo el mundo odia a Chris S3 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/056f8c2f-cbf4-461b-a5f8-27047cb0e22f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXkKRUUR1cPGuq5zWD46S88VH_N01gKX6iUHUvAoD6Qr614Z0EbONKvpgWzSxWkiAU.jpg" tvg-name="Todo el mundo odia a Chris S3 E16" ,Todo el mundo odia a Chris S3 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/17a64e5f-ed37-46e1-8968-9190568cfc9c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWQjIpFO2SLPJ98r1ZpwiJ_B3mbMR3bsJJp5LbTGqxUO8w6sibTy7sNpriFoekfRSM.jpg" tvg-name="Todo el mundo odia a Chris S3 E17" ,Todo el mundo odia a Chris S3 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1f827825-39af-4281-b66f-78c6c440eb0f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXsg4BUK0VXPX_GmH18hES3Rodt8CKIxIGkCCA9de3ogNDqYWqwrDAzidLWoLHB61s.jpg" tvg-name="Todo el mundo odia a Chris S3 E18" ,Todo el mundo odia a Chris S3 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2abab6bd-45ad-4054-b801-0eaedd19413c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW03llMUR_wYqGEmG6WjyOii933eEq49wJAjNFDXk-3fclONlWj34gqObTSLr4XCcw.jpg" tvg-name="Todo el mundo odia a Chris S3 E19" ,Todo el mundo odia a Chris S3 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/296d29a0-69a3-4991-86a9-53413c1b1ea3.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQU8wD3_4Oc7K2VHZoHXjYcpkCx2wiSihdhXKJI3MXXt_km7RC4cQotPWybPfd48ISQ.jpg" tvg-name="Todo el mundo odia a Chris S3 E20" ,Todo el mundo odia a Chris S3 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/9ac2a429-c14f-4eca-bb2c-dfca1c5e09dd.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWjW7ytYTKma3Y7tcKTKvr0PDrDn58MHWsyXd7MOF5UtvCFlR5GKdHaWajnhXi7hfY.jpg" tvg-name="Todo el mundo odia a Chris S3 E21" ,Todo el mundo odia a Chris S3 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/160f1db8-af1e-4b6f-9367-3d2b66fa71c9.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXlD0mpH6CePg6-A7085u4zcN_CX-BvLKh8a3S1FjVFpfRy0Qtsun73qhsBLw5s9bQ.jpg" tvg-name="Todo el mundo odia a Chris S3 E22" ,Todo el mundo odia a Chris S3 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7a112c17-9030-4e22-a037-33762501f248.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVTcd8eB9wQa8DOCQhabZvNKQW1mng5xQC5zZ1Qe_vHNBnf_9DYmp1ZjyNE_71ZPA8.jpg" tvg-name="Todo el mundo odia a Chris S4 E1" ,Todo el mundo odia a Chris S4 E1
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/163fb35c-aa65-4c1c-89ea-3f85df4fda06.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUCFckWXKcNuOXeizY5RTVj7VLKNM_0KPzzyzhao32HOxMpn43Y4_1FuIqxY-YqJCQ.jpg" tvg-name="Todo el mundo odia a Chris S4 E2" ,Todo el mundo odia a Chris S4 E2
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/708eb79a-db66-499c-ac9e-347c1abef11d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWIa7YXX3DLZ7NVs2n-TD9KwT8TlyrV4Z01niWrG4dIVNdc9bpuF-7LTKKGhmYooYo.jpg" tvg-name="Todo el mundo odia a Chris S4 E3" ,Todo el mundo odia a Chris S4 E3
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e84ecdd2-c21e-4bec-91a1-4eb615c5e2ff.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWrZvskkQr2tJZ5lzIfSyH8GsONNdFt0bFJsnSWjX_XGyEar7lGdoYJ05r1AETloiI.jpg" tvg-name="Todo el mundo odia a Chris S4 E4" ,Todo el mundo odia a Chris S4 E4
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/5b284330-9e20-4841-899f-57c70eb132d8.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUiVi260flnUGJcjWNHh-83Z75LH2LrUzIqMv8NRVfFF0bBay25aUqLp5VLRxd2m7E.jpg" tvg-name="Todo el mundo odia a Chris S4 E5" ,Todo el mundo odia a Chris S4 E5
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e9363308-29bb-4ada-b598-a5b56820ba62.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWAijeJAH4PjdJB2cPPAWQG3AEEyO7UukrBGFHlvd5gazpwHPcoWKg7b5RpTVgjsuA.jpg" tvg-name="Todo el mundo odia a Chris S4 E6" ,Todo el mundo odia a Chris S4 E6
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/f886f5b5-93c3-4e0e-a9a5-d3669f7496ce.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWZtRDdaQ-EUrxSCU28Ib0aB6gPDRMTmuLOP-0aSB0gJD68BmOQp-CKzc9KI64V8GA.jpg" tvg-name="Todo el mundo odia a Chris S4 E7" ,Todo el mundo odia a Chris S4 E7
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/299f3b6b-857f-433e-85fa-55a3fba8b03a.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWDLgZZ_pTeVD_LDOjf3MGkdRP7BxExXlY2UYwLtILJw1BBSFV-OQXDbGraTJ5d5nA.jpg" tvg-name="Todo el mundo odia a Chris S4 E8" ,Todo el mundo odia a Chris S4 E8
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/1b567cd6-27bd-4d80-8c23-78d3673c9685.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXtOCGGETvZVJsjT61Tya4kLbd-DYXgB_YdvtoiFeOezXOSRfz_7EqmxYSALj9gasQ.jpg" tvg-name="Todo el mundo odia a Chris S4 E9" ,Todo el mundo odia a Chris S4 E9
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/47e032c0-3e51-4809-8bd5-ce673cdfab12.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWHIefINCUPEygIeg-mQ2QmilorWirSWctQlKi18u-easDe0J7vu-84ADWMwiXSwYI.jpg" tvg-name="Todo el mundo odia a Chris S4 E10" ,Todo el mundo odia a Chris S4 E10
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/fb243b0b-1477-42e5-8f4d-f7ff0372df0c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWRlNXNf4f35uMwqyFse1OIaOvJ9_de096cibxWTtjl4O6UtABsUkZJZs2y2SFsR4M.jpg" tvg-name="Todo el mundo odia a Chris S4 E11" ,Todo el mundo odia a Chris S4 E11
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7872fa67-dd29-4fdc-80ff-e714c5e9d016.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXirBmh-hcN5Zg84rHbAX1f8A_K-d9s1f77ML6F1zy_mHkhCygGEIJBSaA8oJPHSsw.jpg" tvg-name="Todo el mundo odia a Chris S4 E12" ,Todo el mundo odia a Chris S4 E12
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/2c0311f1-72cc-4a15-8770-1956766fa11f.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW6W7FosYSufAztFoQZn7Z8YtJoR6qDuvzz8cTfJnxckgPgbUizcWCIStSu1pHc9aY.jpg" tvg-name="Todo el mundo odia a Chris S4 E13" ,Todo el mundo odia a Chris S4 E13
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/da7bda16-17cd-4e34-a92c-8e5bb886fa68.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW5MZkPfalZqCCfFoXqAYVy548et7uHknzA4NvKMGUDLQ5wg4MeeUPbG-A8hYeIzFY.jpg" tvg-name="Todo el mundo odia a Chris S4 E14" ,Todo el mundo odia a Chris S4 E14
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/7bafaec5-daf2-4bd8-94c3-0fdf1715688b.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWlsD-ov1i8A8Jy2_pd-clkpWiyIOkvLVbCchuteiXVQvdvkl0A59f11BSbrGRRAA0.jpg" tvg-name="Todo el mundo odia a Chris S4 E15" ,Todo el mundo odia a Chris S4 E15
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/16f06778-77c8-4d0f-aa6e-460528ca174c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVR5NSW2GrucNOeId2E7cdpHneME-JlIJ0u6tT185CLbRKz1ncJ0aZQthAUAGhe-PU.jpg" tvg-name="Todo el mundo odia a Chris S4 E16" ,Todo el mundo odia a Chris S4 E16
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/e4ab5a73-5bdb-4c23-b53c-e791aabadfb8.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUsbjhUBniAKCMBNRInyN4P2fjsz6Jb38i8g_EPkRMpWDlQJTXnaX54c40exxV0BUE.jpg" tvg-name="Todo el mundo odia a Chris S4 E17" ,Todo el mundo odia a Chris S4 E17
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/b942af56-94ec-427d-b1d4-e96dd55f8f9d.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVlNaexhX-3JScZoYGUXKsnnZB7DjWhtmr7QHyR36W8dLtnjVzSgu1QDdH5VRSYwGs.jpg" tvg-name="Todo el mundo odia a Chris S4 E18" ,Todo el mundo odia a Chris S4 E18
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/14d7e8be-0553-4d6b-b698-fe5dd61aa197.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXVhuDREEUOySho3aTXoiaaACSuoxGLI9iA0-AQY4K9YM6Os-RxXaqzvAbZi--q1iE.jpg" tvg-name="Todo el mundo odia a Chris S4 E19" ,Todo el mundo odia a Chris S4 E19
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/d23dacfd-be3d-4ab4-ab21-631f4defb7d2.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW4lr-1W1MvAHDjbfyLi_TIMa5ulChIEyNI3Bvli3soSyGWdhaKUpwFRf0HPgaWNm0.jpg" tvg-name="Todo el mundo odia a Chris S4 E20" ,Todo el mundo odia a Chris S4 E20
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/a8967732-9a66-449c-94e1-c0ebac28277c.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQX7t9mC7ugYCLaHXjD3W103eB0FGfK4d7hEKWo-QLxLg7VVgjlwMUXNVHuL-95TbqM.jpg" tvg-name="Todo el mundo odia a Chris S4 E21" ,Todo el mundo odia a Chris S4 E21
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/881684d3-23f4-4308-b213-f2639f263415.mp4
+#EXTINF:-1 tvg-logo="s:1:/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV7ubM7lIhI_aVY3OYEEF2jPo_V7noMDJWCvh6Gk4SfNQIOM_Sc9XttblH-eFLdR0E.jpg" tvg-name="Todo el mundo odia a Chris S4 E22" ,Todo el mundo odia a Chris S4 E22
+http://daleplay.club:8080/series/020524.020202.052424./mjkN8LDcJYvn/423a35b2-923f-4310-ae58-d408e72ea6cf.mp4
