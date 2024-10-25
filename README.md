@@ -1,659 +1,49 @@
+
 #EXTM3U
 
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/av4YCVk0p3ch2ladEt1arZek9lP.jpg" tvg-name="Jungla de cristal" ,Jungla de cristal
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a270ae14-f4ca-47af-9f8a-48b4631c4fa1.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg" tvg-name="La jungla 2: Alerta roja" ,La jungla 2: Alerta roja
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c38ed9ae-8e21-42be-a42a-036288bce406.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLVcPispwVVa5LMpAWwQngFcm8.jpg" tvg-name="Jungla de cristal: la venganza" ,Jungla de cristal: la venganza
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a7164d9-e2e7-428b-a7c4-7c8db3965ffa.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZhPQCwfTIv8rkJrd5fOU7jlwJ5.jpg" tvg-name="La jungla 4.0" ,La jungla 4.0
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/18e639c3-d313-433e-bbfd-fbfdc19dfc50.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBxvKk4COFo78sUgHzhbE5n8hMo.jpg" tvg-name="La jungla: Un buen día para morir" ,La jungla: Un buen día para morir
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/273f0298-f5a7-40fa-ad7b-b36050c025cc.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXEjRdWopGO4RhUlX0wdxMTT0Os.jpg" tvg-name="The Punisher (El castigador)" ,The Punisher (El castigador)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c2f0e3f-3221-411b-a7ab-cd6d999c1871.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X2r09vhgGc4dk0Es3jr2gFSD8o.jpg" tvg-name="Punisher 2: Zona de guerra" ,Punisher 2: Zona de guerra
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b15da29a-5409-4fad-894f-bbea0d0d8c2d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg" tvg-name="El rey escorpión" ,El rey escorpión
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d4a24c2-e88b-4bbe-915e-b8b712a15d53.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i4FKExsjSWMSHzRmxmsBMtR6gd.jpg" tvg-name="El rey escorpión 2: El nacimiento del guerrero" ,El rey escorpión 2: El nacimiento del guerrero
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/352d9eb6-c3a0-4b3b-a1ca-57e0a96b8d51.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xCBshzQNkaUpiRV23mIGTKaN1k.jpg" tvg-name="El rey escorpión 3: Batalla por la redención" ,El rey escorpión 3: Batalla por la redención
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b3fcd3c-abcc-48fc-ba08-9ffede85876d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" tvg-name="El rey escorpión 4: La búsqueda del poder" ,El rey escorpión 4: La búsqueda del poder
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/36317aff-8a4c-4df9-849b-74d124ec4da8.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LVocsQ2Pnc0RaKNhUhGvEs8ekM.jpg" tvg-name="El rey escorpión: El libro de las almas" ,El rey escorpión: El libro de las almas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/676e4fbd-dc33-451c-8dbc-d7d5a4286547.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z5qDTtg1iaWZtCLqD1ntp3phiC.jpg" tvg-name="Godzilla contra Ghidorah, el dragón de tres cabezas" ,Godzilla contra Ghidorah, el dragón de tres cabezas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b7d3da3d-0c8e-489e-811d-96f2da1d206b.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YcIEhXzMSuNdrooBUsO3mZK8rT.jpg" tvg-name="Gigantis, the Fire Monster" ,Gigantis, the Fire Monster
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9472e38a-79aa-4a5e-990d-131c699f48a2.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwUEHJ7rhIYTS7xK80dPx5AYCB.jpg" tvg-name="Invasión extraterrestre" ,Invasión extraterrestre
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a0de7c56-43eb-4850-887b-ad3d3856559d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4z09YOXnOLyw2Vk0pBXbwGbMU4.jpg" tvg-name="Los monstruos invaden la Tierra" ,Los monstruos invaden la Tierra
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3899c33d-253f-44ee-ae14-af15ecede32a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg" tvg-name="La momia" ,La momia
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/62785048-99fb-417f-b7d5-4ac49a0d104b.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JEbMNds0ZRBD5AYcIIhCqRVgQU.jpg" tvg-name="La momia" ,La momia
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e46f17c-0c55-4057-914d-6640b46843a4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg" tvg-name="El regreso de la momia" ,El regreso de la momia
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/952e5029-a9ba-4cd7-b089-4af44e08f20a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktniKrRfM6yXI2zEsLz9M3gNWP.jpg" tvg-name="La momia: La tumba del emperador Dragón" ,La momia: La tumba del emperador Dragón
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b676976-b527-48e8-b702-4aa04880e0ff.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB560d77wXnzN1vjcretRP2voMC.jpg" tvg-name="Lara Croft: Tomb Raider" ,Lara Croft: Tomb Raider
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41eff431-ea82-401a-ae24-55169e903705.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMZRhXuZyNEpohTui1VpSsmsq63.jpg" tvg-name="Lara Croft: Tomb Raider 2 - La cuna de la vida" ,Lara Croft: Tomb Raider 2 - La cuna de la vida
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f35d65e-3b18-4c7f-9731-0bdcedfdb4de.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" tvg-name="Pesadilla en Elm Street" ,Pesadilla en Elm Street
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59a7a633-107c-4e8d-8d3f-7d9bb92d31f0.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54JsC5uy6l9HTeDmW1DGQ76dsc4.jpg" tvg-name="Pesadilla en Elm Street 2: La venganza de Freddy" ,Pesadilla en Elm Street 2: La venganza de Freddy
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac58d0d5-621f-47e4-ad3b-5777f96c49ee.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWAcoQLZuXKh96tDJTQe5SFBsd.jpg" tvg-name="Pesadilla en Elm Street 3: Los guerreros del sueño" ,Pesadilla en Elm Street 3: Los guerreros del sueño
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c789e212-f2fb-4a54-b3b2-7287c5d52222.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg" tvg-name="Pesadilla en Elm Street (El origen)" ,Pesadilla en Elm Street (El origen)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f4371cdf-beaf-4ff9-93f5-c7824ddc00ae.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" tvg-name="Pesadilla en Elm Street" ,Pesadilla en Elm Street
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60f2e294-41ca-4681-9049-c548d2f9ed7c.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqFsmwVUKKk1gpSUVZW8RLULYDb.jpg" tvg-name="Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)" ,Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/37da6592-321f-457f-bac2-fbc4da5f5877.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqFsmwVUKKk1gpSUVZW8RLULYDb.jpg" tvg-name="Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)" ,Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9da39fca-be9d-4516-a0ff-541446dabe94.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg" tvg-name="Resident Evil 2: Apocalipsis" ,Resident Evil 2: Apocalipsis
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/054e2da6-fd43-46f8-9959-52bf3a241c32.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg" tvg-name="Resident Evil" ,Resident Evil
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8213304a-58bf-454f-bc34-8dbefe5f89c0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg" tvg-name="Soldado Universal" ,Soldado Universal
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0a695743-2388-4eb7-bcab-8c03a70d6740.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg" tvg-name="Soldado Universal: El Retorno" ,Soldado Universal: El Retorno
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3fd8e1ee-732f-42d8-b71f-6464507e4ef1.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS6nV0tWZTa8pqCfchomQw3ai42.jpg" tvg-name="Soldado Universal: Regeneración" ,Soldado Universal: Regeneración
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6baab016-4d66-449e-abfe-8887af0a1ddd.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVmVCX28whqv18BWr6NIssBy6EO.jpg" tvg-name="Soldado Universal 4: El juicio final" ,Soldado Universal 4: El juicio final
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9fefa485-9e96-4150-9d33-7be5102b6864.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg" tvg-name="Temblores" ,Temblores
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48bbf41d-dd03-4a0d-a2ca-ec40a9c53ce3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGogIG6BHjoKnKJTRnFA5YwmFu0.jpg" tvg-name="Temblores 2: La respuesta" ,Temblores 2: La respuesta
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76b6c33c-1d02-468c-838f-31fa2f4c0c00.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg" tvg-name="Temblores 3: Regreso a Perfección" ,Temblores 3: Regreso a Perfección
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e342eaea-1d11-44ed-88a2-f0cfd8e091b3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjNWXlOnL85gkmW404OvAxGXtj.jpg" tvg-name="Temblores 4: Comienza la leyenda" ,Temblores 4: Comienza la leyenda
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9bd721c7-64df-4eb5-ad7c-14e186e2cdda.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2kxo6yzwYvqUOGOBjXTaO8oYQ.jpg" tvg-name="Temblores 5: El legado" ,Temblores 5: El legado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a0d0881-da49-4246-b101-bc44fe093901.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" tvg-name="Tremors: Shrieker Island" ,Tremors: Shrieker Island
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae6c80ba-23e2-4636-8f35-6a838ade4b58.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg" tvg-name="Tomb Raider" ,Tomb Raider
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/299c55ff-0fc3-4eb1-9e0c-0ed84274ce0f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooSXekSYeZ0o2AB4pKZI6eMdZRr.jpg" tvg-name="Érase una vez en China" ,Érase una vez en China
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b5adb34-1797-4eba-8a98-26ab91d62895.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx8yYEchEUancS4gJmJ3QKcd82r.jpg" tvg-name="Érase una vez en China II" ,Érase una vez en China II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f503907-5e1f-4685-b444-d53b304d6158.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aWhBrnScZEqxdp4hASzeL8TEin.jpg" tvg-name="Érase una vez en China III" ,Érase una vez en China III
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/604dea71-1853-4a68-9919-b69f6a91b2a1.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg" tvg-name="[REC]⁴: Apocalipsis" ,[REC]⁴: Apocalipsis
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/94017d96-e578-4196-b6c3-be1449c2d901.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRVSZ03HIXKOKfRaKd00gZC5uqA.jpg" tvg-name="[REC]³: Génesis" ,[REC]³: Génesis
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/02f2e6d7-29d5-4215-9196-8e1f6cb8a589.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg" tvg-name="[REC]" ,[REC]
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e0d07a9f-cb00-41b3-b6f5-a4692df6ba6c.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEzI0Sib3eGO82oMSk62Qo3fzJn.jpg" tvg-name="Invicto 3: Redención" ,Invicto 3: Redención
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e27a702-1dfe-4301-9c79-3a5654ced180.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaoQ8ThLEYTkPILmlTDneE41Odb.jpg" tvg-name="Las tortugas ninja II: El secreto de los mocos verdes" ,Las tortugas ninja II: El secreto de los mocos verdes
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ffd5ca4-baff-4a35-9627-a5e86f8f30ad.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quB2uGN5VzhP7VZnarnMtJB8Qdi.jpg" tvg-name="Tortugas Ninja III" ,Tortugas Ninja III
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67cc5a47-bfc5-4ea3-a2c5-35407d2c4a70.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg" tvg-name="Ninja Turtles: Fuera de las sombras" ,Ninja Turtles: Fuera de las sombras
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e1c059c0-641b-47da-9c12-a04f5a043367.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" tvg-name="El señor de los anillos: La comunidad del anillo" ,El señor de los anillos: La comunidad del anillo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a09684f8-a1e7-443d-be2a-ed2c65bbb8cc.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg" tvg-name="El señor de los anillos: Las dos torres" ,El señor de los anillos: Las dos torres
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97ca737c-0282-49ae-a262-1bd396dc473c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg" tvg-name="Depredador" ,Depredador
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc6a3962-34a7-4bb2-8af0-cc8f1f036baa.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enTsjngbsWuf1JB6YoYOOd67GdE.jpg" tvg-name="Alicia a través del espejo" ,Alicia a través del espejo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fda4eb76-3cc1-4160-bcdc-70bd37c8edc1.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oddoFLwlVk96dpMSSWU2rrGhIS.jpg" tvg-name="Loca academia de policía 2: Su primera misión" ,Loca academia de policía 2: Su primera misión
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97a6156f-657a-460e-85c9-9c38a83ca3c0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" tvg-name="Padre no hay más que uno" ,Padre no hay más que uno
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bf30ee0-41b0-408a-a97d-0c7e4f5b0347.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjODwcPV5tAEa1zlje9N4gReGS.jpg" tvg-name="Padre no hay más que uno 2: la llegada de la suegra" ,Padre no hay más que uno 2: la llegada de la suegra
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ced37a2-3aed-44df-80f3-2e07f984e412.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pfxk2XiO1NlifAjOthpmwSectF.jpg" tvg-name="¿Tus Navidades o las mías? 2" ,¿Tus Navidades o las mías? 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/569eac52-fba0-4142-ad45-3a2be2e7d55b.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40ollvfwHaVF85lkkg522SIl3Qc.jpg" tvg-name="Crepúsculo" ,Crepúsculo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/df3df8d9-fded-4ce9-bd79-69bb468e4143.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg" tvg-name="La saga Crepúsculo: Luna nueva" ,La saga Crepúsculo: Luna nueva
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57a2929b-b350-449d-bf62-39fe2cf59cfb.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" tvg-name="La saga Crepúsculo: Eclipse" ,La saga Crepúsculo: Eclipse
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65be38c9-5519-49e4-ac02-87ff24b633b7.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg" tvg-name="La saga Crepúsculo:  Amanecer - Parte 1" ,La saga Crepúsculo:  Amanecer - Parte 1
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9e14331-bec0-4f73-b06c-c513194a9ce9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPB3rQx0oBOmj5CHZxLWgexo5nS.jpg" tvg-name="La saga Crepúsculo:  Amanecer - Parte 2" ,La saga Crepúsculo:  Amanecer - Parte 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d33cfb3b-9b83-4065-8530-405ae230a4a5.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg" tvg-name="High School Musical" ,High School Musical
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a3970ccc-e361-4311-9e8b-6cfcd17e694d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg" tvg-name="High School Musical 2" ,High School Musical 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d964726e-13a0-4597-a0f8-76acbf35a851.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMpgcsydoSvmd8gp8LPKvEXSn5.jpg" tvg-name="High School Musical 3: Fin de curso" ,High School Musical 3: Fin de curso
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/94100d90-5a8e-4473-a55a-9991954d433f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Enrlqg9FMirWTIHKHexfJd4hdv.jpg" tvg-name="Chicken Run: Evasión en la granja" ,Chicken Run: Evasión en la granja
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dc6778e2-aa83-4632-9d13-29103119377c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX6NAkWHicHDgGYa192Kt47dPWI.jpg" tvg-name="Scooby-Doo" ,Scooby-Doo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/814693d5-4ba7-4f1c-b797-58567ce9782e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5anMa9cWwDL6JSvmkdbCpUsFIdu.jpg" tvg-name="Scooby-Doo 2: Desatado" ,Scooby-Doo 2: Desatado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/635dac23-3c22-4c4a-8e83-02cc3f53e9cc.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNwINhp3Hu5OPClHFc2wKnETdLJ.jpg" tvg-name="Scooby-Doo: Comienza el misterio" ,Scooby-Doo: Comienza el misterio
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72d26dc9-7045-44ca-ab82-88b97d832b0e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfkj0ooLv1v3KjzZejDNq5QDof.jpg" tvg-name="Scooby Doo: La maldición del monstruo del lago" ,Scooby Doo: La maldición del monstruo del lago
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d46f4fab-c527-4518-a0d2-1175a5f2dbbd.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg" tvg-name="Piratas del Caribe: La maldición de la Perla Negra" ,Piratas del Caribe: La maldición de la Perla Negra
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ff1a5945-c30b-4f6b-900f-189ec72c8a82.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg" tvg-name="Piratas del Caribe: El cofre del hombre muerto" ,Piratas del Caribe: El cofre del hombre muerto
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c9017b7-b9eb-478d-9f83-59e4d0f4ef7a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg" tvg-name="Piratas del Caribe: En el fin del mundo" ,Piratas del Caribe: En el fin del mundo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b3af52d3-c12a-4e22-bb85-1f5f52e35ee5.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oOARbiV871kCC27FyKBmYwOM3G.jpg" tvg-name="Piratas del Caribe: En mareas misteriosas" ,Piratas del Caribe: En mareas misteriosas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe76e753-1bcb-4dca-b053-d13fa09d0e0f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/net3hZOe33XbieLzVkfJsQEdig2.jpg" tvg-name="Piratas del Caribe: La venganza de Salazar" ,Piratas del Caribe: La venganza de Salazar
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bc60f08-7434-43c8-a7d4-d2a0e9d3a1f2.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK7LafXBhHKjALYOT3jRUTlFdpk.jpg" tvg-name="Starship Troopers: Las brigadas del espacio" ,Starship Troopers: Las brigadas del espacio
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cf8f8da9-e810-42f8-96d5-eea47a696015.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FZJZcXFsEdwGQm8HFXha6VpxvM.jpg" tvg-name="Starship Troopers 2: El héroe de la federación" ,Starship Troopers 2: El héroe de la federación
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04afa813-e7b0-441e-94c0-ae1ce2f497f0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi9m0B83RW0w1Y9iBDl78oOj2Qu.jpg" tvg-name="Starship Troopers 3: Armas del futuro" ,Starship Troopers 3: Armas del futuro
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d8e3d21e-0639-44a4-ad20-2c6de1048761.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg" tvg-name="John Wick (Otro día para matar)" ,John Wick (Otro día para matar)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b75c8ec-6591-4e87-856b-ae0259ec5662.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg" tvg-name="John Wick: Pacto de sangre" ,John Wick: Pacto de sangre
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ba69556-9f5f-4e0f-a707-b5892caf9ee5.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" tvg-name="John Wick: Capítulo 3 - Parabellum" ,John Wick: Capítulo 3 - Parabellum
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c831cdfd-12b0-4ba8-a5c1-9da1e1d627a0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SDQYB3QEyQWLav7OnxzrhROBmg.jpg" tvg-name="Critters 2" ,Critters 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/714cdc43-9a08-4a1e-8406-a64eee4d37cd.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frjklbq23pRgBjhekEq6drQkrZm.jpg" tvg-name="Critters 3" ,Critters 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a6e56f7-e849-484a-b237-45edfe69ae45.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7AnAlh5wyR0ItcSg7CeFHDYONW.jpg" tvg-name="Critters 4" ,Critters 4
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6796c07-e04c-4853-8558-e86c19df21ff.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQEMFZHU9pLuhu49piOUkqIeKlo.jpg" tvg-name="Critters ¡Al ataque!" ,Critters ¡Al ataque!
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bf45d498-0391-40ec-b844-ad469b01f879.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLoIruBElbN2ByhwJBdYDj7ECIP.jpg" tvg-name="Jack en la caja maldita" ,Jack en la caja maldita
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67588e9e-61de-4b88-b9b7-1e1396555423.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg" tvg-name="The Jack in the Box: El despertar" ,The Jack in the Box: El despertar
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f7eba54-1e4f-48a0-be44-3233029ac42f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgQDogdqPrSk2zRdy2JESq2LGvy.jpg" tvg-name="Posesión infernal" ,Posesión infernal
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b32071f-e3de-4330-84d5-397f0d8c9940.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4o4F8n0brc2vrpZBTvVFgB2Kk8.jpg" tvg-name="Terroríficamente muertos" ,Terroríficamente muertos
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c9924af-e78b-4781-a682-c2ad46616fdb.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWko0iXOEbqvWZa8NVKrUbBMJYy.jpg" tvg-name="El ejército de las tinieblas" ,El ejército de las tinieblas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b1a1491c-39da-41ee-b0e2-f626d164f797.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHjODlF02JRO8ZUUl2c22hvpoAQ.jpg" tvg-name="Skyline" ,Skyline
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca2a6612-7d4a-4e51-92cf-92011ea918db.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exEIlcptltl51TPMJSjYOOOEVI.jpg" tvg-name="Beyond Skyline" ,Beyond Skyline
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e4ffa235-2b86-4d97-8470-174c2a9cf006.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg" tvg-name="Ocean's Eleven. Hagan juego" ,Ocean's Eleven. Hagan juego
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/36780013-b6bf-4d7f-a6e5-6afb978e4589.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg" tvg-name="Ocean's Twelve" ,Ocean's Twelve
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc94166c-58a3-4aa9-8368-721cbcc26d54.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iczTMycAI1YXKOKFsBdcV1Ys7U.jpg" tvg-name="Ocean's Thirteen" ,Ocean's Thirteen
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0611acc2-54d9-4c3c-97b8-83780169c5e1.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPZyCym0wCXVPqkLDEwSc0H0XRx.jpg" tvg-name="Ocean's 8" ,Ocean's 8
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba5fc9f2-5d51-403b-811b-a3f18325f187.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGnfnPkQRUC1W1R5A8ldI4AfSJu.jpg" tvg-name="A través de mi ventana" ,A través de mi ventana
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d1d3124-e23f-4579-b9c8-c37e2a7eb82e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg" tvg-name="After: Aquí empieza todo" ,After: Aquí empieza todo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bbc3f81c-5b7e-470e-9fd6-c4a2cd5c614d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg" tvg-name="After: Amor infinito" ,After: Amor infinito
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/96462f4d-d339-46fc-b198-ef6a863b347b.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO3VGQi5sHIj2BGS963g1F74yCq.jpg" tvg-name="After: Aquí acaba todo" ,After: Aquí acaba todo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35a7d3f1-8906-4ef7-8a9e-0695bbdd0f41.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nPw22C41EUWXREWmY9iIivMXxm.jpg" tvg-name="After: En mil pedazos" ,After: En mil pedazos
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44aafb6e-a30c-496d-99b4-9cfa37142ade.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg" tvg-name="After: Almas perdidas" ,After: Almas perdidas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e4a62c3b-c0f7-48c4-983d-d97180765f01.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg" tvg-name="¡Canta!" ,¡Canta!
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3df873fb-4774-4e44-9c76-0f859f3d7af3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" tvg-name="¡Canta! 2" ,¡Canta! 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/34c9bd8d-612c-4678-b689-4e36cbd4a110.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" tvg-name="La huérfana" ,La huérfana
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd138ca5-15f1-4936-b12f-3bf1c338e412.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eed4qNf174pcT65it1PBbaTTL3x.jpg" tvg-name="La huérfana: Primer asesinato" ,La huérfana: Primer asesinato
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1aa44ffb-9c61-45b3-ab7d-2b7e693103fa.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHnOKBeu71MAs89QSp0v0giRmra.jpg" tvg-name="¡Goool! La película" ,¡Goool! La película
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/642ef669-aeeb-42da-a7a3-db43115fe24c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptGaYLmcEs0xLN4Yk3Fb3lqvGqf.jpg" tvg-name="¡Goool 2! Viviendo el sueño" ,¡Goool 2! Viviendo el sueño
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c96a1dfa-7657-49a6-8688-40bc59b51f72.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vjGTXpV1ehu3ng5ZnH0tI26Xpd.jpg" tvg-name="Goal 3" ,Goal 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8fb7a092-4210-4cc8-a9f0-9eb1d4248366.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozwM2pnlZuME0u626JX8741TaSn.jpg" tvg-name="Casino Royale" ,Casino Royale
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/302de418-5b59-4fdf-9b71-4271f3e1a801.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtQatL6ZJMsYEP9krYs9IHp4yDD.jpg" tvg-name="Skyfall" ,Skyfall
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76ab3d86-0161-4543-8222-f1eab2495b20.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg" tvg-name="Quantum of Solace" ,Quantum of Solace
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9748cd8-8554-4d14-89ed-80a8dcd76e89.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NCrCV6tR0Uafp8eVYiZbRsvrAv.jpg" tvg-name="Spectre" ,Spectre
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56cc68b5-b3f1-4b6d-b671-15b2fa2b50db.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg" tvg-name="Acorralado" ,Acorralado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/90bdca6e-4f48-46aa-92d7-a031e12ad611.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TuW7rwhdVPrm3qBsBGnn747Uar.jpg" tvg-name="Rambo: Acorralado Parte II" ,Rambo: Acorralado Parte II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b68c50b-484d-415a-b89b-acb5767b0138.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg" tvg-name="Rambo III" ,Rambo III
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/286be214-2082-4822-a2f0-17384b5a56b9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp9Q0JeHQ6JShQPm6KA8euYhWLF.jpg" tvg-name="John Rambo" ,John Rambo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/173dcc25-3aa7-471d-8e53-4e6a1da19f9f.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg" tvg-name="Rambo: Last Blood" ,Rambo: Last Blood
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b7f739b-c132-4876-b2e3-89ff131a7b3b.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpnZlagXNjWh6GUMmGosC5MHrYy.jpg" tvg-name="Hachiko 2" ,Hachiko 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c53ef23f-c6f3-40b3-bee5-c342c6937cb2.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2kXnywmFkhy8gcKCo7nHsmxXnE.jpg" tvg-name="Hachiko" ,Hachiko
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aeb5484b-84f4-4dce-83e8-4d8d22bee77e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg" tvg-name="Siempre a tu lado" ,Siempre a tu lado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2dc7b63-327d-407f-a7d3-c2e4fd567bbf.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg" tvg-name="Underworld" ,Underworld
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f837487f-5918-4055-bff2-ee6d9af38823.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlUw0mNkMa4jnwhJHiS1880iGZx.jpg" tvg-name="Inframundo 2: Evolution" ,Inframundo 2: Evolution
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5d7408a-73aa-4470-83f9-fc6257a8d211.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvzqDNt7YWKVEGdHFKyJHz5aeR8.jpg" tvg-name="Inframundo 3: La rebelión de los licántropos" ,Inframundo 3: La rebelión de los licántropos
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4c9cd9b-38d1-4a66-bf04-b1f9bcc9afa3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg" tvg-name="Inframundo 4: El despertar" ,Inframundo 4: El despertar
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10d379b1-1bf5-406a-a93b-ddb032f0004d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" tvg-name="Inframundo 5: Guerras de sangre" ,Inframundo 5: Guerras de sangre
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f765f392-019a-418e-a617-7e2296803361.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgTGAi2z6hqI2llYvlJjZeP8GuE.jpg" tvg-name="Mad Max: Salvajes de la autopista" ,Mad Max: Salvajes de la autopista
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/770fe6e6-e35b-42bc-821b-1d6ea1eac508.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPXzpZVP7t3lj5ezxKnvDn6hIf6.jpg" tvg-name="Mad Max 2: El guerrero de la carretera" ,Mad Max 2: El guerrero de la carretera
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2022499d-607f-4f68-ad0c-ca2401d045df.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgmOX4PQl5xPAdAx18zPPnQjQKs.jpg" tvg-name="Mad Max 3: Más allá de la cúpula del trueno" ,Mad Max 3: Más allá de la cúpula del trueno
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3e0ada9-4fb1-41fb-aa5b-0430b9aac821.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg" tvg-name="Mad Max: Furia en la carretera" ,Mad Max: Furia en la carretera
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5892dd55-c33e-4a89-9445-f105c5b3a393.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHalcWY9Ed5KSl35r9ddU2dnyJA.jpg" tvg-name="Bad Boys" ,Bad Boys
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae47665f-bc6a-420a-9c4d-74b06c4fb7ba.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg" tvg-name="Bad Boys II" ,Bad Boys II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0fbc725d-7c53-4868-92c7-96986bf092f8.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg" tvg-name="Bad Boys for Life" ,Bad Boys for Life
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d6fc0d04-58ba-4b34-baaa-201e24be015a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" tvg-name="El protegido" ,El protegido
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40eafce0-b444-4bf1-a003-2d84402fbf84.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag51YF1ZTNTefjhVMVGBCFv8h5s.jpg" tvg-name="El Fragmentado" ,El Fragmentado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15184bd2-20fc-40b1-bf8c-812556711b9d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYbLXENNUaNcHQl4Te94Msqn1oj.jpg" tvg-name="Glass (Cristal)" ,Glass (Cristal)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57989d22-8bfa-4805-a92c-33352f9033bb.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOGikJku5HDxcdHvnH4SqqWibO0.jpg" tvg-name="El código Da Vinci" ,El código Da Vinci
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e0fe917-c2c5-492c-aa48-445cf7c5fb7d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfsmra1wBF49uY4UzvwvLzNG278.jpg" tvg-name="Ángeles y demonios" ,Ángeles y demonios
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46ca48e7-2501-4f91-8a93-96f1802b7f53.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCGqpwsgjegq26fMiR54ugJtIc6.jpg" tvg-name="Inferno" ,Inferno
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25d75d09-2886-46ba-b2d5-192b2cb3f076.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg" tvg-name="El padrino" ,El padrino
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/220ae4b0-167e-4aa0-924b-bdfec9bf0956.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbry0W5PRylSUHsYzdiY2FSJwze.jpg" tvg-name="El padrino. Parte II" ,El padrino. Parte II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dac3dd26-b014-489c-9c45-7442f0760c24.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg" tvg-name="El padrino. Parte III" ,El padrino. Parte III
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c132994-5335-4670-b644-10825e923530.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg" tvg-name="Blade" ,Blade
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67bdc1e5-c2f2-4860-95c4-ff51aca65bdc.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg" tvg-name="Blade II" ,Blade II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d57a7b06-30d5-41c3-ba50-63d9a48418ae.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GiUVbr73cHe68d4ybpxDbeReZP.jpg" tvg-name="Blade Trinity" ,Blade Trinity
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a5e124c-5d42-42a2-93e3-4fc4da24eeb2.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTshd9hjQMWyRijWucqszKPrp5z.jpg" tvg-name="Busqueda Implacable" ,Busqueda Implacable
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e773204-a8a5-4d26-ada9-c8ee28b39033.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg" tvg-name="Busqueda Implacable 2: Conexión Estambul" ,Busqueda Implacable 2: Conexión Estambul
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd4585e3-17d0-4307-a255-37fed1624567.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCffcXqpH002rvSFt8AUnIC376s.jpg" tvg-name="Busqueda Implacable 3" ,Busqueda Implacable 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/62ccb01c-581c-4a16-a835-a35458029c98.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg" tvg-name="Ahora me ves" ,Ahora me ves
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bb08aeb-462f-4d02-84d0-ebc538909d1c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg" tvg-name="Ahora me ves 2" ,Ahora me ves 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/705a3d40-71c7-4787-a616-41abcabc78e1.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svzVjVV8QUpfYItr3PH5bMzRPer.jpg" tvg-name="Esta abuela es un peligro" ,Esta abuela es un peligro
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c912b0f1-39de-4316-b6d2-77a3ab0ab1ed.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBE1CYff72jD7CVGzvXUWqHHTev.jpg" tvg-name="Esta abuela es un peligro 2" ,Esta abuela es un peligro 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2dd73fb5-fba2-41ce-ad53-54187f921635.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fgGIzTZbMdbteF8OQvZlnki1wl.jpg" tvg-name="Esta abuela es un peligro 3" ,Esta abuela es un peligro 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8c7fce3f-0ccd-40b5-a869-7940246db828.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg" tvg-name="Los cazafantasmas" ,Los cazafantasmas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76ceb9ad-8edd-45ce-b674-a7a79710f227.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" tvg-name="Los cazafantasmas II" ,Los cazafantasmas II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20090fda-c293-4714-95a8-7b14d30d57b0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" tvg-name="Cazafantasmas" ,Cazafantasmas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/23dd320f-9a20-474c-844d-6c3b2c7c0ea4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igKE2uWnmyOhVeweBiYQ30FFixf.jpg" tvg-name="Cazafantasmas: El Legado" ,Cazafantasmas: El Legado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a40ba231-a760-4862-a495-201a23c9b404.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" tvg-name="Cazafantasmas: Imperio helado" ,Cazafantasmas: Imperio helado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/767d34c9-34da-453c-a9f3-b64a8be0c3c6.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RqnaUcDH2dpR2kmdnmSEHTcS0V.jpg" tvg-name="La familia Addams" ,La familia Addams
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/313b4f18-7154-4624-a809-64f31e5ec963.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZcXBJq9DRxEXHEtgZTiwBERqW4.jpg" tvg-name="La familia Addams: La tradición continúa" ,La familia Addams: La tradición continúa
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/405a9c86-d2a6-4738-b2bc-a28ea661ac28.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XtfNBKnLDpg1waJhDF5FAd5OEX.jpg" tvg-name="La familia Addams: La reunión | CALIDAD SD" ,La familia Addams: La reunión | CALIDAD SD
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/24a0c6ed-0934-4311-8128-dac937d2643a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg" tvg-name="Madagascar" ,Madagascar
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e42ee12-f25f-43ec-85a9-af2361323116.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uL5unGWKgBnaLdJLRjqcZjMr3I.jpg" tvg-name="Madagascar 2" ,Madagascar 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4eb83e08-cda8-4322-97ea-619ddf5ff61e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fKTIecTVNURB6CRFjYMypggRL2.jpg" tvg-name="Madagascar 3: De marcha por Europa" ,Madagascar 3: De marcha por Europa
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/691257ee-fda8-4c44-8618-cae5837c508f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg" tvg-name="Los pingüinos de Madagascar" ,Los pingüinos de Madagascar
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74942bce-c3f4-4720-afbd-a369a7e76827.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oROE5X5Eg3CHbY17Ze6HcbyWfHx.jpg" tvg-name="RED" ,RED
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/355c11bd-4bcb-46ec-a70e-0ed1abb13b4f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZ019mcDoVxdBOCMfPUJDLWphew.jpg" tvg-name="RED 2" ,RED 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41b79066-b35a-45e0-9e37-eabce2e9f696.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWwLXPtMKgeSbpQCtIaJHdTSytI.jpg" tvg-name="Pacific Rim" ,Pacific Rim
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/29c30efc-4242-4bda-b1dc-d310aed46d56.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg" tvg-name="Pacific Rim: Insurrección" ,Pacific Rim: Insurrección
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10dd193f-f1c8-4587-ad58-a3b7fdbf6f82.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg" tvg-name="Los descendientes" ,Los descendientes
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f015f898-e745-4828-bb07-152a6e9759c8.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwADU2dxO9NN7T9pF9h3rv9kYTb.jpg" tvg-name="Los descendientes 2" ,Los descendientes 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/770d59c6-02f3-4ecc-b1e5-d0d1f5cf50fc.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg" tvg-name="Los descendientes 3" ,Los descendientes 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0952f273-0e92-4026-8c7d-0b29d31060f9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnrHniqku460lvQw0fJz0q2aEjA.jpg" tvg-name="Los descendientes: Corazón rebelde" ,Los descendientes: Corazón rebelde
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8e8a9389-2be3-4741-a024-333db41a0066.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" tvg-name="Jurassic Park (Parque Jurásico)" ,Jurassic Park (Parque Jurásico)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d8bc72e-459e-493a-a1af-365bf2711ef8.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80pXV9DEd81rBGqmlPBLbvr6h9a.jpg" tvg-name="El mundo perdido: Jurassic Park" ,El mundo perdido: Jurassic Park
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d4a6978-99d1-4fc1-883b-9a66b648c115.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg" tvg-name="Jurassic Park III (Parque Jurásico III)" ,Jurassic Park III (Parque Jurásico III)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f28df08-e9e5-40bf-b083-10285d6a3f73.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg" tvg-name="Jurassic World" ,Jurassic World
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c46bdec-e629-410c-b316-ab0b8c887e05.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg" tvg-name="Jurassic World: El reino caído" ,Jurassic World: El reino caído
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c4c37c2-c10a-4864-b79d-7d58e7735cf4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ8Rz0TYvcCGFvzr5Ml2e1z8546.jpg" tvg-name="Jurassic World: Dominion" ,Jurassic World: Dominion
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c77d09c-0590-42f1-9849-1065c5b13a91.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY2TaCAp5LDMB8l4757N7PjnedI.jpg" tvg-name="Aquaman (C)" ,Aquaman (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b6978c58-ae5d-4b50-be0d-e9f7147a7442.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9Hv3b37ZErby79f4iqTZ8doaTp.jpg" tvg-name="Aquaman y el reino perdido (C)" ,Aquaman y el reino perdido (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04884d6f-adeb-4097-8939-7671ed8c948c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/747EDazOLVIALUnflQcGf8lNwNA.jpg" tvg-name="El diario de Bridget Jones" ,El diario de Bridget Jones
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/986ba450-4aeb-46fc-91ce-3b4593b560a1.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihtl1iygkMJ0K8QwzcW9P5hXVoW.jpg" tvg-name="Bridget Jones: Al Borde de la Razon" ,Bridget Jones: Al Borde de la Razon
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b9a8c0e-e3eb-43e8-89f5-0e00dba941a7.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tNR2zjJZ4jiM71ucqG2zyfJ8Tp.jpg" tvg-name="El Bebe de Bridget Jones" ,El Bebe de Bridget Jones
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b9c560c-396a-4f95-8c68-fdc0e71fa592.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg" tvg-name="Avatar (C)" ,Avatar (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd383d24-bca0-4e75-9fa6-a097f08f0644.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg" tvg-name="Avatar: El sentido del agua (C)" ,Avatar: El sentido del agua (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0b15803-e92b-4a9a-9b49-00e0e927bfbe.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg" tvg-name="Alien, el octavo pasajero" ,Alien, el octavo pasajero
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fa054aa9-ebde-4669-b31f-0b09fd3a3591.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg" tvg-name="Aliens: El regreso" ,Aliens: El regreso
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cadd67e7-489c-4730-b9d5-331623a61618.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0QB3IgbKyXSyKvGrSu6uu7YWg.jpg" tvg-name="Alien 3" ,Alien 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f353188a-7474-4741-93c9-b2b5f8b3b4a2.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MLQ5ehGD3b8E0JZ9K2G4cZeFaI.jpg" tvg-name="Alien: Resurrección" ,Alien: Resurrección
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc37460e-978e-40ee-8759-60995f57e0ad.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a1c2DhgkajssrdukOEtRd3KWK3.jpg" tvg-name="Alien Prometheus" ,Alien Prometheus
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd0bc41a-4ef6-4fd2-aa09-0fef47c173c5.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" tvg-name="Alien: Covenant" ,Alien: Covenant
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0818d6f9-1381-4533-9b38-ceeace92da80.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJum5ArxWCquaDmK0OXDKecRIeq.jpg" tvg-name="Transformers" ,Transformers
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a34908a-95f0-47a8-a0e2-63fcee73ef13.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg" tvg-name="Transformers: La venganza de los caídos" ,Transformers: La venganza de los caídos
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae99aca8-f7df-427c-a17f-3fc5e571d627.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMqXNNgzTaxalU1ve9KevpELiGe.jpg" tvg-name="Transformers: El lado oscuro de la luna" ,Transformers: El lado oscuro de la luna
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/073486fd-66eb-4681-b541-5b3a7cdf374a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owqV5Qo2DMMomfB1fS6xYWv3yEh.jpg" tvg-name="Transformers: La Era de la Extinción" ,Transformers: La Era de la Extinción
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0600d02d-a79d-445c-9be4-6bddcad74d87.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8d76iKmHvNyjzbTGpTqtHelnyy.jpg" tvg-name="Transformers: El último caballero" ,Transformers: El último caballero
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f60a7829-174f-4eca-b909-838de3e918c7.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg" tvg-name="Bumblebee" ,Bumblebee
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ea67959-3462-4e46-802f-2e89b3bed9c9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg" tvg-name="Transformers: El despertar de las bestias" ,Transformers: El despertar de las bestias
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07c750c3-27eb-4129-a9e4-d911c0df69fc.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CD4RJkRcje5NcUZdoQWDY96GjS.jpg" tvg-name="Marley y yo" ,Marley y yo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73498ad7-2d21-4e9c-9ee7-de89cd12861f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg" tvg-name="Marley y yo 2: Los años cachorros" ,Marley y yo 2: Los años cachorros
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d34e20da-36e1-4362-b2d9-0b3a69f34cd7.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HfyXfIEywLa2HvcswKi44dDKxL.jpg" tvg-name="No manches Frida" ,No manches Frida
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c3f6a33-60c1-470b-8977-9f95eed3c1e0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rG7rDoTe1ZEa936eonDCkV76nkx.jpg" tvg-name="No manches Frida 2" ,No manches Frida 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b1f8f863-4a39-4416-b728-4487edc5b2b1.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" tvg-name="Un lugar tranquilo (C)" ,Un lugar tranquilo (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/536ead6d-3c29-4dac-8ff0-3c2cba98c05f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg" tvg-name="Un lugar tranquilo 2 (C)" ,Un lugar tranquilo 2 (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7efd892-0d7e-4309-9f2a-4f0507eae727.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg" tvg-name="La Masacre de Texas" ,La Masacre de Texas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d3095b6-ccab-4d73-a9af-9fa3403431e9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg" tvg-name="La Masacre de Texas 2" ,La Masacre de Texas 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8022ba1e-e3c1-487a-bb03-7e8961b7a333.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg" tvg-name="La Masacre de Texas 3" ,La Masacre de Texas 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43efe7cf-6259-4e16-959b-c7433285e950.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1ZIqqx0SlqjaPj3v9P4zSOaXC1.jpg" tvg-name="La Masacre de Texas: La nueva generación" ,La Masacre de Texas: La nueva generación
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d9febba-bbf4-4336-8368-2d0992b9d012.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIwa6T0pChP85HHduiDEgsf000R.jpg" tvg-name="La Masacre de Texas" ,La Masacre de Texas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/28410ef3-aa28-4123-a6e4-339f1935c90f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg" tvg-name="La Masacre de Texas: El origen" ,La Masacre de Texas: El origen
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c85ef47a-9f8e-469e-94d1-90fb4750144a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg" tvg-name="La Masacre de Texas: Herencia Maldita" ,La Masacre de Texas: Herencia Maldita
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35071f9f-151a-438b-bfdc-2e878865109a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7iBh6WqpfLOBFMjW126wUOhI6O.jpg" tvg-name="La Masacre De Texas El Origen De Leatherface" ,La Masacre De Texas El Origen De Leatherface
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/220fe5b5-1a96-4ade-9b1d-d52ffe70d326.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg" tvg-name="La Masacre de Texas" ,La Masacre de Texas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/68d951fc-52c7-4d00-b0b6-1786f93025d0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg" tvg-name="La Purga: La noche de la expiacion" ,La Purga: La noche de la expiacion
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/539a35d8-d241-46c6-a293-fa9d467c5705.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg" tvg-name="La Purga 2: 12 horas para sobrevivir" ,La Purga 2: 12 horas para sobrevivir
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da658815-f8f3-4f0a-979a-ac5383a772c6.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg" tvg-name="La Purga 3: 12 horas para sobrevivir, el año de la eleccion" ,La Purga 3: 12 horas para sobrevivir, el año de la eleccion
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/812764ac-88f7-4a48-8b18-06b8c5f6b1d9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg" tvg-name="La Purga 4: 12 horas para sobrevivir, el inicio" ,La Purga 4: 12 horas para sobrevivir, el inicio
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0bde1851-7846-4852-bd55-b716f11564a3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg" tvg-name="La Purga 5: Por siempre" ,La Purga 5: Por siempre
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4de0b61d-0297-49b0-ba25-30db4a40977c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMQKL3Dx40au9e172ARVUWsT4qH.jpg" tvg-name="Garfield: La película" ,Garfield: La película
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f928714b-3d87-43d3-8b0e-5caf13bb3925.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n10AuSUxcJQEPtRw0uNdukpKQ1G.jpg" tvg-name="Garfield 2" ,Garfield 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2effa257-7f39-4db4-8abd-f47424c5b7ca.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avm0bLWtSoHk9erXAnViuPQ9mqf.jpg" tvg-name="Gru. Mi villano favorito (C)" ,Gru. Mi villano favorito (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2c337d8-18df-417d-a4da-53d1112cd066.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikz6zymN62kqSFioVWAqn8mPufM.jpg" tvg-name="Gru 2. Mi villano favorito (C)" ,Gru 2. Mi villano favorito (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ff331b18-6cdf-4ac2-8874-f45c1e43a2c9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbcBR6G5qNLX4OwLtWHdNJVzpei.jpg" tvg-name="Gru 3. Mi villano favorito (C)" ,Gru 3. Mi villano favorito (C)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6b85bb99-aabc-4b76-982d-76d62435ee49.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg" tvg-name="Rocky II" ,Rocky II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/418e7efc-3fb7-4a29-b4b4-0acb3bb9564e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUylDspiTKU3cYzZNeLsN8Krv12.jpg" tvg-name="Rocky Balboa" ,Rocky Balboa
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b20822af-e2c6-4032-9340-4f0194670c6b.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9cTEjzKOPB6xaTz4LBql1XE0HZ.jpg" tvg-name="Rocky III" ,Rocky III
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7dd92404-c491-4e9f-8904-bdac085e21d9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqxg1CihGR5ge0i1wYXr4Rdeppu.jpg" tvg-name="Rocky" ,Rocky
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec8ffb5f-d58f-444d-8b1b-182316129062.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" tvg-name="Creed II" ,Creed II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41d56b0d-6407-410a-9d2b-2e3b47c2816c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1nY37L6HC9hwlLSH5sHVzvXt1P.jpg" tvg-name="Rocky V" ,Rocky V
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d452a1b6-0ddd-4ba1-935a-044b5858df75.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" tvg-name="Creed III" ,Creed III
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19c4496b-e1d2-4f92-a1af-29b8c49662a3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" tvg-name="Rocky IV" ,Rocky IV
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f07ba60-1348-43c7-9192-4852bd876483.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg" tvg-name="Creed" ,Creed
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9a389f6-97da-4e07-bcf9-d290a596ad77.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg" tvg-name="Maze Runner: Correr o Morir | cctv |" ,Maze Runner: Correr o Morir | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bef6526-5619-4f08-b0f3-b2eb1a0f8024.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtbjAodeIf0Pj2blNeN1dM3suxU.jpg" tvg-name="Maze Runner: Prueba de Fuego | cctv |" ,Maze Runner: Prueba de Fuego | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/83bfb702-28a9-4f5e-9dc3-38c5fa5175ca.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuZOnvzplxPVh71t827F19zY5Ab.jpg" tvg-name="Maze Runner: La cura mortal | cctv |" ,Maze Runner: La cura mortal | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9be2f732-db9f-4eeb-86f2-983b5d758677.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tZTnv7dGQrTdgZrTgvlVDy9WmN.jpg" tvg-name="El planeta de los simios | cctv |" ,El planeta de los simios | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53a5cdd8-9047-400d-90e7-8b55d1d6158c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNh22vYIfd2Xr6zBoh8ZQGivt1L.jpg" tvg-name="Bajo el planeta de los simios | cctv |" ,Bajo el planeta de los simios | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/945c8e82-2fe9-4a27-9efb-1cfff65cc663.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCbFub0UiNQi3SBSOjwGNLhEroc.jpg" tvg-name="Escape del planeta de los simios | cctv |" ,Escape del planeta de los simios | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/66b1a72a-e98f-463f-b7d5-fcbe5c66c733.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/J80xXgT6Mw8EiiQeHcEdJ4LfxC.jpg" tvg-name="Rebelion del Planeta de los Simios | cctv |" ,Rebelion del Planeta de los Simios | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c28f1681-8ef1-4fd3-8ec9-1038397e457d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kQ0wmBzoL4EZEF2jTft58AhBuv.jpg" tvg-name="Batalla por el planeta de los simios | cctv |" ,Batalla por el planeta de los simios | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9cb13f08-99f3-482d-bbc0-d59fcb0818bd.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvUkYCByrlVMy4GMME3iDAe6er.jpg" tvg-name="El planeta de los simios | cctv |" ,El planeta de los simios | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6cda24f9-758f-44eb-8657-779ce9445e9d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg" tvg-name="El origen del planeta de los simios | cctv |" ,El origen del planeta de los simios | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/79550b1a-9560-441f-a392-e5c6c8fe2f71.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg" tvg-name="El Planeta de los simios: Confrontacion | cctv |" ,El Planeta de los simios: Confrontacion | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2e62e84-fad9-46f7-a470-853a85814abb.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s51V3REPzdABoEDLC4TPDPkY3b.jpg" tvg-name="El Planeta de los Simios: La Guerra | cctv |" ,El Planeta de los Simios: La Guerra | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe07027e-fa08-478d-bd9e-a21dced0e9d7.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" tvg-name="El Planeta de los Simios: Nuevo Reino | cctv |" ,El Planeta de los Simios: Nuevo Reino | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7287a1a9-70dc-447c-9db0-30c716f49442.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" tvg-name="101 dálmatas (¡Más vivos que nunca!) | cctv |" ,101 dálmatas (¡Más vivos que nunca!) | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3b58a41-cfb2-4f88-8a2f-9671960735cc.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbfGC0ar2jAMsnZ2FjRUzzvL5Kn.jpg" tvg-name="102 dálmatas | cctv |" ,102 dálmatas | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da15cddf-bbc7-44f6-bccd-d153890afea0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg" tvg-name="xXx | cctv |" ,xXx | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6becf42c-fd0b-425b-bc01-7908c26dbd6f.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg" tvg-name="xXx2: Estado de emergencia | cctv |" ,xXx2: Estado de emergencia | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d60113bd-dd08-4feb-98d0-effbb80615fd.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg" tvg-name="xXx: Reactivated | cctv |" ,xXx: Reactivated | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31c0cbb5-3e42-4a89-aeae-e3117f0fe461.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1um1GWa8AguAVmNioGfz0WCptVQ.jpg" tvg-name="Quieren volverme loco | cctv |" ,Quieren volverme loco | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/884b4d42-1ba0-488c-820f-95dcf8d8ddde.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O70oROEGcMa4ZMlThbMz6dtD69.jpg" tvg-name="Una casa patas arriba | cctv |" ,Una casa patas arriba | cctv |
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5bcb014-9439-44ab-a45a-60d02b1b7583.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGIDYYOX7Cj1o7W8JiwHd3TzJVw.jpg" tvg-name="Rambo Acorralado" ,Rambo Acorralado
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/12297aa1-cfe8-4bce-b3cc-42fc18c15b9c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/qQ1U57QWVaxVcUXoqz4dco7sftJ.jpg" tvg-name="El Karate Kid 4: La Nueva Aventura" ,El Karate Kid 4: La Nueva Aventura
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a4589afc-f1f9-4381-b646-c3a7101644d9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/sH7HK7phjO6NKsUaNi7tOWQ1k0t.jpg" tvg-name="El Karate Kid" ,El Karate Kid
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/efdf4156-0afc-4f59-9a92-adeca883cae8.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg" tvg-name="Karate Kid" ,Karate Kid
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c92d32b-c47c-42ff-ae75-7f13d3c522cf.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/9FNg1EnFZTXHqcayFnNHNoCUQYq.jpg" tvg-name="Karate Kid III" ,Karate Kid III
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85cb6e88-e78b-4fd5-9499-e5b96ad119d9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg" tvg-name="The Karate Kid Part II" ,The Karate Kid Part II
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea55764b-46f4-4a54-a36e-4fe39f12af3b.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg" tvg-name="Destino Final" ,Destino Final
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b5729ce-ee16-4e41-86d2-732a454e71f5.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/w1dJluO5aKK7Puz7qNXoQeUh4Cb.jpg" tvg-name="Destino Final 2" ,Destino Final 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af415883-4035-47e3-9cff-638f6e30a0a5.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg" tvg-name="Destino Final 3" ,Destino Final 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c5d05619-c59c-4e06-9607-5c3347a6cec4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg" tvg-name="Destino Final 4" ,Destino Final 4
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/201499ef-4a5a-43da-8387-fabd0fca66df.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/T0IGau7Alj52OLrrthzftkLMIA.jpg" tvg-name="Destino Final 5" ,Destino Final 5
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc49326c-e3c9-48ed-add9-2b6e380242f9.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" tvg-name="Annabelle" ,Annabelle
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8abda402-06b6-4b3e-b745-7def755cbc23.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg" tvg-name="Annabelle 2: La Creación" ,Annabelle 2: La Creación
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/11049c03-eeb4-4767-ab96-6da75f50558d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zxwPksbRKGaAi06rapPfFTVsMHv.jpg" tvg-name="Annabelle 3: Viene a Casa" ,Annabelle 3: Viene a Casa
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd5b22f4-b535-44b6-8ca3-25637c818011.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" tvg-name="El Conjuro" ,El Conjuro
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7db54936-6513-4087-ba2b-0a691cb5cebd.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/pdNW0HWw11Wn2N94VGea8O44wOA.jpg" tvg-name="El Conjuro 2" ,El Conjuro 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6971b4c7-3638-4583-bcef-74df6dac3a8a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg" tvg-name="El Conjuro 3: El Diablo me Obligó a Hacerlo" ,El Conjuro 3: El Diablo me Obligó a Hacerlo
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9657c7b4-2278-496b-a7af-25693e37ae53.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/1BIWytsnEr2aRobU6ERutzewm63.jpg" tvg-name="La Maldición de La Llorona" ,La Maldición de La Llorona
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c46a013-206a-4f4f-8e71-4aab1b0495e4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg" tvg-name="La monja" ,La monja
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/03d8067e-068d-4ead-a8b9-81792e6d65c2.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" tvg-name="La monja 2" ,La monja 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a35ca711-ff3d-4d16-8cb0-382695dfce10.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/uP5k78WkCVrxrFp4AJflHbC61Ao.jpg" tvg-name="Terrifier El Inicio" ,Terrifier El Inicio
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/556280a1-ec60-49a3-9adc-2e7c53b6995e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg" tvg-name="Terrifier" ,Terrifier
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7188440d-5d48-41f4-ab05-f961c50a7498.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6ZfvF7ZS8MJXe0YwRkPAtXNpXrG.jpg" tvg-name="Terrifier 2" ,Terrifier 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4bf0459e-9ce6-41b2-a3bc-6921fdc9589a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/lIodGaZNJbbShF5bDgf51cqpAKa.jpg" tvg-name="Pirañas 3D" ,Pirañas 3D
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01a84a00-7845-43d7-a861-5eec419dc7e0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg" tvg-name="Saw" ,Saw
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e6953ca-048c-4947-8d3e-5d21323f62ac.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" tvg-name="Saw 2" ,Saw 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fdf4f9a2-7a63-415b-9cf8-eeaf0f333e50.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/4iO9n24Rb10peXV0JH2EldIOrAp.jpg" tvg-name="Saw 3" ,Saw 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4e77a91-5435-402c-aba3-2352d08b6390.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/cSIAfVlrE065RnYRJKIgmRIXQKp.jpg" tvg-name="Saw 4" ,Saw 4
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c70c07a3-63a8-456a-adef-2870e9425a1d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/1kxceLYLH3QB8QgtJeTDAQm1fjP.jpg" tvg-name="Saw 5" ,Saw 5
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89602076-db2a-41e8-9cf3-3f3388f0c265.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6wfT5Cq3iH09GOwejL4zhYmByF2.jpg" tvg-name="Saw 6" ,Saw 6
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43a3809e-460f-4af8-86dd-0fd7fc433bb3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg" tvg-name="Saw 7" ,Saw 7
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8b20f78c-b22d-4452-87b5-b51d522b0170.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/90T0Cjx2yl6RaFhxas1eKnCphh5.jpg" tvg-name="Saw 8" ,Saw 8
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53756f0c-a45e-40fd-b0cf-7bc993b32b71.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/97WyFdS8pQerysSSGezafXHW5ZH.jpg" tvg-name="Saw 9: Espiral" ,Saw 9: Espiral
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97e3f597-d0a6-4a4e-825f-c2be10fbacf4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/vbJObKz2s4ZkMiQwfl5EM1IIt5d.jpg" tvg-name="Pirañas 3DD" ,Pirañas 3DD
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ce8d1ab-d842-4c6a-9c0a-e99c409a5f53.mkv
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/pLgSLx9dn2YYbwVk8p0F28KIU8C.jpg" tvg-name="Animales Fantásticos y Dónde Encontrarlos" ,Animales Fantásticos y Dónde Encontrarlos
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dfee8db6-3c1e-46d4-9550-bb86cad2ea34.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/p4BabO5lvfXnIsVIBLDpN2wLORz.jpg" tvg-name="Animales Fantásticos Los Crímenes de Grindelwald" ,Animales Fantásticos Los Crímenes de Grindelwald
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a255c7d-4c0e-4ac3-a8e5-fc8ca140cb57.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" tvg-name="Animales Fantásticos Los Secretos de Dumbledore" ,Animales Fantásticos Los Secretos de Dumbledore
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31fadbf4-7d1f-4dc2-a83b-694dca19fb28.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" tvg-name="Harry Potter y el Cáliz de Fuego" ,Harry Potter y el Cáliz de Fuego
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/34958c9d-0577-4c93-a892-da6f16ed6359.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/vvb9r7ZH4Zn35sXIwFTb08lMGaU.jpg" tvg-name="Harry Potter y el Misterio del Príncip" ,Harry Potter y el Misterio del Príncip
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bf01b6c-55a2-40c5-9de8-c02ec26d0be4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" tvg-name="Harry Potter y el Prisionero de Azkaban" ,Harry Potter y el Prisionero de Azkaban
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aab1771e-7e3d-4518-b264-3987648e3a3e.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" tvg-name="Harry Potter y la Cámara Secreta (Edición Extendida)" ,Harry Potter y la Cámara Secreta (Edición Extendida)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/896a96b0-27d4-4834-9327-c0bbf1e96cf0.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zN5DWGV6IO30asXrHzGju9mo20P.jpg" tvg-name="Harry Potter y la Orden del Fénix" ,Harry Potter y la Orden del Fénix
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/495765e3-461c-4f2a-9217-337ccd9873ce.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" tvg-name="Harry Potter y la Piedra Filosofal (Edición Extendida)" ,Harry Potter y la Piedra Filosofal (Edición Extendida)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bc9dbb58-28a3-4306-9a82-41dac89744e3.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" tvg-name="Harry Potter y Las Reliquias de la Muerte - Parte 1" ,Harry Potter y Las Reliquias de la Muerte - Parte 1
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f9456dc1-2716-4053-aa1a-933912a382d6.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" tvg-name="Harry Potter y Las Reliquias de la Muerte - Parte 2" ,Harry Potter y Las Reliquias de la Muerte - Parte 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbb537b7-53a7-4dfb-a2f0-559b38374ded.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg" tvg-name="Tinker Bell" ,Tinker Bell
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e0bdc3a-9433-4865-b041-fb558284e437.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/soPOZlksVHcumHnhyRlI3XtAVyx.jpg" tvg-name="Tinker Bell y el secreto de las hadas" ,Tinker Bell y el secreto de las hadas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bcadaa71-c5c1-40dd-8835-441b72b31d0c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/s5ggvZQMXhP3O2dQD8iQE46K6b6.jpg" tvg-name="Tinker Bell y el tesoro perdido" ,Tinker Bell y el tesoro perdido
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc7e0cdb-9100-40d3-935c-91cc12370391.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/14Yjf8xW2uWkZ3ZhagbrKMXbe70.jpg" tvg-name="Tinker Bell y la bestia de Nunca Jamás" ,Tinker Bell y la bestia de Nunca Jamás
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e8ca5376-c89f-46a8-9c59-7b07282c3660.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/AmUOjwjgz1vGnAmnR51NVv0hqAe.jpg" tvg-name="Tinker Bell Hadas al rescate" ,Tinker Bell Hadas al rescate
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e5aab4b-a36a-49f6-b3dc-5b229b370067.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7Jrap24Ki03bC39hbfyebw3xDul.jpg" tvg-name="Tinker Bell Hadas y piratas" ,Tinker Bell Hadas y piratas
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed8cc98c-7453-4521-8adc-29e744e30aae.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zBKHsO4kCIZOT8hRlGagKDL8sSF.jpg" tvg-name="Han Solo Una historia de Star Wars" ,Han Solo Una historia de Star Wars
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d13ef41-e873-4ee9-9758-3061566342d5.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" tvg-name="Rogue One Una historia de Star Wars" ,Rogue One Una historia de Star Wars
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/37bfa336-3dd7-4f82-865b-ec233d9b4403.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/oeQxq6If4DcW6ADIYCF9SQwKov.jpg" tvg-name="Star Wars El ascenso de Skywalker (Episodio IX)" ,Star Wars El ascenso de Skywalker (Episodio IX)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/578e0bc6-6d5c-43cd-a6ab-03ed691fde9a.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg" tvg-name="Star Wars El ataque de los clones (Episodio II)" ,Star Wars El ataque de los clones (Episodio II)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78850b1b-3acd-4827-812d-4d7cfe97381d.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg" tvg-name="Star Wars El despertar de la fuerza (Episodio VII)" ,Star Wars El despertar de la fuerza (Episodio VII)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/63be69ab-9008-47d8-b36d-8d40b622db7b.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zsZwahm4ktZPKX0B494CxqhbBhu.jpg" tvg-name="Star Wars El Imperio contraataca (Episodio V)" ,Star Wars El Imperio contraataca (Episodio V)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e566102-ba56-4f85-8923-2a9a9706e853.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg" tvg-name="Star Wars El regreso del Jedi (Episodio VI)" ,Star Wars El regreso del Jedi (Episodio VI)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c666b76f-18f3-40fb-b3c9-119a1f831546.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/kzmx6YYSQ85hkLTIoRRjmkBR2y.jpg" tvg-name="Star Wars La amenaza fantasma (Episodio I)" ,Star Wars La amenaza fantasma (Episodio I)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cb8ed434-8a9a-4306-8a91-59abdfae2ce4.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/5dj0ERxM8NxoiWBdlY6TT9PJmKi.jpg" tvg-name="Star Wars La venganza de los Sith (Episodio III)" ,Star Wars La venganza de los Sith (Episodio III)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9873a451-ff21-4a7f-a32b-28e8d5ac0be6.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg" tvg-name="Star Wars Los últimos Jedi (Episodio VIII)" ,Star Wars Los últimos Jedi (Episodio VIII)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07716732-cc2e-4c18-991d-390d29c81846.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg" tvg-name="Star Wars Una nueva esperanza (Episodio IV)" ,Star Wars Una nueva esperanza (Episodio IV)
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d5ffbf3-f3f9-4f39-a725-e8a291feba3c.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/fHWR3YplPQWciYzxEity2kyDoDn.jpg" tvg-name="Scary Movie" ,Scary Movie
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d94a8290-eaa0-4e63-9b88-6d6764e10fec.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/r4qTydYjntbb5TfZKV229NpSaCt.jpg" tvg-name="Scary Movie 2" ,Scary Movie 2
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/722f6122-1686-4dbf-9b39-f592eb7f0c40.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg" tvg-name="Scary Movie 3" ,Scary Movie 3
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed5ac919-53d2-4807-8543-e32bebf57421.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/4SMqo8Me8aCT4KAVLeG9pk8VYiN.jpg" tvg-name="Scary Movie 4" ,Scary Movie 4
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a05bfcbe-c738-4edd-9143-203de0096a26.mp4
-#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg" tvg-name="Scary Movie 5" ,Scary Movie 5
-http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a7a11ca-369c-4dcb-ac68-4089d4d3d535.mp4
-
-
-
+#LISTA PUBLICA DE MI ISO PERSONAL#
 
 #EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTARᵛᶦᵖ ◉
 http://embed-cloudfront.wistia.com/deliveries/bc4a7e0300ebdd8a9c3c05fe3ed7bc3cfd759efc.m3u8
 #EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
+
+
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 1
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245703
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 2
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245704
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 3
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245705
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 4
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245706
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 5
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245707
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 6
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245708
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 7
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245709
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 8
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245710
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 9
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245711
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 10
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245712
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 11
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245713
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 12
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245714
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 13
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245715
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 14
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245716
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS 15
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245717
+
+
+#EXTINF:-1 group-title="🔵57 350 675 5451" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Disney-Plus-Logo-2019-2024.png" ,EVENTOS SKY SPORTS español
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/213752
+
 #EXTINF:-1 group-title="🔵DEPORTES" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS 1
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167731
 #EXTINF:-1 group-title="🔵DEPORTES" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS COL
@@ -702,6 +92,11 @@ http://tv.iprotv.live/ProYeCtoX998/NuevaProyectoRw/79878
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8512
 #EXTINF:-1 group-title="⚽win sports⚽" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +ᵛᶦᵖ ◉ (2)
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
+
+
+#EXTINF:-1 group-title="⚽win sports⚽" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS + tvgusplay
+http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245671
+
 #EXTINF:-1 group-title="⚽win sports⚽" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287810
 #EXTINF:-1 group-title="⚽win sports⚽" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (2)
@@ -922,8 +317,9 @@ http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398006
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398045
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,PAWL PATROL venuschl
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398044
-#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,DORA LA EXPLORADORA zuiowy
-http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/155036
+#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,MUSICAL  PEQUETV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,MiCKEY MOUSE venuschl
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398035
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,PADRINOS MÁGICOS zuiowy
@@ -1687,68 +1083,197 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/110097
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/206901
 
 
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTAR
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTAR
 http://embed-cloudfront.wistia.com/deliveries/bc4a7e0300ebdd8a9c3c05fe3ed7bc3cfd759efc.m3u8
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,PLAYBOY TV
-http://14225021914.com/446686613/v144b5856g/260419
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,VIXEN
-http://189850286594527886.ofgd1018.xyz:80/me819618/KWcxmukujdT/928877
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BABES TV
-http://189850286594527886.ofgd1018.xyz:80/me819618/KWcxmukujdT/945456
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,EVIL ANGEL
-http://14225021914.com/446686613/v144b5856g/260424
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BANG BROS
-http://14225021914.com/446686613/v144b5856g/260423
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,FIT18
-http://14225021914.com/446686613/v144b5856g/260425
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,REALITY KINGS
-http://14225021914.com/446686613/v144b5856g/260430
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,KINKY FAMILY
-http://14225021914.com/446686613/v144b5856g/260433
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BRATTY SIS
-http://14225021914.com/446686613/v144b5856g/260598
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BLUE HUSTLER
-http://189850286594527886.ofgd1018.xyz:80/me819618/KWcxmukujdT/944159
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BRAZZERS
-http://14225021914.com/446686613/v144b5856g/271553
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BLACKED
-http://14225021914.com/446686613/v144b5856g/260436
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,NUBILES FILMS
-http://14225021914.com/446686613/v144b5856g/260487
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,NUBILES PORN
-http://14225021914.com/446686613/v144b5856g/260511
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,CUM 4K
-http://14225021914.com/446686613/v144b5856g/260446
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,FAMILY SWAP
-http://189850286594527886.ofgd1018.xyz:80/me819618/KWcxmukujdT/906958
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BLANCAS Y NEGROS
-http://14225021914.com/446686613/v144b5856g/260453
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,PRIMER ANAL
-http://14225021914.com/446686613/v144b5856g/260460
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,LUBED VIP
-http://14225021914.com/446686613/v144b5856g/260463
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,FAMILY STROKES
-http://14225021914.com/446686613/v144b5856g/260469
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,MOFOS
-http://14225021914.com/446686613/v144b5856g/260480
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,SWEET SINNER
-http://14225021914.com/446686613/v144b5856g/260484
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,LOVE HER ASS
-http://14225021914.com/446686613/v144b5856g/260490
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,FILTY POV
-http://14225021914.com/446686613/v144b5856g/260498
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LOVE HER FEET
-http://14225021914.com/446686613/v144b5856g/260500
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , VALENTINA NAPPI
-http://14225021914.com/446686613/v144b5856g/260565
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,ELSA JEAN
-http://14225021914.com/446686613/v144b5856g/260551
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,AUTUMN FALLS
-http://14225021914.com/446686613/v144b5856g/260547
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,ALINA LOPEZ
-http://14225021914.com/446686613/v144b5856g/260543
-#EXTINF:-1 group-title="🔵ADULTOS🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,ABELLA DANGER
-http://14225021914.com/446686613/v144b5856g/260541
+
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Playboytv.br" ,+18 Playboy FHD²
+http://5ce.co/matheusy/f59315467/36151
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BLACKED
+http://5ce.co/matheusy/f59315467/36787
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 NUBILE FILMS
+http://5ce.co/matheusy/f59315467/139274
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 VIXEN
+http://5ce.co/matheusy/f59315467/139243
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Venus.pt" ,+18 Venus SD
+http://5ce.co/matheusy/f59315467/28292
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 STRANDED TEENS
+http://5ce.co/matheusy/f59315467/139251
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BABES TV
+http://5ce.co/matheusy/f59315467/139195
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,18 BLUE HUSTLER
+http://5ce.co/matheusy/f59315467/233187
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PRIVATE
+http://5ce.co/matheusy/f59315467/139266
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 RK PRIME
+http://5ce.co/matheusy/f59315467/139258
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Sextreme.cl" ,+18 Sextreme FHD
+http://5ce.co/matheusy/f59315467/36150
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 FIT18
+http://5ce.co/matheusy/f59315467/233200
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PASSION
+http://5ce.co/matheusy/f59315467/233198
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Sexyhot.br" ,+18 Sexy Hot HD
+http://5ce.co/matheusy/f59315467/28305
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PERVS ON PATROL
+http://5ce.co/matheusy/f59315467/139271
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 POVD
+http://5ce.co/matheusy/f59315467/139269
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PRETTY DIRTY
+http://5ce.co/matheusy/f59315467/139267
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PROPERTY SEX
+http://5ce.co/matheusy/f59315467/139265
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PUBLIC AGENT
+http://5ce.co/matheusy/f59315467/139264
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PUBLIC PICKUPS
+http://5ce.co/matheusy/f59315467/139263
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PURE18
+http://5ce.co/matheusy/f59315467/139262
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 REAL EX GIRLFRIENDS
+http://5ce.co/matheusy/f59315467/139260
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SIS LOVES ME
+http://5ce.co/matheusy/f59315467/139254
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 STEPSIBLINGS
+http://5ce.co/matheusy/f59315467/139252
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SWALLOW SALON
+http://5ce.co/matheusy/f59315467/139250
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 THE INNOCENCE OF YOUTH
+http://5ce.co/matheusy/f59315467/139249
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 TINY 4K
+http://5ce.co/matheusy/f59315467/139248
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 TURNING TWISTYS
+http://5ce.co/matheusy/f59315467/139246
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 VLOG XXX
+http://5ce.co/matheusy/f59315467/139242
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 WE LIVE TOGETHER
+http://5ce.co/matheusy/f59315467/139241
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 WHEN GIRLS PLAY
+http://5ce.co/matheusy/f59315467/139240
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 EXXXTRA SMALL
+http://5ce.co/matheusy/f59315467/139212
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 FAMILY XXX
+http://5ce.co/matheusy/f59315467/139202
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 TRUE AMATEUR
+http://5ce.co/matheusy/f59315467/139200
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BRAZZER
+http://5ce.co/matheusy/f59315467/139197
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 HD LOVE
+http://5ce.co/matheusy/f59315467/139196
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 REALITY KINGS
+http://5ce.co/matheusy/f59315467/139194
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 MY TINY WISH
+http://5ce.co/matheusy/f59315467/36784
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 DAGFS
+http://5ce.co/matheusy/f59315467/36788
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BANG BROS
+http://5ce.co/matheusy/f59315467/36782
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18  CUM 4K
+http://5ce.co/matheusy/f59315467/36794
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 NEW SENSATIONS
+http://5ce.co/matheusy/f59315467/233199
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 KINKY FAMILY
+http://5ce.co/matheusy/f59315467/233195
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PERV MOM
+http://5ce.co/matheusy/f59315467/139272
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SELL YOUR GF
+http://5ce.co/matheusy/f59315467/139257
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SHARE MY BF
+http://5ce.co/matheusy/f59315467/139255
+
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Playboytv.br" ,+18 Playboy FHD²
+http://5ce.co/matheusy/f59315467/36151
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BLACKED
+http://5ce.co/matheusy/f59315467/36787
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 NUBILE FILMS
+http://5ce.co/matheusy/f59315467/139274
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 VIXEN
+http://5ce.co/matheusy/f59315467/139243
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Venus.pt" ,+18 Venus SD
+http://5ce.co/matheusy/f59315467/28292
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 STRANDED TEENS
+http://5ce.co/matheusy/f59315467/139251
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BABES TV
+http://5ce.co/matheusy/f59315467/139195
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,18 BLUE HUSTLER
+http://5ce.co/matheusy/f59315467/233187
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PRIVATE
+http://5ce.co/matheusy/f59315467/139266
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 RK PRIME
+http://5ce.co/matheusy/f59315467/139258
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Sextreme.cl" ,+18 Sextreme FHD
+http://5ce.co/matheusy/f59315467/36150
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 FIT18
+http://5ce.co/matheusy/f59315467/233200
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PASSION
+http://5ce.co/matheusy/f59315467/233198
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Sexyhot.br" ,+18 Sexy Hot HD
+http://5ce.co/matheusy/f59315467/28305
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PERVS ON PATROL
+http://5ce.co/matheusy/f59315467/139271
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 POVD
+http://5ce.co/matheusy/f59315467/139269
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PRETTY DIRTY
+http://5ce.co/matheusy/f59315467/139267
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PROPERTY SEX
+http://5ce.co/matheusy/f59315467/139265
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PUBLIC AGENT
+http://5ce.co/matheusy/f59315467/139264
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PUBLIC PICKUPS
+http://5ce.co/matheusy/f59315467/139263
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PURE18
+http://5ce.co/matheusy/f59315467/139262
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 REAL EX GIRLFRIENDS
+http://5ce.co/matheusy/f59315467/139260
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SIS LOVES ME
+http://5ce.co/matheusy/f59315467/139254
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 STEPSIBLINGS
+http://5ce.co/matheusy/f59315467/139252
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SWALLOW SALON
+http://5ce.co/matheusy/f59315467/139250
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 THE INNOCENCE OF YOUTH
+http://5ce.co/matheusy/f59315467/139249
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 TINY 4K
+http://5ce.co/matheusy/f59315467/139248
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 TURNING TWISTYS
+http://5ce.co/matheusy/f59315467/139246
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 VLOG XXX
+http://5ce.co/matheusy/f59315467/139242
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 WE LIVE TOGETHER
+http://5ce.co/matheusy/f59315467/139241
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 WHEN GIRLS PLAY
+http://5ce.co/matheusy/f59315467/139240
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 EXXXTRA SMALL
+http://5ce.co/matheusy/f59315467/139212
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 FAMILY XXX
+http://5ce.co/matheusy/f59315467/139202
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 TRUE AMATEUR
+http://5ce.co/matheusy/f59315467/139200
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BRAZZER
+http://5ce.co/matheusy/f59315467/139197
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 HD LOVE
+http://5ce.co/matheusy/f59315467/139196
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 REALITY KINGS
+http://5ce.co/matheusy/f59315467/139194
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 MY TINY WISH
+http://5ce.co/matheusy/f59315467/36784
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 DAGFS
+http://5ce.co/matheusy/f59315467/36788
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BANG BROS
+http://5ce.co/matheusy/f59315467/36782
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18  CUM 4K
+http://5ce.co/matheusy/f59315467/36794
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 NEW SENSATIONS
+http://5ce.co/matheusy/f59315467/233199
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 KINKY FAMILY
+http://5ce.co/matheusy/f59315467/233195
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PERV MOM
+http://5ce.co/matheusy/f59315467/139272
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SELL YOUR GF
+http://5ce.co/matheusy/f59315467/139257
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SHARE MY BF
+http://5ce.co/matheusy/f59315467/139255
+
+
+
 
 #EXTINF:-1 group-title="*VOD | ⚡ESTRENOS *2024⚡" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Xr2PiUlJeDdSHLxSiXQZruygVg.jpg" tvg-name="La vida sigue" ,La vida sigue
 http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3384a9e6-e7d3-4bd3-966e-e8e72a650873.mp4
@@ -4508,3 +4033,652 @@ http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/771e9c28-c40b
 http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f81dcbdb-f3c7-49c3-8670-810fc5362e1e.mkv
 #EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w400/c4Xlw5oRS8V77wEYblJwdx9oSUy.jpg" tvg-name="La Pastelera" ,La Pastelera
 http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af9f2c33-c1d5-4a4f-9666-f810212a6855.mkv
+
+
+
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/av4YCVk0p3ch2ladEt1arZek9lP.jpg" tvg-name="Jungla de cristal" ,Jungla de cristal
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a270ae14-f4ca-47af-9f8a-48b4631c4fa1.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg" tvg-name="La jungla 2: Alerta roja" ,La jungla 2: Alerta roja
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c38ed9ae-8e21-42be-a42a-036288bce406.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLVcPispwVVa5LMpAWwQngFcm8.jpg" tvg-name="Jungla de cristal: la venganza" ,Jungla de cristal: la venganza
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a7164d9-e2e7-428b-a7c4-7c8db3965ffa.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZhPQCwfTIv8rkJrd5fOU7jlwJ5.jpg" tvg-name="La jungla 4.0" ,La jungla 4.0
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/18e639c3-d313-433e-bbfd-fbfdc19dfc50.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBxvKk4COFo78sUgHzhbE5n8hMo.jpg" tvg-name="La jungla: Un buen día para morir" ,La jungla: Un buen día para morir
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/273f0298-f5a7-40fa-ad7b-b36050c025cc.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXEjRdWopGO4RhUlX0wdxMTT0Os.jpg" tvg-name="The Punisher (El castigador)" ,The Punisher (El castigador)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c2f0e3f-3221-411b-a7ab-cd6d999c1871.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X2r09vhgGc4dk0Es3jr2gFSD8o.jpg" tvg-name="Punisher 2: Zona de guerra" ,Punisher 2: Zona de guerra
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b15da29a-5409-4fad-894f-bbea0d0d8c2d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg" tvg-name="El rey escorpión" ,El rey escorpión
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d4a24c2-e88b-4bbe-915e-b8b712a15d53.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i4FKExsjSWMSHzRmxmsBMtR6gd.jpg" tvg-name="El rey escorpión 2: El nacimiento del guerrero" ,El rey escorpión 2: El nacimiento del guerrero
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/352d9eb6-c3a0-4b3b-a1ca-57e0a96b8d51.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xCBshzQNkaUpiRV23mIGTKaN1k.jpg" tvg-name="El rey escorpión 3: Batalla por la redención" ,El rey escorpión 3: Batalla por la redención
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b3fcd3c-abcc-48fc-ba08-9ffede85876d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" tvg-name="El rey escorpión 4: La búsqueda del poder" ,El rey escorpión 4: La búsqueda del poder
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/36317aff-8a4c-4df9-849b-74d124ec4da8.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LVocsQ2Pnc0RaKNhUhGvEs8ekM.jpg" tvg-name="El rey escorpión: El libro de las almas" ,El rey escorpión: El libro de las almas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/676e4fbd-dc33-451c-8dbc-d7d5a4286547.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z5qDTtg1iaWZtCLqD1ntp3phiC.jpg" tvg-name="Godzilla contra Ghidorah, el dragón de tres cabezas" ,Godzilla contra Ghidorah, el dragón de tres cabezas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b7d3da3d-0c8e-489e-811d-96f2da1d206b.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YcIEhXzMSuNdrooBUsO3mZK8rT.jpg" tvg-name="Gigantis, the Fire Monster" ,Gigantis, the Fire Monster
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9472e38a-79aa-4a5e-990d-131c699f48a2.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwUEHJ7rhIYTS7xK80dPx5AYCB.jpg" tvg-name="Invasión extraterrestre" ,Invasión extraterrestre
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a0de7c56-43eb-4850-887b-ad3d3856559d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4z09YOXnOLyw2Vk0pBXbwGbMU4.jpg" tvg-name="Los monstruos invaden la Tierra" ,Los monstruos invaden la Tierra
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3899c33d-253f-44ee-ae14-af15ecede32a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg" tvg-name="La momia" ,La momia
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/62785048-99fb-417f-b7d5-4ac49a0d104b.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JEbMNds0ZRBD5AYcIIhCqRVgQU.jpg" tvg-name="La momia" ,La momia
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e46f17c-0c55-4057-914d-6640b46843a4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg" tvg-name="El regreso de la momia" ,El regreso de la momia
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/952e5029-a9ba-4cd7-b089-4af44e08f20a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wktniKrRfM6yXI2zEsLz9M3gNWP.jpg" tvg-name="La momia: La tumba del emperador Dragón" ,La momia: La tumba del emperador Dragón
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2b676976-b527-48e8-b702-4aa04880e0ff.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB560d77wXnzN1vjcretRP2voMC.jpg" tvg-name="Lara Croft: Tomb Raider" ,Lara Croft: Tomb Raider
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41eff431-ea82-401a-ae24-55169e903705.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMZRhXuZyNEpohTui1VpSsmsq63.jpg" tvg-name="Lara Croft: Tomb Raider 2 - La cuna de la vida" ,Lara Croft: Tomb Raider 2 - La cuna de la vida
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f35d65e-3b18-4c7f-9731-0bdcedfdb4de.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" tvg-name="Pesadilla en Elm Street" ,Pesadilla en Elm Street
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59a7a633-107c-4e8d-8d3f-7d9bb92d31f0.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54JsC5uy6l9HTeDmW1DGQ76dsc4.jpg" tvg-name="Pesadilla en Elm Street 2: La venganza de Freddy" ,Pesadilla en Elm Street 2: La venganza de Freddy
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac58d0d5-621f-47e4-ad3b-5777f96c49ee.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWAcoQLZuXKh96tDJTQe5SFBsd.jpg" tvg-name="Pesadilla en Elm Street 3: Los guerreros del sueño" ,Pesadilla en Elm Street 3: Los guerreros del sueño
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c789e212-f2fb-4a54-b3b2-7287c5d52222.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg" tvg-name="Pesadilla en Elm Street (El origen)" ,Pesadilla en Elm Street (El origen)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f4371cdf-beaf-4ff9-93f5-c7824ddc00ae.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" tvg-name="Pesadilla en Elm Street" ,Pesadilla en Elm Street
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60f2e294-41ca-4681-9049-c548d2f9ed7c.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqFsmwVUKKk1gpSUVZW8RLULYDb.jpg" tvg-name="Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)" ,Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/37da6592-321f-457f-bac2-fbc4da5f5877.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqFsmwVUKKk1gpSUVZW8RLULYDb.jpg" tvg-name="Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)" ,Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9da39fca-be9d-4516-a0ff-541446dabe94.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg" tvg-name="Resident Evil 2: Apocalipsis" ,Resident Evil 2: Apocalipsis
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/054e2da6-fd43-46f8-9959-52bf3a241c32.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg" tvg-name="Resident Evil" ,Resident Evil
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8213304a-58bf-454f-bc34-8dbefe5f89c0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg" tvg-name="Soldado Universal" ,Soldado Universal
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0a695743-2388-4eb7-bcab-8c03a70d6740.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg" tvg-name="Soldado Universal: El Retorno" ,Soldado Universal: El Retorno
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3fd8e1ee-732f-42d8-b71f-6464507e4ef1.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS6nV0tWZTa8pqCfchomQw3ai42.jpg" tvg-name="Soldado Universal: Regeneración" ,Soldado Universal: Regeneración
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6baab016-4d66-449e-abfe-8887af0a1ddd.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVmVCX28whqv18BWr6NIssBy6EO.jpg" tvg-name="Soldado Universal 4: El juicio final" ,Soldado Universal 4: El juicio final
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9fefa485-9e96-4150-9d33-7be5102b6864.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg" tvg-name="Temblores" ,Temblores
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/48bbf41d-dd03-4a0d-a2ca-ec40a9c53ce3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGogIG6BHjoKnKJTRnFA5YwmFu0.jpg" tvg-name="Temblores 2: La respuesta" ,Temblores 2: La respuesta
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76b6c33c-1d02-468c-838f-31fa2f4c0c00.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg" tvg-name="Temblores 3: Regreso a Perfección" ,Temblores 3: Regreso a Perfección
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e342eaea-1d11-44ed-88a2-f0cfd8e091b3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjNWXlOnL85gkmW404OvAxGXtj.jpg" tvg-name="Temblores 4: Comienza la leyenda" ,Temblores 4: Comienza la leyenda
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9bd721c7-64df-4eb5-ad7c-14e186e2cdda.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2kxo6yzwYvqUOGOBjXTaO8oYQ.jpg" tvg-name="Temblores 5: El legado" ,Temblores 5: El legado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a0d0881-da49-4246-b101-bc44fe093901.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" tvg-name="Tremors: Shrieker Island" ,Tremors: Shrieker Island
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae6c80ba-23e2-4636-8f35-6a838ade4b58.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg" tvg-name="Tomb Raider" ,Tomb Raider
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/299c55ff-0fc3-4eb1-9e0c-0ed84274ce0f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooSXekSYeZ0o2AB4pKZI6eMdZRr.jpg" tvg-name="Érase una vez en China" ,Érase una vez en China
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b5adb34-1797-4eba-8a98-26ab91d62895.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx8yYEchEUancS4gJmJ3QKcd82r.jpg" tvg-name="Érase una vez en China II" ,Érase una vez en China II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f503907-5e1f-4685-b444-d53b304d6158.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aWhBrnScZEqxdp4hASzeL8TEin.jpg" tvg-name="Érase una vez en China III" ,Érase una vez en China III
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/604dea71-1853-4a68-9919-b69f6a91b2a1.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg" tvg-name="[REC]⁴: Apocalipsis" ,[REC]⁴: Apocalipsis
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/94017d96-e578-4196-b6c3-be1449c2d901.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRVSZ03HIXKOKfRaKd00gZC5uqA.jpg" tvg-name="[REC]³: Génesis" ,[REC]³: Génesis
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/02f2e6d7-29d5-4215-9196-8e1f6cb8a589.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg" tvg-name="[REC]" ,[REC]
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e0d07a9f-cb00-41b3-b6f5-a4692df6ba6c.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEzI0Sib3eGO82oMSk62Qo3fzJn.jpg" tvg-name="Invicto 3: Redención" ,Invicto 3: Redención
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e27a702-1dfe-4301-9c79-3a5654ced180.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaoQ8ThLEYTkPILmlTDneE41Odb.jpg" tvg-name="Las tortugas ninja II: El secreto de los mocos verdes" ,Las tortugas ninja II: El secreto de los mocos verdes
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ffd5ca4-baff-4a35-9627-a5e86f8f30ad.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quB2uGN5VzhP7VZnarnMtJB8Qdi.jpg" tvg-name="Tortugas Ninja III" ,Tortugas Ninja III
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67cc5a47-bfc5-4ea3-a2c5-35407d2c4a70.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg" tvg-name="Ninja Turtles: Fuera de las sombras" ,Ninja Turtles: Fuera de las sombras
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e1c059c0-641b-47da-9c12-a04f5a043367.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" tvg-name="El señor de los anillos: La comunidad del anillo" ,El señor de los anillos: La comunidad del anillo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a09684f8-a1e7-443d-be2a-ed2c65bbb8cc.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg" tvg-name="El señor de los anillos: Las dos torres" ,El señor de los anillos: Las dos torres
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97ca737c-0282-49ae-a262-1bd396dc473c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg" tvg-name="Depredador" ,Depredador
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc6a3962-34a7-4bb2-8af0-cc8f1f036baa.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enTsjngbsWuf1JB6YoYOOd67GdE.jpg" tvg-name="Alicia a través del espejo" ,Alicia a través del espejo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fda4eb76-3cc1-4160-bcdc-70bd37c8edc1.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oddoFLwlVk96dpMSSWU2rrGhIS.jpg" tvg-name="Loca academia de policía 2: Su primera misión" ,Loca academia de policía 2: Su primera misión
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97a6156f-657a-460e-85c9-9c38a83ca3c0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" tvg-name="Padre no hay más que uno" ,Padre no hay más que uno
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bf30ee0-41b0-408a-a97d-0c7e4f5b0347.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjODwcPV5tAEa1zlje9N4gReGS.jpg" tvg-name="Padre no hay más que uno 2: la llegada de la suegra" ,Padre no hay más que uno 2: la llegada de la suegra
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ced37a2-3aed-44df-80f3-2e07f984e412.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Pfxk2XiO1NlifAjOthpmwSectF.jpg" tvg-name="¿Tus Navidades o las mías? 2" ,¿Tus Navidades o las mías? 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/569eac52-fba0-4142-ad45-3a2be2e7d55b.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40ollvfwHaVF85lkkg522SIl3Qc.jpg" tvg-name="Crepúsculo" ,Crepúsculo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/df3df8d9-fded-4ce9-bd79-69bb468e4143.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg" tvg-name="La saga Crepúsculo: Luna nueva" ,La saga Crepúsculo: Luna nueva
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57a2929b-b350-449d-bf62-39fe2cf59cfb.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" tvg-name="La saga Crepúsculo: Eclipse" ,La saga Crepúsculo: Eclipse
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65be38c9-5519-49e4-ac02-87ff24b633b7.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg" tvg-name="La saga Crepúsculo:  Amanecer - Parte 1" ,La saga Crepúsculo:  Amanecer - Parte 1
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9e14331-bec0-4f73-b06c-c513194a9ce9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPB3rQx0oBOmj5CHZxLWgexo5nS.jpg" tvg-name="La saga Crepúsculo:  Amanecer - Parte 2" ,La saga Crepúsculo:  Amanecer - Parte 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d33cfb3b-9b83-4065-8530-405ae230a4a5.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg" tvg-name="High School Musical" ,High School Musical
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a3970ccc-e361-4311-9e8b-6cfcd17e694d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg" tvg-name="High School Musical 2" ,High School Musical 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d964726e-13a0-4597-a0f8-76acbf35a851.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMpgcsydoSvmd8gp8LPKvEXSn5.jpg" tvg-name="High School Musical 3: Fin de curso" ,High School Musical 3: Fin de curso
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/94100d90-5a8e-4473-a55a-9991954d433f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Enrlqg9FMirWTIHKHexfJd4hdv.jpg" tvg-name="Chicken Run: Evasión en la granja" ,Chicken Run: Evasión en la granja
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dc6778e2-aa83-4632-9d13-29103119377c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX6NAkWHicHDgGYa192Kt47dPWI.jpg" tvg-name="Scooby-Doo" ,Scooby-Doo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/814693d5-4ba7-4f1c-b797-58567ce9782e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5anMa9cWwDL6JSvmkdbCpUsFIdu.jpg" tvg-name="Scooby-Doo 2: Desatado" ,Scooby-Doo 2: Desatado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/635dac23-3c22-4c4a-8e83-02cc3f53e9cc.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNwINhp3Hu5OPClHFc2wKnETdLJ.jpg" tvg-name="Scooby-Doo: Comienza el misterio" ,Scooby-Doo: Comienza el misterio
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72d26dc9-7045-44ca-ab82-88b97d832b0e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfkj0ooLv1v3KjzZejDNq5QDof.jpg" tvg-name="Scooby Doo: La maldición del monstruo del lago" ,Scooby Doo: La maldición del monstruo del lago
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d46f4fab-c527-4518-a0d2-1175a5f2dbbd.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg" tvg-name="Piratas del Caribe: La maldición de la Perla Negra" ,Piratas del Caribe: La maldición de la Perla Negra
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ff1a5945-c30b-4f6b-900f-189ec72c8a82.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg" tvg-name="Piratas del Caribe: El cofre del hombre muerto" ,Piratas del Caribe: El cofre del hombre muerto
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c9017b7-b9eb-478d-9f83-59e4d0f4ef7a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg" tvg-name="Piratas del Caribe: En el fin del mundo" ,Piratas del Caribe: En el fin del mundo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b3af52d3-c12a-4e22-bb85-1f5f52e35ee5.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oOARbiV871kCC27FyKBmYwOM3G.jpg" tvg-name="Piratas del Caribe: En mareas misteriosas" ,Piratas del Caribe: En mareas misteriosas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe76e753-1bcb-4dca-b053-d13fa09d0e0f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/net3hZOe33XbieLzVkfJsQEdig2.jpg" tvg-name="Piratas del Caribe: La venganza de Salazar" ,Piratas del Caribe: La venganza de Salazar
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bc60f08-7434-43c8-a7d4-d2a0e9d3a1f2.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK7LafXBhHKjALYOT3jRUTlFdpk.jpg" tvg-name="Starship Troopers: Las brigadas del espacio" ,Starship Troopers: Las brigadas del espacio
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cf8f8da9-e810-42f8-96d5-eea47a696015.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FZJZcXFsEdwGQm8HFXha6VpxvM.jpg" tvg-name="Starship Troopers 2: El héroe de la federación" ,Starship Troopers 2: El héroe de la federación
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04afa813-e7b0-441e-94c0-ae1ce2f497f0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi9m0B83RW0w1Y9iBDl78oOj2Qu.jpg" tvg-name="Starship Troopers 3: Armas del futuro" ,Starship Troopers 3: Armas del futuro
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d8e3d21e-0639-44a4-ad20-2c6de1048761.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg" tvg-name="John Wick (Otro día para matar)" ,John Wick (Otro día para matar)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b75c8ec-6591-4e87-856b-ae0259ec5662.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg" tvg-name="John Wick: Pacto de sangre" ,John Wick: Pacto de sangre
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ba69556-9f5f-4e0f-a707-b5892caf9ee5.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" tvg-name="John Wick: Capítulo 3 - Parabellum" ,John Wick: Capítulo 3 - Parabellum
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c831cdfd-12b0-4ba8-a5c1-9da1e1d627a0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SDQYB3QEyQWLav7OnxzrhROBmg.jpg" tvg-name="Critters 2" ,Critters 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/714cdc43-9a08-4a1e-8406-a64eee4d37cd.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frjklbq23pRgBjhekEq6drQkrZm.jpg" tvg-name="Critters 3" ,Critters 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2a6e56f7-e849-484a-b237-45edfe69ae45.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7AnAlh5wyR0ItcSg7CeFHDYONW.jpg" tvg-name="Critters 4" ,Critters 4
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6796c07-e04c-4853-8558-e86c19df21ff.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQEMFZHU9pLuhu49piOUkqIeKlo.jpg" tvg-name="Critters ¡Al ataque!" ,Critters ¡Al ataque!
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bf45d498-0391-40ec-b844-ad469b01f879.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLoIruBElbN2ByhwJBdYDj7ECIP.jpg" tvg-name="Jack en la caja maldita" ,Jack en la caja maldita
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67588e9e-61de-4b88-b9b7-1e1396555423.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg" tvg-name="The Jack in the Box: El despertar" ,The Jack in the Box: El despertar
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f7eba54-1e4f-48a0-be44-3233029ac42f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgQDogdqPrSk2zRdy2JESq2LGvy.jpg" tvg-name="Posesión infernal" ,Posesión infernal
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b32071f-e3de-4330-84d5-397f0d8c9940.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4o4F8n0brc2vrpZBTvVFgB2Kk8.jpg" tvg-name="Terroríficamente muertos" ,Terroríficamente muertos
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c9924af-e78b-4781-a682-c2ad46616fdb.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWko0iXOEbqvWZa8NVKrUbBMJYy.jpg" tvg-name="El ejército de las tinieblas" ,El ejército de las tinieblas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b1a1491c-39da-41ee-b0e2-f626d164f797.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHjODlF02JRO8ZUUl2c22hvpoAQ.jpg" tvg-name="Skyline" ,Skyline
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca2a6612-7d4a-4e51-92cf-92011ea918db.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exEIlcptltl51TPMJSjYOOOEVI.jpg" tvg-name="Beyond Skyline" ,Beyond Skyline
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e4ffa235-2b86-4d97-8470-174c2a9cf006.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg" tvg-name="Ocean's Eleven. Hagan juego" ,Ocean's Eleven. Hagan juego
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/36780013-b6bf-4d7f-a6e5-6afb978e4589.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg" tvg-name="Ocean's Twelve" ,Ocean's Twelve
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc94166c-58a3-4aa9-8368-721cbcc26d54.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iczTMycAI1YXKOKFsBdcV1Ys7U.jpg" tvg-name="Ocean's Thirteen" ,Ocean's Thirteen
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0611acc2-54d9-4c3c-97b8-83780169c5e1.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPZyCym0wCXVPqkLDEwSc0H0XRx.jpg" tvg-name="Ocean's 8" ,Ocean's 8
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba5fc9f2-5d51-403b-811b-a3f18325f187.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGnfnPkQRUC1W1R5A8ldI4AfSJu.jpg" tvg-name="A través de mi ventana" ,A través de mi ventana
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d1d3124-e23f-4579-b9c8-c37e2a7eb82e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg" tvg-name="After: Aquí empieza todo" ,After: Aquí empieza todo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bbc3f81c-5b7e-470e-9fd6-c4a2cd5c614d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg" tvg-name="After: Amor infinito" ,After: Amor infinito
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/96462f4d-d339-46fc-b198-ef6a863b347b.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO3VGQi5sHIj2BGS963g1F74yCq.jpg" tvg-name="After: Aquí acaba todo" ,After: Aquí acaba todo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35a7d3f1-8906-4ef7-8a9e-0695bbdd0f41.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nPw22C41EUWXREWmY9iIivMXxm.jpg" tvg-name="After: En mil pedazos" ,After: En mil pedazos
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44aafb6e-a30c-496d-99b4-9cfa37142ade.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg" tvg-name="After: Almas perdidas" ,After: Almas perdidas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e4a62c3b-c0f7-48c4-983d-d97180765f01.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg" tvg-name="¡Canta!" ,¡Canta!
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3df873fb-4774-4e44-9c76-0f859f3d7af3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" tvg-name="¡Canta! 2" ,¡Canta! 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/34c9bd8d-612c-4678-b689-4e36cbd4a110.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" tvg-name="La huérfana" ,La huérfana
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd138ca5-15f1-4936-b12f-3bf1c338e412.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eed4qNf174pcT65it1PBbaTTL3x.jpg" tvg-name="La huérfana: Primer asesinato" ,La huérfana: Primer asesinato
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1aa44ffb-9c61-45b3-ab7d-2b7e693103fa.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHnOKBeu71MAs89QSp0v0giRmra.jpg" tvg-name="¡Goool! La película" ,¡Goool! La película
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/642ef669-aeeb-42da-a7a3-db43115fe24c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptGaYLmcEs0xLN4Yk3Fb3lqvGqf.jpg" tvg-name="¡Goool 2! Viviendo el sueño" ,¡Goool 2! Viviendo el sueño
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c96a1dfa-7657-49a6-8688-40bc59b51f72.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vjGTXpV1ehu3ng5ZnH0tI26Xpd.jpg" tvg-name="Goal 3" ,Goal 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8fb7a092-4210-4cc8-a9f0-9eb1d4248366.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozwM2pnlZuME0u626JX8741TaSn.jpg" tvg-name="Casino Royale" ,Casino Royale
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/302de418-5b59-4fdf-9b71-4271f3e1a801.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtQatL6ZJMsYEP9krYs9IHp4yDD.jpg" tvg-name="Skyfall" ,Skyfall
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76ab3d86-0161-4543-8222-f1eab2495b20.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg" tvg-name="Quantum of Solace" ,Quantum of Solace
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9748cd8-8554-4d14-89ed-80a8dcd76e89.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NCrCV6tR0Uafp8eVYiZbRsvrAv.jpg" tvg-name="Spectre" ,Spectre
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56cc68b5-b3f1-4b6d-b671-15b2fa2b50db.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg" tvg-name="Acorralado" ,Acorralado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/90bdca6e-4f48-46aa-92d7-a031e12ad611.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TuW7rwhdVPrm3qBsBGnn747Uar.jpg" tvg-name="Rambo: Acorralado Parte II" ,Rambo: Acorralado Parte II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b68c50b-484d-415a-b89b-acb5767b0138.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg" tvg-name="Rambo III" ,Rambo III
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/286be214-2082-4822-a2f0-17384b5a56b9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp9Q0JeHQ6JShQPm6KA8euYhWLF.jpg" tvg-name="John Rambo" ,John Rambo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/173dcc25-3aa7-471d-8e53-4e6a1da19f9f.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg" tvg-name="Rambo: Last Blood" ,Rambo: Last Blood
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b7f739b-c132-4876-b2e3-89ff131a7b3b.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpnZlagXNjWh6GUMmGosC5MHrYy.jpg" tvg-name="Hachiko 2" ,Hachiko 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c53ef23f-c6f3-40b3-bee5-c342c6937cb2.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2kXnywmFkhy8gcKCo7nHsmxXnE.jpg" tvg-name="Hachiko" ,Hachiko
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aeb5484b-84f4-4dce-83e8-4d8d22bee77e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg" tvg-name="Siempre a tu lado" ,Siempre a tu lado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2dc7b63-327d-407f-a7d3-c2e4fd567bbf.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg" tvg-name="Underworld" ,Underworld
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f837487f-5918-4055-bff2-ee6d9af38823.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlUw0mNkMa4jnwhJHiS1880iGZx.jpg" tvg-name="Inframundo 2: Evolution" ,Inframundo 2: Evolution
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5d7408a-73aa-4470-83f9-fc6257a8d211.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvzqDNt7YWKVEGdHFKyJHz5aeR8.jpg" tvg-name="Inframundo 3: La rebelión de los licántropos" ,Inframundo 3: La rebelión de los licántropos
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4c9cd9b-38d1-4a66-bf04-b1f9bcc9afa3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg" tvg-name="Inframundo 4: El despertar" ,Inframundo 4: El despertar
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10d379b1-1bf5-406a-a93b-ddb032f0004d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" tvg-name="Inframundo 5: Guerras de sangre" ,Inframundo 5: Guerras de sangre
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f765f392-019a-418e-a617-7e2296803361.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgTGAi2z6hqI2llYvlJjZeP8GuE.jpg" tvg-name="Mad Max: Salvajes de la autopista" ,Mad Max: Salvajes de la autopista
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/770fe6e6-e35b-42bc-821b-1d6ea1eac508.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPXzpZVP7t3lj5ezxKnvDn6hIf6.jpg" tvg-name="Mad Max 2: El guerrero de la carretera" ,Mad Max 2: El guerrero de la carretera
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2022499d-607f-4f68-ad0c-ca2401d045df.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgmOX4PQl5xPAdAx18zPPnQjQKs.jpg" tvg-name="Mad Max 3: Más allá de la cúpula del trueno" ,Mad Max 3: Más allá de la cúpula del trueno
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3e0ada9-4fb1-41fb-aa5b-0430b9aac821.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg" tvg-name="Mad Max: Furia en la carretera" ,Mad Max: Furia en la carretera
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5892dd55-c33e-4a89-9445-f105c5b3a393.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHalcWY9Ed5KSl35r9ddU2dnyJA.jpg" tvg-name="Bad Boys" ,Bad Boys
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae47665f-bc6a-420a-9c4d-74b06c4fb7ba.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg" tvg-name="Bad Boys II" ,Bad Boys II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0fbc725d-7c53-4868-92c7-96986bf092f8.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg" tvg-name="Bad Boys for Life" ,Bad Boys for Life
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d6fc0d04-58ba-4b34-baaa-201e24be015a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" tvg-name="El protegido" ,El protegido
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40eafce0-b444-4bf1-a003-2d84402fbf84.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag51YF1ZTNTefjhVMVGBCFv8h5s.jpg" tvg-name="El Fragmentado" ,El Fragmentado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/15184bd2-20fc-40b1-bf8c-812556711b9d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYbLXENNUaNcHQl4Te94Msqn1oj.jpg" tvg-name="Glass (Cristal)" ,Glass (Cristal)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57989d22-8bfa-4805-a92c-33352f9033bb.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOGikJku5HDxcdHvnH4SqqWibO0.jpg" tvg-name="El código Da Vinci" ,El código Da Vinci
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e0fe917-c2c5-492c-aa48-445cf7c5fb7d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfsmra1wBF49uY4UzvwvLzNG278.jpg" tvg-name="Ángeles y demonios" ,Ángeles y demonios
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46ca48e7-2501-4f91-8a93-96f1802b7f53.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCGqpwsgjegq26fMiR54ugJtIc6.jpg" tvg-name="Inferno" ,Inferno
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25d75d09-2886-46ba-b2d5-192b2cb3f076.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg" tvg-name="El padrino" ,El padrino
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/220ae4b0-167e-4aa0-924b-bdfec9bf0956.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbry0W5PRylSUHsYzdiY2FSJwze.jpg" tvg-name="El padrino. Parte II" ,El padrino. Parte II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dac3dd26-b014-489c-9c45-7442f0760c24.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg" tvg-name="El padrino. Parte III" ,El padrino. Parte III
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c132994-5335-4670-b644-10825e923530.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg" tvg-name="Blade" ,Blade
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67bdc1e5-c2f2-4860-95c4-ff51aca65bdc.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg" tvg-name="Blade II" ,Blade II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d57a7b06-30d5-41c3-ba50-63d9a48418ae.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GiUVbr73cHe68d4ybpxDbeReZP.jpg" tvg-name="Blade Trinity" ,Blade Trinity
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a5e124c-5d42-42a2-93e3-4fc4da24eeb2.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTshd9hjQMWyRijWucqszKPrp5z.jpg" tvg-name="Busqueda Implacable" ,Busqueda Implacable
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e773204-a8a5-4d26-ada9-c8ee28b39033.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg" tvg-name="Busqueda Implacable 2: Conexión Estambul" ,Busqueda Implacable 2: Conexión Estambul
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd4585e3-17d0-4307-a255-37fed1624567.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCffcXqpH002rvSFt8AUnIC376s.jpg" tvg-name="Busqueda Implacable 3" ,Busqueda Implacable 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/62ccb01c-581c-4a16-a835-a35458029c98.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg" tvg-name="Ahora me ves" ,Ahora me ves
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bb08aeb-462f-4d02-84d0-ebc538909d1c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg" tvg-name="Ahora me ves 2" ,Ahora me ves 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/705a3d40-71c7-4787-a616-41abcabc78e1.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svzVjVV8QUpfYItr3PH5bMzRPer.jpg" tvg-name="Esta abuela es un peligro" ,Esta abuela es un peligro
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c912b0f1-39de-4316-b6d2-77a3ab0ab1ed.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBE1CYff72jD7CVGzvXUWqHHTev.jpg" tvg-name="Esta abuela es un peligro 2" ,Esta abuela es un peligro 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2dd73fb5-fba2-41ce-ad53-54187f921635.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fgGIzTZbMdbteF8OQvZlnki1wl.jpg" tvg-name="Esta abuela es un peligro 3" ,Esta abuela es un peligro 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8c7fce3f-0ccd-40b5-a869-7940246db828.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg" tvg-name="Los cazafantasmas" ,Los cazafantasmas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76ceb9ad-8edd-45ce-b674-a7a79710f227.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" tvg-name="Los cazafantasmas II" ,Los cazafantasmas II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/20090fda-c293-4714-95a8-7b14d30d57b0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" tvg-name="Cazafantasmas" ,Cazafantasmas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/23dd320f-9a20-474c-844d-6c3b2c7c0ea4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igKE2uWnmyOhVeweBiYQ30FFixf.jpg" tvg-name="Cazafantasmas: El Legado" ,Cazafantasmas: El Legado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a40ba231-a760-4862-a495-201a23c9b404.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" tvg-name="Cazafantasmas: Imperio helado" ,Cazafantasmas: Imperio helado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/767d34c9-34da-453c-a9f3-b64a8be0c3c6.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RqnaUcDH2dpR2kmdnmSEHTcS0V.jpg" tvg-name="La familia Addams" ,La familia Addams
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/313b4f18-7154-4624-a809-64f31e5ec963.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZcXBJq9DRxEXHEtgZTiwBERqW4.jpg" tvg-name="La familia Addams: La tradición continúa" ,La familia Addams: La tradición continúa
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/405a9c86-d2a6-4738-b2bc-a28ea661ac28.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XtfNBKnLDpg1waJhDF5FAd5OEX.jpg" tvg-name="La familia Addams: La reunión | CALIDAD SD" ,La familia Addams: La reunión | CALIDAD SD
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/24a0c6ed-0934-4311-8128-dac937d2643a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg" tvg-name="Madagascar" ,Madagascar
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e42ee12-f25f-43ec-85a9-af2361323116.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uL5unGWKgBnaLdJLRjqcZjMr3I.jpg" tvg-name="Madagascar 2" ,Madagascar 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4eb83e08-cda8-4322-97ea-619ddf5ff61e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fKTIecTVNURB6CRFjYMypggRL2.jpg" tvg-name="Madagascar 3: De marcha por Europa" ,Madagascar 3: De marcha por Europa
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/691257ee-fda8-4c44-8618-cae5837c508f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg" tvg-name="Los pingüinos de Madagascar" ,Los pingüinos de Madagascar
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74942bce-c3f4-4720-afbd-a369a7e76827.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oROE5X5Eg3CHbY17Ze6HcbyWfHx.jpg" tvg-name="RED" ,RED
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/355c11bd-4bcb-46ec-a70e-0ed1abb13b4f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZ019mcDoVxdBOCMfPUJDLWphew.jpg" tvg-name="RED 2" ,RED 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41b79066-b35a-45e0-9e37-eabce2e9f696.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWwLXPtMKgeSbpQCtIaJHdTSytI.jpg" tvg-name="Pacific Rim" ,Pacific Rim
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/29c30efc-4242-4bda-b1dc-d310aed46d56.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg" tvg-name="Pacific Rim: Insurrección" ,Pacific Rim: Insurrección
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/10dd193f-f1c8-4587-ad58-a3b7fdbf6f82.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg" tvg-name="Los descendientes" ,Los descendientes
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f015f898-e745-4828-bb07-152a6e9759c8.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwADU2dxO9NN7T9pF9h3rv9kYTb.jpg" tvg-name="Los descendientes 2" ,Los descendientes 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/770d59c6-02f3-4ecc-b1e5-d0d1f5cf50fc.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg" tvg-name="Los descendientes 3" ,Los descendientes 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0952f273-0e92-4026-8c7d-0b29d31060f9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnrHniqku460lvQw0fJz0q2aEjA.jpg" tvg-name="Los descendientes: Corazón rebelde" ,Los descendientes: Corazón rebelde
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8e8a9389-2be3-4741-a024-333db41a0066.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" tvg-name="Jurassic Park (Parque Jurásico)" ,Jurassic Park (Parque Jurásico)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d8bc72e-459e-493a-a1af-365bf2711ef8.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80pXV9DEd81rBGqmlPBLbvr6h9a.jpg" tvg-name="El mundo perdido: Jurassic Park" ,El mundo perdido: Jurassic Park
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d4a6978-99d1-4fc1-883b-9a66b648c115.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg" tvg-name="Jurassic Park III (Parque Jurásico III)" ,Jurassic Park III (Parque Jurásico III)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f28df08-e9e5-40bf-b083-10285d6a3f73.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg" tvg-name="Jurassic World" ,Jurassic World
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c46bdec-e629-410c-b316-ab0b8c887e05.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg" tvg-name="Jurassic World: El reino caído" ,Jurassic World: El reino caído
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6c4c37c2-c10a-4864-b79d-7d58e7735cf4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ8Rz0TYvcCGFvzr5Ml2e1z8546.jpg" tvg-name="Jurassic World: Dominion" ,Jurassic World: Dominion
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c77d09c-0590-42f1-9849-1065c5b13a91.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY2TaCAp5LDMB8l4757N7PjnedI.jpg" tvg-name="Aquaman (C)" ,Aquaman (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b6978c58-ae5d-4b50-be0d-e9f7147a7442.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9Hv3b37ZErby79f4iqTZ8doaTp.jpg" tvg-name="Aquaman y el reino perdido (C)" ,Aquaman y el reino perdido (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04884d6f-adeb-4097-8939-7671ed8c948c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/747EDazOLVIALUnflQcGf8lNwNA.jpg" tvg-name="El diario de Bridget Jones" ,El diario de Bridget Jones
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/986ba450-4aeb-46fc-91ce-3b4593b560a1.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihtl1iygkMJ0K8QwzcW9P5hXVoW.jpg" tvg-name="Bridget Jones: Al Borde de la Razon" ,Bridget Jones: Al Borde de la Razon
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b9a8c0e-e3eb-43e8-89f5-0e00dba941a7.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tNR2zjJZ4jiM71ucqG2zyfJ8Tp.jpg" tvg-name="El Bebe de Bridget Jones" ,El Bebe de Bridget Jones
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b9c560c-396a-4f95-8c68-fdc0e71fa592.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg" tvg-name="Avatar (C)" ,Avatar (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd383d24-bca0-4e75-9fa6-a097f08f0644.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg" tvg-name="Avatar: El sentido del agua (C)" ,Avatar: El sentido del agua (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0b15803-e92b-4a9a-9b49-00e0e927bfbe.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg" tvg-name="Alien, el octavo pasajero" ,Alien, el octavo pasajero
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fa054aa9-ebde-4669-b31f-0b09fd3a3591.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg" tvg-name="Aliens: El regreso" ,Aliens: El regreso
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cadd67e7-489c-4730-b9d5-331623a61618.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0QB3IgbKyXSyKvGrSu6uu7YWg.jpg" tvg-name="Alien 3" ,Alien 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f353188a-7474-4741-93c9-b2b5f8b3b4a2.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MLQ5ehGD3b8E0JZ9K2G4cZeFaI.jpg" tvg-name="Alien: Resurrección" ,Alien: Resurrección
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc37460e-978e-40ee-8759-60995f57e0ad.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a1c2DhgkajssrdukOEtRd3KWK3.jpg" tvg-name="Alien Prometheus" ,Alien Prometheus
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bd0bc41a-4ef6-4fd2-aa09-0fef47c173c5.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" tvg-name="Alien: Covenant" ,Alien: Covenant
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0818d6f9-1381-4533-9b38-ceeace92da80.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJum5ArxWCquaDmK0OXDKecRIeq.jpg" tvg-name="Transformers" ,Transformers
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5a34908a-95f0-47a8-a0e2-63fcee73ef13.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg" tvg-name="Transformers: La venganza de los caídos" ,Transformers: La venganza de los caídos
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae99aca8-f7df-427c-a17f-3fc5e571d627.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMqXNNgzTaxalU1ve9KevpELiGe.jpg" tvg-name="Transformers: El lado oscuro de la luna" ,Transformers: El lado oscuro de la luna
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/073486fd-66eb-4681-b541-5b3a7cdf374a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owqV5Qo2DMMomfB1fS6xYWv3yEh.jpg" tvg-name="Transformers: La Era de la Extinción" ,Transformers: La Era de la Extinción
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0600d02d-a79d-445c-9be4-6bddcad74d87.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8d76iKmHvNyjzbTGpTqtHelnyy.jpg" tvg-name="Transformers: El último caballero" ,Transformers: El último caballero
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f60a7829-174f-4eca-b909-838de3e918c7.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg" tvg-name="Bumblebee" ,Bumblebee
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ea67959-3462-4e46-802f-2e89b3bed9c9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg" tvg-name="Transformers: El despertar de las bestias" ,Transformers: El despertar de las bestias
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07c750c3-27eb-4129-a9e4-d911c0df69fc.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CD4RJkRcje5NcUZdoQWDY96GjS.jpg" tvg-name="Marley y yo" ,Marley y yo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73498ad7-2d21-4e9c-9ee7-de89cd12861f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg" tvg-name="Marley y yo 2: Los años cachorros" ,Marley y yo 2: Los años cachorros
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d34e20da-36e1-4362-b2d9-0b3a69f34cd7.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HfyXfIEywLa2HvcswKi44dDKxL.jpg" tvg-name="No manches Frida" ,No manches Frida
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c3f6a33-60c1-470b-8977-9f95eed3c1e0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rG7rDoTe1ZEa936eonDCkV76nkx.jpg" tvg-name="No manches Frida 2" ,No manches Frida 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b1f8f863-4a39-4416-b728-4487edc5b2b1.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" tvg-name="Un lugar tranquilo (C)" ,Un lugar tranquilo (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/536ead6d-3c29-4dac-8ff0-3c2cba98c05f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg" tvg-name="Un lugar tranquilo 2 (C)" ,Un lugar tranquilo 2 (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7efd892-0d7e-4309-9f2a-4f0507eae727.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg" tvg-name="La Masacre de Texas" ,La Masacre de Texas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d3095b6-ccab-4d73-a9af-9fa3403431e9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg" tvg-name="La Masacre de Texas 2" ,La Masacre de Texas 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8022ba1e-e3c1-487a-bb03-7e8961b7a333.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg" tvg-name="La Masacre de Texas 3" ,La Masacre de Texas 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43efe7cf-6259-4e16-959b-c7433285e950.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1ZIqqx0SlqjaPj3v9P4zSOaXC1.jpg" tvg-name="La Masacre de Texas: La nueva generación" ,La Masacre de Texas: La nueva generación
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d9febba-bbf4-4336-8368-2d0992b9d012.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIwa6T0pChP85HHduiDEgsf000R.jpg" tvg-name="La Masacre de Texas" ,La Masacre de Texas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/28410ef3-aa28-4123-a6e4-339f1935c90f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg" tvg-name="La Masacre de Texas: El origen" ,La Masacre de Texas: El origen
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c85ef47a-9f8e-469e-94d1-90fb4750144a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg" tvg-name="La Masacre de Texas: Herencia Maldita" ,La Masacre de Texas: Herencia Maldita
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35071f9f-151a-438b-bfdc-2e878865109a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7iBh6WqpfLOBFMjW126wUOhI6O.jpg" tvg-name="La Masacre De Texas El Origen De Leatherface" ,La Masacre De Texas El Origen De Leatherface
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/220fe5b5-1a96-4ade-9b1d-d52ffe70d326.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg" tvg-name="La Masacre de Texas" ,La Masacre de Texas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/68d951fc-52c7-4d00-b0b6-1786f93025d0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg" tvg-name="La Purga: La noche de la expiacion" ,La Purga: La noche de la expiacion
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/539a35d8-d241-46c6-a293-fa9d467c5705.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg" tvg-name="La Purga 2: 12 horas para sobrevivir" ,La Purga 2: 12 horas para sobrevivir
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da658815-f8f3-4f0a-979a-ac5383a772c6.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg" tvg-name="La Purga 3: 12 horas para sobrevivir, el año de la eleccion" ,La Purga 3: 12 horas para sobrevivir, el año de la eleccion
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/812764ac-88f7-4a48-8b18-06b8c5f6b1d9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg" tvg-name="La Purga 4: 12 horas para sobrevivir, el inicio" ,La Purga 4: 12 horas para sobrevivir, el inicio
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0bde1851-7846-4852-bd55-b716f11564a3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg" tvg-name="La Purga 5: Por siempre" ,La Purga 5: Por siempre
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4de0b61d-0297-49b0-ba25-30db4a40977c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMQKL3Dx40au9e172ARVUWsT4qH.jpg" tvg-name="Garfield: La película" ,Garfield: La película
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f928714b-3d87-43d3-8b0e-5caf13bb3925.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n10AuSUxcJQEPtRw0uNdukpKQ1G.jpg" tvg-name="Garfield 2" ,Garfield 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2effa257-7f39-4db4-8abd-f47424c5b7ca.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avm0bLWtSoHk9erXAnViuPQ9mqf.jpg" tvg-name="Gru. Mi villano favorito (C)" ,Gru. Mi villano favorito (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2c337d8-18df-417d-a4da-53d1112cd066.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikz6zymN62kqSFioVWAqn8mPufM.jpg" tvg-name="Gru 2. Mi villano favorito (C)" ,Gru 2. Mi villano favorito (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ff331b18-6cdf-4ac2-8874-f45c1e43a2c9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbcBR6G5qNLX4OwLtWHdNJVzpei.jpg" tvg-name="Gru 3. Mi villano favorito (C)" ,Gru 3. Mi villano favorito (C)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6b85bb99-aabc-4b76-982d-76d62435ee49.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg" tvg-name="Rocky II" ,Rocky II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/418e7efc-3fb7-4a29-b4b4-0acb3bb9564e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUylDspiTKU3cYzZNeLsN8Krv12.jpg" tvg-name="Rocky Balboa" ,Rocky Balboa
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b20822af-e2c6-4032-9340-4f0194670c6b.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9cTEjzKOPB6xaTz4LBql1XE0HZ.jpg" tvg-name="Rocky III" ,Rocky III
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7dd92404-c491-4e9f-8904-bdac085e21d9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqxg1CihGR5ge0i1wYXr4Rdeppu.jpg" tvg-name="Rocky" ,Rocky
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec8ffb5f-d58f-444d-8b1b-182316129062.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" tvg-name="Creed II" ,Creed II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41d56b0d-6407-410a-9d2b-2e3b47c2816c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1nY37L6HC9hwlLSH5sHVzvXt1P.jpg" tvg-name="Rocky V" ,Rocky V
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d452a1b6-0ddd-4ba1-935a-044b5858df75.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" tvg-name="Creed III" ,Creed III
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19c4496b-e1d2-4f92-a1af-29b8c49662a3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHUit4H6OK5adcOjnCN6suCKOl.jpg" tvg-name="Rocky IV" ,Rocky IV
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f07ba60-1348-43c7-9192-4852bd876483.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg" tvg-name="Creed" ,Creed
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9a389f6-97da-4e07-bcf9-d290a596ad77.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg" tvg-name="Maze Runner: Correr o Morir | cctv |" ,Maze Runner: Correr o Morir | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bef6526-5619-4f08-b0f3-b2eb1a0f8024.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtbjAodeIf0Pj2blNeN1dM3suxU.jpg" tvg-name="Maze Runner: Prueba de Fuego | cctv |" ,Maze Runner: Prueba de Fuego | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/83bfb702-28a9-4f5e-9dc3-38c5fa5175ca.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuZOnvzplxPVh71t827F19zY5Ab.jpg" tvg-name="Maze Runner: La cura mortal | cctv |" ,Maze Runner: La cura mortal | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9be2f732-db9f-4eeb-86f2-983b5d758677.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tZTnv7dGQrTdgZrTgvlVDy9WmN.jpg" tvg-name="El planeta de los simios | cctv |" ,El planeta de los simios | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53a5cdd8-9047-400d-90e7-8b55d1d6158c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNh22vYIfd2Xr6zBoh8ZQGivt1L.jpg" tvg-name="Bajo el planeta de los simios | cctv |" ,Bajo el planeta de los simios | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/945c8e82-2fe9-4a27-9efb-1cfff65cc663.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCbFub0UiNQi3SBSOjwGNLhEroc.jpg" tvg-name="Escape del planeta de los simios | cctv |" ,Escape del planeta de los simios | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/66b1a72a-e98f-463f-b7d5-fcbe5c66c733.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/J80xXgT6Mw8EiiQeHcEdJ4LfxC.jpg" tvg-name="Rebelion del Planeta de los Simios | cctv |" ,Rebelion del Planeta de los Simios | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c28f1681-8ef1-4fd3-8ec9-1038397e457d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kQ0wmBzoL4EZEF2jTft58AhBuv.jpg" tvg-name="Batalla por el planeta de los simios | cctv |" ,Batalla por el planeta de los simios | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9cb13f08-99f3-482d-bbc0-d59fcb0818bd.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvUkYCByrlVMy4GMME3iDAe6er.jpg" tvg-name="El planeta de los simios | cctv |" ,El planeta de los simios | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6cda24f9-758f-44eb-8657-779ce9445e9d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg" tvg-name="El origen del planeta de los simios | cctv |" ,El origen del planeta de los simios | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/79550b1a-9560-441f-a392-e5c6c8fe2f71.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg" tvg-name="El Planeta de los simios: Confrontacion | cctv |" ,El Planeta de los simios: Confrontacion | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d2e62e84-fad9-46f7-a470-853a85814abb.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s51V3REPzdABoEDLC4TPDPkY3b.jpg" tvg-name="El Planeta de los Simios: La Guerra | cctv |" ,El Planeta de los Simios: La Guerra | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe07027e-fa08-478d-bd9e-a21dced0e9d7.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" tvg-name="El Planeta de los Simios: Nuevo Reino | cctv |" ,El Planeta de los Simios: Nuevo Reino | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7287a1a9-70dc-447c-9db0-30c716f49442.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" tvg-name="101 dálmatas (¡Más vivos que nunca!) | cctv |" ,101 dálmatas (¡Más vivos que nunca!) | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3b58a41-cfb2-4f88-8a2f-9671960735cc.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbfGC0ar2jAMsnZ2FjRUzzvL5Kn.jpg" tvg-name="102 dálmatas | cctv |" ,102 dálmatas | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/da15cddf-bbc7-44f6-bccd-d153890afea0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg" tvg-name="xXx | cctv |" ,xXx | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6becf42c-fd0b-425b-bc01-7908c26dbd6f.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg" tvg-name="xXx2: Estado de emergencia | cctv |" ,xXx2: Estado de emergencia | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d60113bd-dd08-4feb-98d0-effbb80615fd.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOT9ca00e4hrMdgu1lDKvbIG6RI.jpg" tvg-name="xXx: Reactivated | cctv |" ,xXx: Reactivated | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31c0cbb5-3e42-4a89-aeae-e3117f0fe461.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1um1GWa8AguAVmNioGfz0WCptVQ.jpg" tvg-name="Quieren volverme loco | cctv |" ,Quieren volverme loco | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/884b4d42-1ba0-488c-820f-95dcf8d8ddde.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O70oROEGcMa4ZMlThbMz6dtD69.jpg" tvg-name="Una casa patas arriba | cctv |" ,Una casa patas arriba | cctv |
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5bcb014-9439-44ab-a45a-60d02b1b7583.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGIDYYOX7Cj1o7W8JiwHd3TzJVw.jpg" tvg-name="Rambo Acorralado" ,Rambo Acorralado
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/12297aa1-cfe8-4bce-b3cc-42fc18c15b9c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/qQ1U57QWVaxVcUXoqz4dco7sftJ.jpg" tvg-name="El Karate Kid 4: La Nueva Aventura" ,El Karate Kid 4: La Nueva Aventura
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a4589afc-f1f9-4381-b646-c3a7101644d9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/sH7HK7phjO6NKsUaNi7tOWQ1k0t.jpg" tvg-name="El Karate Kid" ,El Karate Kid
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/efdf4156-0afc-4f59-9a92-adeca883cae8.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg" tvg-name="Karate Kid" ,Karate Kid
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9c92d32b-c47c-42ff-ae75-7f13d3c522cf.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/9FNg1EnFZTXHqcayFnNHNoCUQYq.jpg" tvg-name="Karate Kid III" ,Karate Kid III
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85cb6e88-e78b-4fd5-9499-e5b96ad119d9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg" tvg-name="The Karate Kid Part II" ,The Karate Kid Part II
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea55764b-46f4-4a54-a36e-4fe39f12af3b.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg" tvg-name="Destino Final" ,Destino Final
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b5729ce-ee16-4e41-86d2-732a454e71f5.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/w1dJluO5aKK7Puz7qNXoQeUh4Cb.jpg" tvg-name="Destino Final 2" ,Destino Final 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af415883-4035-47e3-9cff-638f6e30a0a5.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg" tvg-name="Destino Final 3" ,Destino Final 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c5d05619-c59c-4e06-9607-5c3347a6cec4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg" tvg-name="Destino Final 4" ,Destino Final 4
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/201499ef-4a5a-43da-8387-fabd0fca66df.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/T0IGau7Alj52OLrrthzftkLMIA.jpg" tvg-name="Destino Final 5" ,Destino Final 5
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cc49326c-e3c9-48ed-add9-2b6e380242f9.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" tvg-name="Annabelle" ,Annabelle
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8abda402-06b6-4b3e-b745-7def755cbc23.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg" tvg-name="Annabelle 2: La Creación" ,Annabelle 2: La Creación
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/11049c03-eeb4-4767-ab96-6da75f50558d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zxwPksbRKGaAi06rapPfFTVsMHv.jpg" tvg-name="Annabelle 3: Viene a Casa" ,Annabelle 3: Viene a Casa
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fd5b22f4-b535-44b6-8ca3-25637c818011.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" tvg-name="El Conjuro" ,El Conjuro
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7db54936-6513-4087-ba2b-0a691cb5cebd.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/pdNW0HWw11Wn2N94VGea8O44wOA.jpg" tvg-name="El Conjuro 2" ,El Conjuro 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6971b4c7-3638-4583-bcef-74df6dac3a8a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg" tvg-name="El Conjuro 3: El Diablo me Obligó a Hacerlo" ,El Conjuro 3: El Diablo me Obligó a Hacerlo
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9657c7b4-2278-496b-a7af-25693e37ae53.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/1BIWytsnEr2aRobU6ERutzewm63.jpg" tvg-name="La Maldición de La Llorona" ,La Maldición de La Llorona
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c46a013-206a-4f4f-8e71-4aab1b0495e4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg" tvg-name="La monja" ,La monja
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/03d8067e-068d-4ead-a8b9-81792e6d65c2.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" tvg-name="La monja 2" ,La monja 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a35ca711-ff3d-4d16-8cb0-382695dfce10.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/uP5k78WkCVrxrFp4AJflHbC61Ao.jpg" tvg-name="Terrifier El Inicio" ,Terrifier El Inicio
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/556280a1-ec60-49a3-9adc-2e7c53b6995e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg" tvg-name="Terrifier" ,Terrifier
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7188440d-5d48-41f4-ab05-f961c50a7498.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6ZfvF7ZS8MJXe0YwRkPAtXNpXrG.jpg" tvg-name="Terrifier 2" ,Terrifier 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4bf0459e-9ce6-41b2-a3bc-6921fdc9589a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/lIodGaZNJbbShF5bDgf51cqpAKa.jpg" tvg-name="Pirañas 3D" ,Pirañas 3D
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01a84a00-7845-43d7-a861-5eec419dc7e0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg" tvg-name="Saw" ,Saw
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e6953ca-048c-4947-8d3e-5d21323f62ac.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" tvg-name="Saw 2" ,Saw 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fdf4f9a2-7a63-415b-9cf8-eeaf0f333e50.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/4iO9n24Rb10peXV0JH2EldIOrAp.jpg" tvg-name="Saw 3" ,Saw 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4e77a91-5435-402c-aba3-2352d08b6390.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/cSIAfVlrE065RnYRJKIgmRIXQKp.jpg" tvg-name="Saw 4" ,Saw 4
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c70c07a3-63a8-456a-adef-2870e9425a1d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/1kxceLYLH3QB8QgtJeTDAQm1fjP.jpg" tvg-name="Saw 5" ,Saw 5
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89602076-db2a-41e8-9cf3-3f3388f0c265.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6wfT5Cq3iH09GOwejL4zhYmByF2.jpg" tvg-name="Saw 6" ,Saw 6
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/43a3809e-460f-4af8-86dd-0fd7fc433bb3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg" tvg-name="Saw 7" ,Saw 7
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8b20f78c-b22d-4452-87b5-b51d522b0170.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/90T0Cjx2yl6RaFhxas1eKnCphh5.jpg" tvg-name="Saw 8" ,Saw 8
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53756f0c-a45e-40fd-b0cf-7bc993b32b71.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/97WyFdS8pQerysSSGezafXHW5ZH.jpg" tvg-name="Saw 9: Espiral" ,Saw 9: Espiral
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/97e3f597-d0a6-4a4e-825f-c2be10fbacf4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/vbJObKz2s4ZkMiQwfl5EM1IIt5d.jpg" tvg-name="Pirañas 3DD" ,Pirañas 3DD
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ce8d1ab-d842-4c6a-9c0a-e99c409a5f53.mkv
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/pLgSLx9dn2YYbwVk8p0F28KIU8C.jpg" tvg-name="Animales Fantásticos y Dónde Encontrarlos" ,Animales Fantásticos y Dónde Encontrarlos
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dfee8db6-3c1e-46d4-9550-bb86cad2ea34.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/p4BabO5lvfXnIsVIBLDpN2wLORz.jpg" tvg-name="Animales Fantásticos Los Crímenes de Grindelwald" ,Animales Fantásticos Los Crímenes de Grindelwald
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9a255c7d-4c0e-4ac3-a8e5-fc8ca140cb57.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" tvg-name="Animales Fantásticos Los Secretos de Dumbledore" ,Animales Fantásticos Los Secretos de Dumbledore
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31fadbf4-7d1f-4dc2-a83b-694dca19fb28.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" tvg-name="Harry Potter y el Cáliz de Fuego" ,Harry Potter y el Cáliz de Fuego
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/34958c9d-0577-4c93-a892-da6f16ed6359.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/vvb9r7ZH4Zn35sXIwFTb08lMGaU.jpg" tvg-name="Harry Potter y el Misterio del Príncip" ,Harry Potter y el Misterio del Príncip
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1bf01b6c-55a2-40c5-9de8-c02ec26d0be4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" tvg-name="Harry Potter y el Prisionero de Azkaban" ,Harry Potter y el Prisionero de Azkaban
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aab1771e-7e3d-4518-b264-3987648e3a3e.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" tvg-name="Harry Potter y la Cámara Secreta (Edición Extendida)" ,Harry Potter y la Cámara Secreta (Edición Extendida)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/896a96b0-27d4-4834-9327-c0bbf1e96cf0.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zN5DWGV6IO30asXrHzGju9mo20P.jpg" tvg-name="Harry Potter y la Orden del Fénix" ,Harry Potter y la Orden del Fénix
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/495765e3-461c-4f2a-9217-337ccd9873ce.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" tvg-name="Harry Potter y la Piedra Filosofal (Edición Extendida)" ,Harry Potter y la Piedra Filosofal (Edición Extendida)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bc9dbb58-28a3-4306-9a82-41dac89744e3.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" tvg-name="Harry Potter y Las Reliquias de la Muerte - Parte 1" ,Harry Potter y Las Reliquias de la Muerte - Parte 1
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f9456dc1-2716-4053-aa1a-933912a382d6.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" tvg-name="Harry Potter y Las Reliquias de la Muerte - Parte 2" ,Harry Potter y Las Reliquias de la Muerte - Parte 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbb537b7-53a7-4dfb-a2f0-559b38374ded.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg" tvg-name="Tinker Bell" ,Tinker Bell
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2e0bdc3a-9433-4865-b041-fb558284e437.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/soPOZlksVHcumHnhyRlI3XtAVyx.jpg" tvg-name="Tinker Bell y el secreto de las hadas" ,Tinker Bell y el secreto de las hadas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bcadaa71-c5c1-40dd-8835-441b72b31d0c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/s5ggvZQMXhP3O2dQD8iQE46K6b6.jpg" tvg-name="Tinker Bell y el tesoro perdido" ,Tinker Bell y el tesoro perdido
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc7e0cdb-9100-40d3-935c-91cc12370391.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/14Yjf8xW2uWkZ3ZhagbrKMXbe70.jpg" tvg-name="Tinker Bell y la bestia de Nunca Jamás" ,Tinker Bell y la bestia de Nunca Jamás
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e8ca5376-c89f-46a8-9c59-7b07282c3660.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/AmUOjwjgz1vGnAmnR51NVv0hqAe.jpg" tvg-name="Tinker Bell Hadas al rescate" ,Tinker Bell Hadas al rescate
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e5aab4b-a36a-49f6-b3dc-5b229b370067.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7Jrap24Ki03bC39hbfyebw3xDul.jpg" tvg-name="Tinker Bell Hadas y piratas" ,Tinker Bell Hadas y piratas
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed8cc98c-7453-4521-8adc-29e744e30aae.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zBKHsO4kCIZOT8hRlGagKDL8sSF.jpg" tvg-name="Han Solo Una historia de Star Wars" ,Han Solo Una historia de Star Wars
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d13ef41-e873-4ee9-9758-3061566342d5.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg" tvg-name="Rogue One Una historia de Star Wars" ,Rogue One Una historia de Star Wars
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/37bfa336-3dd7-4f82-865b-ec233d9b4403.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/oeQxq6If4DcW6ADIYCF9SQwKov.jpg" tvg-name="Star Wars El ascenso de Skywalker (Episodio IX)" ,Star Wars El ascenso de Skywalker (Episodio IX)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/578e0bc6-6d5c-43cd-a6ab-03ed691fde9a.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg" tvg-name="Star Wars El ataque de los clones (Episodio II)" ,Star Wars El ataque de los clones (Episodio II)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78850b1b-3acd-4827-812d-4d7cfe97381d.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg" tvg-name="Star Wars El despertar de la fuerza (Episodio VII)" ,Star Wars El despertar de la fuerza (Episodio VII)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/63be69ab-9008-47d8-b36d-8d40b622db7b.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/zsZwahm4ktZPKX0B494CxqhbBhu.jpg" tvg-name="Star Wars El Imperio contraataca (Episodio V)" ,Star Wars El Imperio contraataca (Episodio V)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e566102-ba56-4f85-8923-2a9a9706e853.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg" tvg-name="Star Wars El regreso del Jedi (Episodio VI)" ,Star Wars El regreso del Jedi (Episodio VI)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c666b76f-18f3-40fb-b3c9-119a1f831546.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/kzmx6YYSQ85hkLTIoRRjmkBR2y.jpg" tvg-name="Star Wars La amenaza fantasma (Episodio I)" ,Star Wars La amenaza fantasma (Episodio I)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cb8ed434-8a9a-4306-8a91-59abdfae2ce4.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/5dj0ERxM8NxoiWBdlY6TT9PJmKi.jpg" tvg-name="Star Wars La venganza de los Sith (Episodio III)" ,Star Wars La venganza de los Sith (Episodio III)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9873a451-ff21-4a7f-a32b-28e8d5ac0be6.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg" tvg-name="Star Wars Los últimos Jedi (Episodio VIII)" ,Star Wars Los últimos Jedi (Episodio VIII)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07716732-cc2e-4c18-991d-390d29c81846.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg" tvg-name="Star Wars Una nueva esperanza (Episodio IV)" ,Star Wars Una nueva esperanza (Episodio IV)
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d5ffbf3-f3f9-4f39-a725-e8a291feba3c.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/fHWR3YplPQWciYzxEity2kyDoDn.jpg" tvg-name="Scary Movie" ,Scary Movie
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d94a8290-eaa0-4e63-9b88-6d6764e10fec.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/r4qTydYjntbb5TfZKV229NpSaCt.jpg" tvg-name="Scary Movie 2" ,Scary Movie 2
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/722f6122-1686-4dbf-9b39-f592eb7f0c40.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg" tvg-name="Scary Movie 3" ,Scary Movie 3
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed5ac919-53d2-4807-8543-e32bebf57421.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/4SMqo8Me8aCT4KAVLeG9pk8VYiN.jpg" tvg-name="Scary Movie 4" ,Scary Movie 4
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a05bfcbe-c738-4edd-9143-203de0096a26.mp4
+#EXTINF:-1 group-title="* VOD - SAGAS *" tvg-logo="https://image.tmdb.org/t/p/w400/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg" tvg-name="Scary Movie 5" ,Scary Movie 5
+http://daleplaygo.vip:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a7a11ca-369c-4dcb-ac68-4089d4d3d535.mp4
