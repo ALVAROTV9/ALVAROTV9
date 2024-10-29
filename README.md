@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTARᵛᶦᵖ ◉
-https://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
@@ -177,7 +177,7 @@ http://activefrance.net/W8MEP61/2X2H702/21291
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="http://go4.pw/LATINO/Tigo_Sports.png" ,TIGO SPORTS
 http://activefrance.net/W8MEP61/2X2H702/325574
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-https://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
 
 
 
@@ -254,7 +254,7 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9766
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/Dzhn5P0/universal-Crime.png" ,UNIVERSAL CRIME
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9763
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-https://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
 
 
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/4MsfwJj/cnn.png" ,CNN en Esp
@@ -318,7 +318,7 @@ http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/cc4a2526-cc6b-
 
 
 #EXTINF:-1 group-title="🇨🇴*COLOMBIA⭐" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-https://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
 
 
 #EXTINF:-1 group-title="🇨🇴*COLOMBIA⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NUEVO_LOGO_DE_EL_TIEMPO_HD.jpg" ,CO | El Tiempo
@@ -1062,7 +1062,7 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/206901
 
 
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTAR
-https://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
 
 
 
