@@ -20,7 +20,7 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3061.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 3ᵛᶦᵖ ◉
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/53497.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 4ᵛᶦᵖ ◉COL
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 4ᵛᶦᵖ◉
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52561.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS + (1)
