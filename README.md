@@ -11,10 +11,11 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/13322.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 1+ᵛᶦᵖ ◉
-http://norkxmz.top:8080/live/691703936769132/21703936769172/10152.m3u8
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50562.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 2ᵛᶦᵖ ◉
-http://norkxmz.top:8080/live/691703936769132/21703936769172/10153.m3u8
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3061.ts
+
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 3ᵛᶦᵖ ◉
 http://norkxmz.top:8080/live/691703936769132/21703936769172/10154.m3u8
