@@ -18,12 +18,10 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3061.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 3ᵛᶦᵖ ◉
-http://norkxmz.top:8080/live/691703936769132/21703936769172/10154.m3u8
-
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/53497.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 4ᵛᶦᵖ ◉COL
-http://streamsy.online:8080/live/Jaley1990/L6KomjzBxv/1417.ts
-
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52561.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS + (1)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8512
