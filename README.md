@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV CONTACTARᵛᶦᵖ ◉
-http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR◉INFORMA
+http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+
+
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL AHORA
@@ -223,7 +226,8 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/6349.ts
 
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414468
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO (2)
@@ -296,8 +300,14 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9756
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9766
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/Dzhn5P0/universal-Crime.png" ,UNIVERSAL CRIME
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9763
+
+
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+
+
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/4MsfwJj/cnn.png" ,CNN en Esp
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/63073
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/26CXSQt/discovery-Channel.png" ,Discovery Channel
@@ -324,8 +334,13 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9847
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/54172
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/MRrYJBx/animal-Planet.png" ,Animal Planet (2)
 http://legiontv.online:80/Casa123/Casa123/1071000
+
+
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-https://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,LOS PITUFOS venuschile
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398006
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,PEPA PIG venuschl
@@ -1088,8 +1103,11 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/110096
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/110097
 #EXTINF:-1 group-title="✳️ESPÅÑA TDT⭐" tvg-logo="http://daleplay.club:8080/images/b64fafedc661b9be26ba73f51361d5d5.png" tvg-id="24Horas.TV" ,ES | 24H
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/206901
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,AL1VAR0TV CONTACTAR
-http://fast.wistia.com/embed/medias/k6ewbsa4w4.m3u8
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV INFORMA
+http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+
+
+
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Playboytv.br" ,+18 Playboy FHD²
 http://5ce.co/matheusy/f59315467/36151
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BLACKED
