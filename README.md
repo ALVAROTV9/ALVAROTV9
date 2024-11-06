@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR◉INFORMA
+
+#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉ rentry
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 
@@ -14,24 +17,24 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50562.ts
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3061.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 3ᵛᶦᵖ ◉
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/53497.ts
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL 4ᵛᶦᵖ◉
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52561.ts
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL PPVᵛᶦᵖ◉
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/303846.ts
+
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS PPV VARIADO
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/11633.ts
+
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS ESPECIALES 1
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50006.ts
-
-
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS ESPECIALES 2
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50007.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS ESPECIALES 3
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS ESPECIALES 2
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50009.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS ESPECIALES 4
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS ESPECIALES 3
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50008.ts
 
 
@@ -40,7 +43,7 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8512
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS + (2)
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +
-http://cord-cutter.net:8080/live/58541873/58541873/78717.ts
+http://cord-cutter.net:8080/live/Adrian12/Adrian34/78697.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES
 http://streamsy.online:8080/Jaley1990/L6KomjzBxv/528
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM
@@ -50,7 +53,7 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/110789
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (2)
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287812
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col)
-http://cord-cutter.net:8080/live/58541873/58541873/86765.ts
+http://cord-cutter.net:8080/live/Adrian12/Adrian34/86765.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN MEX
 http://14225021914.com/446686613/v144b5856g/234273
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN MEX (2)
@@ -63,6 +66,11 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8507
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167731
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS COL
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8489
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS COL 2
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499078.ts
+
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4
 http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245706
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 5
@@ -77,10 +85,21 @@ http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/394821
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167733
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 opc2
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9564
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 6
-http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245708
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 7
-http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245709
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 opc3
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
+
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 1
+http://cord-cutter.net:8080/live/Adrian12/Adrian34/167748.ts
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 2
+http://cord-cutter.net:8080/live/Adrian12/Adrian34/167749.ts
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 3
+http://cord-cutter.net:8080/live/Adrian12/Adrian34/167750.ts
+
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9554
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS (2)
@@ -88,7 +107,8 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/119550
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN MEX
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/87590
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN USA
-http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9606
+
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9532
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3 (2)
@@ -222,6 +242,7 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/38900.ts
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/6349.ts
 
 #©©©©©©©©©©©©#
+#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
 
 
 
@@ -335,6 +356,7 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/54172
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/MRrYJBx/animal-Planet.png" ,Animal Planet (2)
 http://legiontv.online:80/Casa123/Casa123/1071000
 
+#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
 
 
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
@@ -1122,18 +1144,21 @@ http://5ce.co/matheusy/f59315467/28292
 http://5ce.co/matheusy/f59315467/139251
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BABES TV
 http://5ce.co/matheusy/f59315467/139195
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,18 BLUE HUSTLER
-http://5ce.co/matheusy/f59315467/233187
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,VIXEN excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/290296.ts
+
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PRIVATE
 http://5ce.co/matheusy/f59315467/139266
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 RK PRIME
-http://5ce.co/matheusy/f59315467/139258
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,BLACKED 2 excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/297829.ts
+
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Sextreme.cl" ,+18 Sextreme FHD
 http://5ce.co/matheusy/f59315467/36150
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 FIT18
 http://5ce.co/matheusy/f59315467/233200
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PASSION
-http://5ce.co/matheusy/f59315467/233198
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+SISTERS excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/303599.ts
+
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Sexyhot.br" ,+18 Sexy Hot HD
 http://5ce.co/matheusy/f59315467/28305
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PERVS ON PATROL
@@ -1280,15 +1305,19 @@ http://5ce.co/matheusy/f59315467/36784
 http://5ce.co/matheusy/f59315467/36788
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 BANG BROS
 http://5ce.co/matheusy/f59315467/36782
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18  CUM 4K
-http://5ce.co/matheusy/f59315467/36794
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18  TUSHY excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/302343.ts
+
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 NEW SENSATIONS
 http://5ce.co/matheusy/f59315467/233199
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 KINKY FAMILY
-http://5ce.co/matheusy/f59315467/233195
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 PERV MOM
-http://5ce.co/matheusy/f59315467/139272
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SELL YOUR GF
-http://5ce.co/matheusy/f59315467/139257
-#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 SHARE MY BF
-http://5ce.co/matheusy/f59315467/139255
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 EMILY WILLYS excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/300889.ts
+
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 ALINA LOPEZ excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/300881.ts
+
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 LITTLE CAPRICE excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/300504.ts
+
+#EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 MIA KHALIFA excl
+http://premiumiptvmk.com:8080/live/F19402/0254fa55/60341.ts
