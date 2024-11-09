@@ -52,6 +52,7 @@ http://cord-cutter.net:8080/live/Adrian12/Adrian34/78697.ts
 http://streamsy.online:2999/live/jbridge/p6omQOdliy/1417.ts
 
 
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES
 http://streamsy.online:2999/live/jbridge/p6omQOdliy/528.ts
 
