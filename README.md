@@ -11,34 +11,33 @@ http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL AHORA
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/13322.ts
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV 1+ᵛᶦᵖ ◉
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,EVENTO PPV CHAMPIONS +ᵛᶦᵖ ◉
 http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/667295.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV 2ᵛᶦᵖ ◉
-http://vipizfq.top:8080/live/VIP01821172651647798/f9b48eb1258b/4434.ts
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV FOOTBALLᵛᶦᵖ ◉
+http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116686.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV 3ᵛᶦᵖ ◉
-http://vipizfq.top:8080/live/VIP01821172651647798/f9b48eb1258b/4431.ts
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,EVENTO LA LIGA ᵛᶦᵖ ◉
+http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116684.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV 4ᵛᶦᵖ◉
-http://vipizfq.top:8080/live/VIP01821172651647798/f9b48eb1258b/4428.ts
-
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV 5
-http://premiumiptvmk.com:8080/live/F19402/0254fa55/11633.ts
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE ᵛᶦᵖ◉
+http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116685.ts
 
 
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV 6
-http://vipizfq.top:8080/live/VIP01821172651647798/f9b48eb1258b/4430.ts
-
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV 7
-http://vipizfq.top:8080/live/VIP01821172651647798/f9b48eb1258b/4438.ts
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 1
+http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116689.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV 8
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50008.ts
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 2
+http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116690.ts
+
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 3
+http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116691.ts
+
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 4
+http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116692.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
