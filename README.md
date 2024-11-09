@@ -49,7 +49,7 @@ http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
 http://cord-cutter.net:8080/live/Adrian12/Adrian34/78697.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(4)
-http://streamsy.online:2999/live/jbridge/p6omQOdliy/1417.ts
+http://1tv41.icu:8080/live/B1Akvm/965096/78697.ts
 
 
 
@@ -59,12 +59,16 @@ http://streamsy.online:2999/live/jbridge/p6omQOdliy/528.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167727
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN COL 1
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/110789
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (2)
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287812
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col)
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col) 2
 http://cord-cutter.net:8080/live/Adrian12/Adrian34/86765.ts
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col) 3
+http://1tv41.icu:8080/live/B1Akvm/965096/86765.ts
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN MEX
 http://14225021914.com/446686613/v144b5856g/234273
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN MEX (2)
