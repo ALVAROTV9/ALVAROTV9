@@ -143,9 +143,12 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609342.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS
-http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9554
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS (2)
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/119550
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214190.ts
+
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS Xtra
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214192.ts
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN MEX
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/87590
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN USA
@@ -222,6 +225,7 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508184.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 2 🇬🇧
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/134300.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 3 🇬🇧
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214147.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,BUNDESLIGA BAYER MUNICH
@@ -264,6 +268,11 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516245.ts
 http://14225021914.com/446686613/v144b5856g/494
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" , ARG FUTBOL🇦🇷
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/367912
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" , ARG FUTBOL🇦🇷TyC SPORTS
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214185.ts
+
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,MEXICO FUTBOL🇲🇽
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/367277
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,PERU FUTBOL🇵🇪
