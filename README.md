@@ -14,13 +14,14 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/13322.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,EVENTO PPV FOOTBALL +ᵛᶦᵖ ◉
 http://streamsy.online:2999/live/jbridge/p6omQOdliy/2166.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV FOOTBALLᵛᶦᵖ ◉
-http://streamsy.online:2999/live/jbridge/p6omQOdliy/2165.ts
-
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,EVENTO LA LIGA ᵛᶦᵖ ◉
 http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116684.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE ᵛᶦᵖ◉
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV PREMIER L 1 ᵛᶦᵖ ◉
+http://streamsy.online:2999/live/jbridge/p6omQOdliy/2165.ts
+
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE 2 ᵛᶦᵖ◉
 http://45.84.58.141:25461/live/02024235992207/T89ABLFM1QQGRVQ/116685.ts
 
 
