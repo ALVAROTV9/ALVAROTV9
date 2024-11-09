@@ -1390,3 +1390,867 @@ http://premiumiptvmk.com:8080/live/F19402/0254fa55/300504.ts
 
 #EXTINF:-1 group-title="🔵ADULTOS 💋" tvg-logo="https://tinyurl.com/foradulto" tvg-id="Adultos.br" ,+18 MIA KHALIFA excl
 http://premiumiptvmk.com:8080/live/F19402/0254fa55/60341.ts
+
+
+
+
+#EXTM3U
+
+
+  
+
+
+ 
+ģ
+
+
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ADULT TIME
+http://cord-cutter.net:8080/live/4wVQA7/625159/159954.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ALL BLACK X
+http://cord-cutter.net:8080/live/4wVQA7/625159/159955.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ALL GROUP SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159956.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BLACKED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159962.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BANG BROS NETWORK
+http://cord-cutter.net:8080/live/4wVQA7/625159/159960.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BRATTY SIS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159965.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BRAZZERS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159966.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , CASTING COUCH
+http://cord-cutter.net:8080/live/4wVQA7/625159/159968.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DAGFS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159970.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DORCEL CLUB
+http://cord-cutter.net:8080/live/4wVQA7/625159/159975.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAMILY STROKES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159981.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAMILY SWAP XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159982.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FILTHY POV
+http://cord-cutter.net:8080/live/4wVQA7/625159/159984.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FIRST ANAL QUEST
+http://cord-cutter.net:8080/live/4wVQA7/625159/159985.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FIT 18
+http://cord-cutter.net:8080/live/4wVQA7/625159/159986.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,HENTAINED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159988.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HER LIMIT
+http://cord-cutter.net:8080/live/4wVQA7/625159/159989.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HOLED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159990.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HUSSIE PASS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159992.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , INTERRACIAL PASS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159993.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JOI BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159996.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LOVE HER FEET
+http://cord-cutter.net:8080/live/4wVQA7/625159/160005.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LUBED
+http://cord-cutter.net:8080/live/4wVQA7/625159/160007.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MAMACITAZ
+http://cord-cutter.net:8080/live/4wVQA7/625159/160009.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MODEL MEDIA ASIA
+http://cord-cutter.net:8080/live/4wVQA7/625159/160011.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOFOS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160012.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOM TEACH SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160013.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY DIRTY HOBBY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160017.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY FAMILY PIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160018.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY TINY WISH
+http://cord-cutter.net:8080/live/4wVQA7/625159/160021.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NEW SENSATIONS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160023.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NF BUSTY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160024.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NUBILE FILMS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160025.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PASSION
+http://cord-cutter.net:8080/live/4wVQA7/625159/160027.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PERV MOM
+http://cord-cutter.net:8080/live/4wVQA7/625159/160029.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PRIVATE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160034.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PROPERTY SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160035.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PUBLIC AGENT
+http://cord-cutter.net:8080/live/4wVQA7/625159/160036.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PURE MATURE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160037.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , REAL DIRTY VIDEOS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160038.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , REALITY JUNKIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160040.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SLIM 4K
+http://cord-cutter.net:8080/live/4wVQA7/625159/160042.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , STROKIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160043.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SUGAR BABES TV
+http://cord-cutter.net:8080/live/4wVQA7/625159/160044.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SWEET SINNER
+http://cord-cutter.net:8080/live/4wVQA7/625159/160045.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,THROATED
+http://cord-cutter.net:8080/live/4wVQA7/625159/160046.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , TRUE AMATUERS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160047.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,PORNHOCHIC
+http://cord-cutter.net:8080/live/4wVQA7/625159/160031.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PERV CITY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160028.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PORN WORLD HARDCORE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160030.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY PERVY FAMILY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160020.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,MY LIFE IN MIAMI
+http://cord-cutter.net:8080/live/4wVQA7/625159/160019.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MUST NOT FAP
+http://cord-cutter.net:8080/live/4wVQA7/625159/160016.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOMMY BLOWS BEST
+http://cord-cutter.net:8080/live/4wVQA7/625159/160015.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOM XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160014.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MASSAGE ROOMS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160010.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LUXURE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160008.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LETHAL HARDCORE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160001.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JULES JORDAN
+http://cord-cutter.net:8080/live/4wVQA7/625159/159997.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , KINKY FAMILY
+http://cord-cutter.net:8080/live/4wVQA7/625159/159998.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , KINKY INLAWS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159999.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JESH BY JESH
+http://cord-cutter.net:8080/live/4wVQA7/625159/159995.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HOT WIFE XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159991.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAPADOO
+http://cord-cutter.net:8080/live/4wVQA7/625159/159983.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAKE TAXI
+http://cord-cutter.net:8080/live/4wVQA7/625159/159980.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAKE HOSTEL
+http://cord-cutter.net:8080/live/4wVQA7/625159/159979.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,DREAMROOM
+http://cord-cutter.net:8080/live/4wVQA7/625159/159976.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DOGFART NETWORK
+http://cord-cutter.net:8080/live/4wVQA7/625159/159974.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , CUM 4K
+http://cord-cutter.net:8080/live/4wVQA7/625159/159969.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BOX OF PORN
+http://cord-cutter.net:8080/live/4wVQA7/625159/159964.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159959.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,TRANS ANGELS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159951.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,TRANS EROTICA
+http://cord-cutter.net:8080/live/4wVQA7/625159/159952.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" ,BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159959.m3u8
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoB5pA88k1s9e8HXWDj5JHOF3ZV.jpg" tvg-name="Disconnect: El organizador de bodas" ,Disconnect: El organizador de bodas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57cd5049-ce0d-4dc5-b362-295e7f0f13f6.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJHl8GZPzdKyz4nSU5HQB9V43ZY.jpg" tvg-name="Doble Amenaza" ,Doble Amenaza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec5b7f30-9e57-4e6b-a212-fc6db4355c08.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XmCuwIwriQMMaHmkfh7T756Htd.jpg" tvg-name="De Caperucita a loba" ,De Caperucita a loba
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0d9a660-c40b-478d-b034-bbf8b6db097b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EdqlGB2ACpnqsrtKhyacaPhzHK.jpg" tvg-name="El hombre del saco" ,El hombre del saco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d12b3d5-bd04-4b0b-9db9-61ce58fe848c.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg" tvg-name="Joika Una Americana En El Bolshoi" ,Joika Una Americana En El Bolshoi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ddd576c-3199-47fc-a175-2421355e4d7d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRBsjarhPCNv0budtWKEKT5eNjw.jpg" tvg-name="La leyenda del lobo de la montaña" ,La leyenda del lobo de la montaña
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/347ee1f1-4562-4e66-a546-9c1259907d5f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUmRm043sZx4p5q93lklw0c6jMJ.jpg" tvg-name="A fuego lento" ,A fuego lento
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f45aee6-3316-47a4-a151-72bc5fa42bbf.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOa6TNXi3LUHrqIp9xiWNyOyyCF.jpg" tvg-name="En tierra de santos y pecadores" ,En tierra de santos y pecadores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8a0d99f8-4013-4383-935a-880a875ca78a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IZ2Naxyr38CFRAfLUsp7UB6cXG.jpg" tvg-name="La furia de la montaña" ,La furia de la montaña
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e95ac68c-fd05-47e8-b716-17623e02b89e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAWZUshBg4hS8TIeLOEhJbglpo.jpg" tvg-name="Mr-9 Misión Mortal" ,Mr-9 Misión Mortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aeb39e2d-eed4-4e4b-8651-08d6795d3fc8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyzpauLJwAB20vd4iHfDCcq1RYN.jpg" tvg-name="El Beso Del Demonio" ,El Beso Del Demonio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c8d69977-3d19-4ad8-93f2-135face57486.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUFZGYWlDU1SqfvV3ph3xrct013.jpg" tvg-name="Burga" ,Burga
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac1bf0ac-ab9b-4f23-b85a-78756c0e7d61.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJkk5XKSmYMq8IDBXInzPJzmzBY.jpg" tvg-name="Todo El Silencio" ,Todo El Silencio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ddce30f0-8c92-474b-9585-074202fc63dc.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPwQ2SpT0oIWkAcqxBiKdRlEQgg.jpg" tvg-name="Vermin: La plaga" ,Vermin: La plaga
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e9e1271-0eaf-4839-977d-0e185bb99216.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTETTVc9ghtGwKMvHpsJJMe46Xe.jpg" tvg-name="Hachiko | Latino AC3 2.0" ,Hachiko | Latino AC3 2.0
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/497339ea-bb0d-40e6-96f9-9e1c9385d6cd.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg" tvg-name="El niño y la garza" ,El niño y la garza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/067d4d67-de16-4afa-a32d-3565b04c2720.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWwaW9Nt3u4zs61AnKiktgrD2jU.jpg" tvg-name="Tempestad De Hielo" ,Tempestad De Hielo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9dd4e577-98fe-4667-9bfd-3467ac3f1d02.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31axjNHRTsJfPaSP2UJW14TeoW3.jpg" tvg-name="Los tres mosqueteros" ,Los tres mosqueteros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/804d0f9a-7175-46c2-a7ed-85ab719e085a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWUrJ9WiEpTGoDjlw2UhNHiUueW.jpg" tvg-name="El Demonio Entre Nosotros" ,El Demonio Entre Nosotros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e52a41a5-1f30-4993-bc87-6c2aead1a46e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgF5XaXnJmOgMxulhy2k1f9LNNc.jpg" tvg-name="De vuelta al crimen" ,De vuelta al crimen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/96521287-fabc-4f35-8855-335aff947ebf.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Hxt3UhpiyvX8qcO4vJpu0WThc.jpg" tvg-name="El imaginario" ,El imaginario
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46c60902-b7a1-4ead-8760-9afd4212a385.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNgbX0glLtou87K0llPyZFn5J4.jpg" tvg-name="Camino desesperado" ,Camino desesperado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0f9a7641-de48-4b92-8061-f126ad530110.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg" tvg-name="El exorcismo de Eastfield" ,El exorcismo de Eastfield
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07cf44e1-368a-4e1a-955a-8794a451014b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rw42EwaclM0MyVqTIzFmEppUfI.jpg" tvg-name="Monstruo de las Profundidades" ,Monstruo de las Profundidades
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d5f844fb-47a6-4dc4-afbb-1bb4dcfd0cb6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUB5D7TvfuyRcbOQm5W1B64tNJu.jpg" tvg-name="Fuerza Extrema" ,Fuerza Extrema
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dcdbba78-add6-4782-bda4-23cb5e9575b1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKvturWf7y6zjfBIIhb18TicuLh.jpg" tvg-name="Accion Rapida" ,Accion Rapida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/72ef3859-59dc-4c8b-bf83-3d84bd0a2867.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmJME2Hjwb3fISEQWyN3Vpto5O.jpg" tvg-name="Hotel serpiente" ,Hotel serpiente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/845bd01c-9787-4420-a49c-6a54002b3ce3.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Vf9doQIZavdJS16969KfO0Lsa.jpg" tvg-name="Bikeriders. La ley del asfalto" ,Bikeriders. La ley del asfalto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c74bf953-29b7-4da7-94bc-553fa6c15be8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0xF7q5k07BRVJz9Z3A8dGdbpLR.jpg" tvg-name="La guerra de los mundos: el ataque" ,La guerra de los mundos: el ataque
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/92232b2e-8c8f-4409-9192-1a768242369e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3AANaBDzVDJOoe3K6sUL8NqRiH.jpg" tvg-name="Alicia En El País De Las Pesadillas" ,Alicia En El País De Las Pesadillas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/535eb67a-a70b-4f7a-b88e-c07d73bac41e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8BDcS6ANydn5SiFZuLqCHrdug6.jpg" tvg-name="En nombre de la tierra" ,En nombre de la tierra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/199928ab-c253-457f-b3dd-e811c1fac800.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bV7t2Np8VG1i7h6jvPz5ZPUdAVP.jpg" tvg-name="La Pequeña Serena - Un Océano De Aventuras" ,La Pequeña Serena - Un Océano De Aventuras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a510603-9afc-40fe-b81f-206574356cc7.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg" tvg-name="Rapidos y Furiosos X" ,Rapidos y Furiosos X
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a1a64244-6b3c-4fbd-92e6-671e3222b1f8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r62EYMhiSR9ExYutKJZKXmfMzzd.jpg" tvg-name="Mutt (C)" ,Mutt (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5e8355b7-a304-4e91-a1d5-a4cae4de36de.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdfdR90WYCTQmYoQ0aDRZP8I2IL.jpg" tvg-name="Johnny Y Clyde - Socios Del Crimen (C)" ,Johnny Y Clyde - Socios Del Crimen (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c70b71f3-4996-441d-8315-75fecfd5db5b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17VmLlO81QJPGlnAJxZKRwSKhDW.jpg" tvg-name="La gran seducción (A)" ,La gran seducción (A)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5de49b7e-9fe4-4484-b05c-a85d937c257e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxmOb7s9Snm4hA6qJN8eYvfpcu.jpg" tvg-name="Los blancos no saben saltar (A)" ,Los blancos no saben saltar (A)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8d076334-878e-4c0e-a8b3-4a3708f0b2ae.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" tvg-name="Proyecto Extracción (C)" ,Proyecto Extracción (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/80974800-8fb8-41d7-b7f7-5b6bc4cccb66.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" tvg-name="Super Mario Bros: La película" ,Super Mario Bros: La película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ffbc1b8-d4cc-4420-a458-b9a32337ddcf.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ90n7OugxdqYct8Tb5TtljtMqs.jpg" tvg-name="The Shift: El gran Cambio (A)" ,The Shift: El gran Cambio (A)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7c2190ec-25c7-4cf2-8267-2cd43dd953de.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mEX07jWRYrjarW84sBeFghGMfa.jpg" tvg-name="Plan en familia (A)" ,Plan en familia (A)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b85dad08-f3ea-4a57-9336-22c091eeefca.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPDEY0M4pdzG7e2JM7OyB7TjFB.jpg" tvg-name="La Torre Del Infierno (C)" ,La Torre Del Infierno (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bd36822-79c3-4906-bddf-e4f1113b7420.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fN3yWM02Ej72gmW0J9GlW9U85Yh.jpg" tvg-name="La Mujer Más Bella De Saigón (C)" ,La Mujer Más Bella De Saigón (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0df644a-be6d-4554-8ad0-7f9480e62341.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MgeIWontRgJJSO2tnziEnpOfW.jpg" tvg-name="Atraco 88 (C)" ,Atraco 88 (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3eaba278-c124-401d-9b81-49e1a7b820dd.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpt4btkF7YzSM9kldSdBvnAFHCB.jpg" tvg-name="Susurros Mortales (C)" ,Susurros Mortales (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ca2798d-df7c-4176-9645-347d00fc5a7b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfjW3mQiCTL001ZVfUQ8bQ19zTD.jpg" tvg-name="Spy x Family Código: Blanco" ,Spy x Family Código: Blanco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a276f81c-7757-4c47-9251-a30c47535cf1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GuvODahvuFqdhuZ16aBLR4UJoP.jpg" tvg-name="¿Quieres ser mi... hijo? (C)" ,¿Quieres ser mi... hijo? (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f503546f-23bd-4484-b207-b6016976057b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAz3m2gp7MxGbMXciuxv0smdpcd.jpg" tvg-name="Club Zero (C)" ,Club Zero (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be4291f4-576e-4019-82e6-6b2eb955d4bf.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iclmQs4O5dy7EAkbykI1qkowfK2.jpg" tvg-name="El Rostro De La Venganza (C)" ,El Rostro De La Venganza (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c491d282-2639-4b40-9eaa-eb0033cbc378.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLVcHGky7KQthqe2Wsrmv2AeKS.jpg" tvg-name="El rapto (C)" ,El rapto (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/36d7b655-e013-4e71-ab8c-1d8557effeda.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" tvg-name="65: Al Borde de la Extincion" ,65: Al Borde de la Extincion
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/18f7612d-59ad-48f8-9c55-c6d688ba8aeb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68qUoVSL7BVirc9U3a1O3zKfsAM.jpg" tvg-name="Entre el Amor y la Amistad" ,Entre el Amor y la Amistad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aff1b7b3-956b-4385-8a73-d7884eec6ea2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnRekTKyxQSDX0cHWCldO0RGKOR.jpg" tvg-name="Jason: Buscado por el FBI" ,Jason: Buscado por el FBI
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cce2849f-83ec-4848-8a40-123bb0c5a9b2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKovzRJWz4brwxogYH8vaIoMOeU.jpg" tvg-name="Fiesta en casa" ,Fiesta en casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8b23373-8484-47f1-8697-5c3a27679c2e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajU3fCIvT0py0IDw1g6g5e0bNr8.jpg" tvg-name="Legión de superhéroes" ,Legión de superhéroes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d203b911-2afa-42ea-a035-808034590580.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" tvg-name="Little Dixie" ,Little Dixie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/46890e3a-21dc-40c1-b23c-2802c91b1a63.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WiDmXSZoDGkDweMc4dosZsDjpn.jpg" tvg-name="Malcriados" ,Malcriados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eab69527-43f0-4132-bba6-c575751a622e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" tvg-name="Mafia de Mumbai: Policía contra el inframundo" ,Mafia de Mumbai: Policía contra el inframundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe54a803-08db-4f9e-aa5e-0fd8f0d3e568.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1ocR7F1aIx4UhdXbmG1akSZ9Bj.jpg" tvg-name="Re/Member" ,Re/Member
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c0beb6e1-2744-4dd4-9ade-966f9762d5cb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ixVYoqCATZI2mLzIHI9T5Zj2LL.jpg" tvg-name="Una boda explosiva" ,Una boda explosiva
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fc4c8de1-ab17-4a31-834c-92ab413338f9.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amljhv1AoWvudjwOKurDz8JL2Ej.jpg" tvg-name="Hay algo mal con los niños" ,Hay algo mal con los niños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe732ef7-6731-4ddc-a21f-2d7f8b3b2c8a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTQ2o0gzVZOblt6KlV3bSKg0y8z.jpg" tvg-name="Legado de sangre" ,Legado de sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00a02950-5a4b-40dc-bcd6-b18434358c18.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg" tvg-name="Espíritu libre" ,Espíritu libre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f7cf4180-88b9-45d8-a166-70793dddbae8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqQOjLjJRDH7AzdomnEtX2SvnCA.jpg" tvg-name="Huesera" ,Huesera
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe72404a-b5bf-48d4-b979-2a2d1d36f997.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" tvg-name="Llaman a la puerta" ,Llaman a la puerta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9eaf8449-8ed6-4d07-a733-01ab31b1a702.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r68DugmiasKiduv6V6Piulm8Gn.jpg" tvg-name="Los extraños" ,Los extraños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/941c0022-9d71-4fb7-b7de-cf23ab7bffd9.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKroDP4pGAgZ02fKBBSiIGtzBz0.jpg" tvg-name="Me llamo Chihiro" ,Me llamo Chihiro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56bb1ac1-4e4d-4ea0-9fba-09bedfcfab27.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" tvg-name="Embaucadores" ,Embaucadores
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e0ff7838-1c38-44ad-855b-7dcf39a703b2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqLloC5n66fLvhlWtZBr8h4SVF6.jpg" tvg-name="El mochilero del hacha" ,El mochilero del hacha
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09ffa199-98d8-4b6a-b09b-692cc5a3cfad.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" tvg-name="Hart: Duro de entrenar" ,Hart: Duro de entrenar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f5bcf80-eaea-4c70-8928-c48b6b2e46a8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byZCKMtAWIVI4iBIEY64Wd1Eh1l.jpg" tvg-name="Un fantasma anda suelto por casa" ,Un fantasma anda suelto por casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56eaf47b-611c-457e-98ea-20695f5657cb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqTvHgB45ozxcHtn5ENn3RU0ycO.jpg" tvg-name="El Último Baile De Magic Mike" ,El Último Baile De Magic Mike
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e3f30bb8-88b6-4287-89b7-c71380435bd4.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFkH5gEWg0Ku72sNbcIj0383CPA.jpg" tvg-name="Esta noche duermes conmigo" ,Esta noche duermes conmigo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4817c8ef-28ca-491f-a9ce-1496e6010181.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" tvg-name="Sayen" ,Sayen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/32247097-ddb9-4262-97f8-4dc4259a39ea.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crUvuWFANaL0pWomG1lQCA3Pxcu.jpg" tvg-name="El visitante del futuro" ,El visitante del futuro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1069f55a-de4f-4964-af19-7bedc01cf775.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZjmSFRf6u1hYvLGxCAu13dpGQA.jpg" tvg-name="10 días de un buen hombre" ,10 días de un buen hombre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8620d10f-1d39-4b7a-be48-24b61e9ebb81.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg" tvg-name="Operación Fortune: El gran engaño" ,Operación Fortune: El gran engaño
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/21f28b67-fa6e-4cfd-a048-2eae7cc61508.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7X1ra5lYbiZ5WnkCikSThKCMZm.jpg" tvg-name="¿Encontró lo que buscaba?" ,¿Encontró lo que buscaba?
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9d12d582-feb8-4ecc-8d8f-138c7679f681.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fblgaYA1YC2V9cxv1vgHvRphZld.jpg" tvg-name="Luther: Cae la noche" ,Luther: Cae la noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5d298173-0acc-4082-8fc4-d7988656bfc4.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg" tvg-name="Chang machaca" ,Chang machaca
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e43bb155-b5d9-4bf4-bc21-addebdc8046a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9S6GW9MGyQZpRpPj65k0RIqYNL.jpg" tvg-name="Tangos, tequilas, y algunas mentiras" ,Tangos, tequilas, y algunas mentiras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f951129a-c24c-4831-b5f6-6ac633d6f017.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oURwoX6p103uvRmz4LgtsgrTcuM.jpg" tvg-name="Lobo Feroz" ,Lobo Feroz
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/93e6af3f-7ce7-4634-8d61-9d4214bbdaec.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJldamB3Le1eELdjqaBd4APGU49.jpg" tvg-name="Hasta el fondo: La historia de Pornhub" ,Hasta el fondo: La historia de Pornhub
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fab2bcef-8d57-4fc5-b61d-07c1c47f814d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx98TpMEUnD9Rrh074nxMBY593q.jpg" tvg-name="Seductores Irresistibles" ,Seductores Irresistibles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07c8ee1f-ed05-4267-8fe9-6b0c1ab87e0e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Yz5zYXZrlx9UWbjlaEaJuyAsNY.jpg" tvg-name="Intenciones Crueles" ,Intenciones Crueles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4e07aead-f138-4803-8038-b6c0bd7e2e5f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6j3f0E2RMLr7tftQFU2s8sgEGcE.jpg" tvg-name="Ya era hora" ,Ya era hora
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae65d321-9dd8-45b1-a4f3-587d2d4b1e75.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JIBwcHAEEteIAgepqf4asxRKSh.jpg" tvg-name="Ruido mental" ,Ruido mental
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7fff7c43-b62d-4afe-b63e-4e8a84c7ed0d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O6x9hrPh8oHnaj4Kg4tFlNfS36.jpg" tvg-name="El asistente" ,El asistente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd9d8306-82b0-4c0b-b876-44532a7f4266.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A70rat4oypHnFsb4J4MoSciNo3I.jpg" tvg-name="El rey de las sombras" ,El rey de las sombras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/93531637-eb3e-49dc-94ae-3adfd2ff14f3.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg" tvg-name="El estrangulador de Boston" ,El estrangulador de Boston
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c5f6c8c7-70bf-4d1b-9e78-1047f5005b25.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4hM4lsBqBYh0ZkzyNeEqu9RUlP.jpg" tvg-name="Batman: La maldición que cayó sobre Gotham" ,Batman: La maldición que cayó sobre Gotham
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3c23585-bc34-4e89-afe1-9c230f77c361.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMeLHrTs0fkPAcezPj6xiiKdRay.jpg" tvg-name="Adicción perfecta" ,Adicción perfecta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7a79ae21-f0a6-4b43-adba-27812a9b90b2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqt0jrqBG2zEScNkTuuRAd11Unc.jpg" tvg-name="Momias" ,Momias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f485b2d5-c4f9-4324-80a3-22a1fc661c17.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5nXOX4GmuCNzv29qswOZrMWU5P.jpg" tvg-name="Vuelo al límite" ,Vuelo al límite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b897e66c-1437-4682-88db-6daa548185f3.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MiVG39r82aYUAtvs3bTycmbewJ.jpg" tvg-name="Mi maestra se comio a mi amigo" ,Mi maestra se comio a mi amigo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04f278d6-7dbf-4b2b-9bdf-ee2d60e4d8bd.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wzkVn3iEEuY52TMJhLRseQPzdF.jpg" tvg-name="Champions" ,Champions
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25adcc30-0736-4c54-90e5-92eabeb98ef6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdgVuWwp0UBAnpRdbhoLkObatsV.jpg" tvg-name="Soy inocente" ,Soy inocente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bdb76b25-5b0f-4a92-bcf5-fda3bd797933.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mNP3fpjHtoCZ2GaxPnA4elj0rv.jpg" tvg-name="Boksoon debe morir" ,Boksoon debe morir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2acb9d62-02f0-4de4-807f-aa29793e652a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jce1QvM2sma0TKYckNmIKzjhHC.jpg" tvg-name="Criminales a la vista" ,Criminales a la vista
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b1f42a3-7c26-402e-9a7d-b6d0a90bc89f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcdEqYTTnh6luc2heEsjf0fAI7X.jpg" tvg-name="Amor en Rye Lane" ,Amor en Rye Lane
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a8bf1473-e963-4dbc-ac3a-213a1635a1e1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg" tvg-name="Tetris" ,Tetris
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/550d772e-153d-4e97-b1e0-7cfb8afd4871.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/748fvxCzIKHKZI2c98DdWPAeNkR.jpg" tvg-name="Pacto de graduación" ,Pacto de graduación
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/178aab17-0239-46fc-99d8-896478f51f36.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cphIfZ7FYXib0Y4ZZ2cTv4Q3jAt.jpg" tvg-name="La resurrección de la momia" ,La resurrección de la momia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0502e01e-a2fe-405a-aac7-5c2571a5d07b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQdcQBnKKGTX83PANTq5LiYkBlb.jpg" tvg-name="Big Mäck. Gánsteres y oro" ,Big Mäck. Gánsteres y oro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/23ff01df-50fd-4172-8a22-376e8a9a5bfb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg" tvg-name="Infelices para Siempre" ,Infelices para Siempre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1a651938-caba-4908-86a1-5ddd2a68fe82.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNdJShQTWNufnlIl1fRDHTGfKdL.jpg" tvg-name="Aaahh Belinda" ,Aaahh Belinda
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/38e3cabb-80bb-495d-8fb2-f8316b73f09f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" tvg-name="65" ,65
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2561e4a-53e7-4930-afbc-908db934d856.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9eaYQDTpJEcGJuR5BL8SbO6kG0.jpg" tvg-name="Rastros de sangre" ,Rastros de sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/61f2112a-6bc7-4953-a18a-05b5d8b701db.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqowwj8oaZdm9MuOvYEkraNudJ4.jpg" tvg-name="Hambre" ,Hambre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/db416ead-1b51-40ca-8cb7-64e08072d8f7.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" tvg-name="A la intemperie" ,A la intemperie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b7e0e414-520a-4c0e-813c-645f4752da0f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAU3rzsLekbxXAll1SAzjMAwcPB.jpg" tvg-name="El Arte de la Supervivencia" ,El Arte de la Supervivencia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bdf49d4-aafb-401f-9fdb-c0a86778bb4c.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3raY76KtEzSHya5rcC2j37qGI9L.jpg" tvg-name="Fuga de Reinas" ,Fuga de Reinas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2647e5af-1f80-49d6-811f-4027886aa2b2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twdgFrp9Sd8rb3TdbWFQXAvslrH.jpg" tvg-name="Praise This" ,Praise This
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d79be221-854a-41d5-a4c8-cc4cbcc9086d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" tvg-name="Siete reyes deben morir" ,Siete reyes deben morir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/71e21977-dec1-424d-a4a4-d4f7677c0cde.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fPaMLnBWSQ8bBkgyrQUopcCa7N.jpg" tvg-name="Of an Age" ,Of an Age
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5bc87674-93c9-481a-8393-1e97e4457fc5.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grA55EHmkQ4rccvbphl1WQWqdr7.jpg" tvg-name="Fenómenas" ,Fenómenas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1397398a-5a30-4656-8a7e-5fbc8b9b34a3.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qj1NrdMSm2xinqchBDD23U83vj8.jpg" tvg-name="Mighty Morphin Power Rangers: Ayer, hoy y siempre" ,Mighty Morphin Power Rangers: Ayer, hoy y siempre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85e58e97-4a92-45a8-ab63-474458044db1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg" tvg-name="Supercell" ,Supercell
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d16dea18-d744-4cf2-a7b5-f12e400e5f23.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfykO4wU6xwhvLBby3jQbxdYYpm.jpg" tvg-name="En tus sueños" ,En tus sueños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7085dfa-1239-46e1-9f49-9a5adf874075.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg" tvg-name="Operación Fortune: El gran engaño" ,Operación Fortune: El gran engaño
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2423cfc-9ca8-4b6e-8986-39f550edf237.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1TQbQMGyPQxTwZ8HqqNTdtcjOe.jpg" tvg-name="Dieciocho otra vez" ,Dieciocho otra vez
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e9ca8658-509a-4d0b-ba0e-c8ecf8a8a1fd.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBmkMKvDUcnyEGxsZkPnsQAS9UT.jpg" tvg-name="Sin rastro" ,Sin rastro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/072fcfe2-0775-4ae7-9556-a9f23ef1d91a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKM4TTEiYeVQs9qAti57z6YpOlx.jpg" tvg-name="Juego de amor" ,Juego de amor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/961b87ee-06da-4eb1-9423-3cdb2d5500b1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3K64qyJfykNCt2XVP5rXH6VbAwU.jpg" tvg-name="Con la soga al cuello" ,Con la soga al cuello
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/480998f3-5a3f-4d3e-9131-a864d5fc2234.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5oRHIL7fZ3d1qRd1jlwWw8WZxw.jpg" tvg-name="Guía de viaje hacia el amor" ,Guía de viaje hacia el amor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/394c23d7-6d74-4938-bcd0-7954f842c82e.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" tvg-name="Quasi" ,Quasi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2137c4f5-ae26-4000-9982-c903bc2565c2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7twNCiHS1rR7P2fyGOH1sUmLDyY.jpg" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1" ,Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4fcd9aa0-8d03-4bda-90d0-b62d905300ed.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0JffFtxcWEJBLKayH3d34WnNT.jpg" tvg-name="Scream VI" ,Scream VI
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/987a6671-9239-4720-a066-3ee5374b070d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQqU102o2QISMukEZ53XIeCCyEg.jpg" tvg-name="¡Que se besen!" ,¡Que se besen!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3e483be0-5df2-428d-ae19-9ffe2e1af1fe.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajQaw8mMCU30OR3y2eeHrLLxzpr.jpg" tvg-name="Jesus Revolution" ,Jesus Revolution
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/38810a77-f4cb-4e61-b781-291069befce6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLwhPkLkJ8GVPSBGVfCYm97f1Py.jpg" tvg-name="Alias" ,Alias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca3829a7-5401-4493-89fb-a643d35e25e0.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vu2kXcmGOtZou1CnZafcepCpp4.jpg" tvg-name="Sí, quiero... o no" ,Sí, quiero... o no
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d57cec3c-d2fa-483c-8eb5-ee5bd7e18c37.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c943thY4bOJU59UfD257ELZe13g.jpg" tvg-name="Mil Uno" ,Mil Uno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/742319eb-f4ad-42fe-896c-8e053cf995c9.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkPpmNSdbRIgtscqH86BQFLJXcz.jpg" tvg-name="Clock" ,Clock
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c628511f-f5fa-474f-8626-25966459464b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eelbIlq9Iv4Hg9WPSHwuqNij1eo.jpg" tvg-name="Peter Pan & Wendy" ,Peter Pan & Wendy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c40d8b54-fdc4-422e-b48b-e1fd30123e0a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8JbQe3WqhnX1yDglxUvkspNugJ.jpg" tvg-name="Dos pecadoras y una mula" ,Dos pecadoras y una mula
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/14b822f4-06e2-4a89-bd70-83b8a250ae65.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NqUrL2kmhvZFxawccpqMf8UFrU.jpg" tvg-name="Assassin Club" ,Assassin Club
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ebfba0d5-f370-48ca-bdc4-73e8aa15f706.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP0xZWNqNNM0PEhkURsKriTQT9j.jpg" tvg-name="Uno para morir" ,Uno para morir
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/addd573a-45f2-499c-ad70-d61a6ee31f12.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QhyBSSw9dsDlyNvsXLKpHsQgI9.jpg" tvg-name="Ustedes deciden" ,Ustedes deciden
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/913a7b00-3f98-412a-adab-642734fef274.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OJDfBoMXYrkSkLQOqtWD3bHnKX.jpg" tvg-name="Royalteen: La princesa Margrethe" ,Royalteen: La princesa Margrethe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c1b5c8fb-e889-4335-b330-1d74277ad570.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKWPzgKwNqexpZP7LkIngLHbzaq.jpg" tvg-name="Marlowe" ,Marlowe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ea7132b-13a6-4747-a4ce-23f31773b1fa.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8BXrFD0FIH2iVbOoTEw7DxnHCb.jpg" tvg-name="La madre" ,La madre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/746b17e4-c452-457e-8e97-b036baab0210.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppEvMrq2nvV9DfBHuCRilf2MBnm.jpg" tvg-name="Cráter: Un viaje inolvidable" ,Cráter: Un viaje inolvidable
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5848ec94-31d9-4178-9de4-3c35bea21e39.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xupm2thQic5GzYi6nim6URMZOY.jpg" tvg-name="Bendita Suegra" ,Bendita Suegra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5d057c4e-d2ad-4e22-821a-9698d51e4de0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ypRUscxdPXjF2o3BzsKsCUrkpK.jpg" tvg-name="Air" ,Air
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2cc0037e-330b-4d8a-a7e5-9f5d0c376a4d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/famtCijsMWPLP4WTv7wCHbsThRi.jpg" tvg-name="Detención oscura" ,Detención oscura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c85bf6c-e0b8-45bb-b326-4c2ca647028a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hH23K3Nv8ekBiUvHFWoRbDjcOc.jpg" tvg-name="Papá al rescate" ,Papá al rescate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2c7211a4-a22d-4a5f-9e5b-4459c280335b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxmOb7s9Snm4hA6qJN8eYvfpcu.jpg" tvg-name="Los blancos no saben saltar" ,Los blancos no saben saltar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1d54e0aa-e78c-4a7e-9159-08cfc117f01b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg" tvg-name="Fanfik" ,Fanfik
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a9370a32-34de-4de5-86d2-b74c1c6df3ff.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31IB4VXpan7JrQYnnr7g75YqOu8.jpg" tvg-name="El último vagón" ,El último vagón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/63248c27-8f26-420d-87a7-5bca6185f376.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PuK45DWcRlp47v7hbOO0IZZSi6.jpg" tvg-name="Muchas mas hormigas entre las piernas" ,Muchas mas hormigas entre las piernas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1ba004a9-b1c8-4390-97a3-96bd425dcc0f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYhCOMQk5XO4rwoq83iiGPZV78t.jpg" tvg-name="Tina" ,Tina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01f1bb83-b5fe-4cc9-bc25-ede924efb533.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Tdu098zuhY4AGG5CHYJZRIu5yO.jpg" tvg-name="Sangre y oro" ,Sangre y oro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/03507169-23f9-4a01-affc-d01cf885f7a1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcDL57ZP833yQLC4kIqNpRziWOF.jpg" tvg-name="Una vida maravillosa" ,Una vida maravillosa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7fdd5c8f-1ffa-4408-a934-624beacdbc22.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7s5IGwASBzNYHTYP8a3glo34ea.jpg" tvg-name="Medellín" ,Medellín
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3b2b87d6-7984-4ec2-ab3c-3c957c6e25e9.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/325sMn8WmtFsbtROkmqJseBWnAz.jpg" tvg-name="Un Año Inolvidable – Verano" ,Un Año Inolvidable – Verano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/381ef689-e2dd-47d7-8eb6-b5a107dba761.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdAVVJT8TtC3S1VVHzh5eIX0CzQ.jpg" tvg-name="Ricos de Amor 2" ,Ricos de Amor 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f63f027-9f6b-4579-afda-8b482e446374.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg" tvg-name="Maravilloso desastre" ,Maravilloso desastre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/827f8b35-7a9a-4ed2-b6f6-05a3195206f6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" tvg-name="Sisu" ,Sisu
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8cb00688-8dc0-4ebd-beb1-b37ec90a8fcb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB4eLVPwOnfjpNo2rsqVF6LQ5DM.jpg" tvg-name="Tengo sueños eléctricos" ,Tengo sueños eléctricos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4640986c-190d-4bb5-af7e-96de46ca4c96.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXXlbYwJm24a19qOqHGkUdSFyBG.jpg" tvg-name="En lo bueno y en lo malo" ,En lo bueno y en lo malo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a977cb9c-fd4f-4190-9e9e-69e11448842b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRvqJLGhhW43DNTgn5IJzIuqkqk.jpg" tvg-name="Chevalier" ,Chevalier
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4f83be9e-ec06-43eb-ae71-26eea0421c9c.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40UPlmnQcG71KSmjijksZjbsH2q.jpg" tvg-name="La Usurpadora" ,La Usurpadora
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c71c341-3f22-433e-814d-f01bf0d8d841.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfI5sTEgJ1ozPMnA3BhZDvxnmAD.jpg" tvg-name="Cuiden a Maya" ,Cuiden a Maya
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aa4edc4a-7da1-4cb6-b8bf-7b36f3094db4.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DGWP1xSdm87g1NkTX9qGNFYmv3.jpg" tvg-name="La combinación perfecta" ,La combinación perfecta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cf060574-cacc-4860-8f16-0912e0aab117.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eocY3RtunPbRPrZHHZxhvNZxbJ.jpg" tvg-name="Una imagen para creer" ,Una imagen para creer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/24f9b485-b8e5-4957-a5d5-e1f0d94b3375.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDB9jDwOe3XsctylK1cTbPBtFdl.jpg" tvg-name="iNumber Number: El oro de Johannesburgo" ,iNumber Number: El oro de Johannesburgo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/527611ef-91b8-4c1f-a97a-b85d4c09754d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41855k2Ex9VQ6OUMmzPz63NNLnx.jpg" tvg-name="Shadow Master" ,Shadow Master
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cd943c6-c903-424b-8ec2-dc0ce8d818e1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWRY8HRXI1DVWB7rNvpmFWwSnCC.jpg" tvg-name="Nimona" ,Nimona
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41428cfb-ac72-4362-ade3-e387aa1c7a55.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNF2TFinXaiNRX1PpI0woLdxEaE.jpg" tvg-name="Lo desconocido: La pirámide perdida" ,Lo desconocido: La pirámide perdida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/321a0926-09e5-40e3-b5d4-960cdea315e2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" tvg-name="Tin y Tina" ,Tin y Tina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/59d3d0a5-a3f6-4e5a-b017-4398b0487f3d.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M7CxKuRhu3bRY1VuSp9LFhDryi.jpg" tvg-name="Cash" ,Cash
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f31fba8-3f3f-43a9-9758-cf2639d3f5ac.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aS5ZUUFwRzQA1koExStJOk9UWoQ.jpg" tvg-name="Seasons" ,Seasons
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c2f91921-158d-448a-88f6-4e30e330ebf8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1czkLtquPkiQg3OqubHqNzr6jM.jpg" tvg-name="La Conspiración del Diablo" ,La Conspiración del Diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8e33f79a-630d-4959-88a0-588016d42d80.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beVSYThQxFrbMmvYnmRB4USwXlM.jpg" tvg-name="Blondi" ,Blondi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aaf20e56-d131-47be-8c89-f5c14290cb79.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRisSnqHK4rZYy3FcJfMps5j4NU.jpg" tvg-name="Lo Desconocido: Los Robots Asesinos" ,Lo Desconocido: Los Robots Asesinos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bcdd335b-3bb4-47d3-9394-6207e2a20dd9.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNWSKYJtFR66zX6CeMSijQC4C0q.jpg" tvg-name="Don Cochecito y los caballeros templarios" ,Don Cochecito y los caballeros templarios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/50c9ea77-1451-4f6f-b896-12cba3d50ed3.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob48y9pAxfPem64RQ94wZIqH0xI.jpg" tvg-name="¿Y qué tendrá que ver el amor?" ,¿Y qué tendrá que ver el amor?
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec96a97a-2727-42f1-95df-3e539b66786b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFr3mkXhSC2x8IS49V2pCWberI2.jpg" tvg-name="Robots" ,Robots
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f1b2b867-e79b-4ce3-8f35-499bc594fd29.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KOfLOQ6RuxfMLuJqJbu1OtJZOM.jpg" tvg-name="El Sueño de Ariana" ,El Sueño de Ariana
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/606249ae-60e9-4a85-b4f2-a1de9c231093.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9vXaWdpIpmfDz2gskdb2UZD6HX.jpg" tvg-name="Tácticas en el amor 2" ,Tácticas en el amor 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67823a43-1191-44eb-806f-65a27e293bee.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51sVbW7cwa7UU6rPsCOqsM5dUec.jpg" tvg-name="Los iniciados" ,Los iniciados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/21bd3810-c876-409e-9114-7b8001aa939c.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-name="Yuzuru Hanyu ICE STORY 2023 " ,Yuzuru Hanyu ICE STORY 2023 "GIFT" at Tokyo Dome
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/13fcaf73-7380-408f-90d6-2bc02973f647.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg" tvg-name="Los tres mosqueteros: D'Artagnan" ,Los tres mosqueteros: D'Artagnan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d094e7ff-d69b-4479-89bf-7abe13cf23f6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcADsvCZuq7zm644zukH5Bv5M0n.jpg" tvg-name="Amigos hasta la muerte" ,Amigos hasta la muerte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27bbe249-0e50-4c50-a29b-6b33caa5bd9e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAbl6pAEL2MHshlemxJkgciEQZc.jpg" tvg-name="Por Amor al Money" ,Por Amor al Money
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e4313136-4184-4e3d-91b4-c399618bd156.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f9ghI3utknpeBZSAzNuIKKATOA.jpg" tvg-name="La Leyenda de los Chaneques" ,La Leyenda de los Chaneques
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d4a0879-1041-44bc-ad72-c683d7e29765.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/383IPkAwGhJXWvwkUuril9DQp6N.jpg" tvg-name="La Historia del Himno de Estados Unidos" ,La Historia del Himno de Estados Unidos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/322a87d5-ed4a-4049-90f2-239265c00bd5.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRhFYCnlIOY2ldebj68vMyVUcY0.jpg" tvg-name="Un lugar por el que luchar" ,Un lugar por el que luchar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d9eefff1-a7e4-4224-8142-22824a0a8c19.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJLSPzS1zdFDNQRBe8zvi3m4oMS.jpg" tvg-name="Intoxicación: La cruda verdad de nuestra comida" ,Intoxicación: La cruda verdad de nuestra comida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/234c5f30-ac01-4e81-abad-2a14b89632cb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" tvg-name="Atrapaalmas" ,Atrapaalmas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f55f7c4-73e5-49f2-9c6a-5e2c19d18f5c.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWWKzI1AQ2WZgZLXCrLnSxMC2P2.jpg" tvg-name="Un sueño" ,Un sueño
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1babc78c-ec2e-463a-9b38-6546178413a0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJeJt7JzgGleBtM9LaFmtxTVdAN.jpg" tvg-name="S.O.S Mamis 2: Mosquita muerta" ,S.O.S Mamis 2: Mosquita muerta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/68be76e0-278d-4f6d-a2ba-887e65bc9a34.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg" tvg-name="Divina Señal" ,Divina Señal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7615029a-ae21-46c4-93d9-584b4c6e8275.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVAPGUKcIc2U4PvhYms6JCmigR6.jpg" tvg-name="El pico del diablo" ,El pico del diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f9635132-1bb1-4a3c-b00f-96564b27ac56.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vgcEWBpfxVeqBe17qyoNZmKe5o.jpg" tvg-name="The Machine" ,The Machine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d563def0-c781-41b2-a296-8a48ed875563.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJ9MZHG3XQDusXLIbhRAzTlcZ2v.jpg" tvg-name="El rey mono" ,El rey mono
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/263e7058-4225-4aa6-8c72-01d8313772cb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" tvg-name="10 días de un mal hombre" ,10 días de un mal hombre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c068870f-c556-4270-bae8-2273298056e5.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfTgvoM4J2eNuiPm8i20CAPaERE.jpg" tvg-name="Amor, sexo y 30 velitas" ,Amor, sexo y 30 velitas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5ba74d37-f782-4e49-a030-134ebd2bdcd0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXrC0g0xg07FCxvoHpfLjB7cCoE.jpg" tvg-name="Secretos del deporte: El salón de la infamia" ,Secretos del deporte: El salón de la infamia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/93abff12-c2db-40e7-9f9e-bd6a61851db0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53pmHd5XialRnoTXlLwwBaezEOs.jpg" tvg-name="Una vida demasiado corta: El caso de Isabella Nardoni" ,Una vida demasiado corta: El caso de Isabella Nardoni
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b6ccd446-62bc-45cc-9c9f-3d449c4ea8ee.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nfkWqYQ6InKeWHanAIq4pUdR62.jpg" tvg-name="Masacre en el bosque" ,Masacre en el bosque
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/12257941-73d3-4e22-ab06-00a03ec0f1b0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAITCebHexMiWHggOFh9Wz2fQNb.jpg" tvg-name="The Blackening" ,The Blackening
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ce32666-82c9-41b8-8ce9-35d09f61fb48.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keTEWhBJ4V7hitpsSYC11u0wrIr.jpg" tvg-name="El año del tigre" ,El año del tigre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8655bf0b-6390-4f38-b221-a05d5c96abc7.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWa89Rr95zFYqTKVfDPKpjrofsM.jpg" tvg-name="Pesadilla americana" ,Pesadilla americana
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/42ab3626-18bf-4736-bd86-0a82e5cf2dda.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cVA4AGoex1PLZE8voy8ez7VWYb.jpg" tvg-name="Un Ranger" ,Un Ranger
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b7771a5f-5624-4c6e-9510-0f134cef1c66.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBfeeEvfOkcVYKepF6QK1O9RclS.jpg" tvg-name="Abusamos del alcohol" ,Abusamos del alcohol
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2fc68363-3494-4cb2-9956-cb5ad44265f7.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRcAeRi1SqlGC2uI1r1ckq9Sx1B.jpg" tvg-name="Joy Ride" ,Joy Ride
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/64f1e543-9978-4279-b9cb-a7fd0d44ce18.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg" tvg-name="Amor al cuadrado otra vez" ,Amor al cuadrado otra vez
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e7e2cadd-7a6e-4459-9281-cac1fadc492a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXxYuQ7atwOsdoSLP5jezPYETms.jpg" tvg-name="Ni de coña estás invitada a mi bat mitsvá" ,Ni de coña estás invitada a mi bat mitsvá
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/35700df3-d8fd-40b0-ab78-43587f0dbf31.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idew42l7ILdyR97XC9yG4hFUy1Z.jpg" tvg-name="El club de los lectores criminales" ,El club de los lectores criminales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/637f8331-5a95-4b9f-8554-ef36ed64a528.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg" tvg-name="Sin malos rollos" ,Sin malos rollos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eac3e21e-0268-4fa0-b6cc-e705ded57591.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" tvg-name="Creed III" ,Creed III
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/94b765cb-76f0-4323-bc15-dc31912dc410.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjlzC9M0DlapGj6S1lHwVOm1eee.jpg" tvg-name="Prisionero del Diablo" ,Prisionero del Diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5214b0d8-3a58-4982-9ee6-47cc6f1fd232.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GfQ6S9PN6HBmSrmS7g363wjtTM.jpg" tvg-name="Mercy" ,Mercy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbdbb3ab-86f8-4222-8044-9d00351f4ace.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99wdStgFDTnrPbgpBt29lI87vai.jpg" tvg-name="Brujería" ,Brujería
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5e7c1b6b-899d-4572-8268-504820562dec.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d79DeKDCgFOM23O8Dr6MELZVooY.jpg" tvg-name="Elemental" ,Elemental
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1e2117bf-8073-4be7-ac65-4198c69f85fd.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwB5eY4wEw84IUBVsTty8EaWJYs.jpg" tvg-name="La Venganza de Jack" ,La Venganza de Jack
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8b764d8d-2349-40a4-9eff-54cd70d48f94.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CNysXaPpIrVHlkovJ0inoKFkX2.jpg" tvg-name="A millones de kilómetros" ,A millones de kilómetros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f6c6ae9d-dae5-422b-8bbb-e4f114aee798.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX2MUaQzAFaLIyRTPTtXNJX8ev3.jpg" tvg-name="Freestyle" ,Freestyle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0abedc3e-691d-4497-88f0-dfdb47212260.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nboVV4f4J8614W9HOGUYwJcOOd.jpg" tvg-name="Érase una vez un asesinato" ,Érase una vez un asesinato
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d3e0e823-00c5-4962-9214-97f25c096627.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lwliMeRlnMZDYVsjoabTlFRLaQ.jpg" tvg-name="Ven a Jugar" ,Ven a Jugar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f8b228d0-7533-4732-8daa-050069f9e316.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y4gXjzN9lbKAUq5IQdlPyWWYur.jpg" tvg-name="El Conde" ,El Conde
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6df2a422-1e4e-4b0d-b86d-4c54084a71c4.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf5Mqgoj1fFIeP7Ktfn8KGrYhup.jpg" tvg-name="Blue Beetle" ,Blue Beetle
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0a3e4b89-a2e2-46ea-9de7-7fb6106e6fa0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" tvg-name="Spy Kids: El armagedón" ,Spy Kids: El armagedón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/488f0e75-2961-4e4f-b4be-ea7947a25aea.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkzXrx1cAeCsVWLpWx0ZZeBHuTq.jpg" tvg-name="Operación Kandahar" ,Operación Kandahar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ef90ef78-a265-451b-81cc-43323362a00e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udniPSAJS6RDarNgSBK8IUsFthf.jpg" tvg-name="Nadie te salvará" ,Nadie te salvará
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cbd46044-68e7-4c02-8f69-152405909186.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg" tvg-name="Gran Turismo" ,Gran Turismo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09fd7bf2-4cdd-4fc4-bc1c-2feaf41af593.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYejOZfJpza6nQDOhLpji7IK80o.jpg" tvg-name="La emboscada" ,La emboscada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/acdeb7b3-009e-45b4-a0b4-1500c63bcd16.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49Kv5ZVWmkdRtH36qRYIcDtqwDg.jpg" tvg-name="Acusado" ,Acusado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a5fc3268-4b2d-4b48-aea9-56e142863252.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWspFZp0lfYeykiaPIabaGtiA6U.jpg" tvg-name="¡Scooby Doo! ¡Y Krypto también!" ,¡Scooby Doo! ¡Y Krypto también!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/37790bf9-d17a-412c-a9e4-781b5bbb2148.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Pxpd3EJ23OZxS2MppeLVimfa2.jpg" tvg-name="Two Witches" ,Two Witches
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca047e94-d4e2-45e1-b486-ab92e1e75506.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MLJFKSbyTqx7HszoK3uTbeLUmi.jpg" tvg-name="Carga máxima" ,Carga máxima
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af7cd8ee-ac63-48a4-8fab-92927ef55f77.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oeLyShu9JK7C8U57xF00zuTovf.jpg" tvg-name="La maravillosa historia de Henry Sugar" ,La maravillosa historia de Henry Sugar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/55953868-c265-4a6b-a1f4-36392a033df0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQ5cBYLKQ2neC5oncuNtwZudmd3.jpg" tvg-name="El curandero" ,El curandero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c43f2c9e-b1c3-4877-8e0c-491b4ff6e5db.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVxIX8JJJB179zh7wcUt0A6TpQQ.jpg" tvg-name="Nowhere" ,Nowhere
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/161bb13b-c0b3-49f7-816e-f1d03ef5e9f2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x0d4S5rWsnzXHEI7ddThaQeLmQ.jpg" tvg-name="Reptiles" ,Reptiles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e760addf-893a-4952-ae93-66642c7bf9c3.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrVNYtEUU9TCsteJGIQ3MSjHjLi.jpg" tvg-name="La probabilidad estadística del amor a primera vista" ,La probabilidad estadística del amor a primera vista
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/82088968-aeee-4183-a7f6-0edfde3a18a0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1CgpYTydE7Uj83e1jgEUfeTNvu.jpg" tvg-name="Breaking Point" ,Breaking Point
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/277bd58b-cdb9-4028-8106-2e8a787be6e9.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5zSigiY7rjufWDPdSTAsfIoJz1.jpg" tvg-name="Veneno" ,Veneno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f178a2e3-be4a-449b-8b8b-70d4db89a6ec.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBgynPDplmo5JTY9VfGqY35OjDu.jpg" tvg-name="Megalodón 2: La fosa" ,Megalodón 2: La fosa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85a1cf86-b91b-42e8-b252-11e1d4169558.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jny1jvCkgpzc3C0axQsX9ADYcAl.jpg" tvg-name="La mujer rey" ,La mujer rey
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b32435b2-9c88-45cd-9c4e-3d617437ce27.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XL575X3UXBOeB5yhzgxsJJvmK5.jpg" tvg-name="Ánima" ,Ánima
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/798ad815-b81a-4e79-88e7-7dc476673c76.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLf5Tq3ZvuTL8PCDgazCkBqSCUy.jpg" tvg-name="No molestar" ,No molestar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e569715-f554-4213-9f16-8aa681b81925.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRvo8y4UTrtcIZq71nN6W0xjaOi.jpg" tvg-name="Apéndice" ,Apéndice
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/555b2dcc-83b2-4d12-9fd8-6651955fe336.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGuVSc4U2uAkMqq6tAOT912pght.jpg" tvg-name="Flora y su hijo Max" ,Flora y su hijo Max
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a4c751a3-31f5-4b89-a807-9331aa4447b7.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aqCrMCWJaIKuiD7JPRnDCfYZ2g.jpg" tvg-name="Jules" ,Jules
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/86bc81eb-fae5-4fb3-9d6d-5a7226e19ed2.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ryPlzZjpOojEAuGrre2lFuBv6.jpg" tvg-name="La monja II" ,La monja II
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ce1fe32-1dca-4f11-8de6-7b1ee5159b67.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EuVUPGihWXfwTt3myKVKOydPVW.jpg" tvg-name="Mansión encantada (Haunted Mansion)" ,Mansión encantada (Haunted Mansion)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe826f36-f71f-49d7-94f7-7be68f322705.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" tvg-name="Winnie the Pooh: Miel y Sangre" ,Winnie the Pooh: Miel y Sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec567233-849b-49da-b8d7-a64381cac969.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKyWP795BoycBvukLaaatjrs3U1.jpg" tvg-name="Sangrientos dieciséis" ,Sangrientos dieciséis
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ef283312-b4b9-46e5-8d7d-384d14b006ec.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpvM9CfFjZFagkGwfbTWHTP1XCa.jpg" tvg-name="Bailarina" ,Bailarina
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a443be22-7f18-4ee4-b9f6-2f0206ee97c0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTLtWIEQzJcW1KtnbH5Zvip0FfE.jpg" tvg-name="Duelo en el abismo" ,Duelo en el abismo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/144b6276-23e0-433f-bf94-9211333328df.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbzfFLgExjl7ekLeNFEZ9EwOA9V.jpg" tvg-name="Cementerio de animales: el origen" ,Cementerio de animales: el origen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ddffecd3-b8d1-4fc8-9033-db39dcda0a66.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmWilV75xYoYQMGcV9t45m3HjLU.jpg" tvg-name="Invitación a un Asesinato" ,Invitación a un Asesinato
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c6955d62-9467-4ca4-8848-da239d951e60.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9DEQQTeNPLBQvy40AGdcoD3hGE.jpg" tvg-name="Juego limpio" ,Juego limpio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/91800e5a-4e63-4dbc-ae8a-3d26106237f0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ABCaroLcHyGN8G3ogUFtWAJd7c.jpg" tvg-name="La clave del corazón" ,La clave del corazón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d3f4680a-b87e-40f7-bf3a-227f099b00bc.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuT9LNerDiDkVJgysSadigkLcyf.jpg" tvg-name="Espía a la caza" ,Espía a la caza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ae294f76-467c-4f5d-9a44-abc17ebe8ee7.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg" tvg-name="Misión: Imposible - Sentencia mortal parte uno" ,Misión: Imposible - Sentencia mortal parte uno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d45583d9-7a8a-4988-a299-d842b36e0ce1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rcPUwkY51UL4f2JAzcKV1Ny8Oy.jpg" tvg-name="Mortal Kombat Legends - Demonios y Ángeles" ,Mortal Kombat Legends - Demonios y Ángeles
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40c97ca9-8902-4fad-996a-192de77fed5c.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIUK3Jr4iSFfzCWmMDTu6OOU7FM.jpg" tvg-name="La conferencia (The Conference)" ,La conferencia (The Conference)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67ef7212-433f-48f5-af17-c22866941b75.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C4vzdgbG5k81VhwpdX9dvrOIZx.jpg" tvg-name="The Burial" ,The Burial
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b3f236a7-8f2e-4609-ba76-85d8af513259.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpbukMqjn96Vdw8bt4MPRF8h41T.jpg" tvg-name="Cosecha oscura (Dark Harvest)" ,Cosecha oscura (Dark Harvest)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/12cad3a9-4e13-4b12-a674-b6b89c26e354.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPSnanVAnKgycgc3SJGcutXCe9A.jpg" tvg-name="Awareness" ,Awareness
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9735c919-7b3d-4afe-ba6d-13aa594261e6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQvDNNzv7AIl4ZgnT8h53uMms76.jpg" tvg-name="Juicio al diablo" ,Juicio al diablo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6de5e806-0516-4488-b1a5-615f50f84046.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81BdCKeRtyHr0muZY72zYr0JM3j.jpg" tvg-name="Érase una vez un estudio" ,Érase una vez un estudio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e030179f-72fe-425a-b39a-2c900814ad4b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhLYcyxuhb82ttYDEU5DM8b3Hy3.jpg" tvg-name="Retribution" ,Retribution
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6eab067d-292b-4ffe-b9a4-7aa344fc3f76.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbVXlqFMQU52i7DNb2C1v1O4Zwd.jpg" tvg-name="Materia Gris (Gray Matter)" ,Materia Gris (Gray Matter)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca0037df-7664-4ada-9f81-b52e67d26bb2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" tvg-name="Llaman a la puerta" ,Llaman a la puerta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dcfbd739-f295-4321-9788-9d18a7c91f18.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT00NTvMhJO2N5QSkAUfYCTIoev.jpg" tvg-name="La otra Zoey" ,La otra Zoey
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1454b078-7db7-449e-882f-6f4bfe6e52b7.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjkKGWdR5z4jPbj0LJ5omi2m9CX.jpg" tvg-name="Flashback" ,Flashback
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aa45f693-e176-4fc8-86b5-9169a0fb070a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvLtBb9FX5TDFFTQHaOevFsmkI8.jpg" tvg-name="Papás a la antigua" ,Papás a la antigua
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9701aca7-c548-4a03-8faa-310235b99f89.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hW2p1t4qBlRWskvDy2tNZRC3reJ.jpg" tvg-name="Ijogbo: Los diamantes de la discordia" ,Ijogbo: Los diamantes de la discordia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e6c51604-9c43-43f1-81b3-bc21a28b11ea.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6StdSKn9ej4rwtQjcl1XMk5E0iE.jpg" tvg-name="El exorcista: Creyente" ,El exorcista: Creyente
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78708387-eaa6-4ea0-945b-aea0721d2397.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGOYghXDXixcEgO49LGKDWIqQNT.jpg" tvg-name="De vuelta al deseo" ,De vuelta al deseo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/40ba0e0e-7699-4190-81c3-86513c9a95a8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GlfW6wbvUvX7Z2dUv4ZI70TjLe.jpg" tvg-name="El lado dulce de la traición" ,El lado dulce de la traición
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bb1a61d-693e-4610-bf6e-08a77074205a.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jOLkhDWmmzcJEhZNpDU39CNbCe.jpg" tvg-name="Sé tú misma" ,Sé tú misma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ce40cee4-cd67-427c-ad31-5b46e971084f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg" tvg-name="Five Nights at Freddy's" ,Five Nights at Freddy's
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/746e5720-c1d5-4f7d-8396-f3d8ca23044b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VIL1A787VntKNXbvsAQYlEnVAq.jpg" tvg-name="Soltera, casada, viuda, divorciada" ,Soltera, casada, viuda, divorciada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7e059456-48a6-46b6-a49b-8dd7aa3a7881.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epN0x9JTf3esk1FO8DWkhlE4Ax5.jpg" tvg-name="Saw X" ,Saw X
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07e1afca-4eea-4c81-8c35-5dbd823e8d0d.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg" tvg-name="Monster High 2" ,Monster High 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b0f79cbc-8786-47f1-a1b7-96c7ded56b65.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32QnVNvl1XlORBW3CvWsM3byCOH.jpg" tvg-name="El negocio del dolor" ,El negocio del dolor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/41e0ad28-01ae-4adb-a079-efb82ff2e5a6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg" tvg-name="The Equalizer 3" ,The Equalizer 3
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/16cfbac6-4580-40db-a9fe-d8ba94ae9763.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwkqb5ZiS7jhQH5gwtkiTdd54w6.jpg" tvg-name="La Patrulla Canina: La superpelícula" ,La Patrulla Canina: La superpelícula
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a948ce18-47e0-43ec-b3e3-fcaecb3d2381.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg" tvg-name="Misterio en Venecia" ,Misterio en Venecia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4614686b-efb8-46cc-ae73-344e03bc36ab.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOEF7NmEwcwTdbV8nsCmPk5u8VT.jpg" tvg-name="Hermana Muerte" ,Hermana Muerte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6661bbb1-9e58-45b6-97f9-4c124397df30.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDTnt1TuFm4s38KIhAOpmgGGlkL.jpg" tvg-name="Ladronas" ,Ladronas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f73ce9ff-ca2a-406a-974c-1748ec33db17.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wY5mqmwIu5XOhDBhoBY9SStjR8.jpg" tvg-name="Temporada de huracanes" ,Temporada de huracanes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7cfe6e36-a38f-4730-a7c8-673cc5abdbb1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg" tvg-name="Nuovo Olimpo" ,Nuovo Olimpo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dfc7b925-1654-48d0-93f6-35c3f3b68680.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIuQioqs28F6VjPzblUMVGMm8bB.jpg" tvg-name="Encierro" ,Encierro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3c4c81aa-ea26-47e3-a5a4-7fecca1b05ca.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Llwyv1uEH37naeRavP61eRmRc.jpg" tvg-name="Esto va a doler" ,Esto va a doler
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/38bf71af-a823-45b2-80d5-4923750ac702.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKfNw4vqbI62HAMI04imwAPjC05.jpg" tvg-name="Sonido de libertad" ,Sonido de libertad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d77456c1-fe05-45b0-8294-fea072264b4f.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oMiqN0LQUNOguRF9im6eHaeRwK.jpg" tvg-name="Las buenas compañías" ,Las buenas compañías
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e380bf2-9d4c-4730-b72c-19b375ad1422.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1utWajLPvv1R9ZwkD98s2ZEngS.jpg" tvg-name="Sly" ,Sly
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea3fbcb7-35a1-4543-a3aa-cb09a9a1b5de.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTSdecsQWdWT8IjaMLJ8kgUAzeA.jpg" tvg-name="El cazador de búfalos" ,El cazador de búfalos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ccf831c-d544-4872-bcf0-13dfc45c0ef1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qxRrkayxSYiib4JCYRM3sasQe0.jpg" tvg-name="Los mercen4rios" ,Los mercen4rios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f83bf1be-93f2-413e-b1c0-95c0ba3a7533.mkv
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LaUR5873menyfDmE0i0UTFpdMx.jpg" tvg-name="Miedo profundo" ,Miedo profundo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fda29a57-40f4-43eb-bd97-b089d3d46e87.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14SsotUuzTYKmPRxvIoFgHzwegf.jpg" tvg-name="Vacaciones de verano" ,Vacaciones de verano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f87d41f7-9b90-4151-8e20-dc702bb4ced8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="data:image/jpeg;base64,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" tvg-name="Zinedine Zidane Conoce a Lionel Messi (R)" ,Zinedine Zidane Conoce a Lionel Messi (R)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5f647086-c369-4b1b-836c-93e3c5c6eeb5.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXbAPrZTqJzlqmmRaUh95DJ5Lv1.jpg" tvg-name="El asesino" ,El asesino
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/720c7728-6615-4c91-b25f-7dbf9e7a2be3.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdSnhdqNE5bKa57qCwtCkWESjBA.jpg" tvg-name="Higuita: El camino del Escorpión" ,Higuita: El camino del Escorpión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af43cc28-828f-4549-a4f1-9d9064a3f1ae.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbo7xbz8MKJMr6MkZjXckQRXR0T.jpg" tvg-name="Doble vida" ,Doble vida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/240c96fb-2195-45a5-8839-ec51dc90dc81.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfI5sTEgJ1ozPMnA3BhZDvxnmAD.jpg" tvg-name="Cuiden a Maya" ,Cuiden a Maya
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0d9c8c32-a94d-4409-8042-4dce2bf6d138.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg" tvg-name="Oppenheimer" ,Oppenheimer
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d0f8caab-06cf-46ed-aee6-968be2242400.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fpXmOpCg61ENo7JvV2zbcseZlp.jpg" tvg-name="Bihter, pasión oculta" ,Bihter, pasión oculta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/99ea5a8a-48ea-493a-82a2-2fc6101c53e8.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mvahnNo3zbpTcXJiqoKv63m9gc.jpg" tvg-name="Believer 2" ,Believer 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0a3e0833-cec1-421e-ae8a-029b63e46198.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg" tvg-name="Trolls 3: Todos juntos" ,Trolls 3: Todos juntos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1b9066c9-4edd-44f4-9b14-84927b6ad155.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LnQfMOCxY1SXrs9SyWXtR9mMI.jpg" tvg-name="La Puerta Mágica" ,La Puerta Mágica
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0923af03-866d-4f05-87f7-9e2db99532fa.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4BTz7o7SMSv3E01nFL7rqIWZx0.jpg" tvg-name="Perezoso Amoroso" ,Perezoso Amoroso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6265d7eb-326b-4f03-8e7f-503e8e78a4b5.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clLJMEzmjIiSOetXUfOKoGmVXbY.jpg" tvg-name="El arte de matar" ,El arte de matar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1eb7e86b-e510-4a5e-bf31-6626066b1e2f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlQLb6xsqRdoXQiVv2umZejSSpb.jpg" tvg-name="Leo" ,Leo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2882bbec-4e97-443c-9af8-b034db89592f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQCNCMKVIhNqfRVxvHxz60x42mv.jpg" tvg-name="El cuco" ,El cuco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0735672c-332d-4128-8e9b-adb7a6695048.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg" tvg-name="Sisu" ,Sisu
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/91ebdc77-7b5f-4ec8-8883-a36030c5ee7f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg" tvg-name="Genio" ,Genio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/662c5c38-c1e4-4077-9ee4-baf8d2861a33.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg" tvg-name="El conejo de terciopelo" ,El conejo de terciopelo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3a4186f0-8e12-4b81-b6cb-bfe02ecce698.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1O5ejtuiL9YgfZHFp63ahVz46o.jpg" tvg-name="No voy a pedirle a nadie que me crea" ,No voy a pedirle a nadie que me crea
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ad9f5822-4079-45c7-996e-5ce9d3d19682.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAPPIeqB4cjXiS5qPFgeifndunG.jpg" tvg-name="El club de las luchadoras" ,El club de las luchadoras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d13012de-e47d-445e-b0da-ff1a1b9386a0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf263PuO1qh6WCMeZ0XZf1GkbaF.jpg" tvg-name="Fuerza bruta" ,Fuerza bruta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0955e16e-5a9b-4ec6-99e3-9341d709a4dc.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1OSHdQLcRVwE8Mls3rQuahivFS.jpg" tvg-name="Wildflower" ,Wildflower
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44fd14cd-12fe-4d62-9502-4506c9f64d46.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozkZ8TeIRwzNH2zF5LFS39M3v5U.jpg" tvg-name="El Ingeniero (The Engineer)" ,El Ingeniero (The Engineer)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be77d59d-ce4d-456c-b154-e29b26b912ac.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qs0MPcYRZ9HimnO1OoDnl7e89Iv.jpg" tvg-name="Elena sabe" ,Elena sabe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e30267e2-00f8-4b2d-83db-2ba06cf597fb.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8OXUTRQmdgOu5K6dx4Rp489uoI.jpg" tvg-name="Te esperaré en Venus" ,Te esperaré en Venus
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89c89a21-1336-473c-a4db-8e289ba353de.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx3XGX2dyQSkVjyf4YayGvqBhWO.jpg" tvg-name="Doi Boy" ,Doi Boy
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4df1f099-5278-4b6c-b590-b157a0e25116.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vABed5SpGx6jgE3oHZYqNVsu6v4.jpg" tvg-name="El Elfo De La Navidad" ,El Elfo De La Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/efd95843-5c7f-4515-8f3a-a874cd52d2e0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmtLBoXoBemSQ1kSrut4AA8xwkh.jpg" tvg-name="Historia de un Crimen: Mauricio Leal" ,Historia de un Crimen: Mauricio Leal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/428ca73f-083a-434a-8206-1f92403cf170.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHrWqTVds8MQ9j6iJZZ6IiQXbEi.jpg" tvg-name="Última llamada para Estambul" ,Última llamada para Estambul
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aaa751da-c682-4f4b-91fc-49ba3c77233e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEptDugaobbwXmAWhv766bI6YTO.jpg" tvg-name="La memoria infinita" ,La memoria infinita
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/270ccc3b-ee8f-4f59-89c7-f87957803269.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="http://daleplay.club:8080/images/ba0da193c3d7d5befb213ac81ca3981b.jpg" tvg-name="Doctor Who Especial 1: La Bestia Estelar (R)" ,Doctor Who Especial 1: La Bestia Estelar (R)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1a7fb7bd-8602-4854-9ea3-300a46d181bd.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsIuPVujug3lK08UMzwQNnQXhVs.jpg" tvg-name="Sin Aire (The Dive)" ,Sin Aire (The Dive)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/85ac8389-8843-476a-be4a-0df440a7a580.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg" tvg-name="El Bufón" ,El Bufón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dcc27662-accd-4799-b2f1-ac754b46826e.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWrJrLMD7SZoxc65KSYej6QOw12.jpg" tvg-name="Vidas pasadas" ,Vidas pasadas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54c4afbb-62cf-47df-8688-8a9bc4eec8a0.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDJiZua9gUzHRwefHhw2OaJ8HTF.jpg" tvg-name="Familia revuelta" ,Familia revuelta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bee6632-689c-41dc-9132-1b41caf48707.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP4gaqTeknpTFffHc9o8RwIS23z.jpg" tvg-name="Paisaje con mano invisible" ,Paisaje con mano invisible
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8959914-ad14-40bf-a38f-2f629372a8f9.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjz7yOtEaRFumJK2NMpdkazLHwV.jpg" tvg-name="Gold" ,Gold
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08dc65d0-f112-42c9-8d35-5f258faaff32.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfUbIRiuKcGO0BS0k7UeJlaks8X.jpg" tvg-name="El guía" ,El guía
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca527a51-3312-4775-8972-5baba9abbc16.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9wHkwF9ttnNKuOoEIStve32jEk.jpg" tvg-name="Los Simpson: La película" ,Los Simpson: La película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2fbaa566-ac46-443e-8e10-0b1f6f376461.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaNjKg0FSOwBUNcFs5AKxuJOM1o.jpg" tvg-name="Doctor Who at 60: A Musical Celebration" ,Doctor Who at 60: A Musical Celebration
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67efc01b-fe5c-4f34-9d3b-900925997a0c.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg" tvg-name="V/H/S/85" ,V/H/S/85
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/836d545e-2f76-45b7-83ed-bd617774efd1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NqUrL2kmhvZFxawccpqMf8UFrU.jpg" tvg-name="Assassin Club" ,Assassin Club
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aee6e98b-d0a7-4d23-be92-00421ac8a5dd.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZoRTMQa2l5uWBpf6l3wQJHmrFE.jpg" tvg-name="Dejar el mundo atrás" ,Dejar el mundo atrás
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a706c66a-1bb0-4c22-899b-951f83a75994.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45pDkZ986FayuGEkXz5paF6X6BO.jpg" tvg-name="En el desierto" ,En el desierto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd98ec73-bc13-48c6-8daf-a2d6d967e8f1.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6fll4kwxhzG0iRdPRjFpuG8GmN.jpg" tvg-name="Huida sangrienta" ,Huida sangrienta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba0379f1-eed2-4f8e-b484-d991a354f4ca.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPT3EH3bC5yF6rfgWg3vfVO9ag.jpg" tvg-name="All Souls" ,All Souls
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/75a34fca-2701-4d90-8846-f59e05afd4b2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD6A6BFYl8crNfZ3vs6LzxD8c1g.jpg" tvg-name="Silber y el libro de los sueños" ,Silber y el libro de los sueños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/421d8e34-3222-4049-ac64-1b9ac85b2fe2.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYvJDlOdV5RVhmH9zv3sjXOhT3u.jpg" tvg-name="Viaje Todo Robado" ,Viaje Todo Robado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bf91d845-0691-4a4e-8d4e-8f7c663b411b.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sA8HGHvbm9CqIJZfFmFZxgsOH6.jpg" tvg-name="Welcome al Norte" ,Welcome al Norte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cccd25e7-79cd-4b1e-acd1-7b1a9f5da7e6.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj74sUGsPMg5qDQooh8GTs4MvbP.jpg" tvg-name="Mr. Monk's Last Case: A Monk Movie" ,Mr. Monk's Last Case: A Monk Movie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08f1d722-fb46-4fa3-b721-8f386fdaa701.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rAxc5S0DSXnWbDxuNIsml4OH65.jpg" tvg-name="Asedio" ,Asedio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d5538f2-c049-4f81-938f-5b31a521b009.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwc8TlNjddcgpCzujLP17hBC8TI.jpg" tvg-name="Blackberry: El inicio de la historia" ,Blackberry: El inicio de la historia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/55d31538-d6ce-4dde-acfb-0509e4ff38e4.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m74po26L9Gpz0NMhwWzAIRR0Et1.jpg" tvg-name="Inmersión" ,Inmersión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe55e5d1-62e4-4439-b788-6e703602845f.mp4
+#EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C84544DB22229E6682821F45ECC52D540405E733F34E1FFA9941D10D5E47FF35/scale?width=506&aspectRatio=2.00&format=jpeg" tvg-name="Doctor Who Especial 3: Risitas (R)" ,Doctor Who Especial 3: Risitas (R)
+http://daleplay.club:8080/movie/020524.020202.052424./mj
