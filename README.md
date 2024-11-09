@@ -48,11 +48,11 @@ http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
 http://cord-cutter.net:8080/live/Adrian12/Adrian34/78697.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(4)
-http://vipizfq.top:8080/live/VIP01821172651647798/f9b48eb1258b/5271.ts
+http://streamsy.online:2999/live/jbridge/p6omQOdliy/1417.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES
-http://vipizfq.top:8080/live/VIP01821172651647798/f9b48eb1258b/5991.ts
+http://streamsy.online:2999/live/jbridge/p6omQOdliy/528.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM
