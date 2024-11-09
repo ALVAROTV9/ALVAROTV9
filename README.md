@@ -2,61 +2,63 @@
 
 #https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL AHORA
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL AHORA
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/13322.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611253.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO 2◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO 2◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611250.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV FOOTBALL + ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV FOOTBALL + ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609319.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,EVENTO LA LIGA ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,EVENTO LA LIGA ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609313.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PPV PREMIER L 1 ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PPV PREMIER L 1 ◉
 http://streamsy.online:2999/live/jbridge/p6omQOdliy/2165.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE 2 ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE 2 ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609312.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/nDdcQVr/serieA.png" ,SERIE A 🇰🇼 
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/nDdcQVr/serieA.png" ,SERIE A 🇰🇼 
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/558717.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/nDdcQVr/serieA.png" ,SERIE A 
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/nDdcQVr/serieA.png" ,SERIE A 
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/558718.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 1
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 1
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609328.ts
 
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 2
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 2
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609317.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 3
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 3
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609316.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 4
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 4
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609321.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 5
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 5
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO INTER MIAMI MESSI
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO INTER MIAMI MESSI
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/510689.ts
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +
+http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8512
@@ -80,7 +82,8 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/610360.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN COL 1
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/110789
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (2)
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287812
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611114.ts
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col) 2
 http://cord-cutter.net:8080/live/Adrian12/Adrian34/86765.ts
 
@@ -123,21 +126,21 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9564
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 1
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 1
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609338.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 2
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 2
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609339.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 3
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 3
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609340.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 4
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 4
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609341.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 5
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 5
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609342.ts
 
 
@@ -208,99 +211,104 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394276
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9543
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Atletico Madrid)🇪🇸
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Atletico Madrid)🇪🇸
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557276.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Barcelona) 🇪🇸
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Barcelona) 🇪🇸
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557277.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Real Madrid) 🇪🇸
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Real Madrid) 🇪🇸
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557288.ts
 
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 1 🇬🇧
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 1 🇬🇧
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508184.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 2 🇬🇧
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 2 🇬🇧
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/134300.ts
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 3 🇬🇧
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 3 🇬🇧
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214147.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,BUNDESLIGA BAYER MUNICH
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,BUNDESLIGA BAYER MUNICH
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/590548.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A MILAN FC
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A MILAN FC
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557316.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A JUVENTUS
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A JUVENTUS
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557313.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A INTER MILAN
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A INTER MILAN
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557312.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE1
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE1
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516239.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 2
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 2
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516240.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS L 3
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS L 3
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516241.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS L 4
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS L 4
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516242.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 5
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 5
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516243.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 6
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 6
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516244.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 7
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 7
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516245.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,BRASIL FUTBOL🇧🇷
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,BRASIL FUTBOL🇧🇷
 http://14225021914.com/446686613/v144b5856g/494
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" , ARG FUTBOL🇦🇷
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" , ARG FUTBOL🇦🇷
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/367912
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" , ARG FUTBOL🇦🇷TyC SPORTS
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" , ARG FUTBOL🇦🇷TyC SPORTS
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214185.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,MEXICO FUTBOL🇲🇽
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,MEXICO FUTBOL🇲🇽
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/367277
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,PERU FUTBOL🇵🇪
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,PERU FUTBOL🇵🇪
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/104110
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,ECU FUTBOL🇪🇨
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/104110
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,ECU FUTBOL🇪🇨
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611331.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PARAGUAY FUTBOL
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604620.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS W.W.E
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/31856.ts
-
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS UFC
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3112.ts
-
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,TENNIS
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3108.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,CHILE FUTBOL
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611165.ts
 
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,NBA 1
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3104.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,BOLIVIA FUTBOL
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611067.ts
 
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,NBA 2
+
+
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,NBA 
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/76981.ts
 
 
