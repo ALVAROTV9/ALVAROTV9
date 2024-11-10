@@ -41,11 +41,6 @@ http://streamsy.online:2999/live/jbridge/p6omQOdliy/2165.ts
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE 2 ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609312.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/nDdcQVr/serieA.png" ,SERIE A 🇰🇼 
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/558717.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/nDdcQVr/serieA.png" ,SERIE A 
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/558718.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 1
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609328.ts
@@ -63,12 +58,6 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609321.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 5
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO INTER MIAMI MESSI
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/510689.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO SOCCER
-http://206.212.244.71:8080/live/4wVQA7/625159/135810.ts
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +
@@ -119,11 +108,6 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8489
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS COL 2
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499078.ts
 
-
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4
-http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245706
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 5
-http://tvgusplay.info:8080/1TVPRJOSEUG2501/PDFJDDaxqQH4/245707
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2
 http://14225021914.com/446686613/v144b5856g/234269
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 Col
@@ -138,6 +122,8 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9564
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 opc3
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
+
+●●●●●
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 1
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609338.ts
@@ -156,7 +142,7 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609341.ts
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 5
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609342.ts
 
-
+●●●●●●
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214190.ts
@@ -223,40 +209,8 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394276
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/df4L29x/espn7.png" , ESPN 7 (2)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9543
 
+●●●●●●
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Atletico Madrid)🇪🇸
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557276.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Barcelona) 🇪🇸
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557277.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA (Real Madrid) 🇪🇸
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557288.ts
-
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 1 🇬🇧
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508184.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 2 🇬🇧
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/134300.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER L 3 🇬🇧
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214147.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,BUNDESLIGA BAYER MUNICH
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/590548.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A MILAN FC
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557316.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A JUVENTUS
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557313.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SERIE A INTER MILAN
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/557312.ts
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE1
@@ -269,7 +223,7 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516240.ts
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516241.ts
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS L 4
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 4
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516242.ts
 
 
@@ -311,14 +265,12 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604620.ts
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611165.ts
 
 
-
-
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,BOLIVIA FUTBOL
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611067.ts
 
 
 
-
+●●●●●
 
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,NBA 
