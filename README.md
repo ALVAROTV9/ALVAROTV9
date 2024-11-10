@@ -88,21 +88,20 @@ http://streamsy.online:2999/live/jbridge/p6omQOdliy/528.ts
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/610360.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN COL 1
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/110789
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (2)
+
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (1)
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611114.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col) 2
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col)
 http://cord-cutter.net:8080/live/Adrian12/Adrian34/86765.ts
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col) 3
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (col) 2
 http://1tv41.icu:8080/live/B1Akvm/965096/86765.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN MEX
-http://14225021914.com/446686613/v144b5856g/234273
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN MEX (2)
-http://tv.iprotv.live/ProYeCtoX998/NuevaProyectoRw/1922
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604507.ts
+
+
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287810
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (2)
@@ -190,7 +189,7 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/81
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9583
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/hWXPtPs/fox-Sports3.png" ,FOX SPORT 3 Mex
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/228515
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" ,ESPN
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" ,ESPN 5
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394274
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" ,ESPN 5 (2)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9539
@@ -416,29 +415,39 @@ http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/4MsfwJj/cnn.png" ,CNN en Esp
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/63073
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604487.ts
+
+#EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/4MsfwJj/cnn.png" ,CNN Internacional 
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/418118.ts
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/26CXSQt/discovery-Channel.png" ,Discovery Channel
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53457
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611595.ts
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/26CXSQt/discovery-Channel.png" ,Discovery Channel (2)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9816
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/ypRDbPf/investigation-Discovery.png" ,Investigation Discovery
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53462
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604494.ts
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/ypRDbPf/investigation-Discovery.png" ,Investigation Discovery (2)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9842
-#EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/Dt6YRwS/history-Channel.png" ,History Channel
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53481
+#EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/Dt6YRwS/history-Channel.png" ,History España
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/603435.ts
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/Dt6YRwS/history-Channel.png" ,History Channel (2)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9841
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/NVcVQtC/history2.png" ,History 2
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394290
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611616.ts
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/NVcVQtC/history2.png" ,History 2 (2)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9839
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/FxBsnpt/natGeo.png" ,NatGeo
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53491
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604546.ts
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/FxBsnpt/natGeo.png" ,NatGeo (2)
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9847
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/MRrYJBx/animal-Planet.png" ,Animal Planet
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/54172
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604465.ts
+
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/MRrYJBx/animal-Planet.png" ,Animal Planet (2)
 http://legiontv.online:80/Casa123/Casa123/1071000
 
