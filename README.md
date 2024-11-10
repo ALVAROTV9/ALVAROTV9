@@ -172,22 +172,34 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
 ●●●●●
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 1 DAZN
-http://live.11odin.xyz:8080/live/AvT8WuKpHK/xn1FmGWiIY/5869.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 1 
+http://rolatvs.com:8080/live/frog7442u/030816khrjy/25.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 2 DAZN
-http://fortv.cc:8080/live/5djSbC/538755/167748.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 2
+http://rolatvs.com:8080/live/frog7442u/030816khrjy/26.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 3 DAZN
-http://fortv.cc:8080/live/5djSbC/538755/167749.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4 DAZN
-http://fortv.cc:8080/live/5djSbC/538755/167750.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 3
+http://rolatvs.com:8080/live/frog7442u/030816khrjy/27.ts
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 5 CARIBE
-http://fortv.cc:8080/live/5djSbC/538755/66077.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4
+http://rolatvs.com:8080/live/frog7442u/030816khrjy/23.ts
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 5
+http://rolatvs.com:8080/live/frog7442u/030816khrjy/24.ts
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 6
+http://rolatvs.com:8080/live/frog7442u/030816khrjy/32.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 7
+
+http://rolatvs.com:8080/live/frog7442u/030816khrjy/33.ts
+
+
+
+
 
 ●●●●●●
 
