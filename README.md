@@ -9,12 +9,59 @@
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ALVAR0TV NOTAS◉r
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
-
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL HD²
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/148367.ts
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL AHORA
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/13322.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,NTN24
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/60761.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,RCN
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/432644.ts
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,CANAL 1
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/57781.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,DISNEY+
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/405855.ts
+
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,TELEMUNDO
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/483869.ts
+
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,UNIMAS
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/483885.ts
+
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,UNIVISION
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/483897.ts
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,UNIVISION DEPORTES
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/493549.ts
+
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,LAS ESTRELLAS MEX
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/305448.ts
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESTRELLA TV MEX
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/469582.ts
+
+
+●●●●●●
+
+
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
