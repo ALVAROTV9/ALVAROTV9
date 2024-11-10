@@ -80,31 +80,37 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609319.ts
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,EVENTO LA LIGA ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609313.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PPV PREMIER L 1 ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PREMIER LEGUE 1 ◉
 http://streamsy.online:2999/live/jbridge/p6omQOdliy/2165.ts
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE 2 ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609312.ts
 
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,EVENTO PRRMIER LEAGUE 3 ◉
+http://31.42.187.37:25461/live/C42AFE290824/C42AFE290824/3115.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 1
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 1 ★
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609328.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 2
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 2 ★
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609317.ts
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 3
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 3 ★
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609316.ts
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 4
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 4 ★
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609321.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO PPV VARIADO 5
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 5 ★
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
 
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 6 ★
+http://31.42.187.37:25461/live/C42AFE290824/C42AFE290824/111.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
@@ -169,22 +175,6 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9564
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
 
-●●●●●
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 1★
-http://tvmate.icu:8080/live/k4Svp2/645504/167742.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 2★
-http://tvmate.icu:8080/live/k4Svp2/645504/167743.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 3★
-http://tvmate.icu:8080/live/k4Svp2/645504/167744.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4★
-http://tvmate.icu:8080/live/k4Svp2/645504/167745.ts
-
-
 
 
 
@@ -195,8 +185,8 @@ http://tvmate.icu:8080/live/k4Svp2/645504/167745.ts
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214190.ts
 
 
-#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS Xtra
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214192.ts
+#EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS english
+http://31.42.187.37:25461/live/C42AFE290824/C42AFE290824/4096.ts
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN MEX
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/87590
