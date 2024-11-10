@@ -25,7 +25,8 @@ http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/518624.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO 2◉
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611250.ts
+http://206.212.244.71:8080/live/4wVQA7/625159/78717.ts
+#lista del 2023 a marzo2025#
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV FOOTBALL + ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609319.ts
@@ -65,6 +66,10 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO INTER MIAMI MESSI
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/510689.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTO SOCCER
+http://206.212.244.71:8080/live/4wVQA7/625159/135810.ts
+
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
