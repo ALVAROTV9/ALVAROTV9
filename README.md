@@ -172,8 +172,8 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
 ●●●●●
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 1
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609338.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 1 DAZN
+http://live.11odin.xyz:8080/live/AvT8WuKpHK/xn1FmGWiIY/5869.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 2
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609339.ts
@@ -260,8 +260,8 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9543
 
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE1
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516239.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE (1)
+http://live.11odin.xyz:8080/live/AvT8WuKpHK/xn1FmGWiIY/5862.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 2
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516240.ts
