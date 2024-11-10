@@ -6,7 +6,7 @@
 
 #https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ALVAR0TV NOTAS◉r
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 
@@ -22,7 +22,7 @@ http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO ◉
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611253.ts
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/518624.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO 2◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611250.ts
