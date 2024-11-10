@@ -107,10 +107,31 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609321.ts
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 5 ★
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
 
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 6 ★vip
+http://1tv41.icu:8080/live/25464931/30585186/167742.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 7 ★vip
+http://1tv41.icu:8080/live/25464931/30585186/167743.ts
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 6 ★
-http://31.42.187.37:25461/live/C42AFE290824/C42AFE290824/111.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 8 ★vip
+http://1tv41.icu:8080/live/25464931/30585186/167743.ts
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 9 ★vip
+http://1tv41.icu:8080/live/25464931/30585186/167744.ts
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 10 ★vip
+http://1tv41.icu:8080/live/25464931/30585186/167745.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE (1)
+http://live.11odin.xyz:8080/live/AvT8WuKpHK/xn1FmGWiIY/5862.ts
+
+
+●●●●●●●●
+
+
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
@@ -174,12 +195,6 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9564
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 opc3
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
-
-
-
-
-
-●●●●●●
 
 #EXTINF:-1 group-title="🔵FULL DEPORTES" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/214190.ts
@@ -248,30 +263,6 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9543
 
 ●●●●●●
 
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE (1)
-http://live.11odin.xyz:8080/live/AvT8WuKpHK/xn1FmGWiIY/5862.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 2
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516240.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS L 3
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516241.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 4
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516242.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 5
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516243.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 6
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516244.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE 7
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/516245.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/GPSF4QQ/futbol.png" ,BRASIL FUTBOL🇧🇷
 http://14225021914.com/446686613/v144b5856g/494
