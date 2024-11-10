@@ -1787,6 +1787,563 @@ http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/914e785f-4278
 http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b93268d3-240f-4f2e-8b76-967395c95c7f.mp4
 
 
+●●●●●●
+
+
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3231PVj6NwYxw9hcEK18TyKdkRm.jpg" tvg-name="Maniobra Radical (C)" ,Maniobra Radical (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eb91c486-c133-4e06-af99-6ef361998e64.mp4
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kFquXISihCWIe1ANGCK08r0dEz.jpg" tvg-name="García y García (C)" ,García y García (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c4547b84-bf8f-4108-af13-60afabb072ee.mp4
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKnS8jomqgtBZ4YAl8lWvn7CM6e.jpg" tvg-name="Aprendiendo A Ser Padre (C)" ,Aprendiendo A Ser Padre (C)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bab7ba93-1d91-4666-b492-da1467635185.mp4
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmQCS5l9MZZsfLbNENExSkP1Myj.jpg" tvg-name="A mil kilómetros de la Navidad" ,A mil kilómetros de la Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/27aff5e4-713e-40c8-909e-91273731380e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ytgYjDokdpkdRhbgdCVeWC7vJj.jpg" tvg-name="22 contra la Tierra" ,22 contra la Tierra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1f314c08-c9fa-4167-b94c-c9eb0e7d3c7d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5g4R1OFM9PpzI4sStQDYwldAJp.jpg" tvg-name="Deep Soria" ,Deep Soria
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4226f579-04f9-4293-939a-80ac119b5e4a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v23nJWsYGaI3ysikMBWJgIjcGwL.jpg" tvg-name="Dos" ,Dos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/49624cbf-7ee4-403f-9b7b-614f40c3b93f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mNwP4NsJisqLKbKVlil3OaZNQI.jpg" tvg-name="Mickey y Minnie y el deseo de Navidad" ,Mickey y Minnie y el deseo de Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a01447e4-7efe-4fe0-a315-34dcabdfc97f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaxrs3OvIjJWK7ztuf6PQMCAB0P.jpg" tvg-name="Dos sinvergüenzas" ,Dos sinvergüenzas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/28bdfd26-5ed3-4a3e-bef5-e8f084c0497c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmIibRnjWDg56Rsx0KY1Y1U0wok.jpg" tvg-name="El arma del engaño" ,El arma del engaño
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/774e6d4d-237c-4483-91f1-d2d33b55dcf8.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0jtdXOHnyK7kqWU7cFux6UOANW.jpg" tvg-name="El Chico Que Mato A Mis Padres" ,El Chico Que Mato A Mis Padres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/774b2cdf-7fe9-46a1-a9a3-5ec8746c6682.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmJLT7KAZf1V2QgQ3WIUqWNVyeQ.jpg" tvg-name="El año de la furia" ,El año de la furia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b202f5db-1acb-4e69-8052-8cc90791de16.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1cmE1bDlFOpYjKsAm15o9A4c4l.jpg" tvg-name="El diario de Greg" ,El diario de Greg
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cd975d29-c942-45c6-a152-52dd9ec489d9.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lE7VFd0jV0Hmde6VTij70zj08lJ.jpg" tvg-name="En un momento aún mejor" ,En un momento aún mejor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ff032e2-5052-4f37-a3e1-ace11ed14721.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fx96qNp96Pdqxqvd3EXFFxcTeLV.jpg" tvg-name="El encuentro" ,El encuentro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0ed03e4a-c5ec-4556-83c3-25a3f21adb09.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQVUfxlReZm3UU6CkS15jeFbUFm.jpg" tvg-name="Enséñame el camino a casa" ,Enséñame el camino a casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4b131ae9-f644-4ad9-9636-4880ec0dafc4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSF7INctoCQ4iPFRiRkZjIQIIVa.jpg" tvg-name="Escapa del Undertaker" ,Escapa del Undertaker
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f20f9d0b-0a2b-4933-a8c8-5a2bd6f0c0d5.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4qCDRElLi7zwREDmkfe5AOetF4.jpg" tvg-name="Hay alguien en tu casa" ,Hay alguien en tu casa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8934e901-b019-44d9-9298-787bb5db939b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LLD49z8dGtIrUKUhS7t0kNB2HG.jpg" tvg-name="Así Crecí" ,Así Crecí
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/086ef254-df76-48cc-b8c2-53226e8a2e0b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W5wMVPfaxX5JAGMv1G1kMA2MHZ.jpg" tvg-name="Descuida, yo te cuido" ,Descuida, yo te cuido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a1663b84-679e-4a95-9d30-0a657acded30.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDUtJIr4lPeMnF7vXHyAqCXkR4s.jpg" tvg-name="Héroes: silencio y rock & roll" ,Héroes: silencio y rock & roll
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44e302a7-0884-4d98-a691-c848364f2e84.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" tvg-name="Ilusiones mortales" ,Ilusiones mortales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0840642a-e04e-477e-ae75-aa98097178f5.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2nEAHto6vWwiCZ5SjDqaGue29v.jpg" tvg-name="Impacto" ,Impacto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1df309f3-92b6-4736-9023-73215a08c5cc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25ObiYScyfe2KL9eeY5gjhTX0cq.jpg" tvg-name="Belleza Maldita (Bad Hair)" ,Belleza Maldita (Bad Hair)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58bc365d-f457-483e-9a54-7275edd9b0cf.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ7yGNJFfByRIGWPFkHhwSzl9Je.jpg" tvg-name="La funeraria" ,La funeraria
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/55194803-6d92-4aef-8661-e734f7e5cc04.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg" tvg-name="La guerra del mañana" ,La guerra del mañana
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0e068741-082a-457d-8f3d-79b217e74b64.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuV4ybeV2PRd4WjTsEYqxkcIpMy.jpg" tvg-name="Barbie y Chelsea: El cumpleaños perdido" ,Barbie y Chelsea: El cumpleaños perdido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a02bc783-489f-4617-b9de-0364f9cac2d2.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg" tvg-name="La Patrulla Canina: La película" ,La Patrulla Canina: La película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e8852caa-1448-4b56-b68d-802f37bb4659.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk8EeuRPOASUKGXyiiSsUViU99R.jpg" tvg-name="La magia de la Isla" ,La magia de la Isla
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3a4a9527-4f61-4135-8c46-c2f5f51831a7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebQ8RXIjKZoGnpZ7mFs7z2iklb6.jpg" tvg-name="Lejos del árbol" ,Lejos del árbol
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01ea9bf7-d255-4fb4-9c42-5e53c3a492df.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bGVC0tkhvihjZHNFJuiuY2YcN7.jpg" tvg-name="A todos los chicos: Para siempre" ,A todos los chicos: Para siempre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56bd6a4e-19d5-4f4e-bcf0-59a9bbbac01f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWQNqzFWlOKp2Zi7FhHMIK1NMPD.jpg" tvg-name="Los Héroes del Apocalipsis Felices Días Finales" ,Los Héroes del Apocalipsis Felices Días Finales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6e2b6334-1926-4a6a-9038-31144898b3da.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1eq7A9NArBbwZP9YYVJEZ2pvY.jpg" tvg-name="Los Mitchell contra las máquinas" ,Los Mitchell contra las máquinas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/02e434b8-bd69-4b87-86a8-6948ea928d56.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9miY5tHWmvVAft4gjqyaXyhLYHY.jpg" tvg-name="Madame Claude" ,Madame Claude
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b77d2c8b-8ec2-417e-b288-baf0f07342d6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op3w3Jq369IzaiIcVfN4nsPrMVY.jpg" tvg-name="Los Estados Unidos contra Billie Holiday" ,Los Estados Unidos contra Billie Holiday
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b8358326-42da-4f48-9d7b-7c39d7137c8d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6O6T7N7qL4rVGSCPZeWyT9F499.jpg" tvg-name="Santos criminales" ,Santos criminales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c0331a0f-2ca4-48c1-a94c-165ca3a1239e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKStIOy49kaesvt0XSbgZ1cnAsR.jpg" tvg-name="Los colores del amor" ,Los colores del amor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cb61e1a3-c4ce-4207-9a9a-43e652b3e233.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEbBaFX7DBSrv0GbLvJFZXQ7Sdw.jpg" tvg-name="A todo tren: destino Asturias" ,A todo tren: destino Asturias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe01128e-a5ed-4ea0-a67e-b2c217932fe3.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dh0rzwmE6IHMaWi11SBQz6SMQf.jpg" tvg-name="La cinta de música" ,La cinta de música
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/856aa172-d733-4874-9015-368a559a566b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkokENeY5Ka30BFgWAqk14mbnGs.jpg" tvg-name="Mascotas monstruosas: un corto de Hotel Transilvania" ,Mascotas monstruosas: un corto de Hotel Transilvania
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/32a90f0d-e1c2-4e0d-a52c-1c56f79cb74f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLIwpCTf4QoW01pp85KP9jcfTpu.jpg" tvg-name="Matrix Resurrections" ,Matrix Resurrections
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31ce23b3-a5cd-42dd-86df-44c783d13379.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GZ1QXvndqeXYmLNsmaAGFspKXC.jpg" tvg-name="Madre/Androide" ,Madre/Androide
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67d54e71-16b9-4472-8ddc-096df62497cc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJfefyZ6GrgvHU16BqloIHARiXj.jpg" tvg-name="My Little Pony: Una nueva generación" ,My Little Pony: Una nueva generación
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/569fc839-5c18-4eb1-8c19-e25b254aaf63.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sYckbakLO5ItdSuWYOX3OfnIjg.jpg" tvg-name="Nacido para ganar" ,Nacido para ganar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/91816a95-ae3a-45a7-891a-009314ea2752.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsI7AEaq7qr5h3z5dnG3QIS13Yk.jpg" tvg-name="No mires arriba" ,No mires arriba
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f0d0cdf8-0922-407d-9dc5-a049cac29732.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqPTx3z2RVOvrIO3aJYO7avSavC.jpg" tvg-name="Causalidad" ,Causalidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a1d21a57-186b-473d-861e-bcdd2218fd01.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/redrsZOK1g4TIw9jg7iCGjugpjK.jpg" tvg-name="More Than Miyagi: The Pat Morita Story" ,More Than Miyagi: The Pat Morita Story
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/882fc381-7871-4346-b04f-3478c662f32b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7H6r0SN0BqMY3ZNuJxaOHDVFut.jpg" tvg-name="Operación Feliz Navidad: La estafa de los duendes" ,Operación Feliz Navidad: La estafa de los duendes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b4ffb277-22b2-4615-aa9d-ad6f68fd7cdd.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLgwrlaxqQaSxBAFmjMDPR4gogO.jpg" tvg-name="La nueva noche de los muertos vivientes" ,La nueva noche de los muertos vivientes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d17be60f-e777-4eab-9939-111356f8de5b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HSov8EW2fI3oQbUJxOvnf684ej.jpg" tvg-name="Oscura Verdad" ,Oscura Verdad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f30d2a92-bc49-45db-8876-80e35d04bbb1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZJuctnatinO0OpnruGOWaT4Bga.jpg" tvg-name="Operación Varsity Blues: Fraude universitario en EE.UU." ,Operación Varsity Blues: Fraude universitario en EE.UU.
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60284f64-41c1-456b-95c0-84226758ffdb.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7H6r0SN0BqMY3ZNuJxaOHDVFut.jpg" tvg-name="Operación Feliz Navidad: La estafa de los duendes" ,Operación Feliz Navidad: La estafa de los duendes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b9c433e-8018-49b1-96ed-4db225dd25b9.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpmbpZqgJosOCvGaKy3uohHxgsw.jpg" tvg-name="7 días sin redes sociales" ,7 días sin redes sociales
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5c6700a3-726f-4145-8077-790a603789f4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8z6SLauVXBm7aIE1XOKBTnjuQS.jpg" tvg-name="Peaje Mortal" ,Peaje Mortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f43c599c-8f1c-4b4b-8eee-1eb8c66df64b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9r4aLl7OAXdGK49u5oEjlbHKA3.jpg" tvg-name="Patrulla trueno" ,Patrulla trueno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/86c87bb8-442d-4608-baf4-810d55758e67.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wEKcx7g3YRocecq18MwZd4dTyd.jpg" tvg-name="Polizón" ,Polizón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d70236e6-2e8a-4a82-8d62-c6414d43889c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qb6u23jMucfMlJ4MCSFo8djka1.jpg" tvg-name="Peter Rabbit 2: A la fuga" ,Peter Rabbit 2: A la fuga
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9129cf5c-9d93-4b59-9895-e0e511c0a8f1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYiyNyS8DPsEgE3Bav1SBHvopeF.jpg" tvg-name="Presas de caza" ,Presas de caza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0453643c-4b2a-4bd6-8eb2-21fb37f6ab16.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jHnykugFB3awLTwDM5LQ93TIzs.jpg" tvg-name="Rayo Murali" ,Rayo Murali
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d26e9cd9-5738-4042-8018-378a45fcd893.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6p8I3KOuh7QmZzCQgGmGM7PzEK.jpg" tvg-name="Cherry" ,Cherry
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3715e4e4-70d9-4a86-a9f0-0399548be568.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg" tvg-name="Ruega por nosotros" ,Ruega por nosotros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89b0520d-be07-4780-a693-3817e3356c83.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eH3qxIF1tBqDCWwnLKShcGQR1Ch.jpg" tvg-name="Ruido" ,Ruido
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/859ec66a-37d9-4663-99dd-4f58e2aadde7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX1XLbrHxpryX9EOWI3akbasz6c.jpg" tvg-name="Después de ti" ,Después de ti
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3efffb41-6497-4e97-922b-26b62f3dd2b1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R3eKsdVS7ZWrY28QUt3DCG3N72.jpg" tvg-name="Seobok" ,Seobok
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a7bc6dd-fbb5-4d17-af2c-626f8fcdaef6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg" tvg-name="Snoopy presenta: Por los viejos tiempos" ,Snoopy presenta: Por los viejos tiempos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b92ca5be-6084-4eb6-8cbc-e397401b14a7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hRAvXdpCMDm9WDOMFksY7nZAhl.jpg" tvg-name="Ser padre" ,Ser padre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e0e3714e-faf7-4378-b1db-a329e7e8a068.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg" tvg-name="¡Canta! 2" ,¡Canta! 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fa78bb04-e889-49c3-a458-4acab293f21f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omMYAGZRtvTIObI1835JyemxHJr.jpg" tvg-name="Sk8r Grrl" ,Sk8r Grrl
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f5e9e91e-72da-4d78-b494-a0cfa6da0212.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abDxPtElhJnLnnJxgMqJ1N2H8yl.jpg" tvg-name="South Park: Post Covid" ,South Park: Post Covid
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b324b7a-0d28-4e83-80ad-1cff4670c503.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BjZAcj4oGokaIGoMDWh6njWzVr.jpg" tvg-name="Space Jam: Nuevas Leyendas" ,Space Jam: Nuevas Leyendas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a47ef933-d8e5-49f9-9526-7652e2182310.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg" tvg-name="Cruella" ,Cruella
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01368d63-029d-4f1d-b495-40679c16ede7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiUdO4gEIA07y6RSQKRWShJcUrh.jpg" tvg-name="The Evil Twin" ,The Evil Twin
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7655e9f6-a72a-4402-9c27-8b5082094bfa.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpd5vbtIubVuEi71XLalCpWLf6m.jpg" tvg-name="Una navidad de locos" ,Una navidad de locos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d0899254-5732-46b5-967e-c3e18521c176.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy3Ac0RwYBDXHeZcGwfJmvYNXB.jpg" tvg-name="Dangerous Medicine" ,Dangerous Medicine
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/83400c18-e7df-4444-a70e-3e361608e748.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" tvg-name="Dancing Queens" ,Dancing Queens
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ddc79344-ace4-4fad-aa07-acb8d80185c6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIfq6HIlHPekBX2hOeXJLeGgWnb.jpg" tvg-name="El perfecto hombre equivocado" ,El perfecto hombre equivocado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/979b0c16-7dcf-4c16-bcc9-36d5037e5815.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umRD47jVNHMxVIe4iHNr55pPq0B.jpg" tvg-name="Los Voyeurs" ,Los Voyeurs
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ca90f0eb-31e7-4d52-b432-268fdcc23559.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwZ0d29xTh7BvJZfolLffRR6iVr.jpg" tvg-name="Tiempo" ,Tiempo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/078bb8b2-e3e4-4fc3-9263-a0f5714b6c25.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VpyHJgtihILK3QYa3erNuaWxzQ.jpg" tvg-name="Tom y Jerry" ,Tom y Jerry
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dca64f47-6a98-4dcf-b524-00f973abf57e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Liis8GMdJHfL91hbzWJV6wwTDc.jpg" tvg-name="Un crimen común" ,Un crimen común
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ec5cefaf-4b37-4020-a901-ecc3cbfb64ff.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uueEJBE69FO7Hh2pXQeqyGFydWW.jpg" tvg-name="Yo y las Bestias" ,Yo y las Bestias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ce87cc3-c08b-49bd-8e11-1975dc5e0335.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5x95riaxPFC8SUQTit4ZkkqxXh.jpg" tvg-name="¿Por qué me mataron?" ,¿Por qué me mataron?
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e0d0e52e-c0ea-481f-85cb-c2735ad18ea8.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cny2yzaSZGMQ1bSLsLNVm67mIvI.jpg" tvg-name="Wrong Turn. Sendero al infierno" ,Wrong Turn. Sendero al infierno
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/312e0a36-b2ea-4dbf-b999-195ff64f84cf.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikTmjGDSXWlPRsNZ3AvnBR3Pry8.jpg" tvg-name="Gintama: The Final" ,Gintama: The Final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b556b2bb-df6f-4101-8af3-6543b15eee8f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vijoU09NBYoQ5VpawXj2AfGOmCw.jpg" tvg-name="Historias lamentables" ,Historias lamentables
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f36c5464-5667-4026-ada3-d1f6c65d599d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LqRCLqvQ1d0qa7F9ofbq3dosJs.jpg" tvg-name="La belleza y el enigma" ,La belleza y el enigma
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f1b9b169-ff8f-4030-af78-506ce0723770.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSn1pEvTkQ526Rnk7OBa2DeGhpO.jpg" tvg-name="Aves del paraíso" ,Aves del paraíso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c335dbad-919d-4526-961c-3503a45967b2.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6e0XZreiyW4mGlLRHEG8ipff7b.jpg" tvg-name="Battlefield 2025" ,Battlefield 2025
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/787382d4-bc9a-4f93-844a-af99728c0612.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41qVwAz4ZCc8g7YQETQih8fpB8q.jpg" tvg-name="Miradas que Matan" ,Miradas que Matan
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a23dc83e-984f-4bd8-9299-47a115a5c7e1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaDCR6bgZceYNcFWF7KHPo3FVXQ.jpg" tvg-name="Confesiones de una chica invisible" ,Confesiones de una chica invisible
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/71165929-6ec5-489f-8ad2-3105659f4dd8.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnLPGa9OGBsY61Xtp15cp7rXW1i.jpg" tvg-name="La oveja Shaun: El vuelo antes de Navidad" ,La oveja Shaun: El vuelo antes de Navidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8d4cc600-ac0e-477e-b1ac-7f8040f8b608.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpd5vbtIubVuEi71XLalCpWLf6m.jpg" tvg-name="Una navidad de locos" ,Una navidad de locos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8f43f231-53df-4c67-8660-3481865cd423.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg" tvg-name="El caso Wanninkhof-Carabantes" ,El caso Wanninkhof-Carabantes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07be9f07-e549-4723-a243-88b97b4de14e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHFfirwnNowh4ELytFnVIzQvAIl.jpg" tvg-name="El misterio de Block Island" ,El misterio de Block Island
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/668d0823-d468-4dde-b90b-0795d2cd0eec.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3APp2ZPPOM0QvAYkbJOSshLhCF.jpg" tvg-name="El protector" ,El protector
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00d2c638-16cf-471b-9fa6-998c2dab7630.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJFvY25lPaKlapYOeIH6N5aKcbh.jpg" tvg-name="El rey de Zamunda" ,El rey de Zamunda
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d8c45fe8-5c3d-4e9a-8ebf-2a3849900709.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9BbGSO1JWl7ymewtzFJTn1XyUv.jpg" tvg-name="Je suis Karl" ,Je suis Karl
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4fac84bb-955d-4bb2-80f0-b53fac38b3db.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uUmXmS1BNXieflgr884NnjYRFK.jpg" tvg-name="En busca de Sheela" ,En busca de Sheela
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0de77d91-69e6-4263-838b-815dc3aaf1a4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNxZRjdT9scyeSmTuzGL6vUPSU5.jpg" tvg-name="Juan Luis Guerra 4.40: Entre Mar Y Palmeras" ,Juan Luis Guerra 4.40: Entre Mar Y Palmeras
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8d4887c1-dee7-455a-85a1-5888da4e44ce.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg" tvg-name="En peligro de extinción" ,En peligro de extinción
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c624d663-0a87-45d3-a186-521525a0b8f6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" tvg-name="Godzilla vs. Kong" ,Godzilla vs. Kong
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7f4b03fa-7a9a-468c-80f5-5b92e2375227.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg" tvg-name="Intrusión" ,Intrusión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b58b0e3d-ba90-44ff-af3e-b452c9814987.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTdKzS9CNjCZQK3kW6jcPPfKKYw.jpg" tvg-name="La fotocopiadora" ,La fotocopiadora
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7baa7a1d-c6e2-4304-81e9-7d6ad69503aa.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPR5pAL8LjoO8q4rQ7knhzu0TjO.jpg" tvg-name="La 8.ª noche" ,La 8.ª noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ed609365-9fc7-4ad3-bc5c-4a7ce9bbf985.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg" tvg-name="La Liga de la Justicia de Zack Snyder" ,La Liga de la Justicia de Zack Snyder
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/942b5f9e-37a0-47fa-a890-7ac70c94a773.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg" tvg-name="Moxie" ,Moxie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9fa3a9fd-1ab3-4703-9d0b-e7357754ae8a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqE2EBeSkJS2n107jvTTf6T6Hz3.jpg" tvg-name="La cena está servida" ,La cena está servida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/858a4e34-b250-4dc4-8df8-73367ab2bdbd.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKrg64wRonYTsFwAOgk3L8CGLjA.jpg" tvg-name="Nadie saldrá vivo de aquí" ,Nadie saldrá vivo de aquí
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08b733cc-e4f4-46ae-9b10-f51bea29eb1d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyOgNaaDX67AUMWlzsGZVO1luoh.jpg" tvg-name="Nezha: El renacer de un dios" ,Nezha: El renacer de un dios
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e973d291-f858-4c26-97a2-71492cfd8275.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s25PagHDnvQL7JzFyZvieHu9881.jpg" tvg-name="Los Kandasamy: El viaje" ,Los Kandasamy: El viaje
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c82313be-e82f-4123-8744-fbd7454a750d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg" tvg-name="Mobile Suit Gundam Hathaway" ,Mobile Suit Gundam Hathaway
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47c761bb-7259-4c34-aede-363192e6388e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDtLlmNvjJ3GagL9zREZDJmpUX7.jpg" tvg-name="Our Towns" ,Our Towns
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/83c4d29e-e76b-4dfa-ba0a-3b76729c3435.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j40H5hbbdOMrkbgyMZbOa1oijwj.jpg" tvg-name="Oslo" ,Oslo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a44021bd-0788-4c03-85ad-9aa508121a6c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvYuHbO3YQ74pam3uieWzXj3ZXr.jpg" tvg-name="Nosotros de nuevo" ,Nosotros de nuevo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/03026048-de55-4581-b62c-3da23f231214.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97WyFdS8pQerysSSGezafXHW5ZH.jpg" tvg-name="Spiral: Saw" ,Spiral: Saw
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3ff6e7eb-be27-4e04-8389-5ed4811c93a2.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6nLBypiujQQMBBfgJJAWleoWw1.jpg" tvg-name="La casa oscura" ,La casa oscura
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/07c43bf7-010e-4aa8-8c5f-86bad98759f6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdzSomIRij1EbdetsMvRj4VQoJ8.jpg" tvg-name="Virgen de San Juan, cuatro siglos de milagros" ,Virgen de San Juan, cuatro siglos de milagros
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53ed9676-b411-40a4-9f22-23221f758be4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSkqrecf1g2d0h9z0oJlgxXVHwt.jpg" tvg-name="Spirit: Indomable" ,Spirit: Indomable
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/474c923d-4b6d-4d7e-ad2c-b5ede89631e1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA2EPYf22tuj266N6TcA48NRprp.jpg" tvg-name="V.C. Andrews' All That Glitters" ,V.C. Andrews' All That Glitters
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b10c0e6f-0d57-4b12-9e5d-e7bbd19be38e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMC5pAZIwkYQRuhnhf2Bw0kE1I6.jpg" tvg-name="¿Quién es Carlitos?" ,¿Quién es Carlitos?
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ca86f08-7bd5-49e1-87b8-a3b8e321362e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTElTRh5Kiw06PK8GZ9HKBGIf1u.jpg" tvg-name="La disputa" ,La disputa
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fac0a8d3-9f28-438e-9fd2-9098d2362a79.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSxy2Ej25XoekfO8bl8nNyohaI7.jpg" tvg-name="The Right One" ,The Right One
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8c7fea01-61f3-40ea-9f23-dbe046d5a574.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jy2R4irQMZEaHvGkKoyuaKJPJO.jpg" tvg-name="Cazafantasmas: Más allá" ,Cazafantasmas: Más allá
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/93019dd1-5016-4fd0-b22b-a99cb8b5ed3e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg" tvg-name="Un lugar tranquilo 2" ,Un lugar tranquilo 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/77eb69b9-89ca-4376-9faf-c55cc0cd31be.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zWDKV8b1Z3C8Rhw3fX1Y0MCN5C.jpg" tvg-name="Una amistad para siempre" ,Una amistad para siempre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/04a26c7a-9ae7-4dcd-8fe9-f2c7e08bd9c3.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PtD56Ykwsf0KSUATLeg92vXTGl.jpg" tvg-name="La furia de la montaña" ,La furia de la montaña
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74248289-baa9-49f5-a197-5cf699f886ac.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg" tvg-name="No hables con extraños" ,No hables con extraños
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/aa79ac43-63ed-4235-b597-4addb55ff874.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysVb2QBQ3yQE45wF9XNXzY8uLb4.jpg" tvg-name="Americanish" ,Americanish
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89a35ddc-633a-42e1-be04-43e9dfa0bce2.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcXyHceQxSvViCKgI8XvGV8rDqp.jpg" tvg-name="Un mundo para Julius" ,Un mundo para Julius
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c9825bce-9e56-475d-8781-6a993af0f7ce.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y46fvM9qN96trTJUj6AXUZgfTV.jpg" tvg-name="Omerta 6/12" ,Omerta 6/12
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4f3ccf92-7f38-463c-92f2-1d38adbc6b44.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2joQIORzhmLGWYKVn0YQ1dg3Cal.jpg" tvg-name="Klammer: Rozando el límite" ,Klammer: Rozando el límite
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d3470c6b-276b-41a2-9030-cb66f9d85890.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynXF7OdHtSkiJq4gKFpptzweG7f.jpg" tvg-name="Plaga Zombie: American Invasion" ,Plaga Zombie: American Invasion
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7087486-6b1b-4671-b684-7088862f4598.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9umVH1R5Z2I1Fqzg7qwMIR2gpKG.jpg" tvg-name="Blood Moon" ,Blood Moon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8b14dbd2-3d23-45dc-ae00-aa35f4ee1b3c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86VKuiaox9eVJTETel0ld7XZtiO.jpg" tvg-name="Bingo infernal (Bingo Hell)" ,Bingo infernal (Bingo Hell)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/19636eb9-9545-49a2-9a6a-0788734ed3e1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZdzQTmdwe6ztwW7m7TEpu3D1sw.jpg" tvg-name="Bajocero" ,Bajocero
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/67a83dc6-710c-4b7a-8e6f-b4e0da922ff4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3zMduK3u1ckKt1HHcvPDbdhOap.jpg" tvg-name="Chaos Walking" ,Chaos Walking
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d4ef14bb-fd07-4f5c-930a-e1a058af35e6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scQnDbxrviyuJWpUM0c2eONRhR.jpg" tvg-name="Cómo hackear a tu jefe" ,Cómo hackear a tu jefe
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/62cc6c8a-8e93-44f3-9f01-6eac168fb6a7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg" tvg-name="Desnúdate, rebélate" ,Desnúdate, rebélate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c7d35ea1-3e5f-44e2-9755-dfff05afb776.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71aChTm1wTY54qLAx4JH0kka3DS.jpg" tvg-name="El Rescate Día de La redención" ,El Rescate Día de La redención
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/58e1b566-8a79-4c28-81c6-e5f3d02abb25.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o44CXIWG88xebipX83H1e9HnEvc.jpg" tvg-name="La Casa en llamas" ,La Casa en llamas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5d533d29-80b4-4ee1-85f7-f845e2823e66.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu1aXtOug0fGCEvLZokLZqUUKS9.jpg" tvg-name="El campamento de mi vida" ,El campamento de mi vida
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/34750fa8-5888-441a-b585-9f1f6d01cffc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg" tvg-name="El estornino" ,El estornino
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c29bae44-c87a-434e-ab13-2bcd442d7c21.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85J1DwZowIlKFOF7jllgCD3iHhx.jpg" tvg-name="El bebé jefazo: Negocios de familia" ,El bebé jefazo: Negocios de familia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/74f0d5e5-d7ce-4848-b49a-af2707b55299.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpfIHi2nT7hRGphllLz0Nz8fIFV.jpg" tvg-name="Duro de Cuidar 2" ,Duro de Cuidar 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/176b9398-9668-4341-8253-5f520253a173.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ1LnBCzcjWwoKDrm2niIdsf4iN.jpg" tvg-name="The Space Between" ,The Space Between
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1018ab3e-5262-4693-832f-ea302628185b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MfTZQPSC3XsSt4T8LtagnJtKHq.jpg" tvg-name="Anónima" ,Anónima
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0e6fb792-cabb-4d76-948d-81f702eb5885.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cN1WYVV1NyQNoHcOTAQVH448ljY.jpg" tvg-name="Paranormal Activity: Allegados" ,Paranormal Activity: Allegados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6a86b27c-031e-4537-b4a0-d39c357e3a22.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KhE2RaGp1Wp7F6JyG8a3uQuGrv.jpg" tvg-name="616" ,616
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d378e28c-647d-45c5-9d03-a6a63e0cdcfe.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5w46mwA4JCZJ5Tl3rHSc98762O8.jpg" tvg-name="¡Nos volvemos a casa!" ,¡Nos volvemos a casa!
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3bb457a4-043c-4408-959a-6f15a6f17d32.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOheGvNG4lIGA4NSBcSxuYpaLiX.jpg" tvg-name="Estados Unidos: El película" ,Estados Unidos: El película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7505ac57-a68f-43e1-9741-50f923d717bb.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ2aNqcIGopI2AsTREc8sQlz6CN.jpg" tvg-name="A descubierto" ,A descubierto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/66fad2ad-d789-4e37-9066-f90b80c4882e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCriHOSZbQIzJ7CtSOeMik8JPUR.jpg" tvg-name="Cuatro días" ,Cuatro días
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f3dcfde2-7685-49a8-a101-59077d1b70c1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytenWBdOd9UtMjyAsJuqBbTl67X.jpg" tvg-name="Fondeados" ,Fondeados
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9f225203-b647-4cd8-925a-99dc081629fd.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg" tvg-name="Forever Rich" ,Forever Rich
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2715c4b6-a51f-4cc1-96e4-e5de8f484e76.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vo5SifOQUQvsH39QhOJ9WSRtjtT.jpg" tvg-name="Friendzone" ,Friendzone
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3b96958d-0e01-447c-870e-7f38e09a26fe.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWgy2p7tyyaEOsS3quCui0UGUjR.jpg" tvg-name="Friends: El Reencuentro" ,Friends: El Reencuentro
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d930bce8-a0ec-4418-bd77-d5e981235444.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAQhNzmZiWiPd5pJgB0HHzkI783.jpg" tvg-name="Este niño es un trasto" ,Este niño es un trasto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/8e091ed6-87c9-4b41-8ad9-4aae82e46e71.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9vSjApPYFtZOAW1CdrS4at7HlL.jpg" tvg-name="Felicidad" ,Felicidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e072c2db-f7a7-4a1c-a422-d2acfdb3995f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOQMJM7G2W8v2AEK722k8welIJY.jpg" tvg-name="Arlo, el chico caimán" ,Arlo, el chico caimán
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1fcfa2b2-587f-48da-9160-bdd6fac42b58.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi7O7aHSultS7AcEpMVz30SAJw7.jpg" tvg-name="Fuimos canciones" ,Fuimos canciones
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3747380b-76ad-4023-8ed9-d40ef04420a8.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg" tvg-name="Encanto" ,Encanto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4c0003b7-7c9c-4a96-a928-a77cae370e73.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gewQlwxgqo595Pw25lwaPfI4h5D.jpg" tvg-name="Guerra de Likes" ,Guerra de Likes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ee0e53ba-02c1-45f0-878c-1ff6093a93cc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ngye0DQdlOdsrEdfd41BRokuWw.jpg" tvg-name="Aquel verano" ,Aquel verano
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ea51abe3-2f1d-4ddf-a844-8a1a6943562d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIxLHFMAsdbZGZws0duowTa4N6k.jpg" tvg-name="BIA: Un Mundo al Revés" ,BIA: Un Mundo al Revés
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f675067c-4996-4466-87f5-d72642762c3f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg" tvg-name="Bartkowiak" ,Bartkowiak
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/44488c1f-10cc-4bbc-94a5-8e8eeee19b1f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjdQsOZxILHCXtYTWGa2rhouJ8Z.jpg" tvg-name="Hipnótico" ,Hipnótico
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2cd077cd-a31c-4a7e-8bdb-d40b7e4d1136.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3deptzxNrXNVQYRoLCv1aFxsSor.jpg" tvg-name="Historia de una traición" ,Historia de una traición
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/42f24d8b-475f-4db0-b649-cff6b4d9efaa.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anyfTp4gS5Cnr7IUZnl48bTrOxm.jpg" tvg-name="Instintos ocultos" ,Instintos ocultos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f34a3786-72f8-485a-909e-8816d8761227.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cGhXsJ2JpMQwOAaPJNuB0tDHyZ.jpg" tvg-name="Hotel Coppelia" ,Hotel Coppelia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f322526b-569d-46b5-81c5-f275fdb11ad1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWlb4vtjUYabK9hqigW0hqdVMtE.jpg" tvg-name="Horario Estelar" ,Horario Estelar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53aedd91-2b32-42ef-a5dd-d27300c80485.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI4yOVjcC51FNI1K3H5poIfm8Wn.jpg" tvg-name="Igor Grom contra el Doctor Peste" ,Igor Grom contra el Doctor Peste
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/00ed9a5a-6aa8-40dc-b43d-464d05855592.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDakv6USBc8MWFt1qTFocN1n9P.jpg" tvg-name="Homunculus" ,Homunculus
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/75b46080-011d-4a1f-be56-8c9921b7a705.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yt12SgNE9hqg8QnwIBiblzhH9M.jpg" tvg-name="Batman: El Largo Halloween, Parte 1" ,Batman: El Largo Halloween, Parte 1
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a2af79d3-bc0c-4a29-80a8-a2e6c11a3bc7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6G4Sb25iuhmZglJL8X4vHgXkf2O.jpg" tvg-name="Barb y Star van a Vista Del Mar" ,Barb y Star van a Vista Del Mar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/5840a4a8-3f24-4da0-841a-b0cdc35f6383.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHJAunNc8wyC4hOprU1Vur7dgSs.jpg" tvg-name="La cumbre de los dioses" ,La cumbre de los dioses
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/25e10cc8-5620-4376-a2dd-5da1aee802dd.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" tvg-name="Kate" ,Kate
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/737fb38a-cc73-4151-899e-9fe197c99727.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4eGNABnQLA38Lg7agGk9Agpaj5.jpg" tvg-name="Kenshin, el guerrero samurái: El final" ,Kenshin, el guerrero samurái: El final
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0c05efa0-6340-44b2-ac2e-20fd8415d0d9.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0AuwTgKdmHfRbg4yBqFFIGM8Mj.jpg" tvg-name="Asesinos sádicos" ,Asesinos sádicos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/78b08161-331f-4ec3-912f-f38006314af0.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taSkrxVRwilWCdQqbwDwsqqa80t.jpg" tvg-name="La Casa de Las Flores: La Película" ,La Casa de Las Flores: La Película
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/970f074a-cf8c-4b5a-85eb-6ab9336d14e4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8cPUCexDTFZxHI3ooqHYi6AUgL.jpg" tvg-name="LEGO Star Wars Cuentos escalofriantes" ,LEGO Star Wars Cuentos escalofriantes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/662e8934-abb6-4693-b97f-e5388410e97c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/431b5h5omOds3fPImxWl982bWgp.jpg" tvg-name="La Chica Que Mato A Sus Padres" ,La Chica Que Mato A Sus Padres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7b10a239-3244-41ff-b11b-c06339c543f0.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbwe6wuBBErsikY3xEnmMzx90CI.jpg" tvg-name="Batman: Alma de Dragón" ,Batman: Alma de Dragón
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/73a1e225-9e75-44ee-89b8-328ee087dc90.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPcLH9QHrRb9ZRplxWOMO38ImL8.jpg" tvg-name="La calle del terror - Parte 2: 1978" ,La calle del terror - Parte 2: 1978
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3747ba5e-5a6d-4c0b-a3e8-03ccfbe9d73b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZxuSnNv3RTeHHV1vwGKgYt5rFw.jpg" tvg-name="La familia Claus 2" ,La familia Claus 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dc51b7b7-3ef1-4968-bd62-e61586ad66df.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2oic7Le2a5LYz2Bjo6hrwlr6YS.jpg" tvg-name="La sombra del gato" ,La sombra del gato
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4ce051d1-3d0a-45c7-ba6d-0e450ed45f23.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OyjnAstDgpVoaKIBVotDs8OVqO.jpg" tvg-name="Batman: El Largo Halloween, Parte 2" ,Batman: El Largo Halloween, Parte 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/47c4b0bc-19ed-4a76-884d-d4aa2b8e8a64.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg" tvg-name="La purga infinita" ,La purga infinita
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/11db4990-d2fb-4428-affa-89f4da8b4038.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg" tvg-name="Agencia secreta de control mágico" ,Agencia secreta de control mágico
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4cf6be8e-72c5-4a13-b0e6-f7b99cce3f73.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3G5XLqmJSs4RvozoIsqaTWTHRq.jpg" tvg-name="La dama de la mansión" ,La dama de la mansión
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c08e690-9003-48a9-a73b-063bb2edea9e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cycjLXNe3apGmcT4ecO2WBbIFPO.jpg" tvg-name="Limbo" ,Limbo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6443c2cc-906c-44e9-8bc2-11ba63aad985.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFmUN18VNDd5TL7zrsVuLhE5wU.jpg" tvg-name="Las siamesas" ,Las siamesas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/31b2152c-391d-4c38-bdf8-ea7e63d90390.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8grhLGhULwTpWbsCdXD8GQQUDN.jpg" tvg-name="Locos por Mário" ,Locos por Mário
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ba8d4e55-0943-4d95-bbd3-50fe555c05ef.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg" tvg-name="Los Simpson: la buena, el malo y Loki" ,Los Simpson: la buena, el malo y Loki
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fa5da8d9-221c-42eb-9dc0-f5f60276496c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAvzuTrP9mdtXzIWMCFwW99EmYt.jpg" tvg-name="Black as Night" ,Black as Night
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0e8a1ff6-8471-44de-a2f9-8f07e62dc49c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHKlIci8f38GaAd361EW0VSx91k.jpg" tvg-name="Cacerías De Brujas" ,Cacerías De Brujas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bf35ec1b-c037-4610-a492-1f015cdcbc66.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLIwpCTf4QoW01pp85KP9jcfTpu.jpg" tvg-name="Matrix Resurrections" ,Matrix Resurrections
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fbd33284-28f6-4eca-8144-d751506abda3.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1foXpKnMMAL1OzBrCS3CcwnHO7S.jpg" tvg-name="Minimalismo: Menos es más" ,Minimalismo: Menos es más
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3d81dc2f-c60a-4ce1-a156-7d8774f95e6c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8MObKaFdpQoWeVhJBOBv7d8hrq.jpg" tvg-name="Misterio" ,Misterio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2d97b17f-ee1b-4fb0-9724-2fad74d5c801.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agGkmvSDq4Qch8IX2wNf9stYwVg.jpg" tvg-name="Most Dangerous Game" ,Most Dangerous Game
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f2e94aaa-6846-457f-aa13-c1ffc9e74fa9.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SJsEwa1pwL7FMmsgSvebxBZT9b.jpg" tvg-name="My Brother’s Keeper" ,My Brother’s Keeper
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f228af92-7e07-4c8f-b20e-f02cf6dd8eff.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2acqTZDykiX8U4oDVBIsNcm5O2o.jpg" tvg-name="Mortal Kombat" ,Mortal Kombat
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/401486bb-00fd-4e37-ab3c-c6b309319a61.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg" tvg-name="Aguja en una pila de tiempo" ,Aguja en una pila de tiempo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/c6a692d0-8dc2-406b-a1c9-b2c40546a8e3.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5xCkGw4jutMcc8nmWLKNzbDKht.jpg" tvg-name="Un paso en falso" ,Un paso en falso
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/469d4b02-ded8-4500-b2c0-11be62bb4423.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7H6r0SN0BqMY3ZNuJxaOHDVFut.jpg" tvg-name="Operación Feliz Navidad: La estafa de los duendes" ,Operación Feliz Navidad: La estafa de los duendes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/53dcf4ab-3abf-4a96-835f-f4bcf9806ca8.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PloiGUSH2OUWrk6ctchGhMOL3s.jpg" tvg-name="En tierra de nadie" ,En tierra de nadie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/050b2e89-ef0d-4922-aefd-ff1e7881a0ca.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CFE3b0iHmv3m2cRrmBXHIP2vhv.jpg" tvg-name="Nomadland" ,Nomadland
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7767dc55-4ccd-4e31-8e79-afbc4f0e409a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1UhyZ0ca6Jcz5zqkkot2Lqdvvc.jpg" tvg-name="No se puede huir del amor" ,No se puede huir del amor
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7040f5d6-4c0b-4a0b-9a81-0be7363147c5.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg" tvg-name="Pasajero oculto" ,Pasajero oculto
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bc5f3b7a-db80-4fae-9f68-d19bfb1c40a4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" tvg-name="Phobias" ,Phobias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/81acbd51-91c3-4cff-9214-2dc9986b0717.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9k5MjbLsCftyrQ4ec6bPmRtORf.jpg" tvg-name="Padre por duplicado" ,Padre por duplicado
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0cbbbb2d-bc6b-4be5-b10c-bf6af1e6b3b8.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bYkdaKZKcj3fXHfEj2qQiR1LP3.jpg" tvg-name="En la universidad" ,En la universidad
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dea330e4-a00d-4145-b729-2ca4fdf9283c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ULCVKQEC6Lq61ILKByNRcffKu.jpg" tvg-name="Pretty Guardian Sailor Moon Eternal: La película - 1.ª parte" ,Pretty Guardian Sailor Moon Eternal: La película - 1.ª parte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e65729a8-8347-457e-a17b-85b784b066dc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdoAhbEZrK6ntsor0CRHy3IGmzN.jpg" tvg-name="Pretty Guardian Sailor Moon Eternal: La película - 2.ª parte" ,Pretty Guardian Sailor Moon Eternal: La película - 2.ª parte
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9ae9f4e2-54b6-4c46-bdba-e098823f3611.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBkdKValTGR64hvciuWX3O8fwUe.jpg" tvg-name="Cielo rojo sangre" ,Cielo rojo sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/56d19300-a2a0-46f9-916d-ebbca963eb66.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61uNsSWpL3swxVhUSLbVQJxnQDA.jpg" tvg-name="Realidad virtual" ,Realidad virtual
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7bf188ad-ac27-4a8c-a6b2-2313d85a84bc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CoIzwhw29Iiq88zyWCcCJrSOKJ.jpg" tvg-name="Ron da error" ,Ron da error
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/582322d2-880c-4c9d-8089-687a699911f4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35QCwNMIoL07ioQIAUpgPfkuzT4.jpg" tvg-name="Resurgimiento De Momias" ,Resurgimiento De Momias
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/cec9156d-e24d-4109-ba6c-5c1bb1898f8b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rWT1jJD5NJmbt0bJXDb3vKOQsh.jpg" tvg-name="Clifford, el gran perro rojo" ,Clifford, el gran perro rojo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9cf90e6a-ca99-40b0-8296-bfbc5603fa3b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLSbd2zof56bD4GCzqsHJmwvBlx.jpg" tvg-name="Sector VIP" ,Sector VIP
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6d96777d-e261-4d09-86c2-412662196559.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfHTSUxJjnmjkyEvW7ot2OikGAD.jpg" tvg-name="La última noche" ,La última noche
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/24e32862-fa8e-4d43-b4a5-f9bac457f5e7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r08z8LsPg6xCAW2G6j8fMdqvsIB.jpg" tvg-name="Sola" ,Sola
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/08c5442f-0342-4561-8530-2ef58e97e6b1.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNjQUytRwW9p2yfUdlGX6DoL3Gb.jpg" tvg-name="David y los Elfos" ,David y los Elfos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/7d17b20d-b9cf-4564-8003-894d6f7a1ce9.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A2owG58gqx8fzRWhVOMAO6lbWq.jpg" tvg-name="Sin remordimientos" ,Sin remordimientos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/76da77fb-2005-4fbb-99d4-8626af034530.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDrUIKP3I1QkUieImwpo3verZPj.jpg" tvg-name="Bordertown: Murales de sangre" ,Bordertown: Murales de sangre
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/be991867-0bdd-42fa-8897-997434d25cca.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fakkNCGenzK4QltabP6oBCL1rtS.jpg" tvg-name="Sooryavanshi" ,Sooryavanshi
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/89910dd9-9c1e-4b14-a02d-15c152e1cfe0.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXROShrRv89nc86rMQDp9Dw1E3I.jpg" tvg-name="Difícil de tragar" ,Difícil de tragar
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4a83ab5a-51d4-40bd-bfe9-c63a2b4f2f8e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z85TeZmJYQjfviJmVNdLXQt8uEe.jpg" tvg-name="Soy Rada: Serendipia" ,Soy Rada: Serendipia
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/101e11f8-5c2d-45b0-9e8b-c38e391e708f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uShw8wJ7K4ySrPtUWjGe8wwJ5fj.jpg" tvg-name="Donde caben dos" ,Donde caben dos
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/bba7966e-6ba2-4661-b24b-dfdcd7cdb034.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDZOdMlT6pQHupWdKt4yAie5TaF.jpg" tvg-name="Teen Titans Go! - Los Titans ven Space Jam" ,Teen Titans Go! - Los Titans ven Space Jam
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/6ec736da-244b-4b9c-84cb-655819fa094b.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVROTjNOcKlLdGfnu1HKITeKFxi.jpg" tvg-name="El ultimo juego" ,El ultimo juego
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9b51b905-740a-4b73-a341-2cf3f07d35b9.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/si4whlsGDBrjp7fRTJLvMsFZRVr.jpg" tvg-name="The House Next Door: Meet the Blacks 2" ,The House Next Door: Meet the Blacks 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f9792af2-7bd4-45c0-903c-57c08633ff8a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTgSMm9LRXVGxfaKqmlPCcQx5RJ.jpg" tvg-name="Desaparecidas" ,Desaparecidas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/80960732-b44d-44b2-a0ee-133fdfd9c566.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1EZ3EAxPxCZbZnj8s32fqW8Z4D.jpg" tvg-name="Jack Y Jill" ,Jack Y Jill
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/973b04d4-9e6c-4689-ba7a-3236f6696d2f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thin7heIyFZp86hNNlPfyNINGNy.jpg" tvg-name="The Djinn" ,The Djinn
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/45fb166a-ea33-471b-bad5-0f32a7fd4a52.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O65UNeSnWqRcuTUFcy75PluCzz.jpg" tvg-name="El princesito(a)" ,El princesito(a)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/0744b28a-e573-4640-9575-0a0963f129f7.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6U2pGQokqWh2wJLRaXi0bVd3zF.jpg" tvg-name="The Seven Deadly Sins: La maldición de la luz" ,The Seven Deadly Sins: La maldición de la luz
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eaaedf47-5563-415d-b07f-7cf3a6b2befd.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Sz5nlJENX4Yoc0vRkMZPrOPy9h.jpg" tvg-name="The Wrong Real Estate Agent" ,The Wrong Real Estate Agent
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/64ed7d1e-7070-429d-81f6-931911955369.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVKjeiKL6499wWwSHYbahIUnHIJ.jpg" tvg-name="tus Ojos Dicen" ,tus Ojos Dicen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9fc3fbec-b798-41e2-a225-2e8ad64a6a0d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8z6SLauVXBm7aIE1XOKBTnjuQS.jpg" tvg-name="Peaje Mortal" ,Peaje Mortal
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/65907369-8c68-43f5-bcec-cda64f614cd8.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3XjcH6Ege9vm2iinzwRrgCb8sM.jpg" tvg-name="Todos hablan de Jamie" ,Todos hablan de Jamie
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/01aeb595-7f85-437f-86ac-9475d546ed9a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOlb9WLetYE14cvHID8Oz8nFADu.jpg" tvg-name="Total Recall(ed)" ,Total Recall(ed)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4786278c-3c2d-4945-931c-9ad13b652edc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyATYchQvI7tQSZ6fXxUSJ7LpdI.jpg" tvg-name="Tiburón blanco" ,Tiburón blanco
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4514f8f2-d514-4a0a-a8cf-c361f13defe4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlQFKybBpJrpKS65wd7lhiSpnkt.jpg" tvg-name="Un último deseo" ,Un último deseo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a7553847-c38c-4c04-be8e-6ad96aa0a78a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxYpYPVerNf8h9cO7mSCPK5wJXe.jpg" tvg-name="Una Cenicienta moderna: Salto a la fama" ,Una Cenicienta moderna: Salto a la fama
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/acd1bd6c-5d25-4adf-8ca6-4b4ed9031b7a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uRb5axnwAd17h4ak4ENHcJqHVr.jpg" tvg-name="Un lugar tranquilo 2" ,Un lugar tranquilo 2
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e48d5572-ccaf-41bb-b119-404f13fc9774.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osut731qKshSV7wc4VQ7VkIlGVW.jpg" tvg-name="Una noche de venganza" ,Una noche de venganza
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/ac902d94-f7fd-4e06-9b89-f38279d020b6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqk57p9z5SvpTJGMgCYdw34QR0c.jpg" tvg-name="Una tumba para tres" ,Una tumba para tres
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/77d29f92-ce35-4787-ba46-2882fbf8cf92.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSupXsU5tTga9WYxbULEamu6ZW.jpg" tvg-name="El día del Sí" ,El día del Sí
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d55e38cf-6e27-49f4-86e4-b0b24505b31f.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg" tvg-name="Viuda negra" ,Viuda negra
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/d3c0e643-a2eb-48ab-b508-edcb6652fcf0.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHKlIci8f38GaAd361EW0VSx91k.jpg" tvg-name="Cacerías De Brujas" ,Cacerías De Brujas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/266bd063-584c-4760-8d21-22cdac93b194.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCz4Pv0rilnkBgqwbe5Y3JT5899.jpg" tvg-name="Vicious fun" ,Vicious fun
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/91d14350-75b4-48fc-8f06-a593495cf5a5.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfM7Ey45nJ0v2jdXIRwBgPKvS72.jpg" tvg-name="WWE SummerSlam" ,WWE SummerSlam
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/289ed403-8eb7-4b14-9c26-cfd2a864dab6.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miESEXyqDJV4TolIWc5ZdF30uRU.jpg" tvg-name="¡Scooby-Doo! La Leyenda de Scoobydur" ,¡Scooby-Doo! La Leyenda de Scoobydur
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/fe3e58cb-3422-4c57-aa7e-cd777a781918.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zsgwBHKjPTRM8XAQEYYl5HtFJa.jpg" tvg-name="Wolfgang: un chef legendario" ,Wolfgang: un chef legendario
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/1c0752cc-ce25-467f-ab5a-cd07db6f212a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ft4fgthsbb9qOXa0E0cw0l29MN.jpg" tvg-name="El cazador de recompensas" ,El cazador de recompensas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/09ecff65-8f51-47cf-8acf-893a9b3750c2.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAzX5TSKREp3Mhq7nqew4DcXjRZ.jpg" tvg-name="Yo soy todas ellas" ,Yo soy todas ellas
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/869eb6eb-84ea-4e59-9668-e897f245856e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6zthVPVoq1urTOsLgofPGel89d.jpg" tvg-name="Miraculous World:  Shanghái, la leyenda de Ladygragon" ,Miraculous World:  Shanghái, la leyenda de Ladygragon
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/54731511-5f13-4aab-9e50-b1c3ce5a2894.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y3EmEl00UjmFvu2jP67JK0At2S.jpg" tvg-name="El asesinato de dos amantes" ,El asesinato de dos amantes
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57d43519-4cbf-4690-ba70-0fb321e8938d.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg" tvg-name="Xtremo" ,Xtremo
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/681c81a1-2ad3-41f0-b506-2a630b318515.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg" tvg-name="Justice Society: World War II" ,Justice Society: World War II
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/83373fd1-01f4-4426-b49a-17dabcc8cce4.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehesNeYjfTkkJgIYbKKrWcqY2fA.jpg" tvg-name="Flora y Ulises" ,Flora y Ulises
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/481e1627-e9d5-41c4-bcf5-9570302ee8ea.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNRbKzh8Xkz96j70P6KnjRf7WM4.jpg" tvg-name="Hermanas en la pista" ,Hermanas en la pista
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/e8cfe72e-d76a-4e5f-b1b7-7f9893039607.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNaC3Iv7HKPFQw10Cp13pqRukCX.jpg" tvg-name="Juanes: Origen" ,Juanes: Origen
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/a5ec1d03-b7ac-48a0-93ce-e6888d619fdf.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sXthW46RwmPBdacGHnhOzLv40d.jpg" tvg-name="Twist" ,Twist
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/4abf8971-e657-4e43-bc3d-670c7249eb62.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxGuDeH1nVwwY9fgahRPVqayI1b.jpg" tvg-name="Un mal viaje" ,Un mal viaje
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/3b4d109f-c005-4eab-a8bd-cba577bccc45.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5XD1Y96MGZpUDml7WomYkvSyxD.jpg" tvg-name="Undergods" ,Undergods
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/dd3c285e-e1e7-4275-9ef7-cb83f8508edd.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zrgid8f6c2ODn2T94jKfopOF4C.jpg" tvg-name="Tony Parker: La última canasta" ,Tony Parker: La última canasta
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/9e6ec0ee-762b-4a99-84f5-7ff4f9511926.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GQ3k3KmG0LI8Z4uCcGAsGQn6Ky.jpg" tvg-name="Últimas noticias en Yuba County" ,Últimas noticias en Yuba County
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/b9dec51f-81ed-438d-a96c-452311556c2c.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iC1CkyRwsurocvBouJgtMixYyUO.jpg" tvg-name="El refugio" ,El refugio
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/eac0c271-ca59-459f-a309-dd029a77618a.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4rQ3RNByuoVTO6OgKsY0xTlCyo.jpg" tvg-name="Love You Like That" ,Love You Like That
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/2ee6aca1-0368-4540-89b3-f697f269ea49.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55rQ68NAwCON1Xlcj14NwpzPbR.jpg" tvg-name="Eiffel (DUAL)" ,Eiffel (DUAL)
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/60fdfd86-43bc-423f-a236-92c08b577686.mp4
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w400/8SZrgFLqPvpJHw2zcSslS85xltS.jpg" tvg-name="Desesperada" ,Desesperada
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/771e9c28-c40b-4508-8ad2-f44d939936bc.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w400/hcoPlySIEOZasbtif0Dhd7eW1tD.jpg" tvg-name="La Fiesta de Casamiento" ,La Fiesta de Casamiento
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/f81dcbdb-f3c7-49c3-8670-810fc5362e1e.mkv
+#EXTINF:-1 group-title="* VOD | ESTRENOS 2021 *" tvg-logo="https://image.tmdb.org/t/p/w400/c4Xlw5oRS8V77wEYblJwdx9oSUy.jpg" tvg-name="La Pastelera" ,La Pastelera
+http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/af9f2c33-c1d5-4a4f-9666-f810212a6855.mkv
+
+
+
+
+
+
 
 
 ●●●●
