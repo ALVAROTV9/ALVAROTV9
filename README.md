@@ -55,8 +55,8 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/493549.ts
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/305448.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESTRELLA TV MEX
-http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/469582.ts
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,GLOBO BR
+http://tvmate.icu:8080/live/k4Svp2/645504/164824.ts
 
 
 ●●●●●●
@@ -172,30 +172,19 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
 ●●●●●
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 1 
-http://rolatvs.com:8080/live/frog7442u/030816khrjy/25.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 1★
+http://tvmate.icu:8080/live/k4Svp2/645504/167742.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 2
-http://rolatvs.com:8080/live/frog7442u/030816khrjy/26.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 2★
+http://tvmate.icu:8080/live/k4Svp2/645504/167743.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 3
-http://rolatvs.com:8080/live/frog7442u/030816khrjy/27.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4
-http://rolatvs.com:8080/live/frog7442u/030816khrjy/23.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 3★
+http://tvmate.icu:8080/live/k4Svp2/645504/167744.ts
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 5
-http://rolatvs.com:8080/live/frog7442u/030816khrjy/24.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4★
+http://tvmate.icu:8080/live/k4Svp2/645504/167745.ts
 
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 6
-http://rolatvs.com:8080/live/frog7442u/030816khrjy/32.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 7
-
-http://rolatvs.com:8080/live/frog7442u/030816khrjy/33.ts
 
 
 
