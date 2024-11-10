@@ -6,7 +6,7 @@
 
 #https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 
@@ -15,6 +15,11 @@ http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL AHORA
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/13322.ts
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
+http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611253.ts
