@@ -72,7 +72,7 @@ http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/518624.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,FUTBOL COLOMBIANO 2◉
-http://206.212.244.71:8080/live/4wVQA7/625159/78717.ts
+http://fortv.cc:8080/live/5djSbC/538755/78717.ts
 #lista del 2023 a marzo2025#
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,EVENTO PPV FOOTBALL + ◉
