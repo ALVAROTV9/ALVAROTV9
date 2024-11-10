@@ -1,10 +1,9 @@
-
-
-
-
 #EXTM3U
 
-#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
+#*********  11/NOV/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************PROPIO ***************
+#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas#
+●●●●●●●●●
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ALVAR0TV NOTAS◉r
 http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
