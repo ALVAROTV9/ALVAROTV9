@@ -172,22 +172,22 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499079.ts
 
 ●●●●●
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 1 DAZN
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 1 DAZN
 http://live.11odin.xyz:8080/live/AvT8WuKpHK/xn1FmGWiIY/5869.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 2
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609339.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 2 DAZN
+http://fortv.cc:8080/live/5djSbC/538755/167748.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 3
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609340.ts
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 4
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609341.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 3 DAZN
+http://fortv.cc:8080/live/5djSbC/538755/167749.ts
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS INTER 5
-http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609342.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 4 DAZN
+http://fortv.cc:8080/live/5djSbC/538755/167750.ts
+
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS 5 CARIBE
+http://fortv.cc:8080/live/5djSbC/538755/66077.ts
 
 ●●●●●●
 
