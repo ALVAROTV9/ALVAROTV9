@@ -6,7 +6,9 @@
 ●●●●●●●●●
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ALVAR0TV NOTAS◉r
-http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+
 
 
 ●●●●●●
@@ -15,8 +17,7 @@ http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
-http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
-
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + 1 VIX◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/518624.ts
