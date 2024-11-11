@@ -3,20 +3,16 @@
 #*********  11/NOV/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************PROPIO ***************
 #https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas#
+
 ●●●●●●●●●
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ALVAR0TV NOTAS◉r
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
-
-
 
 
 ●●●●●●
 
-
-
-
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + 1 VIX◉
@@ -89,16 +85,10 @@ http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/129150.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (5)
 
-
-
-
-
 ●●●●●●●●
 
-
-
-#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200000462-6580365806/700/log-7.webp?ph=348e8b9008" ,ALVAR0TV NOTAS◉r
-http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/8512.ts
@@ -188,8 +178,11 @@ http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/401651.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (2)
 
 
-
 ●●●●●
+
+#EXTINF:-1 group-title="🔵SPORTS | DIRECTV|TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
 
 #EXTINF:-1 group-title="🔵SPORTS | DIRECTV|TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS (1)
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9560.ts
@@ -356,19 +349,13 @@ http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10632.ts
 http://14225021914.com/446686613/v144b5856g/494
 
 
-
-
 ●●●●●
 
+#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas#
 
+#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
-#©©©©©©©©©©©©#
-#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
-
-
-
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414468
@@ -443,12 +430,10 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9766
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/Dzhn5P0/universal-Crime.png" ,UNIVERSAL CRIME
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9763
 
+●●●●
 
-
-#EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
-
-
+#EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/4MsfwJj/cnn.png" ,CNN en Esp
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604487.ts
@@ -487,11 +472,12 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604465.ts
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/MRrYJBx/animal-Planet.png" ,Animal Planet (2)
 http://legiontv.online:80/Casa123/Casa123/1071000
 
-#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas##
+#https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas#
 
+●●●●
 
-#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAR0TV CONTACTAR
-http://fast.wistia.com/embed/medias/cn4tcdsxrj.m3u8
+#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,LOS PITUFOS venuschile
@@ -520,14 +506,11 @@ http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/1f3afef5-9a9a-
 http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/cc4a2526-cc6b-40c7-879f-0f2849ca7274.m3u8
 
 
+●●●●●
 
-
-
-
-●●●●●●●●●●●●●
-
-
- #EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/SQZc624/alvarotv9-Adult.png" ,ALVAR0TV NOTAS◉r
+#EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+ 
 
 #EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/SQZc624/alvarotv9-Adult.png" ,ABELLA DANGER
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/652293.ts
