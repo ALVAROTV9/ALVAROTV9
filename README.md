@@ -1,4 +1,3859 @@
-#EXTM3U 
+
+#EXTM3U
+r#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="Juego de roles (2023)" ,Juego de roles (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391159.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/44370552c82fb3bf29fc28b6e5ff0215.jpg" tvg-name="Chica Americana Corinne Tan la Película (2023)" ,Chica Americana Corinne Tan la Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391337.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ca82d1bd2fe71678d9a11ea238a9f947.jpg" tvg-name="Amigos de las vacaciones 2 (2023)" ,Amigos de las vacaciones 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391338.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4bb62e2aa9e5a93118aa29eb155b0b53.jpg" tvg-name="Amor De Cachorros (2023)" ,Amor De Cachorros (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391339.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="Anatomía de una Caída (2023)" ,Anatomía de una Caída (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391340.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/67c50cb6b5460038aa51101c8d79f3ed.jpg" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" ,Ant-Man and the Wasp: Quantumania (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391341.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="Aquaman y el reino perdido (2023)" ,Aquaman y el reino perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391342.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e961d7bb9d69c9ea717e1d4c026ac3b3.jpg" tvg-name="Asedio (2023)" ,Asedio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391343.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5ab6590644daa41c2314915e562cbc62.jpg" tvg-name="Astérix y Obélix y el reino medio (2023)" ,Astérix y Obélix y el reino medio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391345.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="A Todas Partes (2023)" ,A Todas Partes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391346.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="La aldea de los aullidos (2020)" ,La aldea de los aullidos (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391347.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="Auxilio (2023)" ,Auxilio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391348.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6570776e1ebddba255feb960f8fb1448.jpg" tvg-name="Auxilio (2023)" ,Auxilio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391349.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cfab1acade9beff47b9c82d82f5eb1f6.jpg" tvg-name="Babylon 5: The Road Home (2023)" ,Babylon 5: The Road Home (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391351.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/435ffefb58a93393e324bbc31edb2254.jpg" tvg-name="Bajo el muelle (2023)" ,Bajo el muelle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391353.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c0c789263bc10a249a5def234fb4df0e.jpg" tvg-name="Barbie (2023)" ,Barbie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391354.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a71dc7a21f2bf887f6b0c2c3665f40aa.jpg" tvg-name="Beau tiene miedo (2023)" ,Beau tiene miedo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391355.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/87ba3b52c1b47b03c4c17bcc6807849b.jpg" tvg-name="Bird Box Barcelona (2023)" ,Bird Box Barcelona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391356.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9989a0478336cc48be21e42e748d98c3.jpg" tvg-name="Black Friday (2020)" ,Black Friday (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391357.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6307a527e697c24935a9162f38c7fe70.jpg" tvg-name="Blue Beetle (2023)" ,Blue Beetle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391358.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4925a531d2b37b73a917e5975669c33b.jpg" tvg-name="SpongeBob SquarePants Presents The Tidal Zone (2023)" ,SpongeBob SquarePants Presents The Tidal Zone (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391359.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/865555cb67e7a09cc350c2590ef1211a.jpg" tvg-name="Boogeyman: Tu miedo es real (2023)" ,Boogeyman: Tu miedo es real (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391361.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/189ec735233df2cee15ebbc0eabbd5c7.jpg" tvg-name="Cacería en Venecia (2023)" ,Cacería en Venecia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391363.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e36df2085858fdb17b8376d66c6ba30.jpg" tvg-name="Calabozos & Dragones: Honor entre ladrones (2023)" ,Calabozos & Dragones: Honor entre ladrones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391364.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cbf8b8685d377c89e25710406864c940.jpg" tvg-name="Calabozos y dragones (2000)" ,Calabozos y dragones (2000)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391365.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cbf8b8685d377c89e25710406864c940.jpg" tvg-name="Calabozos y dragones (2000)" ,Calabozos y dragones (2000)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391366.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/940ce58c77a4ab1b48684811f72b937b.jpg" tvg-name="Camino a Belén (2023)" ,Camino a Belén (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391367.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/75aef36d390b7e4f2cf8fd0fab54575a.jpg" tvg-name="Campamento de verano (2023)" ,Campamento de verano (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391368.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0b83cfaa0b278910bec41297c3d83aec.jpg" tvg-name="Candy Land (2023)" ,Candy Land (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391369.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/16bc496163abb82024087192fc93c216.jpg" tvg-name="Casando a mi Ex (2023)" ,Casando a mi Ex (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391370.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/41c553803d7b35cf636b1a1c44786718.jpg" tvg-name="Casi muerta (2023)" ,Casi muerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391371.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/41c553803d7b35cf636b1a1c44786718.jpg" tvg-name="Cassidy Y La Pandilla Salvaje (2023)" ,Cassidy Y La Pandilla Salvaje (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391372.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/377a70c169e0a64baff0460b75afd546.jpg" tvg-name="Cazador de tormentas (2023)" ,Cazador de tormentas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391373.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d20139480c71beb1e43cad4af95ec27.jpg" tvg-name="Chupa (2023)" ,Chupa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391375.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/341f44b751eb5c7fe679084e27a0e2cb.jpg" tvg-name="Confesiones (2023)" ,Confesiones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391376.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2fed96850c2ee01399bcb1333a6133e3.jpg" tvg-name="Con la soga al cuello (2023)" ,Con la soga al cuello (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391377.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/134dc01428a8ae737e35ca84e078e028.jpg" tvg-name="Con todos menos contigo (2023)" ,Con todos menos contigo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391378.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b4da505ca305bc66a2cf07de293893f1.jpg" tvg-name="Cuando ellas quieren más (2023)" ,Cuando ellas quieren más (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391381.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/776ab10c32e1c3e5ae746684dfb0e832.jpg" tvg-name="Culpa mía (2023)" ,Culpa mía (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391382.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/205a09b93b3676cecdec45b06e24aa0d.jpg" tvg-name="Demonio negro (2023)" ,Demonio negro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391384.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/13cde4900c6bba29d9c18c3c2672c55d.jpg" tvg-name="Enfrentando la navidad (2023)" ,Enfrentando la navidad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391385.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/06dfd262b7ffd1fe44553439c6d220e3.jpg" tvg-name="Desconexión: El organizador de bodas (2023)" ,Desconexión: El organizador de bodas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391386.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/83a094bd83f349078f6b5cada6346e3b.jpg" tvg-name="Detective Knight: Independencia (2023)" ,Detective Knight: Independencia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391387.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9801eafe59ba323fae44694fc0efe9d1.jpg" tvg-name="Dieciocho Otra Vez (2023)" ,Dieciocho Otra Vez (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391388.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8c0244eb3db05964d35750489ec44e12.jpg" tvg-name="Disco Inferno (2023)" ,Disco Inferno (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391389.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63cb4579da469826d4d3e5cba4ceeff6.jpg" tvg-name="Divina Señal (2023)" ,Divina Señal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391390.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b61574476617586cb73ba4feda35c9c4.jpg" tvg-name="Doble discurso (2023)" ,Doble discurso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391391.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/72dcc648211d1a8f73318bd9fc0e5289.jpg" tvg-name="Dogman: Vida Inquebrantable (2023)" ,Dogman: Vida Inquebrantable (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391392.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/283d8287ff9c286b54ad43646145500b.jpg" tvg-name="Dora ¡Di Hello a la Aventura! (2023)" ,Dora ¡Di Hello a la Aventura! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391393.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/945b809dc3d017a72ded5a065d8cd6e8.jpg" tvg-name="Drácula: Mar de sangre (2023)" ,Drácula: Mar de sangre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391394.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e36df2085858fdb17b8376d66c6ba30.jpg" tvg-name="Calabozos & Dragones: Honor entre ladrones (2023)" ,Calabozos & Dragones: Honor entre ladrones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391395.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2f447c9d63350c34c32ebeced94e060.jpg" tvg-name="El Exorcista del Papa (2023)" ,El Exorcista del Papa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391397.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93c26dfab305db44d7fcf3addb14e1f3.jpg" tvg-name="El Pacto (2023)" ,El Pacto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391398.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93c26dfab305db44d7fcf3addb14e1f3.jpg" tvg-name="El Anio Del Tigre (2023)" ,El Anio Del Tigre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391399.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dbce2348708a293b0f89036d952abfce.jpg" tvg-name="El asistente (2023)" ,El asistente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391400.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/acab6068f38bb202ec0edb5bc3a3627d.jpg" tvg-name="El camino de Hill (2023)" ,El camino de Hill (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391401.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a800987646da27471284fc860c90085f.jpg" tvg-name="El Club de los Asesinos (2023)" ,El Club de los Asesinos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391402.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1932f7496445d7298a1b1cc680da88da.jpg" tvg-name="El club de los lectores criminales (2023)" ,El club de los lectores criminales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391403.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6195fa38bb5d08101bab9f5774a0741a.jpg" tvg-name="El color púrpura (2023)" ,El color púrpura (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391404.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b9860deaa44f35e57aa30f65f875eee3.jpg" tvg-name="El Conde (2023)" ,El Conde (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391405.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/61f9363ae36c70be8e1358cf8b5596e8.jpg" tvg-name="El delator (2023)" ,El delator (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391406.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e29f4809aa3ad9c332ca86d31e58d495.jpg" tvg-name="El desratizador (2023)" ,El desratizador (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391407.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fc645d8634b2dd11e3265d6e76c9e4c.jpg" tvg-name="Elementos (2023)" ,Elementos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391408.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c03c63f836f92fd55f816be8414b3a45.jpg" tvg-name="El estrangulador de Boston (2023)" ,El estrangulador de Boston (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391409.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2f447c9d63350c34c32ebeced94e060.jpg" tvg-name="El Exorcista del Papa (2023)" ,El Exorcista del Papa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391410.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2f447c9d63350c34c32ebeced94e060.jpg" tvg-name="El Exorcista del Papa (2023)" ,El Exorcista del Papa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391411.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4bc65907ee46d4aacab0377ac09d4dc6.jpg" tvg-name="El extraño caso del fantasma claustrofóbico (2023)" ,El extraño caso del fantasma claustrofóbico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391412.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cfd727a57f7a83fa4e0fc782b596b6b3.jpg" tvg-name="El final que quiero (2023)" ,El final que quiero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391413.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8cc79eebeb97ad0bd618be2c9b469430.jpg" tvg-name="El Hombre De Los Sueños (2023)" ,El Hombre De Los Sueños (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391414.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e48e380b04f8c4ed942a27ef037a672.jpg" tvg-name="The Nomad (2023)" ,The Nomad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391416.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93052e6b3a5f3fbf11e77d691351b4bd.jpg" tvg-name="El poder de los centavos (2023)" ,El poder de los centavos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391417.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dc7e630fbfe6d48cb71aaa215e4d8207.jpg" tvg-name="El regreso de Manson (2023)" ,El regreso de Manson (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391418.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/72c37586b076285bc83309df50a71aaf.jpg" tvg-name="El vuelo de los ladrones (2023)" ,El vuelo de los ladrones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391419.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e6b24ac33c861f6d6ce378bc47c0c26b.jpg" tvg-name="El Yuppie Y El Guiso (2023)" ,El Yuppie Y El Guiso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391420.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4491df1aff7f0e4cfb5482e5e17b68e4.jpg" tvg-name="En llamas (2023)" ,En llamas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391422.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/04150d4b7cade27d71082cccb1b0ac82.jpg" tvg-name="Entre el Amor y la Amistad (2023)" ,Entre el Amor y la Amistad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391423.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b02907c9ae8b3e31e39eff7af021e7d2.jpg" tvg-name="En un Sueño (Rüyanda Görürsün) (2023)" ,En un Sueño (Rüyanda Görürsün) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391424.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/315c5fbf4a6c28dd8de755c4731acaea.jpg" tvg-name="Eres tú (2023)" ,Eres tú (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391425.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2b800b8319ca6e22aacd7aeca2dcbe9.jpg" tvg-name="Espíritu libre (2023)" ,Espíritu libre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391426.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2b800b8319ca6e22aacd7aeca2dcbe9.jpg" tvg-name="Evil Dead 05 Rise (2023) (1080p)" ,Evil Dead 05 Rise (2023) (1080p)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391427.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2b800b8319ca6e22aacd7aeca2dcbe9.jpg" tvg-name="Evil Dead 05 Rise (2023) [720p]" ,Evil Dead 05 Rise (2023) [720p]
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391428.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2b805200f427893d9a30bd81447259e2.jpg" tvg-name="Evil Dead: El despertar (2023)" ,Evil Dead: El despertar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391429.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fa4190f47d2a0be98637160a5a19dd4b.jpg" tvg-name="Fatum (2023)" ,Fatum (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391432.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b18618217fb5a1035e8cc47c8faff3a8.jpg" tvg-name="Felicidad para principiantes (2023)" ,Felicidad para principiantes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391433.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/124ff9acc70aa3c7ac3d6a865daa33ae.jpg" tvg-name="Fiesta en Casa (2023)" ,Fiesta en Casa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391434.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79b14af094b7100e0c71142984ecaaf5.jpg" tvg-name="Final feliz (2023)" ,Final feliz (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391435.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8219057e6900e049340dfd849aa9371f.jpg" tvg-name="Flamin' Hot: El sabor que cambió la historia (2023)" ,Flamin' Hot: El sabor que cambió la historia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391436.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/30717a30b80193667b0a96cd9773a0db.jpg" tvg-name="Flora e hijo (2023)" ,Flora e hijo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391437.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b99bb88148105e99e13385039929505.jpg" tvg-name="Intruso (2023)" ,Intruso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391438.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c9a1e28b3b666d5ed17321330ee105c0.jpg" tvg-name="Forgotten Lovers (2023)" ,Forgotten Lovers (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391439.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68096a0e097d4ee5a69c6af86e44b0cd.jpg" tvg-name="Héroe Por Encargo (2023)" ,Héroe Por Encargo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391440.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f534ee555a879ac4515e22eecdf93b2a.jpg" tvg-name="Fuga de Reinas (2023)" ,Fuga de Reinas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391441.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4efd724f4bb7da7ee1e1e2b8ddbcaafa.jpg" tvg-name="Garra de Hierro (2023)" ,Garra de Hierro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391442.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/378dee5e34907592a71a3b6c0f37140c.jpg" tvg-name="Ghosteado (2023)" ,Ghosteado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391443.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/378dee5e34907592a71a3b6c0f37140c.jpg" tvg-name="Ghosteado (2023)" ,Ghosteado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391444.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f5a8026eb588f7550047b544f462c3a.jpg" tvg-name="Gran Turismo: De jugador a corredor (2023)" ,Gran Turismo: De jugador a corredor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391445.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a28cc2b2c879625186925c0a77470ba4.jpg" tvg-name="Guardianes de la Galaxia volumen 3 (2023)" ,Guardianes de la Galaxia volumen 3 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391446.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f938f10e97ff835794b5834cb478d63e.jpg" tvg-name="Guia de Viaje hacia el Amor (2023)" ,Guia de Viaje hacia el Amor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391447.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c7cb9f796b2152727e173654562df892.jpg" tvg-name="Hanna i els monstres (2023)" ,Hanna i els monstres (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391448.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/34f291766315e8a5d0bd3a53cc4a4659.jpg" tvg-name="Hart: Duro de entrenar (2023)" ,Hart: Duro de entrenar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391449.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c1bf7faee1570d54bfd74af0b3b9419.jpg" tvg-name="Panggonan Wingit (2023)" ,Panggonan Wingit (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391451.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09dc42f3cf3bf6ba1e81ffa3a5448044.jpg" tvg-name="Hazme el favor (2023)" ,Hazme el favor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391452.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ad50d5bdddf64b98e18d18a67f6057e.jpg" tvg-name="Heroico (2023)" ,Heroico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391453.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/521f809b1efcf9fe2800df877326aeda.jpg" tvg-name="Proyecto Extracción (2023)" ,Proyecto Extracción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391454.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa9b17ae8300371d431cedece1b1ae95.jpg" tvg-name="Hijos de perra (2023)" ,Hijos de perra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391455.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5515d2f79c7c6e027273b59e872b2fb0.jpg" tvg-name="Hipnosis: Arma Invisible (2023)" ,Hipnosis: Arma Invisible (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391456.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a476c3f84c22b0e1c1476823228048c2.jpg" tvg-name="Su único hijo (2023)" ,Su único hijo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391457.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c7896cc61933ea62d0cddec24013a35.jpg" tvg-name="Huesera (2023)" ,Huesera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391458.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40b70e9987120c735438852e6611e88f.jpg" tvg-name="Háblame (2023)" ,Háblame (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391459.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8b2604f0843d1195ec65aa43962d500d.jpg" tvg-name="Ice Cold: Murder, Coffee and Jessica Wongso (2023)" ,Ice Cold: Murder, Coffee and Jessica Wongso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391461.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/43551e86e43999e1ed1765b5fbfa9597.jpg" tvg-name="No voy a pedirle a nadie que me crea (2023)" ,No voy a pedirle a nadie que me crea (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391462.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b923a6fbe9e02e636ca904cdb2052996.jpg" tvg-name="Indiana Jones y el dial del destino (2023)" ,Indiana Jones y el dial del destino (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391463.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bce7521f54871b2c0e3a74572dd6426b.jpg" tvg-name="Infelices para Siempre (2023)" ,Infelices para Siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391464.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d1025a59e7d413129b57ba1bcd5a138.jpg" tvg-name="Adentro (2023)" ,Adentro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391465.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dbdb3833ca8c299694f80584b8856a40.jpg" tvg-name="Inside Man (2023)" ,Inside Man (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391466.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0956cff7169f45d1918df0f7dcf57a08.jpg" tvg-name="La noche del demonio: La puerta roja (2023)" ,La noche del demonio: La puerta roja (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391467.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12c6ab79b32a2d9c94125c7bb777742f.jpg" tvg-name="Isabella: o Caso Nardoni (2023)" ,Isabella: o Caso Nardoni (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391468.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0082ad5a80e21375edd15b571a9dc6a2.jpg" tvg-name="La isla de las muñecas (2023)" ,La isla de las muñecas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391469.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6968fed3e804a94c7997da86de4c4642.jpg" tvg-name="No lo abras (2023)" ,No lo abras (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391470.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e86d69ec7fb7a3b87d98f0a653bb6f61.jpg" tvg-name="Jagun Jagun (2023)" ,Jagun Jagun (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391471.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12debc98b16393bbaaa0b3cc14c916a0.jpg" tvg-name="John Wick 4 (2023)" ,John Wick 4 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391472.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12debc98b16393bbaaa0b3cc14c916a0.jpg" tvg-name="John Wick 4 (2023)" ,John Wick 4 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391473.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12debc98b16393bbaaa0b3cc14c916a0.jpg" tvg-name="John Wick 4 (2023)" ,John Wick 4 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391474.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a7c452fdbfc1625f4dc0a2b56270e62.jpg" tvg-name="Juega o Muere (2023)" ,Juega o Muere (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391475.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/43f0dac7aaea04bbee945063ecde17f9.jpg" tvg-name="JUNG_E (2023)" ,JUNG_E (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391476.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a8fcfa5530749abb891754dbd390d31e.jpg" tvg-name="Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)" ,Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391477.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3f3801d1035629276487147ca11886af.jpg" tvg-name="Krakens y sirenas: Conoce a los Gillman (2023)" ,Krakens y sirenas: Conoce a los Gillman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391478.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7c75f40df93baf276de3f12063844f76.jpg" tvg-name="La elefanta del Mago (2023)" ,La elefanta del Mago (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391479.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bd417a9ab58e7531ba77e69bf6e9a4e4.jpg" tvg-name="Los Conspiradores (2023)" ,Los Conspiradores (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391480.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9a40b44fbec197766fee0df51ffa347a.jpg" tvg-name="La Furia de Drácula (2023)" ,La Furia de Drácula (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391482.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68c5599d98ddadf24ff67590bf748e01.jpg" tvg-name="La generación cápsula (2023)" ,La generación cápsula (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391483.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3229dd8845404f7dd9a4b3fa04f0bc69.jpg" tvg-name="La gran seducción (2023)" ,La gran seducción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391484.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ef3517e533a6801b38a9b43d28c10535.jpg" tvg-name="La hija del rey de los pantanos (2023)" ,La hija del rey de los pantanos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391485.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/adbfac952841f7831aae10a8b4c56dcb.jpg" tvg-name="La informante (2023)" ,La informante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391487.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e12cb058455de71dedce44662c7ca6f.jpg" tvg-name="Que el Día de la Madre te acompañe (2024)" ,Que el Día de la Madre te acompañe (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391488.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7c473724c0b1ed9b991af5f99a24e280.jpg" tvg-name="La Maldición del Queen Mary (2023)" ,La Maldición del Queen Mary (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391489.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/be1950e3aa687669d82f763924b145d7.jpg" tvg-name="La maravillosa historia de Henry Sugar (2023)" ,La maravillosa historia de Henry Sugar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391490.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4633cb7895e1327e00d4214403b232ec.jpg" tvg-name="La modelo y el fotógrafo (2020)" ,La modelo y el fotógrafo (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391491.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/64291227ea740bfc86d4b4c90df661e6.jpg" tvg-name="La monja II (2023)" ,La monja II (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391492.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6181dcf1bc54e925600801b6163b2a91.jpg" tvg-name="La niña de la comunión (2023)" ,La niña de la comunión (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391494.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5b7e2920f4f032044cedc834d1633b01.jpg" tvg-name="La Resurrección de la Momia (2023)" ,La Resurrección de la Momia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391496.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5193c7b4951586e586d4e10cff322128.jpg" tvg-name="Las momias y el anillo perdido (2023)" ,Las momias y el anillo perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391497.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2e198df1b4a5c862697a65cdc5f2cff6.jpg" tvg-name="Nightman: La sombra del mal (2023)" ,Nightman: La sombra del mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391498.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4996033a2f55011f8da2a1e2d4d43c9.jpg" tvg-name="La Última Yarda (2023)" ,La Última Yarda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391499.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb66f7f530e6f383971e091ba6cff3a1.jpg" tvg-name="La venganza de Charlie (2023)" ,La venganza de Charlie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391500.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a85ab190abb433b155cb01c5f9084e8f.jpg" tvg-name="La versión persa (2023)" ,La versión persa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391501.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fb936e296a5a513fce407022a327a8fa.jpg" tvg-name="La Última Línea de Defensa (2020)" ,La Última Línea de Defensa (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391502.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fb936e296a5a513fce407022a327a8fa.jpg" tvg-name="Leave.the.World.Behind (2023)" ,Leave.the.World.Behind (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391503.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fb936e296a5a513fce407022a327a8fa.jpg" tvg-name="Leonardo el Maestro (2023) " ,Leonardo el Maestro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391505.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2a27dfeb63eed83eb0568114c247ab1e.jpg" tvg-name="Lil Nas X: Long Live Montero (2023)" ,Lil Nas X: Long Live Montero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391506.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/80bac6bdc7acef8fbc82584b32a2ee38.jpg" tvg-name="Lionel Messi: Destiny (2023)" ,Lionel Messi: Destiny (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391507.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f953ba0432c5f92b3e4f8260bceb1f3.jpg" tvg-name="Pequeña Dixie (2023)" ,Pequeña Dixie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391508.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f953ba0432c5f92b3e4f8260bceb1f3.jpg" tvg-name="Pequeña Dixie (2023)" ,Pequeña Dixie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391509.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5194c547328e31f23313911fc3ed9be0.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391510.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51354c92cec6eb88afc6183aae0c43cf.jpg" tvg-name="Llego a mí (2023)" ,Llego a mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391511.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0df0376553668e9b4243dc3ce4b1ac06.jpg" tvg-name="Tormenta ácida (2023)" ,Tormenta ácida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391512.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c1e5ba8f82e55b3b6b1322bf9cdb076.jpg" tvg-name="Lo mejor está por venir (2019)" ,Lo mejor está por venir (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391513.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fe47312afe63ab55e5bddb1d16e508d2.jpg" tvg-name="Ritos Ocultos (2023)" ,Ritos Ocultos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391514.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/81bbeb45190a93a8ce6739518210f820.jpg" tvg-name="Los blancos no saben saltar (2023)" ,Los blancos no saben saltar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391515.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a8fcfa5530749abb891754dbd390d31e.jpg" tvg-name="Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)" ,Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391516.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a8fcfa5530749abb891754dbd390d31e.jpg" tvg-name="Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)" ,Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391517.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/500edf453acc3366825e4bb64f6b4bbb.jpg" tvg-name="Los campeones (2023)" ,Los campeones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391518.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391519.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391520.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d977affd5a84d5657b1ba981385ee87e.jpg" tvg-name="Los Tres Mosqueteros: D'Artagnan (2023)" ,Los Tres Mosqueteros: D'Artagnan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391522.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cfdc13b27675bb1d3be675e7e3da332f.jpg" tvg-name="El amor está en el aire (2023)" ,El amor está en el aire (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391523.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0aa972bbea0c23a547fd0174652fc62c.jpg" tvg-name="Lupin III vs Ojos de Gato (2023)" ,Lupin III vs Ojos de Gato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391524.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/252cba0836f29686665f650a4f16da6c.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391525.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/252cba0836f29686665f650a4f16da6c.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391526.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/252cba0836f29686665f650a4f16da6c.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391527.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/252cba0836f29686665f650a4f16da6c.jpg" tvg-name="M0NSTRU0 (2023)" ,M0NSTRU0 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391528.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea2d6db579f7a5c6fe7c0d34079eb0b7.jpg" tvg-name="El maestro de las sombras (2022)" ,El maestro de las sombras (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391529.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea2d6db579f7a5c6fe7c0d34079eb0b7.jpg" tvg-name="El maestro de las sombras (2022)" ,El maestro de las sombras (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391530.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7296194b57ee42963f275ddf6681bdf3.jpg" tvg-name="Magic Mike: El último baile (2023)" ,Magic Mike: El último baile (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391531.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/984f6e9b4d189b5d4ffc7fbbcaf7a52a.jpg" tvg-name="Ricos y malcriados (2021)" ,Ricos y malcriados (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391532.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/478b84c9fd61175ad98de26a00eec399.jpg" tvg-name="Manódromo (2023)" ,Manódromo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391533.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05b0bee2c7129e62a797e30d006f0627.jpg" tvg-name="La mansion embrujada (2003)" ,La mansion embrujada (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391534.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4a4cbd53d1b26477f34af435aa37921.jpg" tvg-name="Sombras de un crimen (2023)" ,Sombras de un crimen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391535.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/30b0ed78281ca1f287ac04117212c77e.jpg" tvg-name="Secretos de un escándalo (2023)" ,Secretos de un escándalo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391536.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09f4c0a68fc8b869b9e37a19f32f0acf.jpg" tvg-name="Nos vemos en Paris (2023)" ,Nos vemos en Paris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391537.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e82782c9d7f2ec2cdee488cc3c3df81.jpg" tvg-name="Viaje a la oscuridad (2023)" ,Viaje a la oscuridad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391538.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8d6e49a81c9464aed4961f0fd9df3dfb.jpg" tvg-name="Metalocalypse: : El ejército de la estrella del mal (2023)" ,Metalocalypse: : El ejército de la estrella del mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391539.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5ed9c577de57af6db9684cbe56ea6e9c.jpg" tvg-name="Me vuelves loca (2023)" ,Me vuelves loca (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391540.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09c4ba3bb3879c455a7a3d3779a827bc.jpg" tvg-name="Meu cunhado é um vampiro (2023)" ,Meu cunhado é um vampiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391541.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63b11906e078804efa4941782e73f826.jpg" tvg-name="El salario del miedo (2024)" ,El salario del miedo (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391542.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a84d76da66b2c7cfc92329d9808a66f.jpg" tvg-name="On a Wing and a Prayer (2023)" ,On a Wing and a Prayer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391543.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d87df71192bf292452d49827b863b24.jpg" tvg-name="Power Rangers: Ayer, hoy y siempre (2023)" ,Power Rangers: Ayer, hoy y siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391544.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d87df71192bf292452d49827b863b24.jpg" tvg-name="Power Rangers: Ayer, hoy y siempre (2023)" ,Power Rangers: Ayer, hoy y siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391545.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5a971f9293271b8c90f0819b33856801.jpg" tvg-name="¡Patos! (2023)" ,¡Patos! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391546.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79d9bb658ff60a79161bdac0bdfb8bc4.jpg" tvg-name="Mi Maestra se comió a mi amigo (2023)" ,Mi Maestra se comió a mi amigo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391547.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d608a78256c08f40024e0b855926cabb.jpg" tvg-name="Misión condor (2023)" ,Misión condor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391548.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/101576396f18869ed01da0d38fea1085.jpg" tvg-name="Misión de rescate 2 (2023)" ,Misión de rescate 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391549.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ad061cb40edf94417cc55949f30622f3.jpg" tvg-name="Miss Shampoo (2023)" ,Miss Shampoo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391550.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9c1d5fe08c3b53756667f0a14fa47957.jpg" tvg-name="Misterio a la vista (2023)" ,Misterio a la vista (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391551.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9c1d5fe08c3b53756667f0a14fa47957.jpg" tvg-name="Mistletoe.in.Montana (2023)" ,Mistletoe.in.Montana (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391552.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9c1d5fe08c3b53756667f0a14fa47957.jpg" tvg-name="Mi Teoría De La Popularidad (2023) " ,Mi Teoría De La Popularidad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391553.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1146443fc16a082e6692ea23858d9fdf.jpg" tvg-name="Muchachos, la película de la gente (2023)" ,Muchachos, la película de la gente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391554.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5193c7b4951586e586d4e10cff322128.jpg" tvg-name="Las momias y el anillo perdido (2023)" ,Las momias y el anillo perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391555.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7da6daa52fd0ba0ced158b01bef3c9b8.jpg" tvg-name="Mundo Miraculous: París, Las Aventuras de Shadybug y Claw Noir (2023)" ,Mundo Miraculous: París, Las Aventuras de Shadybug y Claw Noir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391556.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e1bd94cbcd936dd290ed1b438deec609.jpg" tvg-name="Muy Lejos (2023)" ,Muy Lejos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391557.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg" tvg-name="Nada que ver (2023)" ,Nada que ver (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391558.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cd49bfeaa1063a0a8007b829c3cefd0d.jpg" tvg-name="Nada que ver (2023)" ,Nada que ver (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391559.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ea695849a1b3abce71edd837143b3c.jpg" tvg-name="Noches de verano en Taipéi (2023)" ,Noches de verano en Taipéi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391560.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c95512a04bc8c3452f217989780b341.jpg" tvg-name="No me llame Ternera (2023)" ,No me llame Ternera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391561.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/25742cd3a82efaa95eabf2bb3a5e583c.jpg" tvg-name="No molestar (2023)" ,No molestar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391562.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Nowhere (2023)" ,Nowhere (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391563.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Nowhere (2023)" ,Nowhere (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391564.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e2a77687d925c4778a52a1ad61309555.jpg" tvg-name="Office Race (2023)" ,Office Race (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391565.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63ac4233709986eb5563d1e0e6d50823.jpg" tvg-name="Ah, Belinda (2023)" ,Ah, Belinda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391566.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/efe10fc604ef651f87cebb92d943b065.jpg" tvg-name="Oliva (2023)" ,Oliva (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391567.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c76036274fa82ce0ee9cf4aa7634768.jpg" tvg-name="Un guardabosque (2023)" ,Un guardabosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391569.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d36d9591540446bbbbdad52b14525c2c.jpg" tvg-name="Escape bajo fuego (2023)" ,Escape bajo fuego (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391570.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8de7eea179029ec8f691fe8a7e701e28.jpg" tvg-name="Oso intoxicado (2023)" ,Oso intoxicado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391571.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a852a10b5b89ba7c5212d2c31fd53a9b.jpg" tvg-name="Carga Máxima (2023)" ,Carga Máxima (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391572.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/016563e2d0603c960716276a20990436.jpg" tvg-name="Pacto de graduación (2023)" ,Pacto de graduación (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391573.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/016563e2d0603c960716276a20990436.jpg" tvg-name="Pacto de graduación (2023)" ,Pacto de graduación (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391574.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3ac846ee6f97b255e4fcfbce25022251.jpg" tvg-name="Pintemos (2023)" ,Pintemos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391575.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c033c8e2f474c83a215bfa0c45e05f03.jpg" tvg-name="Papá o Mamá (2023)" ,Papá o Mamá (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391576.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="PAW Patrol: La súper película (2023)" ,PAW Patrol: La súper película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391577.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="PAW Patrol: La súper película (2023)" ,PAW Patrol: La súper película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391578.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5e7953c6c857a8ed230e31e804d69373.jpg" tvg-name="Jugando sucio (2020)" ,Jugando sucio (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391579.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bffa5893b804a8009561e65be3b9b018.jpg" tvg-name="Perder es ganar un poco (2023)" ,Perder es ganar un poco (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391580.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9011034b6791002107516fa873e68a06.jpg" tvg-name="Perdidos en la noche (2023)" ,Perdidos en la noche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391581.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/59e10405e271fd52d5e02759948d776f.jpg" tvg-name="Perro perdido (2023)" ,Perro perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391582.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c86e7c3116cb98ebd079ab6ae2608765.jpg" tvg-name="Peter Pan y Wendy (2023)" ,Peter Pan y Wendy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391583.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c86e7c3116cb98ebd079ab6ae2608765.jpg" tvg-name="Peter Pan y Wendy (2023)" ,Peter Pan y Wendy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391584.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/61d46aa72e1758079b625361eb7409fe.jpg" tvg-name="Masacre en El Bosque (2023)" ,Masacre en El Bosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391585.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/39a09eb3eb2febd725d15138c09fa797.jpg" tvg-name="Plan familiar (2023)" ,Plan familiar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391586.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c6f60e50649107f115cde6558d97e9b.jpg" tvg-name="Pobres Criaturas (2023)" ,Pobres Criaturas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391587.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c6f60e50649107f115cde6558d97e9b.jpg" tvg-name="Pobres Criaturas (2023)" ,Pobres Criaturas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391588.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f8a514c7923291536640acfc593e15a6.jpg" tvg-name="Por una mujer casada (2023)" ,Por una mujer casada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391589.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d87df71192bf292452d49827b863b24.jpg" tvg-name="Power Rangers: Ayer, hoy y siempre (2023)" ,Power Rangers: Ayer, hoy y siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391590.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ecf3404f9aa539274988afbefb767ec.jpg" tvg-name="Praise This (2023)" ,Praise This (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391591.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8fd42c275698082b50b07d95e39315eb.jpg" tvg-name="Priscilla (2023)" ,Priscilla (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391592.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a4ecd73548f195186aede4fea7652510.jpg" tvg-name="Puedes hacerlo Chang (2023)" ,Puedes hacerlo Chang (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391593.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ff86eccf2a13c5820967dcfbe9acd971.jpg" tvg-name="Quasi (2023)" ,Quasi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391594.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4930f23ef5eb82a84e1a64eb1923b10b.jpg" tvg-name="Arenas Mortales (2023)" ,Arenas Mortales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391595.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde7c674fabfa478bf349a1d7089998f.jpg" tvg-name="Maniobra Radical (2021)" ,Maniobra Radical (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391596.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde7c674fabfa478bf349a1d7089998f.jpg" tvg-name="Maniobra Radical (2021)" ,Maniobra Radical (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391597.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/61d44c965a8a753559a79b36e8726965.jpg" tvg-name="¡Ready, Jet, Go! Campamento Espacial La Pelicula (2023)" ,¡Ready, Jet, Go! Campamento Espacial La Pelicula (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391598.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/053893182d694c64c245725bfd1cb155.jpg" tvg-name="Rebel Moon (Parte dos): La guerrera que deja marcas (2024)" ,Rebel Moon (Parte dos): La guerrera que deja marcas (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391599.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fc5a0f1c672e583125f38dcb73374e8.jpg" tvg-name="Rojo, Blanco y Sangre Azul (2023)" ,Rojo, Blanco y Sangre Azul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391600.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/280059a64df27e8735e16687e0c6cd95.jpg" tvg-name="Relación obsesiva (2024)" ,Relación obsesiva (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391601.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/280059a64df27e8735e16687e0c6cd95.jpg" tvg-name="Relax Imm from the Future (2023)" ,Relax Imm from the Future (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391602.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/585adf2719e38f2782d456d62c50ced2.jpg" tvg-name="Renfield: Asistente de vampiro (2023)" ,Renfield: Asistente de vampiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391603.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d412971e17d0df42442781451ed19f89.jpg" tvg-name="Rescate en Ámsterdam (2023)" ,Rescate en Ámsterdam (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391604.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c198adbcccbdb78be2f2b400a672a8be.jpg" tvg-name="Righteous Thieves (2023)" ,Righteous Thieves (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391606.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d5c7b942f062ecfe5e03255cec4fa744.jpg" tvg-name="La Venganza de Jack (2023)" ,La Venganza de Jack (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391607.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fe47312afe63ab55e5bddb1d16e508d2.jpg" tvg-name="Ritos Ocultos (2023)" ,Ritos Ocultos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391608.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9d26b24ee7bda8526ccdb5670ee97559.jpg" tvg-name="Terminator 3: La rebelión de las máquinas (2003)" ,Terminator 3: La rebelión de las máquinas (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391609.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fc5a0f1c672e583125f38dcb73374e8.jpg" tvg-name="Rojo, Blanco y Sangre Azul (2023)" ,Rojo, Blanco y Sangre Azul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391610.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f8ba15b65e51cec51027ca2fcbbee2cc.jpg" tvg-name="Ruido mental (2023)" ,Ruido mental (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391611.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d45ed806d41ba6a390c570b3f81bdb4a.jpg" tvg-name="Corre, Cariño (2020)" ,Corre, Cariño (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391612.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6801340a2a2fee23213f941a755dc09b.jpg" tvg-name="Sangre y oro (2023)" ,Sangre y oro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391614.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a5cbcb4ce698b63befb6660571aa787.jpg" tvg-name="Saw X: El juego del miedo (2023)" ,Saw X: El juego del miedo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391615.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/150ae7ef5d03bfe357fd30783ad078fe.jpg" tvg-name="Sayen: La ruta seca (2023)" ,Sayen: La ruta seca (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391616.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/150ae7ef5d03bfe357fd30783ad078fe.jpg" tvg-name="Sayen: La ruta seca (2023)" ,Sayen: La ruta seca (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391617.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3bebd1585b0f39b0f739b1423c0f6600.jpg" tvg-name="Scouts Honor: Los archivos secretos de los Boy Scouts de EE. UU. (2023)" ,Scouts Honor: Los archivos secretos de los Boy Scouts de EE. UU. (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391618.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a9feb942ff20462a5e6e5c968c02089.jpg" tvg-name="Scream 6 (2023)" ,Scream 6 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391619.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a9feb942ff20462a5e6e5c968c02089.jpg" tvg-name="Scream 6 (2023)" ,Scream 6 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391620.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/30b0ed78281ca1f287ac04117212c77e.jpg" tvg-name="Secretos de un escándalo (2023)" ,Secretos de un escándalo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391621.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e7a4ef6e12b945e3b24055c3459b31a4.jpg" tvg-name="Secretos Familiares (2023)" ,Secretos Familiares (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391622.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/db27dc68338c9c0460d5995a5b467dd2.jpg" tvg-name="Sentinela (2023)" ,Sentinela (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391623.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dfb6849c262c128e621996ca9a3c99f8.jpg" tvg-name="Señora Influencer (2023)" ,Señora Influencer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391624.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e49e4f47dbbc87dc53f3c1d446e4be6.jpg" tvg-name="Sharper: un plan perfecto (2023)" ,Sharper: un plan perfecto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391625.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e49e4f47dbbc87dc53f3c1d446e4be6.jpg" tvg-name="Sharper: un plan perfecto (2023)" ,Sharper: un plan perfecto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391626.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c779faeff1278590e5ee2774341c109.jpg" tvg-name="¡Shazam! La furia de los dioses (2023)" ,¡Shazam! La furia de los dioses (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391627.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a0e4b5f587b1f3038c00874cfbc12ea8.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391628.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a0e4b5f587b1f3038c00874cfbc12ea8.jpg" tvg-name="Silent Nigth (2023)" ,Silent Nigth (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391630.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4622fa5bad448a3c28f244f907e4b5be.jpg" tvg-name="Silver Dollar Road (2023)" ,Silver Dollar Road (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391631.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9532d7c1daccf20bb46b89a89fc855b4.jpg" tvg-name="Yo soy Simón (2018)" ,Yo soy Simón (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391632.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6be8fe79baa35bcccbee508221c3467f.jpg" tvg-name="Sin rastro (1997)" ,Sin rastro (1997)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391633.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b63d85212bbe7d79e720530356f38a4c.jpg" tvg-name="Sin tiempo para morir (2021)" ,Sin tiempo para morir (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391634.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d90330de40ad2f219c5f753acb58599d.jpg" tvg-name="La vida es un pastel (2023)" ,La vida es un pastel (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391636.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a3b9fbc529aadf43898cb2e4680ed1f2.jpg" tvg-name="Sleep: El mal no duerme (2023)" ,Sleep: El mal no duerme (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391637.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a3b9fbc529aadf43898cb2e4680ed1f2.jpg" tvg-name="Sleep: El mal no duerme (2023)" ,Sleep: El mal no duerme (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391638.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e6c67b0646741500d2379203db71116.jpg" tvg-name="Sly (2023)" ,Sly (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391639.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dfbfb05507128fba2290eb4ec0d0d756.jpg" tvg-name="Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)" ,Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391640.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9650c8473cb6d9d380da230d4015945c.jpg" tvg-name="Snoopy presenta: La extraordinaria Marcie (2023)" ,Snoopy presenta: La extraordinaria Marcie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391641.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e71e8c8bc86d22ab22199b66f4ae95dc.jpg" tvg-name="Sobrevivientes después del terremoto (2023)" ,Sobrevivientes después del terremoto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391642.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4a4cbd53d1b26477f34af435aa37921.jpg" tvg-name="Sombras de un crimen (2023)" ,Sombras de un crimen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391643.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/344e0a416b071912aad8e56b5c8b977b.jpg" tvg-name="S.O.S Mamis 2: Mosquita muerta (2023)" ,S.O.S Mamis 2: Mosquita muerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391644.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/556764fcf33eb2e127f244b3f646e3c3.jpg" tvg-name="Atrapaalmas (2023)" ,Atrapaalmas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391645.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/552742856106cc5f19c5303d7f170689.jpg" tvg-name="Sonido de Libertad (2023)" ,Sonido de Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391646.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/729907635285b5c0f9cde1fb374d466a.jpg" tvg-name="South Park: El Fin de la Obesidad (2024)" ,South Park: El Fin de la Obesidad (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391647.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/729907635285b5c0f9cde1fb374d466a.jpg" tvg-name="Spide-Man.Acros.the.Spide-Vers.2023" ,Spide-Man.Acros.the.Spide-Vers.2023
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391648.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/95d08a921a5a126a948e146dadddd9dc.jpg" tvg-name="Spider-Man: A través del Spider-Verso (2023)" ,Spider-Man: A través del Spider-Verso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391649.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c75c200c0615edfc488f7a4a8351b2c.jpg" tvg-name="Flow Callejero 2 (2023)" ,Flow Callejero 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391650.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/777d0c971fc676fd22ec87dde7c502fd.jpg" tvg-name="Super Mario Bros. La película (2023)" ,Super Mario Bros. La película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391651.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8d22e27d8486160d86e418d7d513ab5a.jpg" tvg-name="Tangos, tequilas, y algunas mentiras (2023)" ,Tangos, tequilas, y algunas mentiras (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391652.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/902ae533f4fa767a38447384bbd42ab3.jpg" tvg-name="Teen Wolf: La Película (2023)" ,Teen Wolf: La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391653.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/902ae533f4fa767a38447384bbd42ab3.jpg" tvg-name="Teen Wolf: La Película (2023)" ,Teen Wolf: La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391654.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb5d3917bf23266763e9ca446b377ce3.jpg" tvg-name="Tenemos un fantasma (2023)" ,Tenemos un fantasma (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391655.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ac38ebe7514835096a236d7f5ad42423.jpg" tvg-name="Tetris (2023)" ,Tetris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391656.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5c10e1989af23be822329d41f8d00d3.jpg" tvg-name="Sin Aire (2023)" ,Sin Aire (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391657.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6bebb044dff2574078270ef4cba49587.jpg" tvg-name="El Cisne (2023)" ,El Cisne (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391659.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6bebb044dff2574078270ef4cba49587.jpg" tvg-name="The.Taming.of.the.Shrewd.2 (2023)" ,The.Taming.of.the.Shrewd.2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391660.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/713658aa42c37b34398868b5240f31fa.jpg" tvg-name="Ensayo general (2023)" ,Ensayo general (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391661.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b4da505ca305bc66a2cf07de293893f1.jpg" tvg-name="Cuando ellas quieren más (2023)" ,Cuando ellas quieren más (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391662.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5c10e1989af23be822329d41f8d00d3.jpg" tvg-name="Sin Aire (2023)" ,Sin Aire (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391664.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9a69e17ecc2f7664ceeacd28921613f7.jpg" tvg-name="The Five (2023)" ,The Five (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391665.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9a69e17ecc2f7664ceeacd28921613f7.jpg" tvg-name="The Hunger Games The Ballad of Song birdsand Snakes (2023)" ,The Hunger Games The Ballad of Song birdsand Snakes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391666.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4835181135fe4712f2bbde4da7d1e8b5.jpg" tvg-name="El bufón (2023)" ,El bufón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391667.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c046205ffdefbe1f40f1da9da9756920.jpg" tvg-name="The Lesson (2015)" ,The Lesson (2015)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391668.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9dfd5ddaafad46f9da3f009bbe991c48.jpg" tvg-name="The List (2023)" ,The List (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391669.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f567b6d5bc4464a4ea75299b935ff0ff.jpg" tvg-name="La máquina del tiempo (2002)" ,La máquina del tiempo (2002)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391670.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2b39725e5fedecb7badbce249cb16baa.jpg" tvg-name="Rituales Mortales (2023)" ,Rituales Mortales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391672.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d84b3d31a89ab05db0aa9a69a62bfdf6.jpg" tvg-name="Hotel Royal (2023)" ,Hotel Royal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391673.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bbb8478a4398b9a0c7c8372a50efbebd.jpg" tvg-name="El Tutor (2023)" ,El Tutor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391674.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/23ee2319c9656c085aeb2a67c5cbd5bf.jpg" tvg-name="Toc toc toc: El Sonido del Mal (2023)" ,Toc toc toc: El Sonido del Mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391675.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/681d84faeaddf42d3d1fb61cb70abba9.jpg" tvg-name="Tortugas Ninja: Caos mutante (2023)" ,Tortugas Ninja: Caos mutante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391676.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2cec3f4ac5aa8e419132cd0a27f0bf59.jpg" tvg-name="Legado de sangre (2023)" ,Legado de sangre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391677.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/00f576be382d3811604864141d626ca2.jpg" tvg-name="Tu casa o la mía (2023)" ,Tu casa o la mía (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391678.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2ed46632e0f36bbec75f63d598cdab09.jpg" tvg-name="Últimas voluntades (2023)" ,Últimas voluntades (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391679.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c3e98c209c3257614aeb0b0d22561ef.jpg" tvg-name="Una aventura gigante (2023)" ,Una aventura gigante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391680.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/522f8db7e64f007fa7d0b268de4f1bfb.jpg" tvg-name="Una flor en el barro (2023)" ,Una flor en el barro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391681.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fa4a4ecf94ee8f9d9867a43f181af0f.jpg" tvg-name="Un amor inesperado (2023)" ,Un amor inesperado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391682.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fa4a4ecf94ee8f9d9867a43f181af0f.jpg" tvg-name="Undo.and.Redo (2023)" ,Undo.and.Redo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391683.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0fd6d5adec9c35874e91a0aea92636e2.jpg" tvg-name="Un día como león (2023)" ,Un día como león (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391684.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63f5f6321f9db4e91505e17f566e655c.jpg" tvg-name="Un día y medio (2023)" ,Un día y medio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391685.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391686.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12a7172556c51c9fd369c8a246a7769f.jpg" tvg-name="Uno Para Morir (2023)" ,Uno Para Morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391688.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ff3944692baae08c3ab8aa9cbaf22413.jpg" tvg-name="The Unseen (2016)" ,The Unseen (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391689.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/83e0c26756d73046f4c1b861c2fd7c17.jpg" tvg-name="Un trueno en la oscuridad (2023)" ,Un trueno en la oscuridad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391690.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ded2bf7844bc366d929412fd94f60e0f.jpg" tvg-name="Las que ustedes no quemaron (2022)" ,Las que ustedes no quemaron (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391691.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3955443bbf02b4534198ae44bce5d96e.jpg" tvg-name="Crank: Veneno en la sangre (2006)" ,Crank: Veneno en la sangre (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391692.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/976d69b4d3da55364ad5306a0a1831c9.jpg" tvg-name="Vida Adulta (2023)" ,Vida Adulta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391693.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c96d89b6930c5555e3f4df02eeb8e86.jpg" tvg-name="Vidas Pasadas (2023)" ,Vidas Pasadas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391694.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/86bb6a652d68d9ee661b75fedaefc6f3.jpg" tvg-name="Volver al Futuro (1985)" ,Volver al Futuro (1985)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391695.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e65e50b42051a3b28b16366afba92dd8.jpg" tvg-name="Wait with Me (2023)" ,Wait with Me (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391696.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7baa2e95b659fe70a05d289daebc1a79.jpg" tvg-name="Willow: Así se hizo la magia (2023)" ,Willow: Así se hizo la magia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391697.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7858a69f84d493c44905190df595f2f8.jpg" tvg-name="Wonka (2023)" ,Wonka (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391698.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/da3c1b1a5a4ccfec472b3e5b0222b467.jpg" tvg-name="Ya era hora (2023)" ,Ya era hora (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391699.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7624e720fc3177b6e494304993b54969.jpg" tvg-name="Yo, Capitán (2023)" ,Yo, Capitán (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391700.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7624e720fc3177b6e494304993b54969.jpg" tvg-name="Yo, Capitán (2023)" ,Yo, Capitán (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391701.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5861517f872c628adb061766009dde3c.jpg" tvg-name="¿Y qué tendrá que ver el amor? (2023)" ,¿Y qué tendrá que ver el amor? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391702.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb56883347996450a1123817298c16e3.jpg" tvg-name="Única (2023)" ,Única (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/391703.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/238b8110f6215d4433d5a858094e25af.jpg" tvg-name="Organización Monstruo (2023)" ,Organización Monstruo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/402989.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xirRuca0WPQ5A7T4vTmsH5ucDiB.jpg" tvg-name="24 horas con Gaspar (2023)" ,24 horas con Gaspar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406752.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg" tvg-name="57 Segundos Atrás (2023)" ,57 Segundos Atrás (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406754.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/quWP5VIzTUf0Hr8AJZLloM6js8I.jpg" tvg-name="American Fiction \ (2023)" ,American Fiction \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406775.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQw6UuHnbRTwM1UYINZYDHEqSwZ.jpg" tvg-name="Amor De Cachorros (2023)" ,Amor De Cachorros (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406777.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rlGrG9KCcDTGGHH8OWCfJWfEeU1.jpg" tvg-name="Antes de conocernos (2023)" ,Antes de conocernos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406788.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d9Hv3b37ZErby79f4iqTZ8doaTp.jpg" tvg-name="Aquaman y el reino perdido (2023)" ,Aquaman y el reino perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406791.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/47Cd0MIpIG6qoz9FdHl3NBdU8Oh.jpg" tvg-name="Baby Shark, La Gran Película \ (2023)" ,Baby Shark, La Gran Película \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406814.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5ssaCHmqvTZDVZtcNhNZTzfb7Nj.jpg" tvg-name="Baghead: Contacto Con La Muerte (2023)" ,Baghead: Contacto Con La Muerte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406817.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1CjHGpYxtE8ZhLnHh6KN9BqzppR.jpg" tvg-name="Bajo el muelle (2023)" ,Bajo el muelle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406820.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wVVt9mWcwZJaVTQnv02BiSsQSv.jpg" tvg-name="Batalla aérea (2023)" ,Batalla aérea (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406822.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wVVt9mWcwZJaVTQnv02BiSsQSv.jpg" tvg-name="Batalla de los herederos vikingos \ (2023)" ,Batalla de los herederos vikingos \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406823.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" tvg-name="Birth/Rebirth (2023)" ,Birth/Rebirth (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406827.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag96xmIUgGMGuqCJdpna0z1Fnbj.jpg" tvg-name="Cachorros Espaciales (2023)" ,Cachorros Espaciales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406835.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nBNm7WgAYeGLSrQz1PoNB94CS1Q.jpg" tvg-name="Camino a Belén (2023)" ,Camino a Belén (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406837.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvjmmFEZnnSKZapCyTKnQxK3hW8.jpg" tvg-name="Campamento de verano (2023)" ,Campamento de verano (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406839.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/irVHcRIANEW62k7hwCWQKO5TsBF.jpg" tvg-name="Castigos de la traición \ (2023)" ,Castigos de la traición \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406842.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8QxCd3pSSrj6QqaG4fkNkaJmUa.jpg" tvg-name="Cazadora (2023)" ,Cazadora (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406844.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bapIPCv592p28JGiueijY6TTWmI.jpg" tvg-name="Club de Caza \ (2023)" ,Club de Caza \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406859.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nO3z0lJVFpVhhbCcY4aHAVQvpFs.jpg" tvg-name="Confesiones (2023)" ,Confesiones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406866.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg" tvg-name="Con todos menos contigo (2023)" ,Con todos menos contigo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406867.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5ca8b5063184b311136e59b89e0044be.jpg" tvg-name="Una cuestión de honor (2023)" ,Una cuestión de honor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406873.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5hjn7nIK8Ic8UM6X7tqRdFNcBu2.jpg" tvg-name="Culpa y deseo (2023)" ,Culpa y deseo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406876.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" tvg-name="Cómo Encontrar a Alguien Que Sea para Siempre \ (2023)" ,Cómo Encontrar a Alguien Que Sea para Siempre \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406883.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vvyB5dIkRH1OJ0iOtxG88nY16hn.jpg" tvg-name="Como matar a tu marido (2023)" ,Como matar a tu marido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406884.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/crF3Q7tFEOeRWfmuSwj4ZkIryH9.jpg" tvg-name="De Italia con amor \ (2023)" ,De Italia con amor \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406891.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTO90XYrjDvfXESHhIEsg0CU0ut.jpg" tvg-name="Después de la muerte \ (2023)" ,Después de la muerte \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406905.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4RLAf6v6keEG6uxCWwIwGpxOosz.jpg" tvg-name="De Vuelta a la Universidad (2023)" ,De Vuelta a la Universidad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406907.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/arF1VcDtjuK4AV43FSQNKOl0J23.jpg" tvg-name="Dobles de acción (2023)" ,Dobles de acción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406916.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uX9GzeM5F1qYOlBazEhutf5WHyf.jpg" tvg-name="Dogman: Vida Inquebrantable (2023)" ,Dogman: Vida Inquebrantable (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406918.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uX9GzeM5F1qYOlBazEhutf5WHyf.jpg" tvg-name="Donde el diablo pasea \ (2023)" ,Donde el diablo pasea \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406919.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6G2yD0jIomxAle244xz5PT20rn6.jpg" tvg-name="Dora ¡Di Hello a la Aventura! (2023)" ,Dora ¡Di Hello a la Aventura! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406921.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6472a2170fb0b8d939d00969b024f43b.jpg" tvg-name="Destino: Londres (2023)" ,Destino: Londres (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406931.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mUt2qSq866nncvuBdEjfV0iw5gJ.jpg" tvg-name="El delator (2023)" ,El delator (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406947.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AdOcDHsPtQpMSVS8bdjfogkzvc0.jpg" tvg-name="El desafio de Marguerite (2023)" ,El desafio de Marguerite (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406949.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fs166jcsSkRhOvblIEPnFs04aXS.jpg" tvg-name="El Halcón \ (2023)" ,El Halcón \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406958.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8LJVauVacKhi0xuUa8aKTPGn4pW.jpg" tvg-name="El Hombre De Los Sueños (2023)" ,El Hombre De Los Sueños (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406962.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/utkAPHidRG4j87vmcA9TfGsD7pz.jpg" tvg-name="El Juego del Ascensor \ (2023)" ,El Juego del Ascensor \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406968.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hgsRDgJ2chdXlTS05AREJUA8e9U.jpg" tvg-name="El Juicio Del Motín Del Caine (2023)" ,El Juicio Del Motín Del Caine (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406970.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg" tvg-name="El marginal \ (2023)" ,El marginal \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406977.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cDMYybBU4COJfTwcPgnihwY5EiP.jpg" tvg-name="El Nómada \ (2023)" ,El Nómada \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406979.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cDMYybBU4COJfTwcPgnihwY5EiP.jpg" tvg-name="El Pasajero \ (2023)" ,El Pasajero \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406981.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h8Pfn0FFCBw7ayuseFiLH9VbOXi.jpg" tvg-name="El paseo 7 (2023)" ,El paseo 7 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406983.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dE0WgFOHlCoxqXCHgNECjSCwsXF.jpg" tvg-name="El pueblo de Owl \ (2023)" ,El pueblo de Owl \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/406991.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5CJKu0gYgBbRs8MOxPLBpH55h62.jpg" tvg-name="El salón de profesores (2023)" ,El salón de profesores (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407015.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1DIP9QC0iwPLyADfBuVe9PnkMF.jpg" tvg-name="El último soldado (2023)" ,El último soldado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407026.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sgPQlcibuGZu32UGrTeoNxraWbz.jpg" tvg-name="En llamas (2023)" ,En llamas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407035.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f8BDcS6ANydn5SiFZuLqCHrdug6.jpg" tvg-name="En nombre de la tierra (2023)" ,En nombre de la tierra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407037.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg" tvg-name="Experimento Maldito \ (2023)" ,Experimento Maldito \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407049.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oSAzrJ0AjFZLUCcHT8YAnuD7egp.jpg" tvg-name="Familia Nacional (2023)" ,Familia Nacional (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407053.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ8j1LnAPxIwsGEN7oC7gOHUQK1.jpg" tvg-name="Garra de Hierro (2023)" ,Garra de Hierro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407071.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7jkZzP7PcjrkhJtD0Gsart3EXI.jpg" tvg-name="General Hadik (2023)" ,General Hadik (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407075.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg" tvg-name="Godzilla: Minus One (2023)" ,Godzilla: Minus One (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407078.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sUrGR7tlMUtgM0KhXYunWs0NK3G.jpg" tvg-name="Golpe a Wall Street \ (2023)" ,Golpe a Wall Street \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407084.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vs4vieNstSEfbgLFEelXXOPvr6h.jpg" tvg-name="Good Burger 2 \ (2023)" ,Good Burger 2 \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407086.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbOgZFAKSrYfnfMHd4vUq61J0LV.jpg" tvg-name="Héroe Por Encargo (2023)" ,Héroe Por Encargo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407099.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg" tvg-name="Joika: Una americana en el Bolshoi (2023)" ,Joika: Una americana en el Bolshoi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407110.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ohlZkxCjQ8Ua3Up9TuH7gAVV9ZF.jpg" tvg-name="La batalla de los super simios (2023)" ,La batalla de los super simios (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407116.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lZjmSFRf6u1hYvLGxCAu13dpGQA.jpg" tvg-name="10 días de un buen hombre (2023)" ,10 días de un buen hombre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407117.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n8jRIm25hKKTPjE8Zb2Cjacg4pI.jpg" tvg-name="10 Días de un mal hombre (2023)" ,10 Días de un mal hombre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407120.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" tvg-name="65: Al borde de la extinción (2023)" ,65: Al borde de la extinción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407122.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qY8MFW9iSaXzhE51SZAd71SsmbQ.jpg" tvg-name="Adentro (2023)" ,Adentro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407124.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qY8MFW9iSaXzhE51SZAd71SsmbQ.jpg" tvg-name="Adentro (2023)" ,Adentro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407126.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wMeLHrTs0fkPAcezPj6xiiKdRay.jpg" tvg-name="Adicción perfecta (2023)" ,Adicción perfecta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407129.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wMeLHrTs0fkPAcezPj6xiiKdRay.jpg" tvg-name="La Cocina \ (2023)" ,La Cocina \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407128.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jO3VGQi5sHIj2BGS963g1F74yCq.jpg" tvg-name="After: Para siempre (2023)" ,After: Para siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407132.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jO3VGQi5sHIj2BGS963g1F74yCq.jpg" tvg-name="La Colina \ (2023)" ,La Colina \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407130.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg" tvg-name="Agente Fortune: El gran engaño (2023)" ,Agente Fortune: El gran engaño (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407134.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3iEjVseteIY8YnryTKWgVB91Uil.jpg" tvg-name="Agente Stone (2023)" ,Agente Stone (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407136.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iNdJShQTWNufnlIl1fRDHTGfKdL.jpg" tvg-name="Ah, Belinda (2023)" ,Ah, Belinda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407138.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ypRUscxdPXjF2o3BzsKsCUrkpK.jpg" tvg-name="Air: La historia detrás del logo (2023)" ,Air: La historia detrás del logo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407141.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkXF5GAKiywWOVKcCiYrQrt6BL.jpg" tvg-name="A la intemperie (2023)" ,A la intemperie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407143.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tXrC0g0xg07FCxvoHpfLjB7cCoE.jpg" tvg-name="Al descubierto: El Salón de la Infamia (2023)" ,Al descubierto: El Salón de la Infamia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407145.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zE1ytx8qXVh89vjAm0dYK9hLIAw.jpg" tvg-name="Al descubierto: Jake Paul, el chico problema (2023)" ,Al descubierto: Jake Paul, el chico problema (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407148.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eFfoGdcIk6llb8bO1dREzW84zm8.jpg" tvg-name="Al descubierto: Johnny Football (2023)" ,Al descubierto: Johnny Football (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407150.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2CltlQl9SsBBs053bljvOVKqMEq.jpg" tvg-name="Alerta extrema (2023)" ,Alerta extrema (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407153.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rLwhPkLkJ8GVPSBGVfCYm97f1Py.jpg" tvg-name="Alias (2023)" ,Alias (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407157.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r9lywqaQdzZGfddtAbaRa6g9vnH.jpg" tvg-name="Amazon Music Live with Feid (2023)" ,Amazon Music Live with Feid (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407158.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fXBVNz4KvKMJD1OE5jmP84SFMoC.jpg" tvg-name="Amazon Music Live with Peso Pluma (2023)" ,Amazon Music Live with Peso Pluma (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407161.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fXBVNz4KvKMJD1OE5jmP84SFMoC.jpg" tvg-name="A Menina Que Matou os Pais A Confissão \ (2023)" ,A Menina Que Matou os Pais A Confissão \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407162.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5u3uOpxlsUyr3TS036qrXKBj7M6.jpg" tvg-name="American Nightmare: Becoming Cody Rhodes (2023)" ,American Nightmare: Becoming Cody Rhodes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407165.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg" tvg-name="Amigos de las vacaciones 2 (2023)" ,Amigos de las vacaciones 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407167.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3CNysXaPpIrVHlkovJ0inoKFkX2.jpg" tvg-name="A millones de kilómetros (2023)" ,A millones de kilómetros (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407170.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jfTgvoM4J2eNuiPm8i20CAPaERE.jpg" tvg-name="Amor, sexo y 30 velitas (2023)" ,Amor, sexo y 30 velitas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407171.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg" tvg-name="Amor al cuadrado otra vez (2023)" ,Amor al cuadrado otra vez (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407174.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nmQOFKaLU5RduCyw0bfXHNZNujP.jpg" tvg-name="La industria del placer (2023)" ,La industria del placer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407173.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uJi8wmv6rj5CWptZH7EAnrWPcnt.jpg" tvg-name="Amor a primer mensaje (2023)" ,Amor a primer mensaje (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407175.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aV8oX27hhYrWIaGFok6tVgsKYNn.jpg" tvg-name="Amor en aguas turbulentas (2023)" ,Amor en aguas turbulentas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407178.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1nRMVoqHHltFxnr69V5RIPeljvc.jpg" tvg-name="Amor en las calles de Bursa (2023)" ,Amor en las calles de Bursa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407181.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k2lhOk4Na7vywNz2duhkEEMlE66.jpg" tvg-name="Amor sin sentido (2023)" ,Amor sin sentido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407182.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1sRxjAw0LwV7GvwUHqb7YnyDp3D.jpg" tvg-name="Angela (2023)" ,Angela (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407187.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1sRxjAw0LwV7GvwUHqb7YnyDp3D.jpg" tvg-name="Anna Nicole Smith Tú no me conoces \ (2023)" ,Anna Nicole Smith Tú no me conoces \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407188.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" ,Ant-Man and the Wasp: Quantumania (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407190.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7c473724c0b1ed9b991af5f99a24e280.jpg" tvg-name="La Maldición del Queen Mary (2023)" ,La Maldición del Queen Mary (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407191.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kk7EPMFOE8Cuccnx5fxrSBpQuBq.jpg" tvg-name="Apaches: Pandillas de París (2023)" ,Apaches: Pandillas de París (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407194.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbjrvfrKkxx7bNNX3W5cAE5Y3Q2.jpg" tvg-name="Apocalipsis: El despertar del anticristo (2023)" ,Apocalipsis: El despertar del anticristo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407195.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zYt35YGKoc85LXULzMKDfJ8qX1C.jpg" tvg-name="Aporia (2023)" ,Aporia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407198.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f49415cf974455942d0a4db904e8bf6a.jpg" tvg-name="Rosamunde Pilcher: Melodie der Liebe (2008)" ,Rosamunde Pilcher: Melodie der Liebe (2008)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407199.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/evRsqa6KPoCHwrzq6IVQwAv3svu.jpg" tvg-name="A Quien Solía Conocer (2023)" ,A Quien Solía Conocer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407201.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/evRsqa6KPoCHwrzq6IVQwAv3svu.jpg" tvg-name="A Quien Solía Conocer (2023)" ,A Quien Solía Conocer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407202.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/evRsqa6KPoCHwrzq6IVQwAv3svu.jpg" tvg-name="Arenas Mortales \ (2023)" ,Arenas Mortales \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407203.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c9698e9c64d0b73689d15faf862517b9.jpg" tvg-name="La melodía del diablo (2023)" ,La melodía del diablo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407204.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZfU30EpuAutv2zEZhPtRGOkiTU.jpg" tvg-name="Asediado (2023)" ,Asediado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407207.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpfIHi2nT7hRGphllLz0Nz8fIFV.jpg" tvg-name="La mujer bajo el escenario \ (2023)" ,La mujer bajo el escenario \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407206.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s7LIE7oNZ6WU4ajf1FaXWyMYdpX.jpg" tvg-name="Asteroid City (2023)" ,Asteroid City (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407208.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQy5hTqiioNHe85RuPcMyaio9Sp.jpg" tvg-name="Astérix y Obélix y el reino medio (2023)" ,Astérix y Obélix y el reino medio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407211.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qmkFrDS9Hvkl2pCdxgVupdS5Nf.jpg" tvg-name="A Sunburnt Christmas (2020)" ,A Sunburnt Christmas (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407213.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qmkFrDS9Hvkl2pCdxgVupdS5Nf.jpg" tvg-name="A Thousand and One \ (2023)" ,A Thousand and One \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407214.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qGFhJZUosnSnRWpKrQc8uBdALQg.jpg" tvg-name="At Midnight (2023)" ,At Midnight (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407216.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qGFhJZUosnSnRWpKrQc8uBdALQg.jpg" tvg-name="At Midnight (2023)" ,At Midnight (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407219.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9716732f21c207b8f5efb94957b5720b.jpg" tvg-name="La Otra Cara de Dorian (2023)" ,La Otra Cara de Dorian (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407217.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gBiZdPAWLSPLE4sX6BzWMzaJylP.jpg" tvg-name="A Todas Partes (2023)" ,A Todas Partes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407220.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg" tvg-name="Atrapaalmas (2023)" ,Atrapaalmas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407223.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg" tvg-name="Autosuficiencia (2023)" ,Autosuficiencia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407225.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lAyet6E7UY4WraiBBfpQVUxT2Xl.jpg" tvg-name="Auxilio (2023)" ,Auxilio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407227.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gPSnanVAnKgycgc3SJGcutXCe9A.jpg" tvg-name="Awareness (2023)" ,Awareness (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407229.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gPSnanVAnKgycgc3SJGcutXCe9A.jpg" tvg-name="Babylon \ (2023)" ,Babylon \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407230.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wRU8I8q7N23bFA6vtxktgPrjZxu.jpg" tvg-name="Babylon 5: The Road Home (2023)" ,Babylon 5: The Road Home (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407232.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKUzUIhtDZlzWMCPyq2xTRwnSGN.jpg" tvg-name="Baby Ruby (2023)" ,Baby Ruby (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407234.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKUzUIhtDZlzWMCPyq2xTRwnSGN.jpg" tvg-name="La Regla del Matrimonio \ (2023)" ,La Regla del Matrimonio \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407235.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKUzUIhtDZlzWMCPyq2xTRwnSGN.jpg" tvg-name="Baby Ruby (2023)" ,Baby Ruby (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407237.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jpvM9CfFjZFagkGwfbTWHTP1XCa.jpg" tvg-name="Bailarina (2023)" ,Bailarina (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407239.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0kEiqWdbnXjlahZKkeJzHjF3Up.jpg" tvg-name="Bajo el hechizo del deseo 2 (2023)" ,Bajo el hechizo del deseo 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407242.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg" tvg-name="Barbie (2023)" ,Barbie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407243.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/PeshC5r6QoCzXT9RWj7fhArEX8.jpg" tvg-name="Barbie Skipper Y La Gran Aventura Como Niñera (2023)" ,Barbie Skipper Y La Gran Aventura Como Niñera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407246.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y4hM4lsBqBYh0ZkzyNeEqu9RUlP.jpg" tvg-name="Batman: La Perdición que llegó a Ciudad Gótica (2023)" ,Batman: La Perdición que llegó a Ciudad Gótica (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407249.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2e198df1b4a5c862697a65cdc5f2cff6.jpg" tvg-name="Nightman: La sombra del mal (2023)" ,Nightman: La sombra del mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407247.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg" tvg-name="Beau tiene miedo (2023)" ,Beau tiene miedo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407253.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5xupm2thQic5GzYi6nim6URMZOY.jpg" tvg-name="Bendita Suegra (2023)" ,Bendita Suegra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407256.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dc527014c25af70a7d467e122fc3379a.jpg" tvg-name="Latido (2023)" ,Latido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407255.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w5dxAlcVWuhPVIi3NQr5ns1IinS.jpg" tvg-name="Benny Te Ama (2019)" ,Benny Te Ama (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407257.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zlAS4KVpESJ8Fw54C4D5UPlSao7.jpg" tvg-name="Bernie, el delfín 2 (2019)" ,Bernie, el delfín 2 (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407260.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azrNQgdyBczVjLwqYqefPf3Vg6X.jpg" tvg-name="Big Mäck Gangster und Gold \ (2023)" ,Big Mäck Gangster und Gold \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407261.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/azrNQgdyBczVjLwqYqefPf3Vg6X.jpg" tvg-name="Bihter \ (2023)" ,Bihter \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407262.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb66f7f530e6f383971e091ba6cff3a1.jpg" tvg-name="La venganza de Charlie (2023)" ,La venganza de Charlie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407259.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2fpXmOpCg61ENo7JvV2zbcseZlp.jpg" tvg-name="Bihter, pasión oculta (2023)" ,Bihter, pasión oculta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407264.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg" tvg-name="Bird Box Barcelona (2023)" ,Bird Box Barcelona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407266.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg" tvg-name="Bitconned \ (2023)" ,Bitconned \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407267.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a51873244b9137402208add804634813.jpg" tvg-name="Zona de Interés (2023)" ,Zona de Interés (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407265.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hwc8TlNjddcgpCzujLP17hBC8TI.jpg" tvg-name="Blackberry: El Inicio De La Historia (2023)" ,Blackberry: El Inicio De La Historia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407270.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jm2BckEhy1upr4iPpOZ6WTx1tWw.jpg" tvg-name="Black Clover: La espada del rey mago (2023)" ,Black Clover: La espada del rey mago (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407272.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jm2BckEhy1upr4iPpOZ6WTx1tWw.jpg" tvg-name="Black Warrant \ (2023)" ,Black Warrant \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407274.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beVSYThQxFrbMmvYnmRB4USwXlM.jpg" tvg-name="Blondi (2023)" ,Blondi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407275.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beVSYThQxFrbMmvYnmRB4USwXlM.jpg" tvg-name="Blood \ (2023)" ,Blood \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407277.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f7c98a3774029036be3cbea8bb807e98.jpg" tvg-name="La última sesión de Freud (2023)" ,La última sesión de Freud (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407276.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6307a527e697c24935a9162f38c7fe70.jpg" tvg-name="Blue Beetle (2023)" ,Blue Beetle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407279.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4925a531d2b37b73a917e5975669c33b.jpg" tvg-name="SpongeBob SquarePants Presents The Tidal Zone (2023)" ,SpongeBob SquarePants Presents The Tidal Zone (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407280.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6d609a49b086cf9e1939d8550e1e697c.jpg" tvg-name="Boksoon debe morir (2023)" ,Boksoon debe morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407283.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d608d8bd9bf81ad30e7a7c75f5325e9.jpg" tvg-name="Leonardo, el inventor (2023)" ,Leonardo, el inventor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407281.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7bb33b3c00798e026c40e92fc8919640.jpg" tvg-name="Bono & The Edge A SORT OF HOMECOMING con Dave Letterman (2023)" ,Bono & The Edge A SORT OF HOMECOMING con Dave Letterman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407284.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/865555cb67e7a09cc350c2590ef1211a.jpg" tvg-name="Boogeyman: Tu miedo es real (2023)" ,Boogeyman: Tu miedo es real (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407287.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b4da505ca305bc66a2cf07de293893f1.jpg" tvg-name="Cuando ellas quieren más (2023)" ,Cuando ellas quieren más (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407288.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/58c2519025930a8ffa53a1181910dc00.jpg" tvg-name="Bossi: Teoría de la involución (2023)" ,Bossi: Teoría de la involución (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407292.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/67ecdb2bd63fdb871228f8ff106f7d8f.jpg" tvg-name="Breaking Point: Pasión y Baile (2023)" ,Breaking Point: Pasión y Baile (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407294.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/561c4342c774b8a4eacb3a08338f3c67.jpg" tvg-name="Brujería (2024)" ,Brujería (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407295.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/189ec735233df2cee15ebbc0eabbd5c7.jpg" tvg-name="Cacería en Venecia (2023)" ,Cacería en Venecia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407297.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e36df2085858fdb17b8376d66c6ba30.jpg" tvg-name="Calabozos & Dragones: Honor entre ladrones (2023)" ,Calabozos & Dragones: Honor entre ladrones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407299.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51354c92cec6eb88afc6183aae0c43cf.jpg" tvg-name="Llego a mí (2023)" ,Llego a mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407298.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d25e31d3e93082f69539deba47e9f337.jpg" tvg-name="Camino de la venganza (2023)" ,Camino de la venganza (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407301.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/70cd38183ddb4de37d6a82391696c1d6.jpg" tvg-name="Campamento de Verano (2024)" ,Campamento de Verano (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407303.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cd07b9cee997350150dff96dba7e1b63.jpg" tvg-name="Camp Courage (2023)" ,Camp Courage (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407306.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cd07b9cee997350150dff96dba7e1b63.jpg" tvg-name="Los 5 Forasteros \ (2023)" ,Los 5 Forasteros \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407305.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0b83cfaa0b278910bec41297c3d83aec.jpg" tvg-name="Candy Land (2023)" ,Candy Land (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407309.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a852a10b5b89ba7c5212d2c31fd53a9b.jpg" tvg-name="Carga Máxima (2023)" ,Carga Máxima (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407311.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3bd82bc326179f4d3bd2533bf033b15f.jpg" tvg-name="Carmen y Lola (2018)" ,Carmen y Lola (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407314.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8aa30b281242f2da25c16260c7f886e2.jpg" tvg-name="Los colonos (2023)" ,Los colonos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407313.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/16bc496163abb82024087192fc93c216.jpg" tvg-name="Casando a mi Ex (2023)" ,Casando a mi Ex (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407315.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/16bc496163abb82024087192fc93c216.jpg" tvg-name="Casando a mi Ex (2023)" ,Casando a mi Ex (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407318.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2f85ef5559f8f4a6ec3d9d80d2dad435.jpg" tvg-name="Tango y Cash (1989)" ,Tango y Cash (1989)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407321.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/41c553803d7b35cf636b1a1c44786718.jpg" tvg-name="Casi muerta (2023)" ,Casi muerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407322.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ec240ed245ecc28c4350f3662971b9ce.jpg" tvg-name="Cassandro (2023)" ,Cassandro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407325.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9da14f9f978ac8bda8f603544c281bb0.jpg" tvg-name="Caught Out: Crime. Corruption. Cricket. (2023)" ,Caught Out: Crime. Corruption. Cricket. (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407326.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/377a70c169e0a64baff0460b75afd546.jpg" tvg-name="Cazador de tormentas (2023)" ,Cazador de tormentas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407329.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/377a70c169e0a64baff0460b75afd546.jpg" tvg-name="Cazador de tormentas (2023)" ,Cazador de tormentas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407331.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df56bedad9408b47e786d5ce67c82c3d.jpg" tvg-name="Cementerio de Mascotas: El Origen (2023)" ,Cementerio de Mascotas: El Origen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407334.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a4ecd73548f195186aede4fea7652510.jpg" tvg-name="Puedes hacerlo Chang (2023)" ,Puedes hacerlo Chang (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407335.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/75ff9578c194e98827dd7cfae427f86d.jpg" tvg-name="Los juegos del amor (2024)" ,Los juegos del amor (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407332.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a51ff568b113fe0359d55d8bfa665760.jpg" tvg-name="Chau Buenos Aires (2023)" ,Chau Buenos Aires (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407336.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cbeb1dfa90049ab8c1d58c7d2f0aa1fd.jpg" tvg-name="Chef Jack: O Cozinheiro Aventureiro (2023)" ,Chef Jack: O Cozinheiro Aventureiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407338.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51d481e28c2bbaf7b311f03f568c726c.jpg" tvg-name="Chevalier: Pasión y Libertad (2023)" ,Chevalier: Pasión y Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407339.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51d481e28c2bbaf7b311f03f568c726c.jpg" tvg-name="Chevalier: Pasión y Libertad (2023)" ,Chevalier: Pasión y Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407341.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/44370552c82fb3bf29fc28b6e5ff0215.jpg" tvg-name="Chica Americana Corinne Tan la Película (2023)" ,Chica Americana Corinne Tan la Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407343.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d20139480c71beb1e43cad4af95ec27.jpg" tvg-name="Chupa (2023)" ,Chupa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407345.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c0b53e543d1081f4b8ffa38d11c749a.jpg" tvg-name="거미집 (2023)" ,거미집 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407348.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a4d826e9ee6d5bbeb26b116313d605b6.jpg" tvg-name="Los Tres Mosqueteros 2: Milady (2023)" ,Los Tres Mosqueteros 2: Milady (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407346.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d7b4af2343b75f8ad0aba03ba8daadf9.jpg" tvg-name="Conexiones perdidas (2023)" ,Conexiones perdidas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407349.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2fed96850c2ee01399bcb1333a6133e3.jpg" tvg-name="Con la soga al cuello (2023)" ,Con la soga al cuello (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407352.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1fc22c31f713e2fe0640694791163078.jpg" tvg-name="Contrarreloj (2023)" ,Contrarreloj (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407354.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e1af7448f4cf643e44bf85c201cdbe5e.jpg" tvg-name="Corazón de Campeón (2021)" ,Corazón de Campeón (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407356.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/933be8045453b26dbf4192286ce5526f.jpg" tvg-name="Corner Office (2023)" ,Corner Office (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407358.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/83047ee30c08ce128bc010bec8fc3cdf.jpg" tvg-name="Cosecha Oscura (2023)" ,Cosecha Oscura (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407360.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d899d2299554f1a8393bffb903da759.jpg" tvg-name="Creed III (2023)" ,Creed III (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407363.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12537a82f73f901bddccc2d6124aa310.jpg" tvg-name="Creyente 2 (2023)" ,Creyente 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407364.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/426c163c4beed1fa764ab83b4d0e1f94.jpg" tvg-name="Cripto: La misión (2019)" ,Cripto: La misión (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407367.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d7c6b3b6f9b30da16f225b34b5638a39.jpg" tvg-name="Crypto Boy (2023)" ,Crypto Boy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407369.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d04af4168d57cd4fdc8b31764c63a697.jpg" tvg-name="Cráter (2023)" ,Cráter (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407372.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/478b84c9fd61175ad98de26a00eec399.jpg" tvg-name="Manódromo (2023)" ,Manódromo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407373.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b4da505ca305bc66a2cf07de293893f1.jpg" tvg-name="Cuando ellas quieren más (2023)" ,Cuando ellas quieren más (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407376.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dbdf34e56feabe8024663cf22caf6368.jpg" tvg-name="Cuando Frank conoció a Carlitos (2023)" ,Cuando Frank conoció a Carlitos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407379.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e242f5f1fbf018f4dd9c738f673a862f.jpg" tvg-name="Cuando termines de salvar el mundo (2023)" ,Cuando termines de salvar el mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407385.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d83cc1a061b13e9b29a6e7235c2b202e.jpg" tvg-name="Cuestión de Familia (2023)" ,Cuestión de Familia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407386.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79aadb206103af0b8f5a16a46ba40f99.jpg" tvg-name="Cuiden a Maya (2023)" ,Cuiden a Maya (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407389.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/776ab10c32e1c3e5ae746684dfb0e832.jpg" tvg-name="Culpa mía (2023)" ,Culpa mía (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407390.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b19d301f80634f0bb0363ef5dd95e008.jpg" tvg-name="Cyberbunker: Un portal alemán a la dark web (2023)" ,Cyberbunker: Un portal alemán a la dark web (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407393.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5a9a22b3400cb55429db44d719a16ea9.jpg" tvg-name="Mis Cachorros Adorables (Mejores Amigos) (2023)" ,Mis Cachorros Adorables (Mejores Amigos) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407391.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/21cb5b05de5e595c60fb2861982e86b9.jpg" tvg-name="Querido David (2023)" ,Querido David (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407397.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e871892815b4e7a0eaaa69d92863b06b.jpg" tvg-name="Terror en el mar (2023)" ,Terror en el mar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407398.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d0e77ac9c2a7ac763e76d4962bc0e361.jpg" tvg-name="Dejar el mundo atrás (2023)" ,Dejar el mundo atrás (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407400.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/205a09b93b3676cecdec45b06e24aa0d.jpg" tvg-name="Demonio negro (2023)" ,Demonio negro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407403.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/044ab9c05f3db675fe4d8e2d88df54d6.jpg" tvg-name="Mi Amigo Robot (2023)" ,Mi Amigo Robot (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407402.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4fb40287a9b22921c0205296f3cdea0a.jpg" tvg-name="De perdidos a Río (2023)" ,De perdidos a Río (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407404.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ffdf8247b1025a92794aa28ae3429ebc.jpg" tvg-name="Desaparecida: El caso Lucie Blackman (2023)" ,Desaparecida: El caso Lucie Blackman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407407.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7cb9728832180acb6501466ae998cd4f.jpg" tvg-name="Mi Arma Era la Ley (2023)" ,Mi Arma Era la Ley (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407406.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2ac597453268bf247dbe1e0abbe876dc.jpg" tvg-name="Desconectada (2023)" ,Desconectada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407409.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/06dfd262b7ffd1fe44553439c6d220e3.jpg" tvg-name="Desconexión: El organizador de bodas (2023)" ,Desconexión: El organizador de bodas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407412.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63b11906e078804efa4941782e73f826.jpg" tvg-name="El salario del miedo (2024)" ,El salario del miedo (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407410.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e6013ed6fad0be843f85835466824ca.jpg" tvg-name="Descubriéndome (2023)" ,Descubriéndome (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407414.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ce7ffdcbf52d28946fa2dca625610217.jpg" tvg-name="Desencantos Amorosos (2019)" ,Desencantos Amorosos (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407417.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/83a094bd83f349078f6b5cada6346e3b.jpg" tvg-name="Detective Knight: Independencia (2023)" ,Detective Knight: Independencia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407422.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ab605d58f2889236da3724143df062c0.jpg" tvg-name="Detención oscura (2022)" ,Detención oscura (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407423.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/47b210dbc3ffcf5cbb0a1aa17f1660b4.jpg" tvg-name="De vuelta a Las Vegas (2023)" ,De vuelta a Las Vegas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407425.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/92a5405ee1cd57e7ea15374f154000ea.jpg" tvg-name="De vuelta al deseo (2023)" ,De vuelta al deseo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407427.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c55c5c16a1d7cf2bd9c249e63d9d30a5.jpg" tvg-name="Diario de un viaje inesperado (2023)" ,Diario de un viaje inesperado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407430.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c8bc82ef4e3471f5fc4019e394d98e32.jpg" tvg-name="Mi Nombre Era Eileen (2023)" ,Mi Nombre Era Eileen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407428.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9801eafe59ba323fae44694fc0efe9d1.jpg" tvg-name="Dieciocho Otra Vez (2023)" ,Dieciocho Otra Vez (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407432.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/803274d59d1ec3ea1fe7eb783ebbe897.jpg" tvg-name="Dime lo que quieres (de verdad) (2023)" ,Dime lo que quieres (de verdad) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407433.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8c0244eb3db05964d35750489ec44e12.jpg" tvg-name="Disco Inferno (2023)" ,Disco Inferno (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407435.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c6d078b18bb0d475766fdf9514d45da.jpg" tvg-name="Inquietud (2023)" ,Inquietud (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407437.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63cb4579da469826d4d3e5cba4ceeff6.jpg" tvg-name="Divina Señal (2023)" ,Divina Señal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407439.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b61574476617586cb73ba4feda35c9c4.jpg" tvg-name="Doble discurso (2023)" ,Doble discurso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407442.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c3e0d532f54f26a26b52230c46d7ff80.jpg" tvg-name="Los doble-vida (2016)" ,Los doble-vida (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407443.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/18928021d6ef92a5b83dd3b6990dcb24.jpg" tvg-name="Doctor Sueño (2019)" ,Doctor Sueño (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407446.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8662ba18dd1b38ed3a34576160000a51.jpg" tvg-name="Misantropo (2017)" ,Misantropo (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407447.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c82d7a4f798050b28d37e1e6d51d4a2.jpg" tvg-name="Doi Boy (2023)" ,Doi Boy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407449.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c82d7a4f798050b28d37e1e6d51d4a2.jpg" tvg-name="Mi teoría de la popularidad \ (2023)" ,Mi teoría de la popularidad \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407448.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/53f9e08943a3c74ddf9341e376ff1a3e.jpg" tvg-name="Dos pecadoras y una mula (2023)" ,Dos pecadoras y una mula (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407451.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7bdb066bda12c590c4270364f79318cf.jpg" tvg-name="Drácula: Mar de sangre (2023)" ,Drácula: Mar de sangre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407453.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2091edc98e4712346b10ca06d7eb5b9.jpg" tvg-name="Monsternado (2023)" ,Monsternado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407452.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/92b45e8343eadaa352d2069759a7f073.jpg" tvg-name="Duelo en el abismo (2023)" ,Duelo en el abismo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407455.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/083eaede59db3627513fdfb0b9bfeed1.jpg" tvg-name="Dulce amor de invierno (2023)" ,Dulce amor de invierno (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407457.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9d11c74ed9eaee5bf6d554f3060c324f.jpg" tvg-name="Dulces y Sangrientos 16 (2023)" ,Dulces y Sangrientos 16 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407459.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e12cb058455de71dedce44662c7ca6f.jpg" tvg-name="Que el Día de la Madre te acompañe (2024)" ,Que el Día de la Madre te acompañe (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407461.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1146443fc16a082e6692ea23858d9fdf.jpg" tvg-name="Muchachos, la película de la gente (2023)" ,Muchachos, la película de la gente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407460.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/43298fe75f841c177a5a8027678eefd0.jpg" tvg-name="Días difíciles (2023)" ,Días difíciles (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407463.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7da6daa52fd0ba0ced158b01bef3c9b8.jpg" tvg-name="Mundo Miraculous: París, Las Aventuras de Shadybug y Claw Noir (2023)" ,Mundo Miraculous: París, Las Aventuras de Shadybug y Claw Noir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407464.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e17fa1f66c6d1a2fc0ab5e7dc703d0b5.jpg" tvg-name="Edorado: Todo lo que odian los Nazis (2023)" ,Edorado: Todo lo que odian los Nazis (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407466.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/03e03fc01a95cbc3c4a031710e146ef6.jpg" tvg-name="Ehrengard: El arte de la seducción (2023)" ,Ehrengard: El arte de la seducción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407468.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cfdc13b27675bb1d3be675e7e3da332f.jpg" tvg-name="El amor está en el aire (2023)" ,El amor está en el aire (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407470.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4fe26fd1fb141042a5188c6daff7ba1f.jpg" tvg-name="El Arte de la Sobrevivencia (2023)" ,El Arte de la Sobrevivencia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407472.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/47c6ba594b14a6808b6759c9cca17b7a.jpg" tvg-name="El arte de matar (2023)" ,El arte de matar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407474.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6bbf2f98f664568df26db7aed801b7b.jpg" tvg-name="El asesino del juego de citas (2024)" ,El asesino del juego de citas (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407476.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dbce2348708a293b0f89036d952abfce.jpg" tvg-name="El asistente (2023)" ,El asistente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407478.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1335f800e1e917218597d4ec9dbaadba.jpg" tvg-name="El Banco de Dave (2023)" ,El Banco de Dave (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407481.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2a5d1bf4083e3d1f77875f467f23e387.jpg" tvg-name="Nadie (2021)" ,Nadie (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407479.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4835181135fe4712f2bbde4da7d1e8b5.jpg" tvg-name="El bufón (2023)" ,El bufón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407483.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/526a622dd30dc62204cc8564f01334a0.jpg" tvg-name="El capitán Volkonogov Ha Huido (2021)" ,El capitán Volkonogov Ha Huido (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407484.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a0386ef6cc39e6221acc365cc1f5dbb3.jpg" tvg-name="El cisne negro (2010)" ,El cisne negro (2010)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407487.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9cf558e59740e1d48dd0a0e0be0d25d2.jpg" tvg-name="El clon de Tyrone (2023)" ,El clon de Tyrone (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407490.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ddac56dbc61505ed4c5b54dfcadf97a7.jpg" tvg-name="El club de las peleadoras (2023)" ,El club de las peleadoras (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407491.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a800987646da27471284fc860c90085f.jpg" tvg-name="El Club de los Asesinos (2023)" ,El Club de los Asesinos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407494.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1932f7496445d7298a1b1cc680da88da.jpg" tvg-name="El club de los lectores criminales (2023)" ,El club de los lectores criminales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407496.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9fbdeb6fc20ff75e883feeca3f502e5e.jpg" tvg-name="El Club de los Milagros (2023)" ,El Club de los Milagros (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407497.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/672d06a305125bf4dff95ba689f64576.jpg" tvg-name="Noche de paz (2005)" ,Noche de paz (2005)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407495.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/524ad8e2b0082ffecd85b187595251b3.jpg" tvg-name="El club de mamá (2023)" ,El club de mamá (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407499.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/18672fe555a9a2bd94bd895805b2efd6.jpg" tvg-name="Noche sangrienta (2023)" ,Noche sangrienta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407500.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b065d5f86940b9f6a932018ae070c48.jpg" tvg-name="El clímax del millón: La historia de Pornhub (2023)" ,El clímax del millón: La historia de Pornhub (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407501.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51615aeb79e3e2d84f47e540c8e82146.jpg" tvg-name="El Colectivo (2023)" ,El Colectivo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407503.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c3263b5fc28cd734858fae2c342f5fa7.jpg" tvg-name="El color púrpura (2023)" ,El color púrpura (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407505.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ccea9a8047d48751b8ba82b6b0eb7ba2.jpg" tvg-name="El Conde de Montecristo (2002)" ,El Conde de Montecristo (2002)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407507.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eab635c6d407d4c3552de79de96a2dca.jpg" tvg-name="El conejo de peluche (2023)" ,El conejo de peluche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407509.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eab635c6d407d4c3552de79de96a2dca.jpg" tvg-name="El conejo de peluche (2023)" ,El conejo de peluche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407510.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/76f9f3df5d7ed0d5e10bdccef9ca2a16.jpg" tvg-name="El Curandero (2023)" ,El Curandero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407513.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b954d681c8a642d63d80de55b6e17c55.jpg" tvg-name="El Deseo de Phillip (2022)" ,El Deseo de Phillip (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407514.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e29f4809aa3ad9c332ca86d31e58d495.jpg" tvg-name="El desratizador (2023)" ,El desratizador (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407515.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a476c3f84c22b0e1c1476823228048c2.jpg" tvg-name="Su único hijo (2023)" ,Su único hijo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407512.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/677a31d9d3c350472e48bfd5a3f373fd.jpg" tvg-name="El diario de Greg: ¡Navidad sin salida! (2023)" ,El diario de Greg: ¡Navidad sin salida! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407518.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/297010e42d4e4de224af3458b6e5209e.jpg" tvg-name="El Diario Magico (2018)" ,El Diario Magico (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407519.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6a15dd3db66c743c9b605512e9b89c77.jpg" tvg-name="El duelo (2023)" ,El duelo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407522.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fc645d8634b2dd11e3265d6e76c9e4c.jpg" tvg-name="Elementos (2023)" ,Elementos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407523.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d4b445928b05fe2fc442a5f68fa58bd9.jpg" tvg-name="Elena sabe (2023)" ,Elena sabe (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407526.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c03c63f836f92fd55f816be8414b3a45.jpg" tvg-name="El estrangulador de Boston (2023)" ,El estrangulador de Boston (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407528.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bd3d1aa4b6c3fb6a0e57550b5a187bb0.jpg" tvg-name="El estreno (2019)" ,El estreno (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407531.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e3da20b76d2d9e09882209c0ce7194fa.jpg" tvg-name="El exorcista: Creyentes (2023)" ,El exorcista: Creyentes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407532.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c033c8e2f474c83a215bfa0c45e05f03.jpg" tvg-name="Papá o Mamá (2023)" ,Papá o Mamá (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407533.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2f447c9d63350c34c32ebeced94e060.jpg" tvg-name="El Exorcista del Papa (2023)" ,El Exorcista del Papa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407535.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4bc65907ee46d4aacab0377ac09d4dc6.jpg" tvg-name="El extraño caso del fantasma claustrofóbico (2023)" ,El extraño caso del fantasma claustrofóbico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407537.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cfd727a57f7a83fa4e0fc782b596b6b3.jpg" tvg-name="El final que quiero (2023)" ,El final que quiero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407539.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02719b14081d7599f0e93fea9bbd83fb.jpg" tvg-name="El frío en los huesos (2023)" ,El frío en los huesos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407542.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/11e09822b9c4b46b5383eaf8976144d4.jpg" tvg-name="Parásitos (2019)" ,Parásitos (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407541.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/35f26bb72fed5a01c65abd1859ce9efe.jpg" tvg-name="El gran George Foreman (2023)" ,El gran George Foreman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407545.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5a971f9293271b8c90f0819b33856801.jpg" tvg-name="¡Patos! (2023)" ,¡Patos! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407543.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9011034b6791002107516fa873e68a06.jpg" tvg-name="Perdidos en la noche (2023)" ,Perdidos en la noche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407547.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f18299fdef8dc630a25240803552ac1.jpg" tvg-name="Elia y el elfo (2023)" ,Elia y el elfo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407550.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0df9fd7ff545e1276d695071e8516af8.jpg" tvg-name="Elijo Creer: El Camino del Campeón (2023)" ,Elijo Creer: El Camino del Campeón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407552.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a666a9632e610e3111f6c6f779a14623.jpg" tvg-name="El Ingeniero (2023)" ,El Ingeniero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407554.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8b6dfbe022cc3804a90114a04fc15656.jpg" tvg-name="El inicio del mundo de Craig (2023)" ,El inicio del mundo de Craig (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407556.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5830544a2327673008aa76e9a357dea.jpg" tvg-name="El Justiciero: Capítulo final (2023)" ,El Justiciero: Capítulo final (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407559.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/04578208dedbb9e9f70f4f3efe26a2e1.jpg" tvg-name="El lado dulce de la traición (2023)" ,El lado dulce de la traición (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407560.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/71efaf3ab4e1fedd39eb057fcb30a3dd.jpg" tvg-name="El libro de los deseos (2023)" ,El libro de los deseos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407563.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6bae0bb701dc5e2205a3dd2b8f6f783b.jpg" tvg-name="Piedras en el camino (2023)" ,Piedras en el camino (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407562.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e268775c5347647a511fe9fd8d6f8bd6.jpg" tvg-name="El mejor del mundo (2023)" ,El mejor del mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407565.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/16397216f5cae8210590cd878dd6670a.jpg" tvg-name="El mensajero de la oscuridad (2002)" ,El mensajero de la oscuridad (2002)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407567.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9feace0fd2b19cd61e15cf33c855b62c.jpg" tvg-name="El misterio de la nana (2019)" ,El misterio de la nana (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407569.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c9d640e587a368537b13720bac42328c.jpg" tvg-name="El mochilero del hacha (2023)" ,El mochilero del hacha (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407570.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a3060ad8c594775dde1a580af7938ad.jpg" tvg-name="El monstruo dentro de mí (2023)" ,El monstruo dentro de mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407573.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a3060ad8c594775dde1a580af7938ad.jpg" tvg-name="El monstruo dentro de mí (2023)" ,El monstruo dentro de mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407574.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e388722a4ec6ce3e0a3ee969fa07eaa1.jpg" tvg-name="El mundo que creamos (2019)" ,El mundo que creamos (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407577.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c6f60e50649107f115cde6558d97e9b.jpg" tvg-name="Pobres Criaturas (2023)" ,Pobres Criaturas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407576.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/691fc487b2de2f5b160827e3dc0d3fcb.jpg" tvg-name="El negocio del dolor (2023)" ,El negocio del dolor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407579.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/54753ee9f0c7b6d37775ff9372ab56ea.jpg" tvg-name="El Pacto (2023)" ,El Pacto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407582.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f426078549a28baef6e2d46a37240d9.jpg" tvg-name="El Panadero (2023)" ,El Panadero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407584.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/75dcf232dcdda2636e92ecfca4115833.jpg" tvg-name="El Buen Pastor (2006)" ,El Buen Pastor (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407586.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d55a6d14a19e7cf9395e72c0afa3a69c.jpg" tvg-name="El pequeño golpe del Gran Nunu (2023)" ,El pequeño golpe del Gran Nunu (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407588.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6d57a2c0376bbe8c4ca8a04e2170e573.jpg" tvg-name="El pueblo de los malditos (1960)" ,El pueblo de los malditos (1960)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407589.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8fd42c275698082b50b07d95e39315eb.jpg" tvg-name="Priscilla (2023)" ,Priscilla (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407587.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e195c539a157d07f7e70c403b6a3d613.jpg" tvg-name="El puño del cóndor (2023)" ,El puño del cóndor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407591.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3ef86f276877410cf24de90f4c51a341.jpg" tvg-name="El rapto (2023)" ,El rapto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407594.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dc7e630fbfe6d48cb71aaa215e4d8207.jpg" tvg-name="El regreso de Manson (2023)" ,El regreso de Manson (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407596.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aef54b23195e20f3023e61e96cd2d3c7.jpg" tvg-name="El rey de las sombras (2023)" ,El rey de las sombras (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407598.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ad53847d45a46d07aa1a973b067d736c.jpg" tvg-name="El Rey Mono (2023)" ,El Rey Mono (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407600.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5d997886d61b447e5c9efa8cce03cab.jpg" tvg-name="Río Bravo (1959)" ,Río Bravo (1959)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407602.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4410223c681cd5540e21b2208acedc7b.jpg" tvg-name="Puan (2023)" ,Puan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407601.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dcf96a119b5b79207ec935503c382a61.jpg" tvg-name="El sabor de la Navidad (2023)" ,El sabor de la Navidad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407605.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9269972972e5f02bee98bdd33c5a736f.jpg" tvg-name="El santo de las segundas oportunidades (2023)" ,El santo de las segundas oportunidades (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407606.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7774cfe352edc025f1933eaee5f974e9.jpg" tvg-name="El Sindicato del crimen (2019)" ,El Sindicato del crimen (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407609.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a33ccafd6871aff6a5519e90145cc759.jpg" tvg-name="El Sr. Carrito y los caballeros templarios (2023)" ,El Sr. Carrito y los caballeros templarios (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407610.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bbb8478a4398b9a0c7c8372a50efbebd.jpg" tvg-name="El Tutor (2023)" ,El Tutor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407613.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/72c37586b076285bc83309df50a71aaf.jpg" tvg-name="El vuelo de los ladrones (2023)" ,El vuelo de los ladrones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407615.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1d013cc6bca451ee6cf946de25e8e87.jpg" tvg-name="El último vagón (2023)" ,El último vagón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407617.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde7c674fabfa478bf349a1d7089998f.jpg" tvg-name="Maniobra Radical (2021)" ,Maniobra Radical (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407618.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8be7b75bdf8841c31a342f9c7d566eda.jpg" tvg-name="Emboscada (2023)" ,Emboscada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407620.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4fd90d06808754bc6f06525bbad0afec.jpg" tvg-name="Empieza el baile (2023)" ,Empieza el baile (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407622.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c2541af63655dde05b283bb7208d7af5.jpg" tvg-name="Encierro (2023)" ,Encierro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407625.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02e697a9456521eeff289d2c6cfa642e.jpg" tvg-name="Encuentro con la verdad (2023)" ,Encuentro con la verdad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407627.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1ef16b131348938ee524d7c7a6f98c3c.jpg" tvg-name="Sobreviviendo en el desierto (2016)" ,Sobreviviendo en el desierto (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407628.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/713658aa42c37b34398868b5240f31fa.jpg" tvg-name="Ensayo general (2023)" ,Ensayo general (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407630.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d1d58481e55c343ad031dbca850e225b.jpg" tvg-name="Recursos humanos (2023)" ,Recursos humanos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407631.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d5b1954bc4024f44d63ad6dd2120f60.jpg" tvg-name="Enterrando una ambición (2023)" ,Enterrando una ambición (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407633.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/04150d4b7cade27d71082cccb1b0ac82.jpg" tvg-name="Entre el Amor y la Amistad (2023)" ,Entre el Amor y la Amistad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407635.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b02907c9ae8b3e31e39eff7af021e7d2.jpg" tvg-name="En un Sueño (Rüyanda Görürsün) (2023)" ,En un Sueño (Rüyanda Görürsün) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407639.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9fe43fe3faddd9cebc92e0fd19aa4066.jpg" tvg-name="Relación abierta (2023)" ,Relación abierta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407636.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/315c5fbf4a6c28dd8de755c4731acaea.jpg" tvg-name="Eres tú (2023)" ,Eres tú (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407640.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d36d9591540446bbbbdad52b14525c2c.jpg" tvg-name="Escape bajo fuego (2023)" ,Escape bajo fuego (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407643.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/280059a64df27e8735e16687e0c6cd95.jpg" tvg-name="Relación obsesiva (2024)" ,Relación obsesiva (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407641.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/29936764c01ba2326ec0d67e17bb3af9.jpg" tvg-name="Escape de Raqqa (2019)" ,Escape de Raqqa (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407644.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/29936764c01ba2326ec0d67e17bb3af9.jpg" tvg-name="Espiía a la caza \ (2023)" ,Espiía a la caza \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407645.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1071e81df106e8a5794f8d8d12be26ec.jpg" tvg-name="Espía a la caza (2023)" ,Espía a la caza (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407648.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d412971e17d0df42442781451ed19f89.jpg" tvg-name="Rescate en Ámsterdam (2023)" ,Rescate en Ámsterdam (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407647.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2b800b8319ca6e22aacd7aeca2dcbe9.jpg" tvg-name="Espíritu libre (2023)" ,Espíritu libre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407650.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ed444e418b2e2afd009d345ce23ddcea.jpg" tvg-name="Esta noche duermes conmigo (2023)" ,Esta noche duermes conmigo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407654.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b622fea5720ddbd71ab8351ff744ae0e.jpg" tvg-name="Estilo Libre (2023)" ,Estilo Libre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407657.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8ca9337e99282b2805eb6331e662f419.jpg" tvg-name="Estrellas Fugaces (2023)" ,Estrellas Fugaces (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407658.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2b805200f427893d9a30bd81447259e2.jpg" tvg-name="Evil Dead: El despertar (2023)" ,Evil Dead: El despertar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407661.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7de4943f31714f609c6c89880314ff04.jpg" tvg-name="Experimento sobre el Miedo (2019)" ,Experimento sobre el Miedo (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407665.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ce114a3dfeffd68acb1befa905879153.jpg" tvg-name="Familia Nacional (2023)" ,Familia Nacional (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407666.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/920654856315820ce4221e72a8aff861.jpg" tvg-name="Familia revuelta (2023)" ,Familia revuelta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407668.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fe47312afe63ab55e5bddb1d16e508d2.jpg" tvg-name="Ritos Ocultos (2023)" ,Ritos Ocultos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407667.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/96e9bfd19d31646c59af2573adf336d9.jpg" tvg-name="Fanfic (2023)" ,Fanfic (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407670.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b18618217fb5a1035e8cc47c8faff3a8.jpg" tvg-name="Felicidad para principiantes (2023)" ,Felicidad para principiantes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407673.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/124ff9acc70aa3c7ac3d6a865daa33ae.jpg" tvg-name="Fiesta en Casa (2023)" ,Fiesta en Casa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407675.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/028664304e40f13c1bcfc4cd7aea396f.jpg" tvg-name="Rodeo rock (2023)" ,Rodeo rock (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407674.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79b14af094b7100e0c71142984ecaaf5.jpg" tvg-name="Final feliz (2023)" ,Final feliz (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407677.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d649858eda29811db92035a91838709.jpg" tvg-name="Finestkind (2023)" ,Finestkind (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407678.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d649858eda29811db92035a91838709.jpg" tvg-name="Five Nights at Freddy\'s La película \ (2023)" ,Five Nights at Freddy\'s La película \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407679.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8219057e6900e049340dfd849aa9371f.jpg" tvg-name="Flamin' Hot: El sabor que cambió la historia (2023)" ,Flamin' Hot: El sabor que cambió la historia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407681.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8219057e6900e049340dfd849aa9371f.jpg" tvg-name="Flamin' Hot: El sabor que cambió la historia (2023)" ,Flamin' Hot: El sabor que cambió la historia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407683.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40395b712b05999f9648da73de0dbc1e.jpg" tvg-name="Flash (2023)" ,Flash (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407685.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f7155795fbdc11928c31ba5c86ba4886.jpg" tvg-name="Efecto Flashback (2020)" ,Efecto Flashback (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407687.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/30717a30b80193667b0a96cd9773a0db.jpg" tvg-name="Flora e hijo (2023)" ,Flora e hijo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407690.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c75c200c0615edfc488f7a4a8351b2c.jpg" tvg-name="Flow Callejero 2 (2023)" ,Flow Callejero 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407692.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9c99a6d9deaaabc8d372deb0925f1182.jpg" tvg-name="Foodiverso: Una Galaxia en Peligro (2018)" ,Foodiverso: Una Galaxia en Peligro (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407695.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/45fe5f7e12e8f06c20915e3d26f329a9.jpg" tvg-name="Fragmentado (2017)" ,Fragmentado (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407696.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dfbfb05507128fba2290eb4ec0d0d756.jpg" tvg-name="Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)" ,Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407699.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b622fea5720ddbd71ab8351ff744ae0e.jpg" tvg-name="Estilo Libre (2023)" ,Estilo Libre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407700.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/30b0ed78281ca1f287ac04117212c77e.jpg" tvg-name="Secretos de un escándalo (2023)" ,Secretos de un escándalo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407698.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7f12449514bafe2118e37720adb13f88.jpg" tvg-name="Frente a frente (2008)" ,Frente a frente (2008)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407701.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f534ee555a879ac4515e22eecdf93b2a.jpg" tvg-name="Fuga de Reinas (2023)" ,Fuga de Reinas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407704.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e7a4ef6e12b945e3b24055c3459b31a4.jpg" tvg-name="Secretos Familiares (2023)" ,Secretos Familiares (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407702.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a9acb79077d80882a7a8b2e82d60c2a2.jpg" tvg-name="Garras voraces (2023)" ,Garras voraces (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407706.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/84eb68c00d97b3e762590fe7cf423087.jpg" tvg-name="Secretos prohibidos (2023)" ,Secretos prohibidos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407705.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dd1ce484d285346507cfbd7609acd24f.jpg" tvg-name="Genie (2023)" ,Genie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407708.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/378dee5e34907592a71a3b6c0f37140c.jpg" tvg-name="Ghosteado (2023)" ,Ghosteado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407710.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d4277ff6e4f69a90048033190e261ef7.jpg" tvg-name="Godzilla Minus One (2023)" ,Godzilla Minus One (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407713.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5701d58436165ce81440cc87e3cd58b9.jpg" tvg-name="Autosuficiencia (2024)" ,Autosuficiencia (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407712.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0f969fefeeeb3d26cc79771c2e31b367.jpg" tvg-name="Golda (2023)" ,Golda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407714.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/26eb169d877333e1029546a32cd5d679.jpg" tvg-name="Gol gana (2023)" ,Gol gana (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407717.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dfb6849c262c128e621996ca9a3c99f8.jpg" tvg-name="Señora Influencer (2023)" ,Señora Influencer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407716.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1495d4fec89e2d77671d9e8a7b408f27.jpg" tvg-name="Gracias, lo siento (2023)" ,Gracias, lo siento (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407719.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9031acd1ba9911653f676603551c7e8c.jpg" tvg-name="Gracias por todo (2019)" ,Gracias por todo (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407722.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f5a8026eb588f7550047b544f462c3a.jpg" tvg-name="Gran Turismo: De jugador a corredor (2023)" ,Gran Turismo: De jugador a corredor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407725.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d44f1229be770a623cacab66e656218e.jpg" tvg-name="Si Fueras el Último (2024)" ,Si Fueras el Último (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407723.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d44f1229be770a623cacab66e656218e.jpg" tvg-name="회백질 (2023)" ,회백질 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407726.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9532d7c1daccf20bb46b89a89fc855b4.jpg" tvg-name="Yo soy Simón (2018)" ,Yo soy Simón (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407727.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a28cc2b2c879625186925c0a77470ba4.jpg" tvg-name="Guardianes de la Galaxia volumen 3 (2023)" ,Guardianes de la Galaxia volumen 3 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407729.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9cedca9ca030ecc31343ad564efd83bc.jpg" tvg-name="Guardianes del museo (2023)" ,Guardianes del museo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407730.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f938f10e97ff835794b5834cb478d63e.jpg" tvg-name="Guia de Viaje hacia el Amor (2023)" ,Guia de Viaje hacia el Amor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407733.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/776cdf943bb0f2c110418724c6ad1bdb.jpg" tvg-name="Había una vez un estudio (2023)" ,Había una vez un estudio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407735.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a0c93af8883da379ec411b7d5d6e9742.jpg" tvg-name="Hambre (2023)" ,Hambre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407737.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b18618217fb5a1035e8cc47c8faff3a8.jpg" tvg-name="Felicidad para principiantes (2023)" ,Felicidad para principiantes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407738.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79b14af094b7100e0c71142984ecaaf5.jpg" tvg-name="Final feliz (2023)" ,Final feliz (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407741.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f90077394300e9f8b2afcc40d8c332b0.jpg" tvg-name="Sira (2023)" ,Sira (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407740.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/34f291766315e8a5d0bd3a53cc4a4659.jpg" tvg-name="Hart: Duro de entrenar (2023)" ,Hart: Duro de entrenar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407742.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d9f850397b3186a69584de97350682c.jpg" tvg-name="Noche de Horror (2023)" ,Noche de Horror (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407743.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28f943b6a3864352dc7c85b9a61384a0.jpg" tvg-name="Hay algo mal con los niños (2023)" ,Hay algo mal con los niños (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407746.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a3b9fbc529aadf43898cb2e4680ed1f2.jpg" tvg-name="Sleep: El mal no duerme (2023)" ,Sleep: El mal no duerme (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407745.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09dc42f3cf3bf6ba1e81ffa3a5448044.jpg" tvg-name="Hazme el favor (2023)" ,Hazme el favor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407750.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e7af1b1e5a6cd5112bb026da929c99a0.jpg" tvg-name="El Ejecutor (2012)" ,El Ejecutor (2012)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407752.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/726e1952bdc1f368c1cf584309042b98.jpg" tvg-name="Hermanos de la Mafia (2019)" ,Hermanos de la Mafia (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407755.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ad50d5bdddf64b98e18d18a67f6057e.jpg" tvg-name="Heroico (2023)" ,Heroico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407758.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ccee103b57d799c353a40fb3d32fc43a.jpg" tvg-name="Higuita: El camino del Escorpión (2023)" ,Higuita: El camino del Escorpión (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407759.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e71e8c8bc86d22ab22199b66f4ae95dc.jpg" tvg-name="Sobrevivientes después del terremoto (2023)" ,Sobrevivientes después del terremoto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407760.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa9b17ae8300371d431cedece1b1ae95.jpg" tvg-name="Hijos de perra (2023)" ,Hijos de perra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407763.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5515d2f79c7c6e027273b59e872b2fb0.jpg" tvg-name="Hipnosis: Arma Invisible (2023)" ,Hipnosis: Arma Invisible (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407765.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/73464629d8e5a56b8308d7fe7eefcc67.jpg" tvg-name="Historia de un Crimen: Mauricio Leal (2023)" ,Historia de un Crimen: Mauricio Leal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407767.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3a92f707b689ad5389adcd95dda007fc.jpg" tvg-name="Hoy hablaremos de ese día (2023)" ,Hoy hablaremos de ese día (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407769.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f7e1dfc7c1f58f76c31fcf2b030ec393.jpg" tvg-name="Sully: Hazaña en el Hudson (2016)" ,Sully: Hazaña en el Hudson (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407771.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4371da9962b7c064f7707540ac8a9286.jpg" tvg-name="Squealer (2023)" ,Squealer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407772.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c7896cc61933ea62d0cddec24013a35.jpg" tvg-name="Huesera (2023)" ,Huesera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407773.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c60ada7e68041e71f921e0682fcd3270.jpg" tvg-name="Blood Vessel (2020)" ,Blood Vessel (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407774.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40b70e9987120c735438852e6611e88f.jpg" tvg-name="Háblame (2023)" ,Háblame (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407777.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/293033e16741238de5c9a395f7122bd3.jpg" tvg-name="Identidad Desbloqueada (2023)" ,Identidad Desbloqueada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407778.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5e21666d24e8f400821a40d2b23e6d00.jpg" tvg-name="Imperfectos (2023)" ,Imperfectos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407781.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b923a6fbe9e02e636ca904cdb2052996.jpg" tvg-name="Indiana Jones y el dial del destino (2023)" ,Indiana Jones y el dial del destino (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407784.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bce7521f54871b2c0e3a74572dd6426b.jpg" tvg-name="Infelices para Siempre (2023)" ,Infelices para Siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407786.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/080cd9b76307dc9d7dd0602d1e1508cf.jpg" tvg-name="Infiesto (2023)" ,Infiesto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407788.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c442e69c875abb7deb84d51531055f44.jpg" tvg-name="IntensaMente 2 (2024)" ,IntensaMente 2 (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407789.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0d21bc7f461dde6db582d45c44c17b3f.jpg" tvg-name="Intoxicación: La cruda verdad sobre nuestra comida (2023)" ,Intoxicación: La cruda verdad sobre nuestra comida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407792.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b99bb88148105e99e13385039929505.jpg" tvg-name="Intruso (2023)" ,Intruso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407793.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3090242a5e51cc70720a3a05e28f69e5.jpg" tvg-name="iNumber Number: El oro de Johannesburgo (2023)" ,iNumber Number: El oro de Johannesburgo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407796.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2a886de0b80e9649b26d83d5b6f67796.jpg" tvg-name="Dragon Ball Z: El Poder Invencible (1993)" ,Dragon Ball Z: El Poder Invencible (1993)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407799.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2a886de0b80e9649b26d83d5b6f67796.jpg" tvg-name="INVENCIBLE Un episodio especial de Atom Eve \ (2023)" ,INVENCIBLE Un episodio especial de Atom Eve \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407800.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f3a6f0834c5338398b76b5e60f73827b.jpg" tvg-name="Invitación a un asesinato (2023)" ,Invitación a un asesinato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407802.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12c6ab79b32a2d9c94125c7bb777742f.jpg" tvg-name="Isabella: o Caso Nardoni (2023)" ,Isabella: o Caso Nardoni (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407803.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e658b6b4b730772e455931b6489f0f65.jpg" tvg-name="j-hope IN THE BOX (2023)" ,j-hope IN THE BOX (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407805.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f6ff9a0852656fcd1f6eab8aa68cacb8.jpg" tvg-name="Jade Black, La agente Secreta (2020)" ,Jade Black, La agente Secreta (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407809.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e86d69ec7fb7a3b87d98f0a653bb6f61.jpg" tvg-name="Jagun Jagun (2023)" ,Jagun Jagun (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407812.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aed2bd7724f562b5ce8d3501279a2469.jpg" tvg-name="जवान (2023)" ,जवान (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407814.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4a0dbe2af2062b52ea13c77d098cecc5.jpg" tvg-name="La revolución de Jesús (2023)" ,La revolución de Jesús (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407816.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c15cdf9bc3a88b46e1dc957fcc12bc04.jpg" tvg-name="Jethica (2023)" ,Jethica (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407819.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9771e82d866618569bf61900020553df.jpg" tvg-name="John Wick 4 (2023)" ,John Wick 4 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407822.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/19ec38b55097dc4091cc50d79ce559b1.jpg" tvg-name="Hotel Royal (2023)" ,Hotel Royal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407821.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a7c452fdbfc1625f4dc0a2b56270e62.jpg" tvg-name="Juega o Muere (2023)" ,Juega o Muere (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407824.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a7c452fdbfc1625f4dc0a2b56270e62.jpg" tvg-name="Juego del amor El tiempo es ahora 2 \ (2023)" ,Juego del amor El tiempo es ahora 2 \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407825.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3099b0415a11ce911ebd6b9efdf2fb4f.jpg" tvg-name="The Starling Girl (2023)" ,The Starling Girl (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407827.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eefadae67fca847e47e0577d265b3359.jpg" tvg-name="Juegos entre Amigos: Despertar de Primavera (2023)" ,Juegos entre Amigos: Despertar de Primavera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407828.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93be3fcab4924334ec22afdb3972c465.jpg" tvg-name="Juego Limpio (2023)" ,Juego Limpio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407831.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eefadae67fca847e47e0577d265b3359.jpg" tvg-name="Juegos entre Amigos: Despertar de Primavera (2023)" ,Juegos entre Amigos: Despertar de Primavera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407833.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a55ff63d8deba00c4e500051bbcca54.jpg" tvg-name="Juicio al diablo (2023)" ,Juicio al diablo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407836.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d2a8a25cb21a33ed391dc15c7cfadfe2.jpg" tvg-name="Maidan-E-Jung (1995)" ,Maidan-E-Jung (1995)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407837.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2ab114375c1a87f32478a894c570683d.jpg" tvg-name="Kandasamys: The Baby (2023)" ,Kandasamys: The Baby (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407841.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/98b5d0c14ff2ffe2f956ae813be91783.jpg" tvg-name="Tráfico sexual (2023)" ,Tráfico sexual (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407840.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6716b9300fda1ac3d602b8e140401027.jpg" tvg-name="Keanu (2016)" ,Keanu (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407844.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d652bb61ec458e5aeef6e4cba3981b51.jpg" tvg-name="¿Dónde nos perdimos? (2023)" ,¿Dónde nos perdimos? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407845.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/268c2181a1d790d7f4119ac8564483f5.jpg" tvg-name="King of Clones (2023)" ,King of Clones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407848.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d22d7aac2eaa0c7a340559e620d08978.jpg" tvg-name="KonoSuba: La Película. La Leyenda del Carmesí (2019)" ,KonoSuba: La Película. La Leyenda del Carmesí (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407849.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3f3801d1035629276487147ca11886af.jpg" tvg-name="Krakens y sirenas: Conoce a los Gillman (2023)" ,Krakens y sirenas: Conoce a los Gillman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407852.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/522f8db7e64f007fa7d0b268de4f1bfb.jpg" tvg-name="Una flor en el barro (2023)" ,Una flor en el barro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407850.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d58e3f1bed488934a5976a152422069c.jpg" tvg-name="KSI: In Real Life (2023)" ,KSI: In Real Life (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407854.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bf2ee5edc62be6ec0545f0ea0dad991e.jpg" tvg-name="La aventura de mi vida (2020)" ,La aventura de mi vida (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407855.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dda6fc593613275a829c4f26fb4999de.jpg" tvg-name="La Bruja: Parte 1 - La Subversión (2018)" ,La Bruja: Parte 1 - La Subversión (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407857.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a6a0a1af10ce26e61867c9b7f0bcc86.jpg" tvg-name="La calle de la Navidad (2023)" ,La calle de la Navidad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407859.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/22817fe4f6c1f65f7359c508706bae2f.jpg" tvg-name="La cita de Carl (2023)" ,La cita de Carl (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407863.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5fcc9ba4eae432242a735b865bfcfb21.jpg" tvg-name="La clave del corazón (2023)" ,La clave del corazón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407866.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d5a8bd7025e95a89abfbf51ad9c32bba.jpg" tvg-name="Una visita inesperada (2023)" ,Una visita inesperada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407865.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a876f822c99fcbef1fa5d8e4e085d2a8.jpg" tvg-name="La combinación perfecta (2023)" ,La combinación perfecta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407867.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/055414f7d8b4b4d04dfc1ad6fb553f08.jpg" tvg-name="La Conferencia (2023)" ,La Conferencia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407870.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9dd68112e28221ca81a196ad71699d99.jpg" tvg-name="La Consagración (2023)" ,La Consagración (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407871.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dd9204d90587c0903cc15b4005ae7b5d.jpg" tvg-name="La Conspiración del Diablo (2023)" ,La Conspiración del Diablo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407874.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/be175be5f05839453e1967c306a110a8.jpg" tvg-name="La Dama del Silencio: El caso Mataviejitas (2023)" ,La Dama del Silencio: El caso Mataviejitas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407876.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b04278b91a5f50a8be124cd7873dc898.jpg" tvg-name="Ladronas (2023)" ,Ladronas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407879.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d8af3cddd998daa9c24013bdc9b99c29.jpg" tvg-name="Miraculous: Las aventuras de Ladybug - La Película (2023)" ,Miraculous: Las aventuras de Ladybug - La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407880.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f20a345e2f06ef7e6605a28ef506e878.jpg" tvg-name="Un Ladrón Romántico (2024)" ,Un Ladrón Romántico (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407878.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7c75f40df93baf276de3f12063844f76.jpg" tvg-name="La elefanta del Mago (2023)" ,La elefanta del Mago (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407882.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bd417a9ab58e7531ba77e69bf6e9a4e4.jpg" tvg-name="Los Conspiradores (2023)" ,Los Conspiradores (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407886.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b31eb5882286b4ae6cf50bc4542ef81c.jpg" tvg-name="La fiebre de los peluches Beanie (2023)" ,La fiebre de los peluches Beanie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407889.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f889556fbab714977a45c9c9886812b0.jpg" tvg-name="La Fierecilla Indomable 2 (2023)" ,La Fierecilla Indomable 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407890.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68c5599d98ddadf24ff67590bf748e01.jpg" tvg-name="La generación cápsula (2023)" ,La generación cápsula (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407893.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/00549b8c3b30033cf0dbb11abdd03b34.jpg" tvg-name="La gran seducción (2014)" ,La gran seducción (2014)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407895.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/73922c50c315cd0a5f77aa5faaf26be9.jpg" tvg-name="La heredera de la mafia (2023)" ,La heredera de la mafia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407897.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4f5e5a249b0e61ff0423e0127ffdcfc.jpg" tvg-name="La hija de la novia (2023)" ,La hija de la novia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407899.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ef3517e533a6801b38a9b43d28c10535.jpg" tvg-name="La hija del rey de los pantanos (2023)" ,La hija del rey de los pantanos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407900.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4e3772692a003d98c7fa3db36d524ff.jpg" tvg-name="La hija del prisionero (2023)" ,La hija del prisionero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407902.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/adbfac952841f7831aae10a8b4c56dcb.jpg" tvg-name="La informante (2023)" ,La informante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407903.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7f9dde29a60353a7b064e4335f092f54.jpg" tvg-name="Velocidad sin Límites (2007)" ,Velocidad sin Límites (2007)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407904.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/30ce021bfd3318333bdd794635dba5a7.jpg" tvg-name="La inspiración más profunda (2023)" ,La inspiración más profunda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407905.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b084b0a9c459a57325b676a2bedb753f.jpg" tvg-name="La ira de Becky (2023)" ,La ira de Becky (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407908.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e82782c9d7f2ec2cdee488cc3c3df81.jpg" tvg-name="Viaje a la oscuridad (2023)" ,Viaje a la oscuridad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407906.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3f2020daa81e975c6b25bc34ba4ebd69.jpg" tvg-name="La Leyenda de los Chaneques (2023)" ,La Leyenda de los Chaneques (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407909.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/70f09c771e7c67f245f2e152669cf8d0.jpg" tvg-name="La Libreta Negra (2023)" ,La Libreta Negra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407912.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d5fe1b4822a6fb77aa551047d8fb5f14.jpg" tvg-name="La Lista de Schindler (1993)" ,La Lista de Schindler (1993)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407913.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a892c00b000d5d47e38794ee78633a21.jpg" tvg-name="La lista de los besos (2023)" ,La lista de los besos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407916.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c96d89b6930c5555e3f4df02eeb8e86.jpg" tvg-name="Vidas Pasadas (2023)" ,Vidas Pasadas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407914.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/459616feef3c9b32932f0281dc2d2d08.jpg" tvg-name="La otra cara de la Luna (2024)" ,La otra cara de la Luna (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407917.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e12cb058455de71dedce44662c7ca6f.jpg" tvg-name="Que el Día de la Madre te acompañe (2024)" ,Que el Día de la Madre te acompañe (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407921.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ce99d87315a6eed828494232431a6592.jpg" tvg-name="Will y Harper (2024)" ,Will y Harper (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407920.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b8c7a153c22e8f537c2a7b0c4d6a1ae8.jpg" tvg-name="Teddy, La magia de la Navidad (2022)" ,Teddy, La magia de la Navidad (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407923.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/be1950e3aa687669d82f763924b145d7.jpg" tvg-name="La maravillosa historia de Henry Sugar (2023)" ,La maravillosa historia de Henry Sugar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407925.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/512c41ba9707dec0237df98d41507427.jpg" tvg-name="Wish: El poder de los deseos (2023)" ,Wish: El poder de los deseos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407924.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/60b64f329344c33c1137b2bf84722d1a.jpg" tvg-name="La Memoria infinita (2023)" ,La Memoria infinita (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407927.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/64291227ea740bfc86d4b4c90df661e6.jpg" tvg-name="La monja II (2023)" ,La monja II (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407929.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7858a69f84d493c44905190df595f2f8.jpg" tvg-name="Wonka (2023)" ,Wonka (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407928.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f567b6d5bc4464a4ea75299b935ff0ff.jpg" tvg-name="La máquina del tiempo (2002)" ,La máquina del tiempo (2002)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407931.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/80e36e27a7b192a4e72f4b591982067b.jpg" tvg-name="Paisaje con mano invisible (2023)" ,Paisaje con mano invisible (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407934.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6181dcf1bc54e925600801b6163b2a91.jpg" tvg-name="La niña de la comunión (2023)" ,La niña de la comunión (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407937.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0956cff7169f45d1918df0f7dcf57a08.jpg" tvg-name="La noche del demonio: La puerta roja (2023)" ,La noche del demonio: La puerta roja (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407939.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9bc3e02ee094414ae68ce2bcf30c3f02.jpg" tvg-name="La oscuridad de la Luz del Mundo (2023)" ,La oscuridad de la Luz del Mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407941.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/344366dd6928ed0141b93849d156d767.jpg" tvg-name="La otra Zoey (2023)" ,La otra Zoey (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407943.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2d17a73da51761ccf9739ac8fd59f17.jpg" tvg-name="La pecera (2023)" ,La pecera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407944.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a1da7ce7ab09aed21d16f7008bbb70b0.jpg" tvg-name="La peor de mis bodas 3 (2023)" ,La peor de mis bodas 3 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407946.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/81b593db962f7645e30c98e0ee1b2aae.jpg" tvg-name="La posibilidad estadística del amor a primera vista (2023)" ,La posibilidad estadística del amor a primera vista (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407947.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5f9c88327fb4323fe139d01e467bdaf3.jpg" tvg-name="La primera navidad del mundo (2023)" ,La primera navidad del mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407949.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/61ca16b0b684158b986c0860e8c2faaf.jpg" tvg-name="La princesa encantada: Nace un cuento de hadas (2023)" ,La princesa encantada: Nace un cuento de hadas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407950.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/45bd87a2e0466f751dad8b8d03922535.jpg" tvg-name="Coraline y la puerta secreta (2009)" ,Coraline y la puerta secreta (2009)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407952.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5b7e2920f4f032044cedc834d1633b01.jpg" tvg-name="La Resurrección de la Momia (2023)" ,La Resurrección de la Momia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407954.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4a0dbe2af2062b52ea13c77d098cecc5.jpg" tvg-name="La revolución de Jesús (2023)" ,La revolución de Jesús (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407956.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5eb0a2fcc8774bcfe46a248760bd955.jpg" tvg-name="La sirenita (2023)" ,La sirenita (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407957.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5193c7b4951586e586d4e10cff322128.jpg" tvg-name="Las momias y el anillo perdido (2023)" ,Las momias y el anillo perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407959.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e73a3fd44b46660758cca61b51602620.jpg" tvg-name="La sociedad de la nieve (2023)" ,La sociedad de la nieve (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407961.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d70182442f82cdafb909e0379f433839.jpg" tvg-name="Las semanas mágicas (2023)" ,Las semanas mágicas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407962.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0b8ee007677035097aa2fa015f16ccde.jpg" tvg-name="Las Vegas en 7 Dias (2019)" ,Las Vegas en 7 Dias (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407964.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4fa52ca1fba6be94d1b54b8ae7ad1398.jpg" tvg-name="La típica Navidad (2023)" ,La típica Navidad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407965.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/581441e96f32cf597e3c7f2e1b75d621.jpg" tvg-name="La uruguaya (2023)" ,La uruguaya (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407967.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/629b7f2ae40fb0fb0b48f8a8b97a138f.jpg" tvg-name="La Usurpadora (2023)" ,La Usurpadora (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407968.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d5c7b942f062ecfe5e03255cec4fa744.jpg" tvg-name="La Venganza de Jack (2023)" ,La Venganza de Jack (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407970.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a85ab190abb433b155cb01c5f9084e8f.jpg" tvg-name="La versión persa (2023)" ,La versión persa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407972.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d90330de40ad2f219c5f753acb58599d.jpg" tvg-name="La vida es un pastel (2023)" ,La vida es un pastel (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407973.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4996033a2f55011f8da2a1e2d4d43c9.jpg" tvg-name="La Última Yarda (2023)" ,La Última Yarda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407975.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0f25b2dfe09bb7dcd7b4060a47a0e7fa.jpg" tvg-name="Legión de Super Héroes (2023)" ,Legión de Super Héroes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407976.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0f25b2dfe09bb7dcd7b4060a47a0e7fa.jpg" tvg-name="Legión de Super Héroes (2023)" ,Legión de Super Héroes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407977.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6d3c7a68e7719de1790966812715a4ad.jpg" tvg-name="LEGO Disney Princesa: Aventura en el castillo (2023)" ,LEGO Disney Princesa: Aventura en el castillo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407979.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6d3c7a68e7719de1790966812715a4ad.jpg" tvg-name="LEGO Disney Princesa: Aventura en el castillo (2023)" ,LEGO Disney Princesa: Aventura en el castillo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407980.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2c6f15ed4779fed68552ff21810fb07a.jpg" tvg-name="Lego Friends: The Next Chapter: New Beginnings (2023)" ,Lego Friends: The Next Chapter: New Beginnings (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407982.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f4444b5f378c9755ddb9f3a3f292ac4.jpg" tvg-name="LEGO Marvel Avengers: Código rojo (2023)" ,LEGO Marvel Avengers: Código rojo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407983.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05b7dd7716a75a6a56760fb872cd3b63.jpg" tvg-name="Leo (2023)" ,Leo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407984.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c706c12e194a4c03b568dcc7e9f54e19.jpg" tvg-name="Liga de la justicia: mundo Bélico (2023)" ,Liga de la justicia: mundo Bélico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407989.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c706c12e194a4c03b568dcc7e9f54e19.jpg" tvg-name="Liga de la justicia: mundo Bélico (2023)" ,Liga de la justicia: mundo Bélico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407990.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7f536bca620f798c228b57a522c05ea8.jpg" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1 (2023)" ,Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407991.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d2f5ec27aae0b202b1d67fb36f3bdff6.jpg" tvg-name="Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)" ,Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407992.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f953ba0432c5f92b3e4f8260bceb1f3.jpg" tvg-name="Pequeña Dixie (2023)" ,Pequeña Dixie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407993.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5194c547328e31f23313911fc3ed9be0.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407995.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/902ae533f4fa767a38447384bbd42ab3.jpg" tvg-name="Teen Wolf: La Película (2023)" ,Teen Wolf: La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407996.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5ef6e7dbfff60abdfff02ea204cd20a9.jpg" tvg-name="Locas en apuros (2023)" ,Locas en apuros (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407997.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/39b38cd7c7c5d5861d323028ea85ee79.jpg" tvg-name="Lo Desconocido: La Cueva de los Huesos (2023)" ,Lo Desconocido: La Cueva de los Huesos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407999.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/08035267095a52e16646f28c77e5c04c.jpg" tvg-name="Lo Desconocido: La máquina del tiempo cósmica (2023)" ,Lo Desconocido: La máquina del tiempo cósmica (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408001.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/468d637f793245bc31d5dfeff17903d8.jpg" tvg-name="Lo Desconocido: La Pirámide Perdida (2023)" ,Lo Desconocido: La Pirámide Perdida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408002.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4cde78e365b496e3e03579684dd69feb.jpg" tvg-name="Lo Desconocido: Los Robots Asesinos (2023)" ,Lo Desconocido: Los Robots Asesinos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408004.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c8d39a77cd3e17a20041eeadf560a974.jpg" tvg-name="Lo Inaudible (2023)" ,Lo Inaudible (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408005.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/faba7fe8696e9546a91621649bf0ce77.jpg" tvg-name="Los de la culpa (2024)" ,Los de la culpa (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408007.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3ffb751039c9dc6c47db0fde74c6dc42.jpg" tvg-name="Los Archies (2023)" ,Los Archies (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408008.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Los asesinos de la luna (2023)" ,Los asesinos de la luna (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408010.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb0e535c2ef9df88ef7319ea090329ae.jpg" tvg-name="El Bastardo (2023)" ,El Bastardo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408011.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4d400279127089138bde43073e66fcc1.jpg" tvg-name="Los Blancos no saben Saltar (1992)" ,Los Blancos no saben Saltar (1992)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408013.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a8fcfa5530749abb891754dbd390d31e.jpg" tvg-name="Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)" ,Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408015.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/500edf453acc3366825e4bb64f6b4bbb.jpg" tvg-name="Los campeones (2023)" ,Los campeones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408016.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1b82caedd5e8a141695b0392fa6423d4.jpg" tvg-name="Los delincuentes (2023)" ,Los delincuentes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408018.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7ee34818c4c3b495c2a2c3d687fcd309.jpg" tvg-name="Los diamantes de la discordia (2023)" ,Los diamantes de la discordia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408019.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/59744ea9fa8aa4d4309d805bd8e0fc72.jpg" tvg-name="Los dos amores de mi vida (2023)" ,Los dos amores de mi vida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408021.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408022.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/752bd57a9dc703621053d86103759201.jpg" tvg-name="Los Habitantes (2006)" ,Los Habitantes (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408024.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8243e2c50a58655c1e6a041e1e87d6c6.jpg" tvg-name="Los indestructibles 4 (2023)" ,Los indestructibles 4 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408025.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ee1f36440ff6ae9689fb6eb346a0852a.jpg" tvg-name="Los iniciados (2023)" ,Los iniciados (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408027.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/324bf82b73fe2571700e42ddddecf694.jpg" tvg-name="Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)" ,Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408029.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/27a65dd7ecba36216b0d8e11f2c96d57.jpg" tvg-name="Los niños del maíz (1984)" ,Los niños del maíz (1984)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408030.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c99854e89c3aab9c6096f33371191ad8.jpg" tvg-name="Los papás (2023)" ,Los papás (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408032.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7372a314796179d73b119b5da991c9fa.jpg" tvg-name="Los que se quedan (2023)" ,Los que se quedan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408033.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b1c2101a1cdcf7eb72a7156c8bc40707.jpg" tvg-name="Los reyes de la calle Mulberry: ¡Que reine el amor! (2023)" ,Los reyes de la calle Mulberry: ¡Que reine el amor! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408035.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/69d5196ad99437470397a77e922f7cdc.jpg" tvg-name="Los reyes de Queenstown (2023)" ,Los reyes de Queenstown (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408036.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ab0153bf33c61bb78d083758a8c4c42c.jpg" tvg-name="Los tipos malos: Una Navidad muy mala (2023)" ,Los tipos malos: Una Navidad muy mala (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408039.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d977affd5a84d5657b1ba981385ee87e.jpg" tvg-name="Los Tres Mosqueteros: D'Artagnan (2023)" ,Los Tres Mosqueteros: D'Artagnan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408041.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/94004cfab33c1bf76d93752bb491c35f.jpg" tvg-name="Amor, sexo y 30 velitas (2023)" ,Amor, sexo y 30 velitas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408042.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0aa972bbea0c23a547fd0174652fc62c.jpg" tvg-name="Lupin III vs Ojos de Gato (2023)" ,Lupin III vs Ojos de Gato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408045.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0aa972bbea0c23a547fd0174652fc62c.jpg" tvg-name="Lupin III vs Ojos de Gato (2023)" ,Lupin III vs Ojos de Gato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408047.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/252cba0836f29686665f650a4f16da6c.jpg" tvg-name="Luther: Cae la noche (2023)" ,Luther: Cae la noche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408049.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/69db0887b8437feebb6b49159c4b69c0.jpg" tvg-name="maboroshi (2023)" ,maboroshi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408050.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea2d6db579f7a5c6fe7c0d34079eb0b7.jpg" tvg-name="El maestro de las sombras (2022)" ,El maestro de las sombras (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408052.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7296194b57ee42963f275ddf6681bdf3.jpg" tvg-name="Magic Mike: El último baile (2023)" ,Magic Mike: El último baile (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408053.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/984f6e9b4d189b5d4ffc7fbbcaf7a52a.jpg" tvg-name="Ricos y malcriados (2021)" ,Ricos y malcriados (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408055.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05b0bee2c7129e62a797e30d006f0627.jpg" tvg-name="La mansion embrujada (2003)" ,La mansion embrujada (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408058.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3a4bfcf94b5fc68ffac92959d383283e.jpg" tvg-name="Maquíllame otra vez (2023)" ,Maquíllame otra vez (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408060.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/623b2ec24df61009ec66e44f3569977c.jpg" tvg-name="Maravilloso desastre (2023)" ,Maravilloso desastre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408061.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d9871b17ab8aaf73a9b5781fb4fbcd63.jpg" tvg-name="Marcados al nacer (2023)" ,Marcados al nacer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408063.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/389f3c5bb8389cf785a64cf503c7c769.jpg" tvg-name="Mark Cavendish: Never Enough (2023)" ,Mark Cavendish: Never Enough (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408064.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4742d7ffb11a29e9accadc006b44df07.jpg" tvg-name="María: La Diva Eterna (2023)" ,María: La Diva Eterna (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408066.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/61d46aa72e1758079b625361eb7409fe.jpg" tvg-name="Masacre en El Bosque (2023)" ,Masacre en El Bosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408067.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2c9dfe09bb8cc1e9f471245d013940e0.jpg" tvg-name="Materia Gris (2023)" ,Materia Gris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408070.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f309834ad278685084ee1b7ab74435cf.jpg" tvg-name="Mi padre (2022)" ,Mi padre (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408071.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79d51f6f63c58056c914234ce1a17c54.jpg" tvg-name="Mavka: Guardiana del bosque (2023)" ,Mavka: Guardiana del bosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408073.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/21e412a367a0b65f7c712fa2837a6aa6.jpg" tvg-name="Maxine's Baby: The Tyler Perry Story (2023)" ,Maxine's Baby: The Tyler Perry Story (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408074.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1522c6985c3fc6dc4669ebf8c4e51982.jpg" tvg-name="Medellín (2023)" ,Medellín (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408076.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4e9d58b099ca40f5b2b3d53a99343eb2.jpg" tvg-name="Veneno de Serpiente (2023)" ,Veneno de Serpiente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408077.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2ccb1dd3b801af3fd827492b4fad2509.jpg" tvg-name="Me encontrarás en lo profundo del abismo (2023)" ,Me encontrarás en lo profundo del abismo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408078.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09f4c0a68fc8b869b9e37a19f32f0acf.jpg" tvg-name="Nos vemos en Paris (2023)" ,Nos vemos en Paris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408080.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb41ce7f95c28c208c27aca50a5bf34a.jpg" tvg-name="Megalodón 2: El gran abismo (2023)" ,Megalodón 2: El gran abismo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408081.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb41ce7f95c28c208c27aca50a5bf34a.jpg" tvg-name="Megalodón 2: El gran abismo (2023)" ,Megalodón 2: El gran abismo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408082.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7e8c7834f715b2051bff88de640aea6e.jpg" tvg-name="Me Heriste (2023)" ,Me Heriste (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408084.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/42a59d1541c48fa9389c8b101cd30204.jpg" tvg-name="Mejor Navidad, ¡imposible! (2023)" ,Mejor Navidad, ¡imposible! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408085.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/165da44a8ddf5d2d762ac5ddf376916e.jpg" tvg-name="Me llamo Chihiro (2023)" ,Me llamo Chihiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408087.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0d1910a406283ec8028c7727461637b3.jpg" tvg-name="Me miente, me engaña (2023)" ,Me miente, me engaña (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408088.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e39977d3100553792a4cfa5e2b54dbed.jpg" tvg-name="Merced (2023)" ,Merced (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408090.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a176fe94250f844bacdf4f9c149cec05.jpg" tvg-name="Misericordia (2023)" ,Misericordia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408091.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8d6e49a81c9464aed4961f0fd9df3dfb.jpg" tvg-name="Metalocalypse: : El ejército de la estrella del mal (2023)" ,Metalocalypse: : El ejército de la estrella del mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408093.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5ed9c577de57af6db9684cbe56ea6e9c.jpg" tvg-name="Me vuelves loca (2023)" ,Me vuelves loca (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408095.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e6ea65d42f440158137cbb66fb40b888.jpg" tvg-name="Mezclado por Erry (2023)" ,Mezclado por Erry (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408096.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/645b5b2eae5f1c15d5b9871923c8e490.jpg" tvg-name="Mi Boda con un Fantasma (2023)" ,Mi Boda con un Fantasma (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408098.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/21e3fa713497e3ab5e43be956912d66f.jpg" tvg-name="Mickey y sus Amigos: Dulce o Truco (2023)" ,Mickey y sus Amigos: Dulce o Truco (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408099.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0db871809d37e302b06d66485a208d8.jpg" tvg-name="Meu cunhado é um vampiro (2023)" ,Meu cunhado é um vampiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408100.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cd28de964c2464815b33b2a1c29fd242.jpg" tvg-name="Mi gran boda griega 3 (2023)" ,Mi gran boda griega 3 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408102.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/808656d07b97f12f149b1526da03d191.jpg" tvg-name="Milli Vanilli (2023)" ,Milli Vanilli (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408103.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79d9bb658ff60a79161bdac0bdfb8bc4.jpg" tvg-name="Mi Maestra se comió a mi amigo (2023)" ,Mi Maestra se comió a mi amigo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408105.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/95f85170304090a1be7a17a42fe75898.jpg" tvg-name="Miniespías: Armagedón (2023)" ,Miniespías: Armagedón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408106.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d8af3cddd998daa9c24013bdc9b99c29.jpg" tvg-name="Miraculous: Las aventuras de Ladybug - La Película (2023)" ,Miraculous: Las aventuras de Ladybug - La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408108.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d608a78256c08f40024e0b855926cabb.jpg" tvg-name="Misión condor (2023)" ,Misión condor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408111.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/101576396f18869ed01da0d38fea1085.jpg" tvg-name="Misión de rescate 2 (2023)" ,Misión de rescate 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408113.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ad061cb40edf94417cc55949f30622f3.jpg" tvg-name="Miss Shampoo (2023)" ,Miss Shampoo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408116.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9c1d5fe08c3b53756667f0a14fa47957.jpg" tvg-name="Misterio a la vista (2023)" ,Misterio a la vista (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408117.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8662ba18dd1b38ed3a34576160000a51.jpg" tvg-name="Misantropo (2017)" ,Misantropo (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408118.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e6ea65d42f440158137cbb66fb40b888.jpg" tvg-name="Mezclado por Erry (2023)" ,Mezclado por Erry (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408119.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/162e4b0ad936988cf03c2a8b107e464b.jpg" tvg-name="Monster High 2 (2023)" ,Monster High 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408122.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12a3e832c3c7b82813b1f6630f6dd993.jpg" tvg-name="变异狂蟒 (2018)" ,变异狂蟒 (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408123.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9489af622931d280b8344208cff2f21e.jpg" tvg-name="Mortal Kombat Legends - Demonios y Ángeles (2023)" ,Mortal Kombat Legends - Demonios y Ángeles (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408125.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9489af622931d280b8344208cff2f21e.jpg" tvg-name="Mortal Kombat Legends - Demonios y Ángeles (2023)" ,Mortal Kombat Legends - Demonios y Ángeles (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408126.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b9ad07161b8c5623d54268e539573e23.jpg" tvg-name="Mr. Monk's Last Case: A Monk Movie (2023)" ,Mr. Monk's Last Case: A Monk Movie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408127.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cf722e3205296b0aa709497853ff2b93.jpg" tvg-name="Muchas más hormigas entre las piernas (2023)" ,Muchas más hormigas entre las piernas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408129.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d33aaf1e871deb902c9232133f2db28.jpg" tvg-name="Muerte Infinita (2023)" ,Muerte Infinita (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408131.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e1bd94cbcd936dd290ed1b438deec609.jpg" tvg-name="Muy Lejos (2023)" ,Muy Lejos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408132.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cd49bfeaa1063a0a8007b829c3cefd0d.jpg" tvg-name="Nada que ver (2023)" ,Nada que ver (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408135.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0e33d91f1114e96fd2c9f93e3920950f.jpg" tvg-name="Nadie podrá salvarte (2023)" ,Nadie podrá salvarte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408137.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b17852c5cdd0bcb93be30b9675519130.jpg" tvg-name="Napoleón (2023)" ,Napoleón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408138.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/969614d0f8b8d4dc333420e85726e261.jpg" tvg-name="Navidad a la luz de las Velas (2023)" ,Navidad a la luz de las Velas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408140.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5cc8a8d0801772db4dbd17764197659.jpg" tvg-name="Nimona (2023)" ,Nimona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408143.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d2b930d107cbe024a37511cf82fddf0d.jpg" tvg-name="Noche de estreno (2016)" ,Noche de estreno (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408144.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ea695849a1b3abce71edd837143b3c.jpg" tvg-name="Noches de verano en Taipéi (2023)" ,Noches de verano en Taipéi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408146.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5bd4222665e04c49a491ba13f73162c8.jpg" tvg-name="Black Noise (2023)" ,Black Noise (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408147.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6968fed3e804a94c7997da86de4c4642.jpg" tvg-name="No lo abras (2023)" ,No lo abras (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408148.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3df05c80a07ee247826d88bb37d543ca.jpg" tvg-name="No me rompan (2023)" ,No me rompan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408150.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/25742cd3a82efaa95eabf2bb3a5e583c.jpg" tvg-name="No molestar (2023)" ,No molestar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408152.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09f4c0a68fc8b869b9e37a19f32f0acf.jpg" tvg-name="Nos vemos en Paris (2023)" ,Nos vemos en Paris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408153.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/43551e86e43999e1ed1765b5fbfa9597.jpg" tvg-name="No voy a pedirle a nadie que me crea (2023)" ,No voy a pedirle a nadie que me crea (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408155.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Nowhere (2023)" ,Nowhere (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408156.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9aba49cba9d27d8e27c742e92080be46.jpg" tvg-name="Nuestro amigo extraordinario (2023)" ,Nuestro amigo extraordinario (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408158.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e2af5508d1f50afca07b6b614a157bd.jpg" tvg-name="Nuevos ricos (2023)" ,Nuevos ricos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408161.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/82cdb28b44bdc7572686efcf07f478ba.jpg" tvg-name="Nuovo Olimpo (2023)" ,Nuovo Olimpo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408162.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/49bc7bc5e98a27d5bfa98656168f2b11.jpg" tvg-name="Nyad (2023)" ,Nyad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408164.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cc20cf431f8e41d492f0ec630f3e0ca3.jpg" tvg-name="A cierta edad (2023)" ,A cierta edad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408165.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e2a77687d925c4778a52a1ad61309555.jpg" tvg-name="Office Race (2023)" ,Office Race (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408166.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/efe10fc604ef651f87cebb92d943b065.jpg" tvg-name="Oliva (2023)" ,Oliva (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408168.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a84d76da66b2c7cfc92329d9808a66f.jpg" tvg-name="On a Wing and a Prayer (2023)" ,On a Wing and a Prayer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408169.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9a1f2749ff7b50147821ce712e809140.jpg" tvg-name="ONEFOUR: Against All Odds (2023)" ,ONEFOUR: Against All Odds (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408171.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/da8a5f528f2ab9f4f766ce9f671c3214.jpg" tvg-name="One Piece: Episodio del East Blue - La gran aventura de Luffy y sus cuatro camaradas (2017)" ,One Piece: Episodio del East Blue - La gran aventura de Luffy y sus cuatro camaradas (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408173.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fc6d155c19dbd835ce827dd177d2ff4b.jpg" tvg-name="One Piece: Heart of Gold (2016)" ,One Piece: Heart of Gold (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408174.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c76036274fa82ce0ee9cf4aa7634768.jpg" tvg-name="Un guardabosque (2023)" ,Un guardabosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408175.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7ee34818c4c3b495c2a2c3d687fcd309.jpg" tvg-name="O Porteiro (2023)" ,O Porteiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408178.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/03bb754ca30488822c42fad9457957cf.jpg" tvg-name="Oppenheimer (2023)" ,Oppenheimer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408179.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df9aa41313be4b9c752d1049612006db.jpg" tvg-name="Oppenheimer: el dilema de la bomba atómica (2023)" ,Oppenheimer: el dilema de la bomba atómica (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408181.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4d501fcc3f4270aaf25e5fe92bb6842d.jpg" tvg-name="Oracle (2023)" ,Oracle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408183.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ffdf21c7149f8352828db5c4e73f81f6.jpg" tvg-name="Organ Trail (2023)" ,Organ Trail (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408184.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8de7eea179029ec8f691fe8a7e701e28.jpg" tvg-name="Oso intoxicado (2023)" ,Oso intoxicado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408186.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/016563e2d0603c960716276a20990436.jpg" tvg-name="Pacto de graduación (2023)" ,Pacto de graduación (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408188.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c8e6cec645c89edc88176740ef00b691.jpg" tvg-name="Palm Trees and Power Lines (2023)" ,Palm Trees and Power Lines (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408191.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b7c99f31ff815137b0ba36223c90b720.jpg" tvg-name="Pamela: Una historia de amor (2023)" ,Pamela: Una historia de amor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408192.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b7c99f31ff815137b0ba36223c90b720.jpg" tvg-name="Pamela: Una historia de amor (2023)" ,Pamela: Una historia de amor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408194.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f9443075c36a46b2becf10897d22a93c.jpg" tvg-name="Papá al rescate (2023)" ,Papá al rescate (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408195.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/da24f94c9170b4bc2db6c02caf23a63f.jpg" tvg-name="Papás a la antigua (2023)" ,Papás a la antigua (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408197.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/78e7dbeee5a1935ae90cdd935e20d084.jpg" tvg-name="Paradise (2023)" ,Paradise (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408198.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93c6ea3b9f4c7f90d34410dcd2204de0.jpg" tvg-name="Pathaan (2023)" ,Pathaan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408200.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2afd85d4bd6663a9f09cf09368b37b7c.jpg" tvg-name="Paul (2011)" ,Paul (2011)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408202.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="PAW Patrol: La súper película (2023)" ,PAW Patrol: La súper película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408203.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f953ba0432c5f92b3e4f8260bceb1f3.jpg" tvg-name="Pequeña Dixie (2023)" ,Pequeña Dixie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408207.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bffa5893b804a8009561e65be3b9b018.jpg" tvg-name="Perder es ganar un poco (2023)" ,Perder es ganar un poco (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408209.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/59e10405e271fd52d5e02759948d776f.jpg" tvg-name="Perro perdido (2023)" ,Perro perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408211.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c86e7c3116cb98ebd079ab6ae2608765.jpg" tvg-name="Peter Pan y Wendy (2023)" ,Peter Pan y Wendy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408212.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2d41e00bcf5d7aa11c2ea6d55c52206.jpg" tvg-name="Pijamada de locos (2023)" ,Pijamada de locos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408214.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3ac846ee6f97b255e4fcfbce25022251.jpg" tvg-name="Pintemos (2023)" ,Pintemos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408215.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/85557a05adaee1652fd4b6df37c32ec0.jpg" tvg-name="Pitón De Aguas Profundas (2023)" ,Pitón De Aguas Profundas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408217.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/39a09eb3eb2febd725d15138c09fa797.jpg" tvg-name="Plan familiar (2023)" ,Plan familiar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408218.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1915c78920d0c766c9934634d0087ec1.jpg" tvg-name="Please Don't Destroy: El Tesoro de la Montaña (2023)" ,Please Don't Destroy: El Tesoro de la Montaña (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408220.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="Sociedad " ,Sociedad "perfecta" (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408221.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/367957ee66ec676eeb92d16394ce2248.jpg" tvg-name="Pollitos en fuga: El origen de los nuggets (2023)" ,Pollitos en fuga: El origen de los nuggets (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408222.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d87df71192bf292452d49827b863b24.jpg" tvg-name="Power Rangers: Ayer, hoy y siempre (2023)" ,Power Rangers: Ayer, hoy y siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408224.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ecf3404f9aa539274988afbefb767ec.jpg" tvg-name="Praise This (2023)" ,Praise This (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408225.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/946ec11521e26c71273c5bad403d9e46.jpg" tvg-name="Pretty Stoned (2023)" ,Pretty Stoned (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408227.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c6d078b18bb0d475766fdf9514d45da.jpg" tvg-name="Inquietud (2023)" ,Inquietud (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408228.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/016563e2d0603c960716276a20990436.jpg" tvg-name="Pacto de graduación (2023)" ,Pacto de graduación (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408230.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/521f809b1efcf9fe2800df877326aeda.jpg" tvg-name="Proyecto Extracción (2023)" ,Proyecto Extracción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408231.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3a17ece9264a7bc768de5a2b33568ed0.jpg" tvg-name="Proyecto Pie Grande (2017)" ,Proyecto Pie Grande (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408233.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a4ecd73548f195186aede4fea7652510.jpg" tvg-name="Puedes hacerlo Chang (2023)" ,Puedes hacerlo Chang (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408237.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/25201357680c941d5510769d234cc4d3.jpg" tvg-name="Puerta Amarilla: Un cineclub de pelis B en los 90 (2023)" ,Puerta Amarilla: Un cineclub de pelis B en los 90 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408239.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2c70bb537d7deb3466cc7c59156f355c.jpg" tvg-name="爱犬奇缘 (2023)" ,爱犬奇缘 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408242.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ff86eccf2a13c5820967dcfbe9acd971.jpg" tvg-name="Quasi (2023)" ,Quasi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408244.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/21cb5b05de5e595c60fb2861982e86b9.jpg" tvg-name="Querido David (2023)" ,Querido David (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408247.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b37bb16afce74575784c71b3ab910a55.jpg" tvg-name="Quiero tu vida (2023)" ,Quiero tu vida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408250.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/692d82adbe8d1961cd3a022681484a10.jpg" tvg-name="Quiz Lady (2023)" ,Quiz Lady (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408252.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3604bffb107c472e6fdb03885a861b72.jpg" tvg-name="Quizás para siempre (2023)" ,Quizás para siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408254.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/97c550ca807f04ce932e4aef477aa17a.jpg" tvg-name="R.A.D.A.R. Las aventuras del perro biónico (2023)" ,R.A.D.A.R. Las aventuras del perro biónico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408256.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a7395fb1a59ca39e586e8f1ec12f68d9.jpg" tvg-name="Rabia (1977)" ,Rabia (1977)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408259.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5241a3941c8c74b831b8c2e379be9515.jpg" tvg-name="Flow calle: El reality (2022)" ,Flow calle: El reality (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408261.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/053893182d694c64c245725bfd1cb155.jpg" tvg-name="Rebel Moon (Parte dos): La guerrera que deja marcas (2024)" ,Rebel Moon (Parte dos): La guerrera que deja marcas (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408263.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fc5a0f1c672e583125f38dcb73374e8.jpg" tvg-name="Rojo, Blanco y Sangre Azul (2023)" ,Rojo, Blanco y Sangre Azul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408265.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e2ee3c60ec19322f20cef9d7198877d3.jpg" tvg-name="Reggie (2023)" ,Reggie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408267.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b29401412ed09ec01a204019e2c28fde.jpg" tvg-name="Remando Como Un Solo Hombre (2023)" ,Remando Como Un Solo Hombre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408272.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/585adf2719e38f2782d456d62c50ced2.jpg" tvg-name="Renfield: Asistente de vampiro (2023)" ,Renfield: Asistente de vampiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408275.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fef86aefbf07e23c87668bb78a1e300.jpg" tvg-name="Reposo absoluto (2023)" ,Reposo absoluto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408278.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b3374c0f2ea4cbf6d1dad6753c665933.jpg" tvg-name="Reptiles (2023)" ,Reptiles (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408281.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f95bec5c4132fc7c651d8959726a8580.jpg" tvg-name="Resident Evil: Isla de la Muerte (2023)" ,Resident Evil: Isla de la Muerte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408282.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f95bec5c4132fc7c651d8959726a8580.jpg" tvg-name="Resident Evil: Isla de la Muerte (2023)" ,Resident Evil: Isla de la Muerte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408284.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/db2765d67cd8efee294a86f6ba99e00f.jpg" tvg-name="Resistencia (2023)" ,Resistencia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408287.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/55239112157cf917294206e76da585df.jpg" tvg-name="Ricos de Amor 2 (2023)" ,Ricos de Amor 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408298.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/59f2a37bdbe717acfdb1dc59a307c5cd.jpg" tvg-name="Dobles de acción (2023)" ,Dobles de acción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408299.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/31c83f9a49b76e43ef58ebef3482b2c2.jpg" tvg-name="Rock Dog 3: Rockeando juntos (2023)" ,Rock Dog 3: Rockeando juntos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408306.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fc5a0f1c672e583125f38dcb73374e8.jpg" tvg-name="Rojo, Blanco y Sangre Azul (2023)" ,Rojo, Blanco y Sangre Azul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408309.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c479637f89e25b918626bf81f6079cf5.jpg" tvg-name="Rosita Fresita y la Bestia del Plantano (2023)" ,Rosita Fresita y la Bestia del Plantano (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408312.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d230d4b3cb65ecabbe112ab5bd0ceb99.jpg" tvg-name="Royalteen: La Princesa Margrethe (2023)" ,Royalteen: La Princesa Margrethe (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408315.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f8ba15b65e51cec51027ca2fcbbee2cc.jpg" tvg-name="Ruido mental (2023)" ,Ruido mental (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408317.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/83e0c26756d73046f4c1b861c2fd7c17.jpg" tvg-name="Un trueno en la oscuridad (2023)" ,Un trueno en la oscuridad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408318.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eb8a1610e5adbd124b56c079d01203fc.jpg" tvg-name="Rustin (2023)" ,Rustin (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408321.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ab30fc27697455197a79ca9a8ce5768.jpg" tvg-name="Rápidos y furiosos X (2023)" ,Rápidos y furiosos X (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408323.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a13d75d96e51a55280a1dc101a42e559.jpg" tvg-name="S.O.S del Divorcio (2023)" ,S.O.S del Divorcio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408326.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/344e0a416b071912aad8e56b5c8b977b.jpg" tvg-name="S.O.S Mamis 2: Mosquita muerta (2023)" ,S.O.S Mamis 2: Mosquita muerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408328.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/344e0a416b071912aad8e56b5c8b977b.jpg" tvg-name="슬픈 열대" ,슬픈 열대
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408329.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/131818734cf9637e386aea1ed2228069.jpg" tvg-name="Saltburn (2023)" ,Saltburn (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408333.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6801340a2a2fee23213f941a755dc09b.jpg" tvg-name="Sangre y oro (2023)" ,Sangre y oro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408335.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/16c4bb63e210c61579427c8f381b5ede.jpg" tvg-name="Santa, mi amor (2023)" ,Santa, mi amor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408338.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28278b1845846e546ec189baadfef5d2.jpg" tvg-name="Santuario (2023)" ,Santuario (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408341.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/26490a00c3194505652809803bba8da7.jpg" tvg-name="Saw X: El juego del miedo (2023)" ,Saw X: El juego del miedo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408343.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/517d9a2339aad388f17ce92e367b13c4.jpg" tvg-name="Sayen: La cazadora (2024)" ,Sayen: La cazadora (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408345.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/150ae7ef5d03bfe357fd30783ad078fe.jpg" tvg-name="Sayen: La ruta seca (2023)" ,Sayen: La ruta seca (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408348.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63a8b079a186bb3b51304f0b0cf57d58.jpg" tvg-name="Scarygirl (2023)" ,Scarygirl (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408351.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0abc96677592d5f6f1127bcc77d68be4.jpg" tvg-name="¡Scooby Doo! ¡Y Krypto al rescate! (2023)" ,¡Scooby Doo! ¡Y Krypto al rescate! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408353.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3bebd1585b0f39b0f739b1423c0f6600.jpg" tvg-name="Scouts Honor: Los archivos secretos de los Boy Scouts de EE. UU. (2023)" ,Scouts Honor: Los archivos secretos de los Boy Scouts de EE. UU. (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408356.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a9feb942ff20462a5e6e5c968c02089.jpg" tvg-name="Scream 6 (2023)" ,Scream 6 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408358.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cc023183c78c4871b116ce3454671c1c.jpg" tvg-name="Sed incontrolable (2023)" ,Sed incontrolable (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408361.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/db27dc68338c9c0460d5995a5b467dd2.jpg" tvg-name="Sentinela (2023)" ,Sentinela (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408364.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/db27dc68338c9c0460d5995a5b467dd2.jpg" tvg-name="Sentinela (2023)" ,Sentinela (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408365.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e49e4f47dbbc87dc53f3c1d446e4be6.jpg" tvg-name="Sharper: un plan perfecto (2023)" ,Sharper: un plan perfecto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408368.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a0e4b5f587b1f3038c00874cfbc12ea8.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408370.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a0e4b5f587b1f3038c00874cfbc12ea8.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408373.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f6880311d4076f9cc93f59c1c74a1e6b.jpg" tvg-name="Silver y el libro de los sueños (2023)" ,Silver y el libro de los sueños (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408375.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5c10e1989af23be822329d41f8d00d3.jpg" tvg-name="Sin Aire (2023)" ,Sin Aire (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408378.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09dc42f3cf3bf6ba1e81ffa3a5448044.jpg" tvg-name="Hazme el favor (2023)" ,Hazme el favor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408379.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6be8fe79baa35bcccbee508221c3467f.jpg" tvg-name="Sin rastro (1997)" ,Sin rastro (1997)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408382.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b63d85212bbe7d79e720530356f38a4c.jpg" tvg-name="Sin tiempo para morir (2021)" ,Sin tiempo para morir (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408385.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2153c0717441842455ffbb74da156fdc.jpg" tvg-name="Sisu (2022)" ,Sisu (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408386.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e6c67b0646741500d2379203db71116.jpg" tvg-name="Sly (2023)" ,Sly (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408387.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1ff5f6501d995b539e09bd98901939e0.jpg" tvg-name="Snag (2023)" ,Snag (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408390.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9650c8473cb6d9d380da230d4015945c.jpg" tvg-name="Snoopy presenta: La extraordinaria Marcie (2023)" ,Snoopy presenta: La extraordinaria Marcie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408392.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0f9cf4abc776396fab836bd79ffe74a9.jpg" tvg-name="Snow Falls (2023)" ,Snow Falls (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408395.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c3cd78e93bcd1c18b2c4e66805d596c6.jpg" tvg-name="Sobreviviendo mis XV (2023)" ,Sobreviviendo mis XV (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408398.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-name="Sociedad " ,Sociedad "perfecta" (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408400.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/393f2866c740377e6b10e2308b1ef819.jpg" tvg-name="Soltera, casada, viuda, divorciada (2023)" ,Soltera, casada, viuda, divorciada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408403.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4a4cbd53d1b26477f34af435aa37921.jpg" tvg-name="Sombras de un crimen (2023)" ,Sombras de un crimen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408405.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/552742856106cc5f19c5303d7f170689.jpg" tvg-name="Sonido de Libertad (2023)" ,Sonido de Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408409.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/345db197be419f3fa836efc37c1e925e.jpg" tvg-name="Sospechoso X (2023)" ,Sospechoso X (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408411.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d19c1e85a75296084c921d8059de6ae.jpg" tvg-name="South Park: Entrando al Panderverso (2023)" ,South Park: Entrando al Panderverso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408414.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d19c1e85a75296084c921d8059de6ae.jpg" tvg-name="South Park: Entrando al Panderverso (2023)" ,South Park: Entrando al Panderverso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408415.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9a89c1364779b7b78fb2e5936a4e5466.jpg" tvg-name="Soy inocente (2023)" ,Soy inocente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408418.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/95d08a921a5a126a948e146dadddd9dc.jpg" tvg-name="Spider-Man: A través del Spider-Verso (2023)" ,Spider-Man: A través del Spider-Verso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408420.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d9871b17ab8aaf73a9b5781fb4fbcd63.jpg" tvg-name="Marcados al nacer (2023)" ,Marcados al nacer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408421.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ceb9c022fea86dca479ae93661332dbe.jpg" tvg-name="SUGA: Road to D-DAY (2023)" ,SUGA: Road to D-DAY (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408424.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/53c4f35971dad40124f4981e7a1cb2c8.jpg" tvg-name="Sustitutos (2023)" ,Sustitutos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408429.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a476c3f84c22b0e1c1476823228048c2.jpg" tvg-name="Su único hijo (2023)" ,Su único hijo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408432.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6876faa13f10e79e05b9a231bc8db3a2.jpg" tvg-name="Sé tu misma (2023)" ,Sé tu misma (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408434.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8d22e27d8486160d86e418d7d513ab5a.jpg" tvg-name="Tangos, tequilas, y algunas mentiras (2023)" ,Tangos, tequilas, y algunas mentiras (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408437.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2fd7bb20056927e13677d3f315ea6234.jpg" tvg-name="Taz y su odisea por las hamburguesas (2023)" ,Taz y su odisea por las hamburguesas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408439.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/902ae533f4fa767a38447384bbd42ab3.jpg" tvg-name="Teen Wolf: La Película (2023)" ,Teen Wolf: La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408444.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/902ae533f4fa767a38447384bbd42ab3.jpg" tvg-name="Teen Wolf: La Película (2023)" ,Teen Wolf: La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408446.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/967721d6b43bbee6b6fa3460c3f21fe8.jpg" tvg-name="Te esperaré en venus (2023)" ,Te esperaré en venus (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408448.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fc41b76c857a47203b3e5ae547d4a6c.jpg" tvg-name="Temporada de huracanes (2023)" ,Temporada de huracanes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408451.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b07508d392a71a7cbebdcb3095b71e90.jpg" tvg-name="Temporadas (2023)" ,Temporadas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408453.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb5d3917bf23266763e9ca446b377ce3.jpg" tvg-name="Tenemos un fantasma (2023)" ,Tenemos un fantasma (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408456.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4d6f5cd9bb23dab49e15a49fd586dc49.jpg" tvg-name="Tequila RePasado (2023)" ,Tequila RePasado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408458.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ac38ebe7514835096a236d7f5ad42423.jpg" tvg-name="Tetris (2023)" ,Tetris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408463.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b31eb5882286b4ae6cf50bc4542ef81c.jpg" tvg-name="La fiebre de los peluches Beanie (2023)" ,La fiebre de los peluches Beanie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408465.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/70f09c771e7c67f245f2e152669cf8d0.jpg" tvg-name="La Libreta Negra (2023)" ,La Libreta Negra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408467.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02a788901d22491b3e92d407776f77aa.jpg" tvg-name="The Blackening (2023)" ,The Blackening (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408474.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b1875f6eaff051d1352e5f1e7e672060.jpg" tvg-name="Cucuy: The Boogeyman (2018)" ,Cucuy: The Boogeyman (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408475.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51615aeb79e3e2d84f47e540c8e82146.jpg" tvg-name="El Colectivo (2023)" ,El Colectivo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408476.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5a916d70eea7e6d9d76cd977e863675c.jpg" tvg-name="Slam Dunk: La Película (2022)" ,Slam Dunk: La Película (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408477.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40395b712b05999f9648da73de0dbc1e.jpg" tvg-name="Flash (2023)" ,Flash (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408480.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dc43a7e588044cddf4467ed7107ec40c.jpg" tvg-name="La integridad de Joseph Chambers (2023)" ,La integridad de Joseph Chambers (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408482.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7bdb066bda12c590c4270364f79318cf.jpg" tvg-name="Drácula: Mar de sangre (2023)" ,Drácula: Mar de sangre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408484.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c046205ffdefbe1f40f1da9da9756920.jpg" tvg-name="The Lesson (2015)" ,The Lesson (2015)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408493.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/72f3cb59fc7be0205dd5837388ecc353.jpg" tvg-name="Horror En El Lago Ness (2023)" ,Horror En El Lago Ness (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408496.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4f201cd7751883a00db6ab4e6899e750.jpg" tvg-name="The Locksmith (2023)" ,The Locksmith (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408501.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/90b689337b7cc7494630dbc227fad66e.jpg" tvg-name="The Loud House: Una Verdadera Familia Embrujada (2023)" ,The Loud House: Una Verdadera Familia Embrujada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408507.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f567b6d5bc4464a4ea75299b935ff0ff.jpg" tvg-name="La máquina del tiempo (2002)" ,La máquina del tiempo (2002)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408509.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b875cd3259e75014aa755f278ba29c0.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408521.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b875cd3259e75014aa755f278ba29c0.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408523.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/04de3e886816a18d533ec77276bb93f5.jpg" tvg-name="El Perfume: Historia de un asesino (2006)" ,El Perfume: Historia de un asesino (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408531.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/729907635285b5c0f9cde1fb374d466a.jpg" tvg-name="South Park: El Fin de la Obesidad (2024)" ,South Park: El Fin de la Obesidad (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408539.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d3ebf52cbde3ec3221e5dc0908b32a94.jpg" tvg-name="The Secret Kingdom (2023)" ,The Secret Kingdom (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408543.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/040bc346ca68354b197012c5e798aad2.jpg" tvg-name="The Seven Deadly Sins: El rencor de Edimburgo (Parte 2) (2023)" ,The Seven Deadly Sins: El rencor de Edimburgo (Parte 2) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408550.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/49df956a45895779fcfcc6a739511e76.jpg" tvg-name="The Shift: El gran cambio (2023)" ,The Shift: El gran cambio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408554.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bbb8478a4398b9a0c7c8372a50efbebd.jpg" tvg-name="El Tutor (2023)" ,El Tutor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408555.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d8b0fa22ca8c38940d9570af0b4aa8c.jpg" tvg-name="Things I Do for Money (2019)" ,Things I Do for Money (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408560.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e8adfc1171d43ea79f5c42ba2044a05f.jpg" tvg-name="Misántropo (2023)" ,Misántropo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408562.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/23ee2319c9656c085aeb2a67c5cbd5bf.jpg" tvg-name="Toc toc toc: El Sonido del Mal (2023)" ,Toc toc toc: El Sonido del Mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408567.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f309834ad278685084ee1b7ab74435cf.jpg" tvg-name="Mi padre (2022)" ,Mi padre (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408576.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/681d84faeaddf42d3d1fb61cb70abba9.jpg" tvg-name="Tortugas Ninja: Caos mutante (2023)" ,Tortugas Ninja: Caos mutante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408586.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2cec3f4ac5aa8e419132cd0a27f0bf59.jpg" tvg-name="Legado de sangre (2023)" ,Legado de sangre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408594.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0279d9da187794d8725a9d8ff9f13e07.jpg" tvg-name="Travesuras Navideñas (2023)" ,Travesuras Navideñas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408597.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa0a4c1d5d9ed94ec10894b05e59736b.jpg" tvg-name="Trolls 3: Se armó la banda (2023)" ,Trolls 3: Se armó la banda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408600.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/00f576be382d3811604864141d626ca2.jpg" tvg-name="Tu casa o la mía (2023)" ,Tu casa o la mía (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408602.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/00f576be382d3811604864141d626ca2.jpg" tvg-name="Tu casa o la mía (2023)" ,Tu casa o la mía (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408604.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9be123c9973ac65cc87490b253562eae.jpg" tvg-name="Tácticas de Amor 2 (2023)" ,Tácticas de Amor 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408607.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c2f711f2473a73546947deb8c5ebe9e5.jpg" tvg-name="Una buena persona (2023)" ,Una buena persona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408610.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c50052dd230a84ab02679f9836a4a1fc.jpg" tvg-name="Una Familia Extraordinaria (2023)" ,Una Familia Extraordinaria (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408612.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dd3e08132eb5b8062538d64616f9c0ef.jpg" tvg-name="Una imagen para creer (2023)" ,Una imagen para creer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408615.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/262969270676af0fc0103a159bae7b23.jpg" tvg-name="Una jauría llamada Ernesto (2024)" ,Una jauría llamada Ernesto (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408616.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fa4a4ecf94ee8f9d9867a43f181af0f.jpg" tvg-name="Un amor inesperado (2023)" ,Un amor inesperado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408618.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c77fdd69c6a65b384ad6673cd636530.jpg" tvg-name="Una Navidad escandalosa (2023)" ,Una Navidad escandalosa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408621.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2ca0570cce39e2763a9dba71abec53df.jpg" tvg-name="Cake: Una razón para vivir (2014)" ,Cake: Una razón para vivir (2014)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408623.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/917f58b28c1fc79a44d34186f6fc0bd2.jpg" tvg-name="Um Ano Inesquecível - Verão (2023)" ,Um Ano Inesquecível - Verão (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408628.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d7996f244603981d613c01b51238de5.jpg" tvg-name="Un año inolvidable; Invierno (2023)" ,Un año inolvidable; Invierno (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408632.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/af3de55c5069dcbe6661856ecbde5845.jpg" tvg-name="Un Año Inolvidable: Otoño (2023)" ,Un Año Inolvidable: Otoño (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408634.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/21b7ccbab5e7e887b3fe42046ef7124c.jpg" tvg-name="Un año inolvidable: Primavera (2023)" ,Un año inolvidable: Primavera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408637.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0fd6d5adec9c35874e91a0aea92636e2.jpg" tvg-name="Un día como león (2023)" ,Un día como león (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408639.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63f5f6321f9db4e91505e17f566e655c.jpg" tvg-name="Un día y medio (2023)" ,Un día y medio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408642.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408644.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c76036274fa82ce0ee9cf4aa7634768.jpg" tvg-name="Un guardabosque (2023)" ,Un guardabosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408647.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1110b3da76e783d1d80d5fe58633facd.jpg" tvg-name="UNIDOS: Creando Pantera Negra: Wakanda Por Siempre (2023)" ,UNIDOS: Creando Pantera Negra: Wakanda Por Siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408649.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e01ca7d452864385c930ef1647fedc7a.jpg" tvg-name="Unión inestable (2023)" ,Unión inestable (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408652.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/609a816ac008da21c9a3a6d4e4686c48.jpg" tvg-name="Un lugar por el que pelear (2023)" ,Un lugar por el que pelear (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408654.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12a7172556c51c9fd369c8a246a7769f.jpg" tvg-name="Uno Para Morir (2023)" ,Uno Para Morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408657.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/17661eec2ca1fd9607ba389c1b85ff62.jpg" tvg-name="Unos suegros de armas tomar (2023)" ,Unos suegros de armas tomar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408659.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ca35bcfc038dcc41ba6dac2242de7e97.jpg" tvg-name="Un pequeño Batman Navideño (2023)" ,Un pequeño Batman Navideño (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408662.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/77008ab72018e50255daae8543c88b32.jpg" tvg-name="Sin Ver (2023)" ,Sin Ver (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408665.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/77008ab72018e50255daae8543c88b32.jpg" tvg-name="Un sorbo frio asesinato café y Jessica Wongso (2023)" ,Un sorbo frio asesinato café y Jessica Wongso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408666.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b02907c9ae8b3e31e39eff7af021e7d2.jpg" tvg-name="En un Sueño (Rüyanda Görürsün) (2023)" ,En un Sueño (Rüyanda Görürsün) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408668.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6e735693de2df0cf80ec17581730ff5b.jpg" tvg-name="URI - Fuerzas Especiales (2019)" ,URI - Fuerzas Especiales (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408671.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/de6e777159dbad2b7d835105c3547415.jpg" tvg-name="Urkel salva la Navidad: ¡la película! (2023)" ,Urkel salva la Navidad: ¡la película! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408673.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ded2bf7844bc366d929412fd94f60e0f.jpg" tvg-name="Las que ustedes no quemaron (2022)" ,Las que ustedes no quemaron (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408674.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/090aa7ff9b23bf31902d6c87e5173a7d.jpg" tvg-name="Ustedes deciden (2023)" ,Ustedes deciden (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408677.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ca82d1bd2fe71678d9a11ea238a9f947.jpg" tvg-name="Amigos de las vacaciones 2 (2023)" ,Amigos de las vacaciones 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408679.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3955443bbf02b4534198ae44bce5d96e.jpg" tvg-name="Crank: Veneno en la sangre (2006)" ,Crank: Veneno en la sangre (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408683.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4e9d58b099ca40f5b2b3d53a99343eb2.jpg" tvg-name="Veneno de Serpiente (2023)" ,Veneno de Serpiente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408685.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d528b9cfd7a2e4174367b6a29869f8a.jpg" tvg-name="V/H/S/85 (2023)" ,V/H/S/85 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408686.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b97e937fc5979a1000fdd9bf068f8ee3.jpg" tvg-name="Viaje Todo Robado (2023)" ,Viaje Todo Robado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408689.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/976d69b4d3da55364ad5306a0a1831c9.jpg" tvg-name="Vida Adulta (2023)" ,Vida Adulta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408691.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/de1267f27bc49a1878ccba853519686f.jpg" tvg-name="Perra Vida (2024)" ,Perra Vida (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408692.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c4b6b4b2aad25b87a7d22427f56de027.jpg" tvg-name="Viernes negro (2023)" ,Viernes negro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408695.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/66b5a771c1cbd28359ffe182f9f10a86.jpg" tvg-name="Vjeran Tomic: L'homme-araignée de Paris (2023)" ,Vjeran Tomic: L'homme-araignée de Paris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408700.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f97eb93569cb62affd17f3ceb2b214d.jpg" tvg-name="Welcome al Norte (2023)" ,Welcome al Norte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408702.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4d400279127089138bde43073e66fcc1.jpg" tvg-name="Los Blancos no saben Saltar (1992)" ,Los Blancos no saben Saltar (1992)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408703.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/995a40c112f9bf9a5494b2df6180cf0f.jpg" tvg-name="Winnie The Pooh: Miel y Sangre 2 (2024)" ,Winnie The Pooh: Miel y Sangre 2 (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408707.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/995a40c112f9bf9a5494b2df6180cf0f.jpg" tvg-name="Winnie The Pooh: Miel y Sangre 2 (2024)" ,Winnie The Pooh: Miel y Sangre 2 (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408709.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c6277e56f551e2700c1e7902cba1179a.jpg" tvg-name="WWE Fastlane 2018 (2018)" ,WWE Fastlane 2018 (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408714.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/da3c1b1a5a4ccfec472b3e5b0222b467.jpg" tvg-name="Ya era hora (2023)" ,Ya era hora (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408717.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02e3a6705b40331ebcbfb71c78ebc95a.jpg" tvg-name="Zoey 102: El Casamiento (2023)" ,Zoey 102: El Casamiento (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408720.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51f4a3b9a0b19b480d855b234678b3f6.jpg" tvg-name="Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi (2023)" ,Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408721.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51f4a3b9a0b19b480d855b234678b3f6.jpg" tvg-name="Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi (2023)" ,Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408723.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5630e0595a2d9737d0eb812871e47feb.jpg" tvg-name="¡Asu Mare! Los amigos (2023)" ,¡Asu Mare! Los amigos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408726.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e1926cac82008e7a80d3fdd5cfdef40.jpg" tvg-name="¡Hasta la madre! del Día de los muertos (2023)" ,¡Hasta la madre! del Día de los muertos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408728.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e12cb058455de71dedce44662c7ca6f.jpg" tvg-name="Que el Día de la Madre te acompañe (2024)" ,Que el Día de la Madre te acompañe (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408731.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5b46ea10229765c8ce4fced3dc577613.jpg" tvg-name="¡No estás invitada a mi bat Mitzvah! (2023)" ,¡No estás invitada a mi bat Mitzvah! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408734.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1a8155c0252579eecb2d942fb01459b1.jpg" tvg-name="¡Que se besen! (2023)" ,¡Que se besen! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408736.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/72b8dbdf5a4c9da16cf2d2e5d65e5eb7.jpg" tvg-name="¡Que Viva México! (2023)" ,¡Que Viva México! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408739.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/61d44c965a8a753559a79b36e8726965.jpg" tvg-name="¡Ready, Jet, Go! Campamento Espacial La Pelicula (2023)" ,¡Ready, Jet, Go! Campamento Espacial La Pelicula (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408741.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0abc96677592d5f6f1127bcc77d68be4.jpg" tvg-name="¡Scooby Doo! ¡Y Krypto al rescate! (2023)" ,¡Scooby Doo! ¡Y Krypto al rescate! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408744.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c779faeff1278590e5ee2774341c109.jpg" tvg-name="¡Shazam! La furia de los dioses (2023)" ,¡Shazam! La furia de los dioses (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408748.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a7093457446da765fe76c814bf25b0f6.jpg" tvg-name="¿Asesinato? ¿Qué Asesinato? (2023)" ,¿Asesinato? ¿Qué Asesinato? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408750.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e46b9a133d230990b53338e3639c3c5.jpg" tvg-name="¿Cómo matar a mamá? (2023)" ,¿Cómo matar a mamá? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408753.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/330a9d0c05d5dc1adc67c58f8c8acb9d.jpg" tvg-name="¿Encontró lo que buscaba? (2023)" ,¿Encontró lo que buscaba? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408755.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fdb34f77096a0a95cc72d874a6f8dc96.jpg" tvg-name="¿Estás ahí, Dios? Soy yo, Margaret (2023)" ,¿Estás ahí, Dios? Soy yo, Margaret (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408758.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b7d084847e0f07f8a0695934c1f1d38b.jpg" tvg-name="¿Quieres ser mi hijo? (2023)" ,¿Quieres ser mi hijo? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408761.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fc185f422c33a3ec9f5efdacd0176c5.jpg" tvg-name="¿Tu navidad o la mía? 2 (2023)" ,¿Tu navidad o la mía? 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408763.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5861517f872c628adb061766009dde3c.jpg" tvg-name="¿Y qué tendrá que ver el amor? (2023)" ,¿Y qué tendrá que ver el amor? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408766.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/75b273048e9f0e091edc8cc34596b8e9.jpg" tvg-name="Ámame hasta con las uñas (2023)" ,Ámame hasta con las uñas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408768.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ccfb7926e2963368edcf34ebd86b2e0b.jpg" tvg-name="Anima (2019)" ,Anima (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408771.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f9f0c2a6fa159e70e2b8fb56b513b1cf.jpg" tvg-name="Érase una vez una estrella (2023)" ,Érase una vez una estrella (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408774.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a6cc0f1e709b299854cdbb16e4bd6dcc.jpg" tvg-name="Érase una vez un asesinato (2023)" ,Érase una vez un asesinato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408777.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40ed5542e2be69fb7c6176415ff88785.jpg" tvg-name="Última llamada para Estambul (2023)" ,Última llamada para Estambul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408780.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb56883347996450a1123817298c16e3.jpg" tvg-name="Única (2023)" ,Única (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/408783.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b903f6ab68d121bf37c8a45a34573ca2.jpg" tvg-name="Por fin amanece (2023)" ,Por fin amanece (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422919.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5e789123de8d51a5223d0aef30e69bbc.jpg" tvg-name="Love the Hard Way (2003)" ,Love the Hard Way (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422957.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4f7f0ec461a2a6d01abcaf56a234e802.jpg" tvg-name="Aporia (2023)" ,Aporia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423014.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/245c8d3a294c61a1d76f664710208f52.jpg" tvg-name="Aquaman y el reino perdido (2023)" ,Aquaman y el reino perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423033.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a95e76197dc01b2a008cd4d1996fc42e.jpg" tvg-name="リバー、流れないでよ (2023)" ,リバー、流れないでよ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423141.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOxF8dMdMSjyubsq2jdIvndepVI.jpg" tvg-name="Bajo la rambla \ (2023)" ,Bajo la rambla \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423176.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d412971e17d0df42442781451ed19f89.jpg" tvg-name="Rescate en Ámsterdam (2023)" ,Rescate en Ámsterdam (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423200.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2388f843628650d52a7cef4a0ce8bdf5.jpg" tvg-name="Buscando a Pauline (2023)" ,Buscando a Pauline (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423312.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2590b8fe0dd3d3c94d031d3ff835dc5.jpg" tvg-name="Camino de la suerte (2023)" ,Camino de la suerte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423333.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/70cd38183ddb4de37d6a82391696c1d6.jpg" tvg-name="Campamento de Verano (2024)" ,Campamento de Verano (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423346.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d156c472e9a295d7c7d8bef808e2988.jpg" tvg-name="Cat Person (2023)" ,Cat Person (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423370.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8228cab6a4486025b04dfff7adeebe3e.jpg" tvg-name="Avatar: Fuego y ceniza (2025)" ,Avatar: Fuego y ceniza (2025)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423425.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/03d2c331e3e359a0a5c5502a73519216.jpg" tvg-name="Rescate en el barrio Chino (1986)" ,Rescate en el barrio Chino (1986)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423485.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c81b950c66221828ea1312fd78d1fd6e.jpg" tvg-name="Compasión Por El Diablo (2023)" ,Compasión Por El Diablo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423577.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dd3f183be18c9ff5f1ef664cb4370027.jpg" tvg-name="Con los pies en la tierra (2024)" ,Con los pies en la tierra (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423609.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2ead05ed37b03d2800ba8dab5246eb0.jpg" tvg-name="Dejad que el río fluya (2023)" ,Dejad que el río fluya (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423804.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2b44018f21e47cfefea3f29dce06ada5.jpg" tvg-name="Devoción (2023)" ,Devoción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423873.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c6924c5362907eff9d0b7047e118744c.jpg" tvg-name="De vuelta a la realidad (2023)" ,De vuelta a la realidad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423897.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2e5eaadd48ffc3fab7e125ddfa352880.jpg" tvg-name="They Shot the Piano Player (2023)" ,They Shot the Piano Player (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423931.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/529772d4d63bc3d6be90e435b39c40f2.jpg" tvg-name="Downtown Owl (2023)" ,Downtown Owl (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424008.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/69998cd2c0f7fba26873255592afb04d.jpg" tvg-name="Club de Asesinos, Los Ángeles Caídos: Amigos para morir (2022)" ,Club de Asesinos, Los Ángeles Caídos: Amigos para morir (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424149.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb0e535c2ef9df88ef7319ea090329ae.jpg" tvg-name="El Bastardo (2023)" ,El Bastardo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424192.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/704912ccd713f0e0388b17f979f04f9c.jpg" tvg-name="Englemageren (2023)" ,Englemageren (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424218.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/328e6313ec7fc8880df86fddd9967d0c.jpg" tvg-name="El caso Goldman (2023)" ,El caso Goldman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424239.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c3263b5fc28cd734858fae2c342f5fa7.jpg" tvg-name="El color púrpura (2023)" ,El color púrpura (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424262.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6929f9a3b9a35a055cb345f41db96137.jpg" tvg-name="The Story of Us (2019)" ,The Story of Us (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425134.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/210a5af38d82139e8a4e9675fcb74131.jpg" tvg-name="Justicia Implacable (2021)" ,Justicia Implacable (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425181.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fa4d6a82b8f308599a1f693f911f537d.jpg" tvg-name="El Plan Perfecto (2006)" ,El Plan Perfecto (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425206.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e746dc6611424a9ede8c1f11102b150.jpg" tvg-name="La Favorita Del Rey (2023)" ,La Favorita Del Rey (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425230.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2c5c9c40f84de5a85cc48ecd30901301.jpg" tvg-name="Johnny Z (2023)" ,Johnny Z (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425260.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4ca5873fd2639c991d8cd67523cba998.jpg" tvg-name="Juego de amor prohibido (1975)" ,Juego de amor prohibido (1975)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425290.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ac06a7d15ee497f562e525c32d6b9d.jpg" tvg-name="Jules et Jim (1962)" ,Jules et Jim (1962)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425305.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/39ee23fe7576fc62d3f3704f72310f94.jpg" tvg-name="Katak, le brave béluga (2023)" ,Katak, le brave béluga (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425336.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/27bff146faa5334d54ba1a5848e0e428.jpg" tvg-name="Kina & Yuk : Renards de la banquise (2023)" ,Kina & Yuk : Renards de la banquise (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425372.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f51999ff4e55563a32812c0c02658b3c.jpg" tvg-name="La bala de Dios (2023)" ,La bala de Dios (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425396.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f3884b95cc91f65bd95a79f03a773f15.jpg" tvg-name="La Cocina (2024)" ,La Cocina (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425442.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6de71af26665c1becb8502ad696e27e4.jpg" tvg-name="封神第一部：朝歌风云 (2023)" ,封神第一部：朝歌风云 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425478.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4faa6e31488e4ed0338655207fc86082.jpg" tvg-name="La ermita (2023)" ,La ermita (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425512.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/71efaf3ab4e1fedd39eb057fcb30a3dd.jpg" tvg-name="El libro de los deseos (2023)" ,El libro de los deseos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425545.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5a7fd39ac1c540dcd5fd2e5233403266.jpg" tvg-name="La Navidad en sus manos (2023)" ,La Navidad en sus manos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425592.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bbfb6f9f53f9792614c5120eda0de008.jpg" tvg-name="El Sabor De La Vida (2023)" ,El Sabor De La Vida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425596.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/11caad14047eedf804824542dcfbfa56.jpg" tvg-name="بنات ألفة (2023)" ,بنات ألفة (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425612.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/60efc6cd70d1590c4f8a6c9b93f2b096.jpg" tvg-name="La Ternura del Asesino Intimo (2009)" ,La Ternura del Asesino Intimo (2009)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425638.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/db2c63279b23e2a4ce758a59efb5fbeb.jpg" tvg-name="Tierra prometida (2012)" ,Tierra prometida (2012)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425643.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b62e01a62a96a80ddac92e99a0809fc3.jpg" tvg-name="La trenza (1975)" ,La trenza (1975)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425648.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a51873244b9137402208add804634813.jpg" tvg-name="Zona de Interés (2023)" ,Zona de Interés (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425661.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d608d8bd9bf81ad30e7a7c75f5325e9.jpg" tvg-name="Leonardo, el inventor (2023)" ,Leonardo, el inventor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425681.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51354c92cec6eb88afc6183aae0c43cf.jpg" tvg-name="Llego a mí (2023)" ,Llego a mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425685.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/500edf453acc3366825e4bb64f6b4bbb.jpg" tvg-name="Los campeones (2023)" ,Los campeones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425693.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/324bf82b73fe2571700e42ddddecf694.jpg" tvg-name="Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)" ,Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425726.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8243e2c50a58655c1e6a041e1e87d6c6.jpg" tvg-name="Los indestructibles 4 (2023)" ,Los indestructibles 4 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425739.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7372a314796179d73b119b5da991c9fa.jpg" tvg-name="Los que se quedan (2023)" ,Los que se quedan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425752.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b032a49baf4dcf4ed37e1d76c68ce2f4.jpg" tvg-name="Madame Web (2024)" ,Madame Web (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425768.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0968b1ea19d9a6d5b37449f3a2dc162b.jpg" tvg-name="Mamacruz (2023)" ,Mamacruz (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425779.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/478b84c9fd61175ad98de26a00eec399.jpg" tvg-name="Manódromo (2023)" ,Manódromo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425786.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/87b31c0a77e37ae29836e5a45647a539.jpg" tvg-name="Mars Express (2023)" ,Mars Express (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425799.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a176fe94250f844bacdf4f9c149cec05.jpg" tvg-name="Misericordia (2023)" ,Misericordia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425841.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8d6e49a81c9464aed4961f0fd9df3dfb.jpg" tvg-name="Metalocalypse: : El ejército de la estrella del mal (2023)" ,Metalocalypse: : El ejército de la estrella del mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425853.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5a971f9293271b8c90f0819b33856801.jpg" tvg-name="¡Patos! (2023)" ,¡Patos! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425859.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cd28de964c2464815b33b2a1c29fd242.jpg" tvg-name="Mi gran boda griega 3 (2023)" ,Mi gran boda griega 3 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425871.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/70f1719abab4ee6db82e26b6c03ef95b.jpg" tvg-name="Girl You Know It's True (2023)" ,Girl You Know It's True (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425883.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/98096184693a53c89642874d36b06763.jpg" tvg-name="Mi otro Jon (2023)" ,Mi otro Jon (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425903.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8662ba18dd1b38ed3a34576160000a51.jpg" tvg-name="Misantropo (2017)" ,Misantropo (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425920.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/162e4b0ad936988cf03c2a8b107e464b.jpg" tvg-name="Monster High 2 (2023)" ,Monster High 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425930.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2d989628ffc65f6a1ba74dd41db021fd.jpg" tvg-name="マイマザーズアイズ (2023)" ,マイマザーズアイズ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425950.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/87ebae5fe8ebc1afb5410b0fcfa9665f.jpg" tvg-name="Beyond Suspicion (1993)" ,Beyond Suspicion (1993)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425956.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/127b2315974a75ea577d823ad29b1ea8.jpg" tvg-name="노량: 죽음의 바다 (2023)" ,노량: 죽음의 바다 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426026.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Kee2stO6c2JLgH2Q2ek67H7QTB.jpg" tvg-name="Ocho apellidos marroquíes \ (2023)" ,Ocho apellidos marroquíes \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426052.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1e65fb80d6e2db6b63d7054647950adb.jpg" tvg-name="Patrick (2018)" ,Patrick (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426087.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a9acb79077d80882a7a8b2e82d60c2a2.jpg" tvg-name="Garras voraces (2023)" ,Garras voraces (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426103.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/92dbaa10517ef277d21b235af0589071.jpg" tvg-name="Días Perfectos (2023)" ,Días Perfectos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426111.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/053893182d694c64c245725bfd1cb155.jpg" tvg-name="Rebel Moon (Parte dos): La guerrera que deja marcas (2024)" ,Rebel Moon (Parte dos): La guerrera que deja marcas (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426168.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b29401412ed09ec01a204019e2c28fde.jpg" tvg-name="Remando Como Un Solo Hombre (2023)" ,Remando Como Un Solo Hombre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426179.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cc14c28547b15e8f63a8cdb868ef411d.jpg" tvg-name="Rendel: Cycle of Revenge (2024)" ,Rendel: Cycle of Revenge (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426188.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1fc22c31f713e2fe0640694791163078.jpg" tvg-name="Contrarreloj (2023)" ,Contrarreloj (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426198.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/044ab9c05f3db675fe4d8e2d88df54d6.jpg" tvg-name="Mi Amigo Robot (2023)" ,Mi Amigo Robot (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426237.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/028664304e40f13c1bcfc4cd7aea396f.jpg" tvg-name="Rodeo rock (2023)" ,Rodeo rock (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426262.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d86e92575ddc678d2de4a7c9c977ce20.jpg" tvg-name="Ruta salvatge (2023)" ,Ruta salvatge (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426277.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/860106cc9bafe6441a4f863df92324c8.jpg" tvg-name="Skal: Fight for Survival (2023)" ,Skal: Fight for Survival (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426328.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05da3274047c2dab16b58d148bf92672.jpg" tvg-name="10 Días de un mal hombre (2023)" ,10 Días de un mal hombre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426339.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/56a008e0709951dd842b5a7d641a4c7b.jpg" tvg-name="65: Al borde de la extinción (2023)" ,65: Al borde de la extinción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426344.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4530fb302181c32ad312f4bc1bb17b34.jpg" tvg-name="Slow Burn (2005)" ,Slow Burn (2005)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426348.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ac229be85acb21fffbcb7aa75e2d23bd.jpg" tvg-name="Atentado En El Aire (2023)" ,Atentado En El Aire (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426352.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg" tvg-name="La fortuna de vivir - Les enfants du Marais \[español français\]\[01\;51 (1999)" ,La fortuna de vivir - Les enfants du Marais \[español français\]\[01\;51 (1999)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426361.avi
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/058929973c4d982be8f29e095fbf7b3c.jpg" tvg-name="Sobre todo de noche (2023)" ,Sobre todo de noche (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426370.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d5fbaaee4fb434a084f3cff1c4c34b7f.jpg" tvg-name="Adrenalina (2022)" ,Adrenalina (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426377.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/85f0aa0218e99115e0fe641db02a2268.jpg" tvg-name="IO: Sola en la Tierra (2019)" ,IO: Sola en la Tierra (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426383.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9d8a12da8e618b259cc1ec66698132bd.jpg" tvg-name="After: Para siempre (2023)" ,After: Para siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426386.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/315f13aa12e07c02dc15c48add030de0.jpg" tvg-name="Cabo Cod: La Amenaza de los Mares (2023)" ,Cabo Cod: La Amenaza de los Mares (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426393.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2c3366a764c94f4164f712e863bd48bd.jpg" tvg-name="Sombras del pasado (2023)" ,Sombras del pasado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426400.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/103e3ef4c91ceab5df3a363c9cc193a0.jpg" tvg-name="Agente Stone (2023)" ,Agente Stone (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426410.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ca48e2c1cc866b79c51128b794d6580d.jpg" tvg-name="Suegros de alquiler. Agencia de engaños 2.0 (2023)" ,Suegros de alquiler. Agencia de engaños 2.0 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426415.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c455171e33217b61eeaaec306ba33c0f.jpg" tvg-name="Air Buddies (2006)" ,Air Buddies (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426416.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea0f2c624ac4f153977934b542eea9f4.jpg" tvg-name="Los supervivientes (2023)" ,Los supervivientes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426428.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1098db72a47fb6b685040d77eb01fe6a.jpg" tvg-name="Strawberry Shortcake's Spring Spectacular (2024)" ,Strawberry Shortcake's Spring Spectacular (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426453.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/90ca4fa356df5e17223b4a2817a51155.jpg" tvg-name="Alguien que cuide de mí (2023)" ,Alguien que cuide de mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426458.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/357479195cf3bf34f0219552c0470b10.jpg" tvg-name="Alias (2023)" ,Alias (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426471.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/357479195cf3bf34f0219552c0470b10.jpg" tvg-name="Alias (2023)" ,Alias (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426480.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/480fb6aec012b74ca6b0d13bd9019f77.jpg" tvg-name="Alice, Querida (2022)" ,Alice, Querida (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426489.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/243de83175d682c34c4446fbccd80324.jpg" tvg-name="Kavita & Teresa (2022)" ,Kavita & Teresa (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426490.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d7098dd5a08767d2f1cde5f00bf69c9.jpg" tvg-name="Amigos hasta la muerte (2023)" ,Amigos hasta la muerte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426507.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ca82d1bd2fe71678d9a11ea238a9f947.jpg" tvg-name="Amigos de las vacaciones 2 (2023)" ,Amigos de las vacaciones 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426514.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e453cf37472dfd4b5bba0e424fe559ae.jpg" tvg-name="El Último Niño de la Tierra (2024)" ,El Último Niño de la Tierra (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426519.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68c5599d98ddadf24ff67590bf748e01.jpg" tvg-name="La generación cápsula (2023)" ,La generación cápsula (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426527.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/00000caf532ff3ca4bf9517ef33f4862.jpg" tvg-name="Amor al cuadrado otra vez (2023)" ,Amor al cuadrado otra vez (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426531.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2b39725e5fedecb7badbce249cb16baa.jpg" tvg-name="Rituales Mortales (2023)" ,Rituales Mortales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426533.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8175c8de32db9a023414d04fdb5871e3.jpg" tvg-name="Miłość do kwadratu bez granic (2023)" ,Miłość do kwadratu bez granic (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426539.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/15de9e6f58af73defec031076f9332e5.jpg" tvg-name="The Warrant: Breaker's Law (2023)" ,The Warrant: Breaker's Law (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426545.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5a4f5c09d4a4ae5f9cd60101b2935c9a.jpg" tvg-name="Amor en aguas turbulentas (2023)" ,Amor en aguas turbulentas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426551.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/67c50cb6b5460038aa51101c8d79f3ed.jpg" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" ,Ant-Man and the Wasp: Quantumania (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426556.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fa73fc5cbc8bbc6c5f975df082d30c97.jpg" tvg-name="Tony, Shelly y la linterna mágica (2023)" ,Tony, Shelly y la linterna mágica (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426559.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d5be8cd7d68961cbac9d73a47a3565c6.jpg" tvg-name="Apaches: Pandillas de París (2023)" ,Apaches: Pandillas de París (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426569.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fb0256a341b0af2d8211c7efaae422c0.jpg" tvg-name="A pesar de todo (2019)" ,A pesar de todo (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426577.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fdb34f77096a0a95cc72d874a6f8dc96.jpg" tvg-name="¿Estás ahí, Dios? Soy yo, Margaret (2023)" ,¿Estás ahí, Dios? Soy yo, Margaret (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426583.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ed9356bdc050363ca2a5fdf05a9d9653.jpg" tvg-name="Three Dates to Forever (2023)" ,Three Dates to Forever (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426591.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e961d7bb9d69c9ea717e1d4c026ac3b3.jpg" tvg-name="Asedio (2023)" ,Asedio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426593.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/49247f73815b38bf99af805a91229c9c.jpg" tvg-name="Un amor inquebrantable (2019)" ,Un amor inquebrantable (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426617.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a37925c808ee0c10b967ac275ed11521.jpg" tvg-name="Asteroid City (2023)" ,Asteroid City (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426626.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5ab6590644daa41c2314915e562cbc62.jpg" tvg-name="Astérix y Obélix y el reino medio (2023)" ,Astérix y Obélix y el reino medio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426636.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4118949dd1823c0b6276c00b64440278.jpg" tvg-name="El Gran Equipo (1995)" ,El Gran Equipo (1995)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426656.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/556764fcf33eb2e127f244b3f646e3c3.jpg" tvg-name="Atrapaalmas (2023)" ,Atrapaalmas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426662.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/abd14b653ecc5ec4ebfc4f3c7d842ca8.jpg" tvg-name="El viaje más largo (2015)" ,El viaje más largo (2015)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426689.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4238f7a774c4bbf3a18656a1c8cf056a.jpg" tvg-name="Awareness (2023)" ,Awareness (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426691.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e128491167b5d4df8a5e47df8c1953b2.jpg" tvg-name="Der Pfau (2023)" ,Der Pfau (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426705.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c4298124df570340c5c1b1074cba1e32.jpg" tvg-name="Ein Sommer auf Kreta (2023)" ,Ein Sommer auf Kreta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426712.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1fb2236b33e04ed47bc4a8cf5ec490ba.jpg" tvg-name="Ein Sommer auf Malta (2023)" ,Ein Sommer auf Malta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426720.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2ca4ef8e1cec1b2028f282ee4feda0ce.jpg" tvg-name="Bailarina (2023)" ,Bailarina (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426736.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fd5a7ef1b5845639078895a6040f528.jpg" tvg-name="Uproar (2023)" ,Uproar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426745.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/123968f39e02279823f13358b4e294a5.jpg" tvg-name="¿Y ahora? ¡Mamá Se Ha Ido De Vacaciones! (2019)" ,¿Y ahora? ¡Mamá Se Ha Ido De Vacaciones! (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426751.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e245e35f46853b2bb1ef9dc6be66db9b.jpg" tvg-name="Barbie: Pulgarcita (2009)" ,Barbie: Pulgarcita (2009)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426766.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/03879d424ec50d0cca5b6688b9d57ff7.jpg" tvg-name="The Weapon (2023)" ,The Weapon (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426774.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2d09a36e9e8c9e17982b2c72d2f39346.jpg" tvg-name="Arácnidos (2023)" ,Arácnidos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426781.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c5d0c5c5fcbcc4cd709826c058b55b8f.jpg" tvg-name="Viaje hacia el desierto. Ingeborg Bachmann (2023)" ,Viaje hacia el desierto. Ingeborg Bachmann (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426784.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12537a82f73f901bddccc2d6124aa310.jpg" tvg-name="Creyente 2 (2023)" ,Creyente 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426794.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c96d89b6930c5555e3f4df02eeb8e86.jpg" tvg-name="Vidas Pasadas (2023)" ,Vidas Pasadas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426796.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/35f26bb72fed5a01c65abd1859ce9efe.jpg" tvg-name="El gran George Foreman (2023)" ,El gran George Foreman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426802.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a3060ad8c594775dde1a580af7938ad.jpg" tvg-name="El monstruo dentro de mí (2023)" ,El monstruo dentro de mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426804.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/512c41ba9707dec0237df98d41507427.jpg" tvg-name="Wish: El poder de los deseos (2023)" ,Wish: El poder de los deseos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426809.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/54c44c0806ef5821c72ca031405e3bfc.jpg" tvg-name="Bihter, pasión oculta (2023)" ,Bihter, pasión oculta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426813.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7858a69f84d493c44905190df595f2f8.jpg" tvg-name="Wonka (2023)" ,Wonka (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426820.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/87ba3b52c1b47b03c4c17bcc6807849b.jpg" tvg-name="Bird Box Barcelona (2023)" ,Bird Box Barcelona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426823.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7624e720fc3177b6e494304993b54969.jpg" tvg-name="Yo, Capitán (2023)" ,Yo, Capitán (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426832.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7c89adff748a6a3efdd1998bc0311d54.jpg" tvg-name="Black Clover: La espada del rey mago (2023)" ,Black Clover: La espada del rey mago (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426835.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/794558c19be2c74fe5f9b0022570c6b4.jpg" tvg-name="Black Friday (2004)" ,Black Friday (2004)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426840.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6307a527e697c24935a9162f38c7fe70.jpg" tvg-name="Blue Beetle (2023)" ,Blue Beetle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426858.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6e97bb432c96b69e843bb4a39cca09f9.jpg" tvg-name="Blue Jean (2023)" ,Blue Jean (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426869.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3mNP3fpjHtoCZ2GaxPnA4elj0rv.jpg" tvg-name="Boksoon debe morir (2023)" ,Boksoon debe morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426877.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b4da505ca305bc66a2cf07de293893f1.jpg" tvg-name="Cuando ellas quieren más (2023)" ,Cuando ellas quieren más (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426880.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/941ed0f36d3f3786ffdc71848aaa89b1.jpg" tvg-name="Breakout (2023)" ,Breakout (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426888.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/189ec735233df2cee15ebbc0eabbd5c7.jpg" tvg-name="Cacería en Venecia (2023)" ,Cacería en Venecia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426907.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cd07b9cee997350150dff96dba7e1b63.jpg" tvg-name="Camp Courage (2023)" ,Camp Courage (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426917.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/33767d869b18d8b758ef471673d94314.jpg" tvg-name="Campeonex (2023)" ,Campeonex (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426926.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c6275a0332098db1462b1ca310b26c8.jpg" tvg-name="Capitán Carver (2023)" ,Capitán Carver (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426934.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a852a10b5b89ba7c5212d2c31fd53a9b.jpg" tvg-name="Carga Máxima (2023)" ,Carga Máxima (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426940.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2f85ef5559f8f4a6ec3d9d80d2dad435.jpg" tvg-name="Tango y Cash (1989)" ,Tango y Cash (1989)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426948.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mx1yVLcdkdjo0FBwkLjsQHl98u4.jpg" tvg-name="Cementerio de animales El origen \ (2023)" ,Cementerio de animales El origen \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426966.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/583453704389d1c45833602eddc5ddf3.jpg" tvg-name="Cenizas en el cielo (2023)" ,Cenizas en el cielo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426975.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8219057e6900e049340dfd849aa9371f.jpg" tvg-name="Flamin' Hot: El sabor que cambió la historia (2023)" ,Flamin' Hot: El sabor que cambió la historia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426990.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51d481e28c2bbaf7b311f03f568c726c.jpg" tvg-name="Chevalier: Pasión y Libertad (2023)" ,Chevalier: Pasión y Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426994.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/367957ee66ec676eeb92d16394ce2248.jpg" tvg-name="Pollitos en fuga: El origen de los nuggets (2023)" ,Pollitos en fuga: El origen de los nuggets (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426999.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d90330de40ad2f219c5f753acb58599d.jpg" tvg-name="La vida es un pastel (2023)" ,La vida es un pastel (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427003.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b879478b38c7eb5e95cbe00f65001323.jpg" tvg-name="Sin tiempo (2023)" ,Sin tiempo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427009.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dbc421a9234817d67ee9cb69f3d8c8af.jpg" tvg-name="Como Dios manda (2023)" ,Como Dios manda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427017.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2fed96850c2ee01399bcb1333a6133e3.jpg" tvg-name="Con la soga al cuello (2023)" ,Con la soga al cuello (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427024.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/83047ee30c08ce128bc010bec8fc3cdf.jpg" tvg-name="Cosecha Oscura (2023)" ,Cosecha Oscura (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427052.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d04af4168d57cd4fdc8b31764c63a697.jpg" tvg-name="Cráter (2023)" ,Cráter (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427057.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d899d2299554f1a8393bffb903da759.jpg" tvg-name="Creed III (2023)" ,Creed III (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427064.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9c1d5fe08c3b53756667f0a14fa47957.jpg" tvg-name="Misterio a la vista (2023)" ,Misterio a la vista (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427068.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d7c6b3b6f9b30da16f225b34b5638a39.jpg" tvg-name="Crypto Boy (2023)" ,Crypto Boy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427084.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e242f5f1fbf018f4dd9c738f673a862f.jpg" tvg-name="Cuando termines de salvar el mundo (2023)" ,Cuando termines de salvar el mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427117.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aaeb902d9a0d39013f93d8db8f19dd54.jpg" tvg-name="David Holmes: El niño que vivió (2023)" ,David Holmes: El niño que vivió (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427148.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/96ad1d7e1701e8aeab77b24f180f64f8.jpg" tvg-name="De Caperucita a loba (2023)" ,De Caperucita a loba (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427166.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/96ad1d7e1701e8aeab77b24f180f64f8.jpg" tvg-name="De Caperucita a loba (2023)" ,De Caperucita a loba (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427174.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ffdf8247b1025a92794aa28ae3429ebc.jpg" tvg-name="Desaparecida: El caso Lucie Blackman (2023)" ,Desaparecida: El caso Lucie Blackman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427191.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9801eafe59ba323fae44694fc0efe9d1.jpg" tvg-name="Dieciocho Otra Vez (2023)" ,Dieciocho Otra Vez (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427226.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8c0244eb3db05964d35750489ec44e12.jpg" tvg-name="Disco Inferno (2023)" ,Disco Inferno (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427232.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b61574476617586cb73ba4feda35c9c4.jpg" tvg-name="Doble discurso (2023)" ,Doble discurso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427242.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a33ccafd6871aff6a5519e90145cc759.jpg" tvg-name="El Sr. Carrito y los caballeros templarios (2023)" ,El Sr. Carrito y los caballeros templarios (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427247.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8b2604f0843d1195ec65aa43962d500d.jpg" tvg-name="Ice Cold: Murder, Coffee and Jessica Wongso (2023)" ,Ice Cold: Murder, Coffee and Jessica Wongso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427252.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e6013ed6fad0be843f85835466824ca.jpg" tvg-name="Descubriéndome (2023)" ,Descubriéndome (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427261.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9d11c74ed9eaee5bf6d554f3060c324f.jpg" tvg-name="Dulces y Sangrientos 16 (2023)" ,Dulces y Sangrientos 16 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427277.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e36df2085858fdb17b8376d66c6ba30.jpg" tvg-name="Calabozos & Dragones: Honor entre ladrones (2023)" ,Calabozos & Dragones: Honor entre ladrones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427285.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e36df2085858fdb17b8376d66c6ba30.jpg" tvg-name="Calabozos & Dragones: Honor entre ladrones (2023)" ,Calabozos & Dragones: Honor entre ladrones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427290.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/03e03fc01a95cbc3c4a031710e146ef6.jpg" tvg-name="Ehrengard: El arte de la seducción (2023)" ,Ehrengard: El arte de la seducción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427297.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cfdc13b27675bb1d3be675e7e3da332f.jpg" tvg-name="El amor está en el aire (2023)" ,El amor está en el aire (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427308.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/47c6ba594b14a6808b6759c9cca17b7a.jpg" tvg-name="El arte de matar (2023)" ,El arte de matar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427315.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1335f800e1e917218597d4ec9dbaadba.jpg" tvg-name="El Banco de Dave (2023)" ,El Banco de Dave (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427323.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/77603b27b055abd1c52fc0ff1d2730ee.jpg" tvg-name="El caftán azul (2023)" ,El caftán azul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427343.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a800987646da27471284fc860c90085f.jpg" tvg-name="El Club de los Asesinos (2023)" ,El Club de los Asesinos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427356.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1932f7496445d7298a1b1cc680da88da.jpg" tvg-name="El club de los lectores criminales (2023)" ,El club de los lectores criminales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427366.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/050c00fb934670f8f94cae182fda1f79.jpg" tvg-name="Dans les yeux de Johnny Depp (2023)" ,Dans les yeux de Johnny Depp (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427387.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/76f9f3df5d7ed0d5e10bdccef9ca2a16.jpg" tvg-name="El Curandero (2023)" ,El Curandero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427395.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e17fa1f66c6d1a2fc0ab5e7dc703d0b5.jpg" tvg-name="Edorado: Todo lo que odian los Nazis (2023)" ,Edorado: Todo lo que odian los Nazis (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427404.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fc645d8634b2dd11e3265d6e76c9e4c.jpg" tvg-name="Elementos (2023)" ,Elementos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427409.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c03c63f836f92fd55f816be8414b3a45.jpg" tvg-name="El estrangulador de Boston (2023)" ,El estrangulador de Boston (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427426.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e3da20b76d2d9e09882209c0ce7194fa.jpg" tvg-name="El exorcista: Creyentes (2023)" ,El exorcista: Creyentes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427443.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f2f447c9d63350c34c32ebeced94e060.jpg" tvg-name="El Exorcista del Papa (2023)" ,El Exorcista del Papa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427451.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/16d1b5daceb24352c1f2cdae5c3fe137.jpg" tvg-name="El hijo (2019)" ,El hijo (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427462.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/08bfc790cf5e212b8d28726b1415d77a.jpg" tvg-name="El hombre del saco (2023)" ,El hombre del saco (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427468.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63e8b765b89245dd3f2b35c30727c279.jpg" tvg-name="El hotel de los líos: García y García 2 (2023)" ,El hotel de los líos: García y García 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427474.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63e8b765b89245dd3f2b35c30727c279.jpg" tvg-name="El hotel de los líos: García y García 2 (2023)" ,El hotel de los líos: García y García 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427480.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/04578208dedbb9e9f70f4f3efe26a2e1.jpg" tvg-name="El lado dulce de la traición (2023)" ,El lado dulce de la traición (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427495.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/59f5c9b1cdb76e64c398ad26221cb349.jpg" tvg-name="El maestro jardinero (2023)" ,El maestro jardinero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427506.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e268775c5347647a511fe9fd8d6f8bd6.jpg" tvg-name="El mejor del mundo (2023)" ,El mejor del mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427512.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/691fc487b2de2f5b160827e3dc0d3fcb.jpg" tvg-name="El negocio del dolor (2023)" ,El negocio del dolor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427516.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/be38539ac1bdfc7b88af5a89bf8e156e.jpg" tvg-name="El núcleo (2003)" ,El núcleo (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427520.avi
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/54753ee9f0c7b6d37775ff9372ab56ea.jpg" tvg-name="El Pacto (2023)" ,El Pacto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427524.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/965fef59a05d52d25509794f4ea2cdd2.jpg" tvg-name="El pico del diablo (2023)" ,El pico del diablo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427537.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/186d8783ca3644526978494859fdef7e.jpg" tvg-name="Y, ¿dónde está el piloto? (1980)" ,Y, ¿dónde está el piloto? (1980)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427540.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0665e7f73e4ec7566c8c2c31933dcd2e.jpg" tvg-name="El precio de la venganza (1963)" ,El precio de la venganza (1963)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427542.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dc7e630fbfe6d48cb71aaa215e4d8207.jpg" tvg-name="El regreso de Manson (2023)" ,El regreso de Manson (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427550.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c52e96796917fd61364dbe676c9f0c65.jpg" tvg-name="El Reino Secreto (2013)" ,El Reino Secreto (2013)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427552.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ad53847d45a46d07aa1a973b067d736c.jpg" tvg-name="El Rey Mono (2023)" ,El Rey Mono (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427556.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ccecf99a24ef97327e7a70631d60814c.jpg" tvg-name="Billion Dollar Heist (2023)" ,Billion Dollar Heist (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427559.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28278b1845846e546ec189baadfef5d2.jpg" tvg-name="Santuario (2023)" ,Santuario (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427561.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bbb8478a4398b9a0c7c8372a50efbebd.jpg" tvg-name="El Tutor (2023)" ,El Tutor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427564.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fbb167849619ec9a1ecc36c4cacfbb0f.jpg" tvg-name="Plan de Retiro (2023)" ,Plan de Retiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427567.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e49e4f47dbbc87dc53f3c1d446e4be6.jpg" tvg-name="Sharper: un plan perfecto (2023)" ,Sharper: un plan perfecto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427569.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c2541af63655dde05b283bb7208d7af5.jpg" tvg-name="Encierro (2023)" ,Encierro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427578.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b1e97247a4a5586a52b9a1115318c7cd.jpg" tvg-name="El Bueno, El Malo y El Feo (1966)" ,El Bueno, El Malo y El Feo (1966)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427581.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/315c5fbf4a6c28dd8de755c4731acaea.jpg" tvg-name="Eres tú (2023)" ,Eres tú (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427591.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/101576396f18869ed01da0d38fea1085.jpg" tvg-name="Misión de rescate 2 (2023)" ,Misión de rescate 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427600.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/96e9bfd19d31646c59af2573adf336d9.jpg" tvg-name="Fanfic (2023)" ,Fanfic (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427604.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f00635c31a9500037e646f8126f7f6e.jpg" tvg-name="Una maniobra arriesgada (2024)" ,Una maniobra arriesgada (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427606.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ab30fc27697455197a79ca9a8ce5768.jpg" tvg-name="Rápidos y furiosos X (2023)" ,Rápidos y furiosos X (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427611.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fa4190f47d2a0be98637160a5a19dd4b.jpg" tvg-name="Fatum (2023)" ,Fatum (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427616.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b18618217fb5a1035e8cc47c8faff3a8.jpg" tvg-name="Felicidad para principiantes (2023)" ,Felicidad para principiantes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427622.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/199236f1d9a7758a9f3f8ef2d469e356.jpg" tvg-name="Fenómeno Twin Melody (2023)" ,Fenómeno Twin Melody (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427626.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79b14af094b7100e0c71142984ecaaf5.jpg" tvg-name="Final feliz (2023)" ,Final feliz (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427629.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/75b273048e9f0e091edc8cc34596b8e9.jpg" tvg-name="Ámame hasta con las uñas (2023)" ,Ámame hasta con las uñas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427633.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ac9bb6ae1ee011a504f5f88a3177a7a0.jpg" tvg-name="Five Nights at Freddy's (2023)" ,Five Nights at Freddy's (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427639.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8219057e6900e049340dfd849aa9371f.jpg" tvg-name="Flamin' Hot: El sabor que cambió la historia (2023)" ,Flamin' Hot: El sabor que cambió la historia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427642.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f7155795fbdc11928c31ba5c86ba4886.jpg" tvg-name="Efecto Flashback (2020)" ,Efecto Flashback (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427645.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/30717a30b80193667b0a96cd9773a0db.jpg" tvg-name="Flora e hijo (2023)" ,Flora e hijo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427648.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b622fea5720ddbd71ab8351ff744ae0e.jpg" tvg-name="Estilo Libre (2023)" ,Estilo Libre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427654.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7f12449514bafe2118e37720adb13f88.jpg" tvg-name="Frente a frente (2008)" ,Frente a frente (2008)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427658.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ba9d3444352bd001369089dbd0ba210f.jpg" tvg-name="House Party 1 (1990)" ,House Party 1 (1990)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427733.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/277395bd95b7349c896a2277a20b8ee0.jpg" tvg-name="Huye, conejo, huye (2024)" ,Huye, conejo, huye (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427742.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/60a760c1b76b0969be99fba8ffe7cc56.jpg" tvg-name="Huérfanos de Brooklyn (2019)" ,Huérfanos de Brooklyn (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427746.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5515d2f79c7c6e027273b59e872b2fb0.jpg" tvg-name="Hipnosis: Arma Invisible (2023)" ,Hipnosis: Arma Invisible (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427748.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b923a6fbe9e02e636ca904cdb2052996.jpg" tvg-name="Indiana Jones y el dial del destino (2023)" ,Indiana Jones y el dial del destino (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427757.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/080cd9b76307dc9d7dd0602d1e1508cf.jpg" tvg-name="Infiesto (2023)" ,Infiesto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427767.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c442e69c875abb7deb84d51531055f44.jpg" tvg-name="IntensaMente 2 (2024)" ,IntensaMente 2 (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427773.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0d21bc7f461dde6db582d45c44c17b3f.jpg" tvg-name="Intoxicación: La cruda verdad sobre nuestra comida (2023)" ,Intoxicación: La cruda verdad sobre nuestra comida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427788.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b99bb88148105e99e13385039929505.jpg" tvg-name="Intruso (2023)" ,Intruso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427792.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f3a6f0834c5338398b76b5e60f73827b.jpg" tvg-name="Invitación a un asesinato (2023)" ,Invitación a un asesinato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427795.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12c6ab79b32a2d9c94125c7bb777742f.jpg" tvg-name="Isabella: o Caso Nardoni (2023)" ,Isabella: o Caso Nardoni (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427797.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e86d69ec7fb7a3b87d98f0a653bb6f61.jpg" tvg-name="Jagun Jagun (2023)" ,Jagun Jagun (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427801.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4a0dbe2af2062b52ea13c77d098cecc5.jpg" tvg-name="La revolución de Jesús (2023)" ,La revolución de Jesús (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427806.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c15cdf9bc3a88b46e1dc957fcc12bc04.jpg" tvg-name="Jethica (2023)" ,Jethica (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427810.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9771e82d866618569bf61900020553df.jpg" tvg-name="John Wick 4 (2023)" ,John Wick 4 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427814.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93be3fcab4924334ec22afdb3972c465.jpg" tvg-name="Juego Limpio (2023)" ,Juego Limpio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427818.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a55ff63d8deba00c4e500051bbcca54.jpg" tvg-name="Juicio al diablo (2023)" ,Juicio al diablo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427821.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f220cce3d74872714c42c46c1eeb9733.jpg" tvg-name="Kepler Sexto B (2023)" ,Kepler Sexto B (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427825.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a876f822c99fcbef1fa5d8e4e085d2a8.jpg" tvg-name="La combinación perfecta (2023)" ,La combinación perfecta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427832.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b04278b91a5f50a8be124cd7873dc898.jpg" tvg-name="Ladronas (2023)" ,Ladronas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427851.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ac57b9ca0e18fc3e3396e44cd0d2cc0e.jpg" tvg-name="La fortaleza (1992)" ,La fortaleza (1992)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427870.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ebae98964a0039c3ba62ba126c063b1d.jpg" tvg-name="Gente como uno (1980)" ,Gente como uno (1980)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427873.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fde5db5b86b047616a6e5c52d2f105fd.jpg" tvg-name="La Guerre des Lulus (2023)" ,La Guerre des Lulus (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427879.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c989ce192cdc048729683c7762ba64a7.jpg" tvg-name="La Guerra de los Mundos: El Ataque (2023)" ,La Guerra de los Mundos: El Ataque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427883.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dc43a7e588044cddf4467ed7107ec40c.jpg" tvg-name="La integridad de Joseph Chambers (2023)" ,La integridad de Joseph Chambers (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427900.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b084b0a9c459a57325b676a2bedb753f.jpg" tvg-name="La ira de Becky (2023)" ,La ira de Becky (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427902.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e12cb058455de71dedce44662c7ca6f.jpg" tvg-name="Que el Día de la Madre te acompañe (2024)" ,Que el Día de la Madre te acompañe (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427909.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e12cb058455de71dedce44662c7ca6f.jpg" tvg-name="Que el Día de la Madre te acompañe (2024)" ,Que el Día de la Madre te acompañe (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427913.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/460b5d0e5146c9c4edb7f4a87d619e64.jpg" tvg-name="La manzana de oro (2023)" ,La manzana de oro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427920.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/be1950e3aa687669d82f763924b145d7.jpg" tvg-name="La maravillosa historia de Henry Sugar (2023)" ,La maravillosa historia de Henry Sugar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427924.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/64291227ea740bfc86d4b4c90df661e6.jpg" tvg-name="La monja II (2023)" ,La monja II (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427931.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9219845efa2e5627b223a25c473ec211.jpg" tvg-name="Juntos Pero No Revueltos (2023)" ,Juntos Pero No Revueltos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427936.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/344366dd6928ed0141b93849d156d767.jpg" tvg-name="La otra Zoey (2023)" ,La otra Zoey (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427941.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="PAW Patrol: La súper película (2023)" ,PAW Patrol: La súper película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427944.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/81b593db962f7645e30c98e0ee1b2aae.jpg" tvg-name="La posibilidad estadística del amor a primera vista (2023)" ,La posibilidad estadística del amor a primera vista (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427952.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d8af3cddd998daa9c24013bdc9b99c29.jpg" tvg-name="Miraculous: Las aventuras de Ladybug - La Película (2023)" ,Miraculous: Las aventuras de Ladybug - La Película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427954.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df04f0a011bf263bd7d8b11f1bc51d60.jpg" tvg-name="Las buenas compañías (2023)" ,Las buenas compañías (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427959.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f718ab3536445513cbdb146c010c9ec2.jpg" tvg-name="Las cintas de Rosa Peral (2023)" ,Las cintas de Rosa Peral (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427962.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/583e45969a6dde008397fdf9f06f8354.jpg" tvg-name="La semilla (2023)" ,La semilla (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427966.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5eb0a2fcc8774bcfe46a248760bd955.jpg" tvg-name="La sirenita (2023)" ,La sirenita (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427969.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c5419a9ee03b4a31eeb0029d89c99da9.jpg" tvg-name="Las pequeñas victorias (2023)" ,Las pequeñas victorias (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427979.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d70182442f82cdafb909e0379f433839.jpg" tvg-name="Las semanas mágicas (2023)" ,Las semanas mágicas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427983.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2cec3f4ac5aa8e419132cd0a27f0bf59.jpg" tvg-name="Legado de sangre (2023)" ,Legado de sangre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427993.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6d3c7a68e7719de1790966812715a4ad.jpg" tvg-name="LEGO Disney Princesa: Aventura en el castillo (2023)" ,LEGO Disney Princesa: Aventura en el castillo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427995.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f4444b5f378c9755ddb9f3a3f292ac4.jpg" tvg-name="LEGO Marvel Avengers: Código rojo (2023)" ,LEGO Marvel Avengers: Código rojo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427999.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05b7dd7716a75a6a56760fb872cd3b63.jpg" tvg-name="Leo (2023)" ,Leo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428000.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2f79e5c3c193f60321c3c513d145f64d.jpg" tvg-name="La Espía (2019)" ,La Espía (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428003.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0fd6d5adec9c35874e91a0aea92636e2.jpg" tvg-name="Un día como león (2023)" ,Un día como león (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428005.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fb8e99bd74cd5aa8754d199b6dda0200.jpg" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3 (2024)" ,Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3 (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428014.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7392e10d535b7a57758ab448123f9bce.jpg" tvg-name="Lincessa. Los silencios del bosque (2023)" ,Lincessa. Los silencios del bosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428017.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5194c547328e31f23313911fc3ed9be0.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428020.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5194c547328e31f23313911fc3ed9be0.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428024.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5194c547328e31f23313911fc3ed9be0.jpg" tvg-name="Llaman a la puerta (2023)" ,Llaman a la puerta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428028.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68863c2e50419ef69543d5dfa3a86c64.jpg" tvg-name="Los Tres Cerditos: El Lobo Feroz (1934)" ,Los Tres Cerditos: El Lobo Feroz (1934)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428036.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/39b38cd7c7c5d5861d323028ea85ee79.jpg" tvg-name="Lo Desconocido: La Cueva de los Huesos (2023)" ,Lo Desconocido: La Cueva de los Huesos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428040.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/468d637f793245bc31d5dfeff17903d8.jpg" tvg-name="Lo Desconocido: La Pirámide Perdida (2023)" ,Lo Desconocido: La Pirámide Perdida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428044.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4cde78e365b496e3e03579684dd69feb.jpg" tvg-name="Lo Desconocido: Los Robots Asesinos (2023)" ,Lo Desconocido: Los Robots Asesinos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428048.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9c08056049bd7c06c32c36041eef3362.jpg" tvg-name="Aliens Abducted My Parents and Now I Feel Kinda Left Out (2023)" ,Aliens Abducted My Parents and Now I Feel Kinda Left Out (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428050.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87D9w36PemKtNS02NAdqAMOBqsK.jpg" tvg-name="Los archivos secretos de los Boy Scouts de EEUU \ (2023)" ,Los archivos secretos de los Boy Scouts de EEUU \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428053.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Los asesinos de la luna (2023)" ,Los asesinos de la luna (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428057.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/865f2d8b4af3c5a3dc8514d981a82872.jpg" tvg-name="Los buenos modales (2023)" ,Los buenos modales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428060.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a8fcfa5530749abb891754dbd390d31e.jpg" tvg-name="Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)" ,Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428063.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/59744ea9fa8aa4d4309d805bd8e0fc72.jpg" tvg-name="Los dos amores de mi vida (2023)" ,Los dos amores de mi vida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428066.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428071.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ee1f36440ff6ae9689fb6eb346a0852a.jpg" tvg-name="Los iniciados (2023)" ,Los iniciados (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428075.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/37638f95d3db025a276663b1a9010fda.jpg" tvg-name="Los olvidados: Cicatrices (2023)" ,Los olvidados: Cicatrices (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428079.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea0f2c624ac4f153977934b542eea9f4.jpg" tvg-name="Los supervivientes (2023)" ,Los supervivientes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428084.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d977affd5a84d5657b1ba981385ee87e.jpg" tvg-name="Los Tres Mosqueteros: D'Artagnan (2023)" ,Los Tres Mosqueteros: D'Artagnan (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428087.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/edb135453e6bddc78facadb16d4c7007.jpg" tvg-name="愛ゆえに 〜ラブ・アゲイン〜 (2023)" ,愛ゆえに 〜ラブ・アゲイン〜 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428091.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0628837ef93af85e672ea3675b1d35cd.jpg" tvg-name="Lupin III: El castillo de Cagliostro (1979)" ,Lupin III: El castillo de Cagliostro (1979)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428096.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0aa972bbea0c23a547fd0174652fc62c.jpg" tvg-name="Lupin III vs Ojos de Gato (2023)" ,Lupin III vs Ojos de Gato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428100.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea2d6db579f7a5c6fe7c0d34079eb0b7.jpg" tvg-name="El maestro de las sombras (2022)" ,El maestro de las sombras (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428108.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/73922c50c315cd0a5f77aa5faaf26be9.jpg" tvg-name="La heredera de la mafia (2023)" ,La heredera de la mafia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428113.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/305b2374ac427a8a52ef30d1a57310c7.jpg" tvg-name="Maggie Moore(s) (2023)" ,Maggie Moore(s) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428117.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05b0bee2c7129e62a797e30d006f0627.jpg" tvg-name="La mansion embrujada (2003)" ,La mansion embrujada (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428119.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/623b2ec24df61009ec66e44f3569977c.jpg" tvg-name="Maravilloso desastre (2023)" ,Maravilloso desastre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428122.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/389f3c5bb8389cf785a64cf503c7c769.jpg" tvg-name="Mark Cavendish: Never Enough (2023)" ,Mark Cavendish: Never Enough (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428132.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/517b73c9c6193d6c947740582dd4b5af.jpg" tvg-name="Marlowe (1969)" ,Marlowe (1969)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428138.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b68e31acef0d014bff76727b1ffdd23b.jpg" tvg-name="Matar cangrejos (2023)" ,Matar cangrejos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428146.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2dc4a4ad815bd6d4b6b5b1075f785113.jpg" tvg-name="Matria (C) (2017)" ,Matria (C) (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428150.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79d51f6f63c58056c914234ce1a17c54.jpg" tvg-name="Mavka: Guardiana del bosque (2023)" ,Mavka: Guardiana del bosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428154.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79d51f6f63c58056c914234ce1a17c54.jpg" tvg-name="Mavka: Guardiana del bosque (2023)" ,Mavka: Guardiana del bosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428157.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79d51f6f63c58056c914234ce1a17c54.jpg" tvg-name="Mavka: Guardiana del bosque (2023)" ,Mavka: Guardiana del bosque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428161.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1522c6985c3fc6dc4669ebf8c4e51982.jpg" tvg-name="Medellín (2023)" ,Medellín (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428166.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1522c6985c3fc6dc4669ebf8c4e51982.jpg" tvg-name="Medellín (2023)" ,Medellín (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428170.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6580a5c7529d22ba0b61ef8dd7b85042.jpg" tvg-name="Medusa Deluxe (2023)" ,Medusa Deluxe (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428174.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb41ce7f95c28c208c27aca50a5bf34a.jpg" tvg-name="Megalodón 2: El gran abismo (2023)" ,Megalodón 2: El gran abismo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428176.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c1e51de6cf32d58ad64efbe2284892f.jpg" tvg-name="Me Gustan las Películas (2023)" ,Me Gustan las Películas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428181.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/42a59d1541c48fa9389c8b101cd30204.jpg" tvg-name="Mejor Navidad, ¡imposible! (2023)" ,Mejor Navidad, ¡imposible! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428185.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b8c7a153c22e8f537c2a7b0c4d6a1ae8.jpg" tvg-name="Teddy, La magia de la Navidad (2022)" ,Teddy, La magia de la Navidad (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428188.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a426f45518e4a4df91a93d592de835c8.jpg" tvg-name="De vuelta al crimen (2023)" ,De vuelta al crimen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428195.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0db871809d37e302b06d66485a208d8.jpg" tvg-name="Meu cunhado é um vampiro (2023)" ,Meu cunhado é um vampiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428197.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a625e0cbc35d446aec80aec9a285ed2.jpg" tvg-name="Miedo profundo (2016)" ,Miedo profundo (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428200.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d87df71192bf292452d49827b863b24.jpg" tvg-name="Power Rangers: Ayer, hoy y siempre (2023)" ,Power Rangers: Ayer, hoy y siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428202.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2d9c35551a7b8d7cd7c57e2c2179df68.jpg" tvg-name="Mil uno (2023)" ,Mil uno (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428206.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/95f85170304090a1be7a17a42fe75898.jpg" tvg-name="Miniespías: Armagedón (2023)" ,Miniespías: Armagedón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428210.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0c0ad0dfa6a734c95e84fefb4cea0627.jpg" tvg-name="Megan Is Missing (2011)" ,Megan Is Missing (2011)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428221.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cc36853dd2b168c7fb592c9060c1f6d6.jpg" tvg-name="Tierra de la Mafia (2023)" ,Tierra de la Mafia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428224.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93762d4993c04cc1868fdcaae90f30fd.jpg" tvg-name="Mona Lisa and the Blood Moon (2022)" ,Mona Lisa and the Blood Moon (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428232.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eceb00dd24089a964d533e48083b8eb7.jpg" tvg-name="Volver a Empezar (2022)" ,Volver a Empezar (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428236.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cf722e3205296b0aa709497853ff2b93.jpg" tvg-name="Muchas más hormigas entre las piernas (2023)" ,Muchas más hormigas entre las piernas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428238.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/34f291766315e8a5d0bd3a53cc4a4659.jpg" tvg-name="Hart: Duro de entrenar (2023)" ,Hart: Duro de entrenar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428241.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b5ca55d09d3e0875ddb2d3d68ceb4442.jpg" tvg-name="My First Barbie: Happy DreamDay (2023)" ,My First Barbie: Happy DreamDay (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428245.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0e33d91f1114e96fd2c9f93e3920950f.jpg" tvg-name="Nadie podrá salvarte (2023)" ,Nadie podrá salvarte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428247.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b17852c5cdd0bcb93be30b9675519130.jpg" tvg-name="Napoleón (2023)" ,Napoleón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428251.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5eeae9ec181a65dec98224956c6c65a2.jpg" tvg-name="Nato 0. El origen del mal (2023)" ,Nato 0. El origen del mal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428255.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5b46ea10229765c8ce4fced3dc577613.jpg" tvg-name="¡No estás invitada a mi bat Mitzvah! (2023)" ,¡No estás invitada a mi bat Mitzvah! (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428260.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/14ac44d854f514a1662f84f06c6f7c30.jpg" tvg-name="Radio Pesadilla (2023)" ,Radio Pesadilla (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428267.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5cc8a8d0801772db4dbd17764197659.jpg" tvg-name="Nimona (2023)" ,Nimona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428271.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/681d84faeaddf42d3d1fb61cb70abba9.jpg" tvg-name="Tortugas Ninja: Caos mutante (2023)" ,Tortugas Ninja: Caos mutante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428273.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Nowhere (2023)" ,Nowhere (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428280.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3e2af5508d1f50afca07b6b614a157bd.jpg" tvg-name="Nuevos ricos (2023)" ,Nuevos ricos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428283.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/82cdb28b44bdc7572686efcf07f478ba.jpg" tvg-name="Nuovo Olimpo (2023)" ,Nuovo Olimpo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428287.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/49bc7bc5e98a27d5bfa98656168f2b11.jpg" tvg-name="Nyad (2023)" ,Nyad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428291.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0fd6d5adec9c35874e91a0aea92636e2.jpg" tvg-name="Un día como león (2023)" ,Un día como león (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428299.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9a1f2749ff7b50147821ce712e809140.jpg" tvg-name="ONEFOUR: Against All Odds (2023)" ,ONEFOUR: Against All Odds (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428303.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d36d9591540446bbbbdad52b14525c2c.jpg" tvg-name="Escape bajo fuego (2023)" ,Escape bajo fuego (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428308.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/03bb754ca30488822c42fad9457957cf.jpg" tvg-name="Oppenheimer (2023)" ,Oppenheimer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428311.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8de7eea179029ec8f691fe8a7e701e28.jpg" tvg-name="Oso intoxicado (2023)" ,Oso intoxicado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428318.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8de7eea179029ec8f691fe8a7e701e28.jpg" tvg-name="Oso intoxicado (2023)" ,Oso intoxicado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428321.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3ac846ee6f97b255e4fcfbce25022251.jpg" tvg-name="Pintemos (2023)" ,Pintemos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428324.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b7c99f31ff815137b0ba36223c90b720.jpg" tvg-name="Pamela: Una historia de amor (2023)" ,Pamela: Una historia de amor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428327.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/da24f94c9170b4bc2db6c02caf23a63f.jpg" tvg-name="Papás a la antigua (2023)" ,Papás a la antigua (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428332.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/78e7dbeee5a1935ae90cdd935e20d084.jpg" tvg-name="Paradise (2023)" ,Paradise (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428335.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/59e10405e271fd52d5e02759948d776f.jpg" tvg-name="Perro perdido (2023)" ,Perro perdido (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428342.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c86e7c3116cb98ebd079ab6ae2608765.jpg" tvg-name="Peter Pan y Wendy (2023)" ,Peter Pan y Wendy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428345.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c86e7c3116cb98ebd079ab6ae2608765.jpg" tvg-name="Peter Pan y Wendy (2023)" ,Peter Pan y Wendy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428348.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d33aaf1e871deb902c9232133f2db28.jpg" tvg-name="Muerte Infinita (2023)" ,Muerte Infinita (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428350.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5bb77931c7aad098e88f4c5cc57ee9cd.jpg" tvg-name="Alerta extrema (2023)" ,Alerta extrema (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428357.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d5915b0a80da33f6c314cea2bb54f53.jpg" tvg-name="Planeta 5000 (2019)" ,Planeta 5000 (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428358.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ecf3404f9aa539274988afbefb767ec.jpg" tvg-name="Praise This (2023)" ,Praise This (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428361.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4b97861308bc9a3505253d09942fe74a.jpg" tvg-name="La luz prodigiosa (2003)" ,La luz prodigiosa (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428363.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/521f809b1efcf9fe2800df877326aeda.jpg" tvg-name="Proyecto Extracción (2023)" ,Proyecto Extracción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428369.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/692d82adbe8d1961cd3a022681484a10.jpg" tvg-name="Quiz Lady (2023)" ,Quiz Lady (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428373.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e7c3ca43acc448e919eaf1ba0ad8e4eb.jpg" tvg-name="Rally Road Racers (2023)" ,Rally Road Racers (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428376.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5241a3941c8c74b831b8c2e379be9515.jpg" tvg-name="Flow calle: El reality (2022)" ,Flow calle: El reality (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428379.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/053893182d694c64c245725bfd1cb155.jpg" tvg-name="Rebel Moon (Parte dos): La guerrera que deja marcas (2024)" ,Rebel Moon (Parte dos): La guerrera que deja marcas (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428383.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/585adf2719e38f2782d456d62c50ced2.jpg" tvg-name="Renfield: Asistente de vampiro (2023)" ,Renfield: Asistente de vampiro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428388.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fef86aefbf07e23c87668bb78a1e300.jpg" tvg-name="Reposo absoluto (2023)" ,Reposo absoluto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428390.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b3374c0f2ea4cbf6d1dad6753c665933.jpg" tvg-name="Reptiles (2023)" ,Reptiles (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428392.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/55239112157cf917294206e76da585df.jpg" tvg-name="Ricos de Amor 2 (2023)" ,Ricos de Amor 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428396.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/35b2b3885dacc33335ca80f203a686e4.jpg" tvg-name="Robots (2005)" ,Robots (2005)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428399.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fc5a0f1c672e583125f38dcb73374e8.jpg" tvg-name="Rojo, Blanco y Sangre Azul (2023)" ,Rojo, Blanco y Sangre Azul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428402.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c479637f89e25b918626bf81f6079cf5.jpg" tvg-name="Rosita Fresita y la Bestia del Plantano (2023)" ,Rosita Fresita y la Bestia del Plantano (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428406.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d230d4b3cb65ecabbe112ab5bd0ceb99.jpg" tvg-name="Royalteen: La Princesa Margrethe (2023)" ,Royalteen: La Princesa Margrethe (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428408.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3f3801d1035629276487147ca11886af.jpg" tvg-name="Krakens y sirenas: Conoce a los Gillman (2023)" ,Krakens y sirenas: Conoce a los Gillman (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428410.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eb8a1610e5adbd124b56c079d01203fc.jpg" tvg-name="Rustin (2023)" ,Rustin (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428413.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05d4e8dbbec6db41605cda097f397826.jpg" tvg-name="Sakra (2023)" ,Sakra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428419.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/131818734cf9637e386aea1ed2228069.jpg" tvg-name="Saltburn (2023)" ,Saltburn (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428421.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6801340a2a2fee23213f941a755dc09b.jpg" tvg-name="Sangre y oro (2023)" ,Sangre y oro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428424.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6801340a2a2fee23213f941a755dc09b.jpg" tvg-name="Sangre y oro (2023)" ,Sangre y oro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428427.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/26490a00c3194505652809803bba8da7.jpg" tvg-name="Saw X: El juego del miedo (2023)" ,Saw X: El juego del miedo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428429.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/213947831a53fb258f5be2a8d9265fee.jpg" tvg-name="Scarlet (L'envol) (2023)" ,Scarlet (L'envol) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428432.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a9feb942ff20462a5e6e5c968c02089.jpg" tvg-name="Scream 6 (2023)" ,Scream 6 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428434.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a9feb942ff20462a5e6e5c968c02089.jpg" tvg-name="Scream 6 (2023)" ,Scream 6 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428436.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/98b6a2d478c1596e0f1d51ddf8eb15a2.jpg" tvg-name="Al descubierto: El Salón de la Infamia (2023)" ,Al descubierto: El Salón de la Infamia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428438.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a54a79479ab76e13b543923ed610e416.jpg" tvg-name="Al descubierto: Jake Paul, el chico problema (2023)" ,Al descubierto: Jake Paul, el chico problema (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428441.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/967721d6b43bbee6b6fa3460c3f21fe8.jpg" tvg-name="Te esperaré en venus (2023)" ,Te esperaré en venus (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428446.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/db27dc68338c9c0460d5995a5b467dd2.jpg" tvg-name="Sentinela (2023)" ,Sentinela (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428448.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ced01a9ea81b97d47158b0d5d92b75c5.jpg" tvg-name="Juego del amor: Se terminó el tiempo 2 (2022)" ,Juego del amor: Se terminó el tiempo 2 (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428450.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4c779faeff1278590e5ee2774341c109.jpg" tvg-name="¡Shazam! La furia de los dioses (2023)" ,¡Shazam! La furia de los dioses (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428452.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8ca9337e99282b2805eb6331e662f419.jpg" tvg-name="Estrellas Fugaces (2023)" ,Estrellas Fugaces (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428458.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/309ff55d2fef4d6c2fc3ec324dbdeaae.jpg" tvg-name="Sica (2023)" ,Sica (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428461.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/51e7552b2a9da3e64e2c0533eb02d28a.jpg" tvg-name="Siempre fiel (2022)" ,Siempre fiel (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428463.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a0e4b5f587b1f3038c00874cfbc12ea8.jpg" tvg-name="Siete reyes deben morir (2023)" ,Siete reyes deben morir (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428466.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09dc42f3cf3bf6ba1e81ffa3a5448044.jpg" tvg-name="Hazme el favor (2023)" ,Hazme el favor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428468.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2153c0717441842455ffbb74da156fdc.jpg" tvg-name="Sisu (2022)" ,Sisu (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428472.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cc7df00ddcd5e3de894c993b035de202.jpg" tvg-name="Si todas las puertas se cierran (2023)" ,Si todas las puertas se cierran (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428475.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/486630f34250412c586b6e7c58b0a4c5.jpg" tvg-name="Skinford: Sentencia de muerte (2017)" ,Skinford: Sentencia de muerte (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428477.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e6c67b0646741500d2379203db71116.jpg" tvg-name="Sly (2023)" ,Sly (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428479.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dfbfb05507128fba2290eb4ec0d0d756.jpg" tvg-name="Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)" ,Francotirador: E.I.R.G. – Equipo de inteligencia y respuesta global (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428481.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9650c8473cb6d9d380da230d4015945c.jpg" tvg-name="Snoopy presenta: La extraordinaria Marcie (2023)" ,Snoopy presenta: La extraordinaria Marcie (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428483.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bef77634b06e794f2415f26ac59b117e.jpg" tvg-name="A Quien Solía Conocer (2023)" ,A Quien Solía Conocer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428485.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/778e81887908f5aa4b88e25029768584.jpg" tvg-name="En algún lugar de Queens (2023)" ,En algún lugar de Queens (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428486.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/345db197be419f3fa836efc37c1e925e.jpg" tvg-name="Sospechoso X (2023)" ,Sospechoso X (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428489.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/552742856106cc5f19c5303d7f170689.jpg" tvg-name="Sonido de Libertad (2023)" ,Sonido de Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428491.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6164c88d46a429245b6b2584660675c1.jpg" tvg-name="Soy una buena persona (2023)" ,Soy una buena persona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428494.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/95d08a921a5a126a948e146dadddd9dc.jpg" tvg-name="Spider-Man: A través del Spider-Verso (2023)" ,Spider-Man: A través del Spider-Verso (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428496.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c479637f89e25b918626bf81f6079cf5.jpg" tvg-name="Rosita Fresita y la Bestia del Plantano (2023)" ,Rosita Fresita y la Bestia del Plantano (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428502.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1c75c200c0615edfc488f7a4a8351b2c.jpg" tvg-name="Flow Callejero 2 (2023)" ,Flow Callejero 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428503.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4bb5d22f8b4e618084a698cba413f8a7.jpg" tvg-name="Supervillanos: Una Investigación (2023)" ,Supervillanos: Una Investigación (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428505.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8b9febd8b3963f3b4f5694ab1033d336.jpg" tvg-name="Asediado (2023)" ,Asediado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428512.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6876faa13f10e79e05b9a231bc8db3a2.jpg" tvg-name="Sé tu misma (2023)" ,Sé tu misma (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428517.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b3f4cd5af1945b0e17b39e06abea3e6e.jpg" tvg-name="Quiero que vuelvas (2022)" ,Quiero que vuelvas (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428519.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/79aadb206103af0b8f5a16a46ba40f99.jpg" tvg-name="Cuiden a Maya (2023)" ,Cuiden a Maya (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428521.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/11cdaa9b1aa92f13747594b93d508aa9.jpg" tvg-name="Te estoy amando locamente (2024)" ,Te estoy amando locamente (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428527.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/205a09b93b3676cecdec45b06e24aa0d.jpg" tvg-name="Demonio negro (2023)" ,Demonio negro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428531.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bbb8478a4398b9a0c7c8372a50efbebd.jpg" tvg-name="El Tutor (2023)" ,El Tutor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428534.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f426078549a28baef6e2d46a37240d9.jpg" tvg-name="El Panadero (2023)" ,El Panadero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428536.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2614757f0fd201cdcd94723faeda15e9.jpg" tvg-name="The Barn Part II (2022)" ,The Barn Part II (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428538.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d872c9d173f0ed474ca6057dc6588fbe.jpg" tvg-name="El mejor Padrino (2023)" ,El mejor Padrino (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428540.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02a788901d22491b3e92d407776f77aa.jpg" tvg-name="The Blackening (2023)" ,The Blackening (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428544.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b1875f6eaff051d1352e5f1e7e672060.jpg" tvg-name="Cucuy: The Boogeyman (2018)" ,Cucuy: The Boogeyman (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428545.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1d5b1954bc4024f44d63ad6dd2120f60.jpg" tvg-name="Enterrando una ambición (2023)" ,Enterrando una ambición (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428548.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c99854e89c3aab9c6096f33371191ad8.jpg" tvg-name="Los papás (2023)" ,Los papás (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428556.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fb3bb78e8a98a823a80e9bb6c679211f.jpg" tvg-name="Embarazo a Cualquier Precio (2023)" ,Embarazo a Cualquier Precio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428558.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5830544a2327673008aa76e9a357dea.jpg" tvg-name="El Justiciero: Capítulo final (2023)" ,El Justiciero: Capítulo final (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428559.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9dfd5ddaafad46f9da3f009bbe991c48.jpg" tvg-name="The List (2023)" ,The List (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428567.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d5fe1b4822a6fb77aa551047d8fb5f14.jpg" tvg-name="La Lista de Schindler (1993)" ,La Lista de Schindler (1993)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428568.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f567b6d5bc4464a4ea75299b935ff0ff.jpg" tvg-name="La máquina del tiempo (2002)" ,La máquina del tiempo (2002)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428572.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b875cd3259e75014aa755f278ba29c0.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428574.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0279d9da187794d8725a9d8ff9f13e07.jpg" tvg-name="Travesuras Navideñas (2023)" ,Travesuras Navideñas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428576.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d73bc5f83100569e79fa5bb576e729e8.jpg" tvg-name="The Outwaters (2023)" ,The Outwaters (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428583.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f08d6b172b9a226f9b187fe4cde52289.jpg" tvg-name="La niña tranquila (2022)" ,La niña tranquila (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428585.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3d9f850397b3186a69584de97350682c.jpg" tvg-name="Noche de Horror (2023)" ,Noche de Horror (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428587.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/040bc346ca68354b197012c5e798aad2.jpg" tvg-name="The Seven Deadly Sins: El rencor de Edimburgo (Parte 2) (2023)" ,The Seven Deadly Sins: El rencor de Edimburgo (Parte 2) (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428592.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1daf2b88268bb52f7989ef2bb81ca67b.jpg" tvg-name="The Stroll: Las Trabajadoras de la Calle 14 (2023)" ,The Stroll: Las Trabajadoras de la Calle 14 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428594.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0c4e467b58d394ebea499c20c63eebb8.jpg" tvg-name="La Princesa Encantada (1994)" ,La Princesa Encantada (1994)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428597.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/63f5f6321f9db4e91505e17f566e655c.jpg" tvg-name="Un día y medio (2023)" ,Un día y medio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428658.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/609a816ac008da21c9a3a6d4e4686c48.jpg" tvg-name="Un lugar por el que pelear (2023)" ,Un lugar por el que pelear (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428664.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/17661eec2ca1fd9607ba389c1b85ff62.jpg" tvg-name="Unos suegros de armas tomar (2023)" ,Unos suegros de armas tomar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428667.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/17661eec2ca1fd9607ba389c1b85ff62.jpg" tvg-name="Unos suegros de armas tomar (2023)" ,Unos suegros de armas tomar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428670.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0ed5e2eec17d8b42e78f150a4b435edd.jpg" tvg-name="Al descubierto: Johnny Football (2023)" ,Al descubierto: Johnny Football (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428674.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/937e5397a49456af28cb1dc89f3e186a.jpg" tvg-name="Unwelcome (2023)" ,Unwelcome (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428682.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d528b9cfd7a2e4174367b6a29869f8a.jpg" tvg-name="V/H/S/85 (2023)" ,V/H/S/85 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428684.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/22cdc7ad6541225f4de011cc5591eec5.jpg" tvg-name="Vacaciones de verano (2023)" ,Vacaciones de verano (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428687.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/af11c714e843b59dd75b37d7a6cd07d5.jpg" tvg-name="Verano en rojo (2023)" ,Verano en rojo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428691.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/976d69b4d3da55364ad5306a0a1831c9.jpg" tvg-name="Vida Adulta (2023)" ,Vida Adulta (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428696.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8fbe14965337136056c5463bb17b4846.jpg" tvg-name="Aquellos Viejos Tiempos (2003)" ,Aquellos Viejos Tiempos (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428699.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b719bd0a7c71859fda851f1f74295b4a.jpg" tvg-name="Viento Sur (2023)" ,Viento Sur (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428702.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/66b5a771c1cbd28359ffe182f9f10a86.jpg" tvg-name="Vjeran Tomic: L'homme-araignée de Paris (2023)" ,Vjeran Tomic: L'homme-araignée de Paris (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428710.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0a84d76da66b2c7cfc92329d9808a66f.jpg" tvg-name="On a Wing and a Prayer (2023)" ,On a Wing and a Prayer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428712.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/995a40c112f9bf9a5494b2df6180cf0f.jpg" tvg-name="Winnie The Pooh: Miel y Sangre 2 (2024)" ,Winnie The Pooh: Miel y Sangre 2 (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428717.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ded2bf7844bc366d929412fd94f60e0f.jpg" tvg-name="Las que ustedes no quemaron (2022)" ,Las que ustedes no quemaron (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428719.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5861517f872c628adb061766009dde3c.jpg" tvg-name="¿Y qué tendrá que ver el amor? (2023)" ,¿Y qué tendrá que ver el amor? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428722.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/88519501077848e6e97e43632d6cc2a2.jpg" tvg-name="Zodi y Tehu, Aventuras en el desierto (2023)" ,Zodi y Tehu, Aventuras en el desierto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428727.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4204ce767b7f1fa3d8bd412220789a93.jpg" tvg-name="Zomer in Frankrijk (2023)" ,Zomer in Frankrijk (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428729.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9a8801c7262de0f4b47f8c8d51e55392.jpg" tvg-name="Vaya vacaciones (2023)" ,Vaya vacaciones (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428732.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a6cc0f1e709b299854cdbb16e4bd6dcc.jpg" tvg-name="Érase una vez un asesinato (2023)" ,Érase una vez un asesinato (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428735.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/776cdf943bb0f2c110418724c6ad1bdb.jpg" tvg-name="Había una vez un estudio (2023)" ,Había una vez un estudio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428738.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/109e79184bee24a01fb60de733ef0dfc.jpg" tvg-name="Última noche en Milán (2023)" ,Última noche en Milán (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428741.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2ed46632e0f36bbec75f63d598cdab09.jpg" tvg-name="Últimas voluntades (2023)" ,Últimas voluntades (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428744.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a34fdcecfc99e2240f05d4e26484db7.jpg" tvg-name="24 horas con Gaspar (2023)" ,24 horas con Gaspar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431824.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/292c57ff47f5fc72748a3b295c8594bf.jpg" tvg-name="57 Segundos Atrás (2023)" ,57 Segundos Atrás (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431826.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0df0376553668e9b4243dc3ce4b1ac06.jpg" tvg-name="Tormenta ácida (2023)" ,Tormenta ácida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431835.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bf9b90640c0f75b5d1b956406a363c08.jpg" tvg-name="Acusado (2019)" ,Acusado (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431836.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8e0ea2a0c7dbb4a3deafea9a8151bcf9.jpg" tvg-name="Con todos menos contigo (2023)" ,Con todos menos contigo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431839.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0c3f57534805042ef67fbb896f914b23.jpg" tvg-name="Når befrielsen kommer (2023)" ,Når befrielsen kommer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431840.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e9ed666c9dd16081d0f13c83c1d463c2.jpg" tvg-name="Cuánto me queda (2023)" ,Cuánto me queda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431841.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09dc42f3cf3bf6ba1e81ffa3a5448044.jpg" tvg-name="Hazme el favor (2023)" ,Hazme el favor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431843.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2b54431814b65a7778bb91c1aca319b.jpg" tvg-name="El Latido del Cielo (2023)" ,El Latido del Cielo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431846.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/646465d19bcf7b75b51c02afe7e3c484.jpg" tvg-name="Creed 2: Defendiendo el Legado (2018)" ,Creed 2: Defendiendo el Legado (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431847.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/070d4535117e36e74d5504cf6cbae2d9.jpg" tvg-name="Le Livre des solutions (2023)" ,Le Livre des solutions (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431849.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eb7e8fa0662671d712b721eb0a01be65.jpg" tvg-name="El maestro que prometió el mar (2023)" ,El maestro que prometió el mar (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431850.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/26eb169d877333e1029546a32cd5d679.jpg" tvg-name="Gol gana (2023)" ,Gol gana (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431852.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3ef86f276877410cf24de90f4c51a341.jpg" tvg-name="El rapto (2023)" ,El rapto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431855.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fb939d17cebd032d4e9fbd28971304b3.jpg" tvg-name="Criaturas Asombrosas (2023)" ,Criaturas Asombrosas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431856.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2bc23f2f13503b2004db36f6f667ed43.jpg" tvg-name="El salón de profesores (2023)" ,El salón de profesores (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431858.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1561cf3383fd943faa55fb1c01109131.jpg" tvg-name="河边的错误 (2023)" ,河边的错误 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431859.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ced01a9ea81b97d47158b0d5d92b75c5.jpg" tvg-name="Juego del amor: Se terminó el tiempo 2 (2022)" ,Juego del amor: Se terminó el tiempo 2 (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431861.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f0643a16cbb526475f14ccffc4786524.jpg" tvg-name="The Engagement Dress (2023)" ,The Engagement Dress (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431862.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c9ec5ce0d91e6803c64a4c2a534d1f72.jpg" tvg-name="El camino de Hill (2023)" ,El camino de Hill (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431864.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/857e877f1a845851668e7fce721ee860.jpg" tvg-name="El viejo roble (2023)" ,El viejo roble (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431865.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ec11a7472447cb431572473ffee29ef0.jpg" tvg-name="Minsk En Llamas (2022)" ,Minsk En Llamas (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431867.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a9c70df6eb400222c52a7b18ead3522a.jpg" tvg-name="En nombre de la tierra (2023)" ,En nombre de la tierra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431869.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b1055bdbfbe1949aa7ef0d28e30953cc.jpg" tvg-name="Ferrari Carrera a la inmortalidad (2017)" ,Ferrari Carrera a la inmortalidad (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431875.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f618adff6e8475ae23edaa25ff82691.jpg" tvg-name="Fracasados (2022)" ,Fracasados (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431877.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d0e400e15ba31fbf144d85faaeac8c28.jpg" tvg-name="Gallo Rojo (2024)" ,Gallo Rojo (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431879.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0f969fefeeeb3d26cc79771c2e31b367.jpg" tvg-name="Golda (2023)" ,Golda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431881.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2fa476cec6521e4ebdbe7398da79fe03.jpg" tvg-name="Golpe de suerte (2006)" ,Golpe de suerte (2006)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431883.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1e7249b0ab17a6b5a82360bee8a3d391.jpg" tvg-name="Atraco 88 (2023)" ,Atraco 88 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431885.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/81ZCs3z7RmDlyVoDvIdb86AZ4tD.jpg" tvg-name="Evil Dead Rise Castellano" ,Evil Dead Rise Castellano
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/433981.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa2ac1144cdffb3418fad1e46e11a776.jpg" tvg-name="Ghosting: El espíritu de la Navidad (2019)" ,Ghosting: El espíritu de la Navidad (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/433996.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93052e6b3a5f3fbf11e77d691351b4bd.jpg" tvg-name="El poder de los centavos (2023)" ,El poder de los centavos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434001.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1495d4fec89e2d77671d9e8a7b408f27.jpg" tvg-name="Gracias, lo siento (2023)" ,Gracias, lo siento (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434003.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f5a8026eb588f7550047b544f462c3a.jpg" tvg-name="Gran Turismo: De jugador a corredor (2023)" ,Gran Turismo: De jugador a corredor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434009.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/73bfe83e523a70ae5b1f9af623dc1703.jpg" tvg-name="El Día del Fin del Mundo (2020)" ,El Día del Fin del Mundo (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434011.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4540a4c09874f3ce49f502d73c03084c.jpg" tvg-name="Una Gringa en México (2023)" ,Una Gringa en México (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434018.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a28cc2b2c879625186925c0a77470ba4.jpg" tvg-name="Guardianes de la Galaxia volumen 3 (2023)" ,Guardianes de la Galaxia volumen 3 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434022.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/99e2e365b55921a7e431639ff3c58c00.jpg" tvg-name="Guerra de Diamantes (2023)" ,Guerra de Diamantes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434025.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7cb9728832180acb6501466ae998cd4f.jpg" tvg-name="Mi Arma Era la Ley (2023)" ,Mi Arma Era la Ley (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434029.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/54753ee9f0c7b6d37775ff9372ab56ea.jpg" tvg-name="El Pacto (2023)" ,El Pacto (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434033.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f938f10e97ff835794b5834cb478d63e.jpg" tvg-name="Guia de Viaje hacia el Amor (2023)" ,Guia de Viaje hacia el Amor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434037.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fd322332789059748535aef9036d096b.jpg" tvg-name="Hanna i els monstres (2023)" ,Hanna i els monstres (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434045.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/fd322332789059748535aef9036d096b.jpg" tvg-name="Hanna i els monstres (2023)" ,Hanna i els monstres (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434047.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8954e6cb73c48cb79823e748c399a4b1.jpg" tvg-name="Hermana Muerte (2023)" ,Hermana Muerte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434050.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/41c8bf85670fe2bb04a5828530e23ef0.jpg" tvg-name="The Hidden Strike (2020)" ,The Hidden Strike (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434051.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c6f91c31c6c355cf2c2dac980ae53812.jpg" tvg-name="The Swan Princess: Far Longer Than Forever (2023)" ,The Swan Princess: Far Longer Than Forever (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434052.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cdc0d44e44005011c89cf7a9122860da.jpg" tvg-name="The Venture Bros.: La Sangre es Brillante (2023)" ,The Venture Bros.: La Sangre es Brillante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434053.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/205a09b93b3676cecdec45b06e24aa0d.jpg" tvg-name="Demonio negro (2023)" ,Demonio negro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434055.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d09ed12b0f2e75cb9a08878ea3d8773e.jpg" tvg-name="Confesiones de Tinto Brass (1995)" ,Confesiones de Tinto Brass (1995)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434056.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e8adfc1171d43ea79f5c42ba2044a05f.jpg" tvg-name="Misántropo (2023)" ,Misántropo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434058.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/10a4812969668a9dc56d8cb989a5e64a.jpg" tvg-name="Todos los nombres de Dios (2023)" ,Todos los nombres de Dios (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434060.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f309834ad278685084ee1b7ab74435cf.jpg" tvg-name="Mi padre (2022)" ,Mi padre (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434062.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f309834ad278685084ee1b7ab74435cf.jpg" tvg-name="Transfomers Rise the Beasts (2023)" ,Transfomers Rise the Beasts (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434063.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7dc093228dec262ddb04648efc5fbdc5.jpg" tvg-name="Transformers: El despertar de las bestias (2023)" ,Transformers: El despertar de las bestias (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434064.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa0a4c1d5d9ed94ec10894b05e59736b.jpg" tvg-name="Trolls 3: Se armó la banda (2023)" ,Trolls 3: Se armó la banda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434065.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a2b800b8319ca6e22aacd7aeca2dcbe9.jpg" tvg-name="Espíritu libre (2023)" ,Espíritu libre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434066.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/101576396f18869ed01da0d38fea1085.jpg" tvg-name="Misión de rescate 2 (2023)" ,Misión de rescate 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434068.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9be123c9973ac65cc87490b253562eae.jpg" tvg-name="Tácticas de Amor 2 (2023)" ,Tácticas de Amor 2 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434069.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6024b6086ec74418021741c5fbfd2979.jpg" tvg-name="Una Buena Película de Acción (2023)" ,Una Buena Película de Acción (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434070.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c2f711f2473a73546947deb8c5ebe9e5.jpg" tvg-name="Una buena persona (2023)" ,Una buena persona (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434071.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dd3e08132eb5b8062538d64616f9c0ef.jpg" tvg-name="Una imagen para creer (2023)" ,Una imagen para creer (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434073.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/515f3f6d3a73b929daaaae300be0e1b5.jpg" tvg-name="Fourmi (2019)" ,Fourmi (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434074.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12c6ab79b32a2d9c94125c7bb777742f.jpg" tvg-name="Isabella: o Caso Nardoni (2023)" ,Isabella: o Caso Nardoni (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434075.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5cbed951c5e4002ea3108472d4b900d2.jpg" tvg-name="Una vida maravillosa (2023)" ,Una vida maravillosa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434076.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde9e4aff2215421fb96ab588b9098ba.jpg" tvg-name="Cómplices del engaño (2024)" ,Cómplices del engaño (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/438953.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa96f84d0e7101f5f287ea4aaa382cf7.jpg" tvg-name="En Tierra de Santos y Pecadores (2023)" ,En Tierra de Santos y Pecadores (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/438954.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bf1ca4d8395249f50ccc5cec2a888d3e.jpg" tvg-name="A Fuego Lento (1980)" ,A Fuego Lento (1980)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439211.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1e9120fe33108019ea041914f274e862.jpg" tvg-name="Digimon Adventure 02: El Comienzo (2023)" ,Digimon Adventure 02: El Comienzo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439624.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb3f64c53a0a3b649a82edad0f20c815.jpg" tvg-name="El deshielo (2021)" ,El deshielo (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439847.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bc99fe234221a7cfd30158ae96614536.jpg" tvg-name="Sisi (2009)" ,Sisi (2009)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439848.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4efd724f4bb7da7ee1e1e2b8ddbcaafa.jpg" tvg-name="Garra de Hierro (2023)" ,Garra de Hierro (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/448440.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e65c41cea13256d8e08b6049a51132b1.jpg" tvg-name="Resurreción de las Brujas (2023)" ,Resurreción de las Brujas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449587.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c74d64f22e5d35140ece85f210e4b332.jpg" tvg-name="Resurrected (2023)" ,Resurrected (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449588.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f29b921cb2d9d8cd8351ab5b9323f47b.jpg" tvg-name="Retratos de una Guerra (2018)" ,Retratos de una Guerra (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449589.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6361d4ba9a3800d6e18fcf03e878d3a8.jpg" tvg-name="Rey de asesinos (2023)" ,Rey de asesinos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449590.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bacc0e2932c8087b1a0ff84861183fc6.jpg" tvg-name="Disco Boy (2023)" ,Disco Boy (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450391.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d2a63b32db6bd09b706fa9b7733419fd.jpg" tvg-name="La Contadora De Películas (2023)" ,La Contadora De Películas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450392.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/984f6e9b4d189b5d4ffc7fbbcaf7a52a.jpg" tvg-name="Ricos y malcriados (2021)" ,Ricos y malcriados (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/451515.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/04150d4b7cade27d71082cccb1b0ac82.jpg" tvg-name="Entre el Amor y la Amistad (2023)" ,Entre el Amor y la Amistad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/451671.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9219845efa2e5627b223a25c473ec211.jpg" tvg-name="Juntos Pero No Revueltos (2023)" ,Juntos Pero No Revueltos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/452491.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c9698e9c64d0b73689d15faf862517b9.jpg" tvg-name="La melodía del diablo (2023)" ,La melodía del diablo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/455760.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2d09a36e9e8c9e17982b2c72d2f39346.jpg" tvg-name="Arácnidos (2023)" ,Arácnidos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459617.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/89a4572601d65c206a099b3af902f8cb.jpg" tvg-name="El beso del demonio (2023)" ,El beso del demonio (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459620.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea6e159582526026e0347954430fcc91.jpg" tvg-name="El niño y la garza (2023)" ,El niño y la garza (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459622.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8be7b75bdf8841c31a342f9c7d566eda.jpg" tvg-name="Emboscada (2023)" ,Emboscada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459624.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ba40c82c6341d3edfc4ae504219b64cf.jpg" tvg-name="MR-9: Mision Mortal (2023)" ,MR-9: Mision Mortal (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459638.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b194442b24395a92967a36c408cba572.jpg" tvg-name="Un lugar en silencio: Día uno (2024)" ,Un lugar en silencio: Día uno (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459644.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8aa40675abdbb09a1a417fdef0668500.jpg" tvg-name="Acción Rápida (2023)" ,Acción Rápida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460010.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1810f56f4c01967f5511e48fa9b7439a.jpg" tvg-name="Campo de batalla: La caída del mundo (2022)" ,Campo de batalla: La caída del mundo (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460011.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a426f45518e4a4df91a93d592de835c8.jpg" tvg-name="De vuelta al crimen (2023)" ,De vuelta al crimen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460013.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4685b00198738a71628a2d4546fdf590.jpg" tvg-name="El demonio entre nosotros (2023)" ,El demonio entre nosotros (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460016.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4e2d03b09eb118f5034dba4d2bc5ec7.jpg" tvg-name="Fuerza Extrema (2023)" ,Fuerza Extrema (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460018.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a4d826e9ee6d5bbeb26b116313d605b6.jpg" tvg-name="Los Tres Mosqueteros 2: Milady (2023)" ,Los Tres Mosqueteros 2: Milady (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460026.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/73c31a2d9f14d9e5e3eda0202752cd9c.jpg" tvg-name="Ruta sin salida (2023)" ,Ruta sin salida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460033.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e2a534fa8079417ef7ca7dbf969fc783.jpg" tvg-name="Tempestad de hielo (2023)" ,Tempestad de hielo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460035.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a716460118134ff349a64ca2abb5b47d.jpg" tvg-name="El imaginario (2023)" ,El imaginario (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/461779.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/091c45778c7ee3d39218e01106c9dae2.jpg" tvg-name="Canceled (2023)" ,Canceled (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466660.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c989ce192cdc048729683c7762ba64a7.jpg" tvg-name="La Guerra de los Mundos: El Ataque (2023)" ,La Guerra de los Mundos: El Ataque (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466665.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/047ee6ffa64908cbed60ea6919af496c.jpg" tvg-name="La Pequeña Serena: Un Océano de Aventuras (2023)" ,La Pequeña Serena: Un Océano de Aventuras (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466666.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6a2cfa8fca999cb52d954a60c8f09a52.jpg" tvg-name="Una cigüeña en apuros: La joya perdida (2023)" ,Una cigüeña en apuros: La joya perdida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466671.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dac2ed7380922001ef6f8424a9e28d4b.jpg" tvg-name="Blood and Snow (2023)" ,Blood and Snow (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467654.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02a2fd79595ca606041995478941724b.jpg" tvg-name="Fuerza Bruta: Sin Salida (2023)" ,Fuerza Bruta: Sin Salida (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467655.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467657.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b1055bdbfbe1949aa7ef0d28e30953cc.jpg" tvg-name="Ferrari Carrera a la inmortalidad (2017)" ,Ferrari Carrera a la inmortalidad (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467714.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d4277ff6e4f69a90048033190e261ef7.jpg" tvg-name="Godzilla Minus One (2023)" ,Godzilla Minus One (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467721.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ce648b789f1ab7a1eb61f6eeb46d9350.jpg" tvg-name="Hachiko 2: Siempre a tu Lado (2023)" ,Hachiko 2: Siempre a tu Lado (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467727.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b79535b7e0835ae0d605d01f6f896dd1.jpg" tvg-name="I.S.S. (2024)" ,I.S.S. (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467731.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c706c12e194a4c03b568dcc7e9f54e19.jpg" tvg-name="Liga de la justicia: mundo Bélico (2023)" ,Liga de la justicia: mundo Bélico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467756.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f8a514c7923291536640acfc593e15a6.jpg" tvg-name="Por una mujer casada (2023)" ,Por una mujer casada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467787.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6555aea0d284223da8c15ba3ae3485ce.jpg" tvg-name="Voluntad de hierro (1994)" ,Voluntad de hierro (1994)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467828.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aea58e35b675ebd4e01f8604169cffd0.jpg" tvg-name="Alicia en el país de las pesadillas (2023)" ,Alicia en el país de las pesadillas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468431.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aea58e35b675ebd4e01f8604169cffd0.jpg" tvg-name="Johnny y Clyde - Socios del Crimen \ (2023)" ,Johnny y Clyde - Socios del Crimen \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468443.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/76a278f9988bdc0f4b6dad2aa61024ff.jpg" tvg-name="Thi Yot - Susurros Mortales (2023)" ,Thi Yot - Susurros Mortales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468446.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8be7b75bdf8841c31a342f9c7d566eda.jpg" tvg-name="Emboscada (2023)" ,Emboscada (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468524.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e245e35f46853b2bb1ef9dc6be66db9b.jpg" tvg-name="Barbie: Pulgarcita (2009)" ,Barbie: Pulgarcita (2009)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468526.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b91bf587f1be41b3dff19472bec87d4f.jpg" tvg-name="Enredos de Familia (2023)" ,Enredos de Familia (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468527.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28dec8fd5e6133b2309986e60305d294.jpg" tvg-name="מי מפחד מהזאב הרע (2013)" ,מי מפחד מהזאב הרע (2013)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468529.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6307a527e697c24935a9162f38c7fe70.jpg" tvg-name="Blue Beetle (2023)" ,Blue Beetle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468531.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6307a527e697c24935a9162f38c7fe70.jpg" tvg-name="Blue Beetle (2023)" ,Blue Beetle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468532.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/865555cb67e7a09cc350c2590ef1211a.jpg" tvg-name="Boogeyman: Tu miedo es real (2023)" ,Boogeyman: Tu miedo es real (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468534.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/865555cb67e7a09cc350c2590ef1211a.jpg" tvg-name="CACERIA EN VENEZIA TELESYNC" ,CACERIA EN VENEZIA TELESYNC
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468535.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/583453704389d1c45833602eddc5ddf3.jpg" tvg-name="Cenizas en el cielo (2023)" ,Cenizas en el cielo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468536.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/367957ee66ec676eeb92d16394ce2248.jpg" tvg-name="Pollitos en fuga: El origen de los nuggets (2023)" ,Pollitos en fuga: El origen de los nuggets (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468537.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7bdb066bda12c590c4270364f79318cf.jpg" tvg-name="Drácula: Mar de sangre (2023)" ,Drácula: Mar de sangre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468539.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9d11c74ed9eaee5bf6d554f3060c324f.jpg" tvg-name="Dulces y Sangrientos 16 (2023)" ,Dulces y Sangrientos 16 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468540.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1932f7496445d7298a1b1cc680da88da.jpg" tvg-name="El club de los lectores criminales (2023)" ,El club de los lectores criminales (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468542.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fc645d8634b2dd11e3265d6e76c9e4c.jpg" tvg-name="Elementos (2023)" ,Elementos (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468543.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e3da20b76d2d9e09882209c0ce7194fa.jpg" tvg-name="El exorcista: Creyentes (2023)" ,El exorcista: Creyentes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468545.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a3060ad8c594775dde1a580af7938ad.jpg" tvg-name="El monstruo dentro de mí (2023)" ,El monstruo dentro de mí (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468547.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ac9bb6ae1ee011a504f5f88a3177a7a0.jpg" tvg-name="Five Nights at Freddy's (2023)" ,Five Nights at Freddy's (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468549.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40395b712b05999f9648da73de0dbc1e.jpg" tvg-name="Flash (2023)" ,Flash (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468550.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a9acb79077d80882a7a8b2e82d60c2a2.jpg" tvg-name="Garras voraces (2023)" ,Garras voraces (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468552.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f5a8026eb588f7550047b544f462c3a.jpg" tvg-name="Gran Turismo: De jugador a corredor (2023)" ,Gran Turismo: De jugador a corredor (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468553.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/67ea01057d568a666ba24f5d9e3d2914.jpg" tvg-name="Muppets Haunted Mansion: La mansión hechizada (2021)" ,Muppets Haunted Mansion: La mansión hechizada (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468554.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/67ea01057d568a666ba24f5d9e3d2914.jpg" tvg-name="hazme el favor \(lat\)" ,hazme el favor \(lat\)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468555.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8954e6cb73c48cb79823e748c399a4b1.jpg" tvg-name="Hermana Muerte (2023)" ,Hermana Muerte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468557.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ad50d5bdddf64b98e18d18a67f6057e.jpg" tvg-name="Heroico (2023)" ,Heroico (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468559.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa9b17ae8300371d431cedece1b1ae95.jpg" tvg-name="Hijos de perra (2023)" ,Hijos de perra (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468560.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e033cca65b0a5357872ab263bb71fbfd.jpg" tvg-name="The Making of Indiana Jones and the Dial of Destiny (2023)" ,The Making of Indiana Jones and the Dial of Destiny (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468562.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bce7521f54871b2c0e3a74572dd6426b.jpg" tvg-name="Infelices para Siempre (2023)" ,Infelices para Siempre (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468563.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/22817fe4f6c1f65f7359c508706bae2f.jpg" tvg-name="La cita de Carl (2023)" ,La cita de Carl (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468565.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/00549b8c3b30033cf0dbb11abdd03b34.jpg" tvg-name="La gran seducción (2014)" ,La gran seducción (2014)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468567.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0082ad5a80e21375edd15b571a9dc6a2.jpg" tvg-name="La isla de las muñecas (2023)" ,La isla de las muñecas (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468568.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/64291227ea740bfc86d4b4c90df661e6.jpg" tvg-name="La monja II (2023)" ,La monja II (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468569.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9bc3e02ee094414ae68ce2bcf30c3f02.jpg" tvg-name="La oscuridad de la Luz del Mundo (2023)" ,La oscuridad de la Luz del Mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468571.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e3da20b76d2d9e09882209c0ce7194fa.jpg" tvg-name="El exorcista: Creyentes (2023)" ,El exorcista: Creyentes (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468573.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68863c2e50419ef69543d5dfa3a86c64.jpg" tvg-name="Los Tres Cerditos: El Lobo Feroz (1934)" ,Los Tres Cerditos: El Lobo Feroz (1934)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468574.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Los asesinos de la luna (2023)" ,Los asesinos de la luna (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468576.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Los Indestructibles 4 V2 TELESYNC Latino WwW.GDriveDescarga.Com" ,Los Indestructibles 4 V2 TELESYNC Latino WwW.GDriveDescarga.Com
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468577.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Me Enamoré De Una Chica Cristiana Pelicula Completa En Español Latino (2013)" ,Me Enamoré De Una Chica Cristiana Pelicula Completa En Español Latino (2013)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468578.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb41ce7f95c28c208c27aca50a5bf34a.jpg" tvg-name="Megalodón 2: El gran abismo (2023)" ,Megalodón 2: El gran abismo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468579.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6a9015274523d193628ef541b4c9d7af.jpg" tvg-name="Misión: Imposible - Sentencia mortal parte uno (2023)" ,Misión: Imposible - Sentencia mortal parte uno (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468580.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0e33d91f1114e96fd2c9f93e3920950f.jpg" tvg-name="Nadie podrá salvarte (2023)" ,Nadie podrá salvarte (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468583.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Nowhere (2023)" ,Nowhere (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468584.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Oppenheimer Hd Latino" ,Oppenheimer Hd Latino
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468585.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ffdf21c7149f8352828db5c4e73f81f6.jpg" tvg-name="Organ Trail (2023)" ,Organ Trail (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468587.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="PAW Patrol: La súper película (2023)" ,PAW Patrol: La súper película (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468588.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="Paw Patrol La súper película TELESYNC WwW.GDriveDescarga.Com" ,Paw Patrol La súper película TELESYNC WwW.GDriveDescarga.Com
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468589.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df56bedad9408b47e786d5ce67c82c3d.jpg" tvg-name="Cementerio de Mascotas: El Origen (2023)" ,Cementerio de Mascotas: El Origen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468590.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df56bedad9408b47e786d5ce67c82c3d.jpg" tvg-name="Cementerio de Mascotas: El Origen (2023)" ,Cementerio de Mascotas: El Origen (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468591.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/abffec0434a1e97ecfbad526db3148bc.jpg" tvg-name="Que Te Trague el Infierno (2018)" ,Que Te Trague el Infierno (2018)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468593.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b7d084847e0f07f8a0695934c1f1d38b.jpg" tvg-name="¿Quieres ser mi hijo? (2023)" ,¿Quieres ser mi hijo? (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468595.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde7c674fabfa478bf349a1d7089998f.jpg" tvg-name="Maniobra Radical (2021)" ,Maniobra Radical (2021)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468596.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde7c674fabfa478bf349a1d7089998f.jpg" tvg-name="Radically Inclusive - Founders - GLIDE Living Legacy" ,Radically Inclusive - Founders - GLIDE Living Legacy
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468597.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fc5a0f1c672e583125f38dcb73374e8.jpg" tvg-name="Rojo, Blanco y Sangre Azul (2023)" ,Rojo, Blanco y Sangre Azul (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468598.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/253d7b348d2fb6ee2e9518bcceca4ac8.jpg" tvg-name="Relatos salvajes (2014)" ,Relatos salvajes (2014)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468600.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/26490a00c3194505652809803bba8da7.jpg" tvg-name="Saw X: El juego del miedo (2023)" ,Saw X: El juego del miedo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468601.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/552742856106cc5f19c5303d7f170689.jpg" tvg-name="Sonido de Libertad (2023)" ,Sonido de Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468602.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/66676601faf4db71f0e09c52b437ace6.jpg" tvg-name="Splice: Experimento Mortal (2010)" ,Splice: Experimento Mortal (2010)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468603.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/681d84faeaddf42d3d1fb61cb70abba9.jpg" tvg-name="Tortugas Ninja: Caos mutante (2023)" ,Tortugas Ninja: Caos mutante (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468606.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5830544a2327673008aa76e9a357dea.jpg" tvg-name="El Justiciero: Capítulo final (2023)" ,El Justiciero: Capítulo final (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468608.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4835181135fe4712f2bbde4da7d1e8b5.jpg" tvg-name="El bufón (2023)" ,El bufón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468609.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b875cd3259e75014aa755f278ba29c0.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468610.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b875cd3259e75014aa755f278ba29c0.jpg" tvg-name="Trolls 3 FHD" ,Trolls 3 FHD
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468613.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa0a4c1d5d9ed94ec10894b05e59736b.jpg" tvg-name="Trolls 3: Se armó la banda (2023)" ,Trolls 3: Se armó la banda (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468614.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d528b9cfd7a2e4174367b6a29869f8a.jpg" tvg-name="V/H/S/85 (2023)" ,V/H/S/85 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468615.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb2ece5afb958c1fc22ed0a287342168.jpg" tvg-name="Your Name (2016)" ,Your Name (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468616.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb2ece5afb958c1fc22ed0a287342168.jpg" tvg-name="\[GDADICTOS.COM\] The Iron Claw \ (2023)" ,\[GDADICTOS.COM\] The Iron Claw \ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468617.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d381be0447569d062c5a3d9bf6b535b2.jpg" tvg-name="Slasher (2023)" ,Slasher (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/469195.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e3938731a29f4fded0ba9b0d371dc55.jpg" tvg-name="ミンナのウタ (2023)" ,ミンナのウタ (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/469196.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a82afc9d694123206672f13ee30ecff0.jpg" tvg-name="Hotel serpiente (2023)" ,Hotel serpiente (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/469292.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1e7249b0ab17a6b5a82360bee8a3d391.jpg" tvg-name="Atraco 88 (2023)" ,Atraco 88 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471889.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09ba390995e3436d4bffb1e51dfd5e93.jpg" tvg-name="La Mujer Más Bella de Saigón (2023)" ,La Mujer Más Bella de Saigón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471891.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93762d4993c04cc1868fdcaae90f30fd.jpg" tvg-name="Mona Lisa and the Blood Moon (2022)" ,Mona Lisa and the Blood Moon (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471902.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0fad2ded3ae174726e9f603e6543bed6.jpg" tvg-name="Viaje a las estrellas: Némesis (2002)" ,Viaje a las estrellas: Némesis (2002)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471904.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cc20cf431f8e41d492f0ec630f3e0ca3.jpg" tvg-name="A cierta edad (2023)" ,A cierta edad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471905.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df5e5652bbffa8070f7593588f2a8768.jpg" tvg-name="Ogre - El Día de la Cosecha (2022)" ,Ogre - El Día de la Cosecha (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471906.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3I6bNGbwrz-ZSLtXWanFmKdK-tr3csz5Duw&s" tvg-name="Isla del Cielo" ,Isla del Cielo
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471907.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/88c3f58646c28fa28076faa7618d74e2.jpg" tvg-name="Papá es cool (2022)" ,Papá es cool (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471909.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e374f4776f8cd5c47f3d1a30ac60fce1.jpg" tvg-name="Petite Solange (2022)" ,Petite Solange (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471910.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6452d4e6c76e2614cf828b8a5a1ff6d7.jpg" tvg-name="Pinky Aur Papa (2024)" ,Pinky Aur Papa (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471911.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bcb46feb483c859c1e5aed73a4e1057c.jpg" tvg-name="Pisando el Balón (2020)" ,Pisando el Balón (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471912.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/adc04c26e029a97794ff39c6d760e255.jpg" tvg-name="Prueba de fe (2007)" ,Prueba de fe (2007)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471913.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/276a730551b042a2525b7a6451dc7f38.jpg" tvg-name="La bruja roja (1948)" ,La bruja roja (1948)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471914.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28278b1845846e546ec189baadfef5d2.jpg" tvg-name="Santuario (2023)" ,Santuario (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471915.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2c7d288ec83b4378f19f611cfcf3a1ec.jpg" tvg-name="La sombra del crimen (2022)" ,La sombra del crimen (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471917.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/552742856106cc5f19c5303d7f170689.jpg" tvg-name="Sonido de Libertad (2023)" ,Sonido de Libertad (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471918.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c24e544ab7a290bc9e0ba858b2aa895e.jpg" tvg-name="That Time I Got Reincarnated as a Slime: El vínculo escarlata (2022)" ,That Time I Got Reincarnated as a Slime: El vínculo escarlata (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471919.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2511f0c0a2c95d305e54bc9c6442f6fb.jpg" tvg-name="La Venganza del Dragón (2023)" ,La Venganza del Dragón (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471920.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02a788901d22491b3e92d407776f77aa.jpg" tvg-name="The Blackening (2023)" ,The Blackening (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471921.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c50052dd230a84ab02679f9836a4a1fc.jpg" tvg-name="Una Familia Extraordinaria (2023)" ,Una Familia Extraordinaria (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471922.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4eddb76289bb90ba3d598377789d702e.jpg" tvg-name="We Had It Coming (2019)" ,We Had It Coming (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471923.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a1f3414b70350dff83dd7f42e0558154.jpg" tvg-name="Ant-Man: El hombre Hormiga (2015)" ,Ant-Man: El hombre Hormiga (2015)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471927.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPTvAW8Rcas5YehgvB1U21OfJvxglTmWk4ZEO4DsIy59MeROpd5PeVOY&s=10" tvg-name="Argentina vs. Francia - TyC Sports - Final - 18.12. (2022)" ,Argentina vs. Francia - TyC Sports - Final - 18.12. (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471928.mp4
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/45df528fd97bf543c75cb4a7cfc25d12.jpg" tvg-name="Avatar: El camino del agua (2022)" ,Avatar: El camino del agua (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471929.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e245e35f46853b2bb1ef9dc6be66db9b.jpg" tvg-name="Barbie: Pulgarcita (2009)" ,Barbie: Pulgarcita (2009)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471930.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/846a6aca470d0e18fb456836215baf2e.jpg" tvg-name="Perry Mason: The Case of the Lethal Lifestyle (1994)" ,Perry Mason: The Case of the Lethal Lifestyle (1994)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471932.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ec38621e091e67dc01b97b05b4a78f8b.jpg" tvg-name="Hombre Lobo por la noche (2022)" ,Hombre Lobo por la noche (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471933.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c0b53e543d1081f4b8ffa38d11c749a.jpg" tvg-name="거미집 (2023)" ,거미집 (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471934.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0e51e067f73df2bb86802239fa9bbef5.jpg" tvg-name="In Search of Darkness (2019)" ,In Search of Darkness (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471935.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6ba00b8c526266df905392626b5fb5db.jpg" tvg-name="Edén (2022)" ,Edén (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471936.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dcd8db80a7217546c07c0476ae0bf78f.jpg" tvg-name="La aplicación del cielo (2017)" ,La aplicación del cielo (2017)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471937.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1964502c1af944be8e29c26995079466.jpg" tvg-name="El sueño de Ariana (2022)" ,El sueño de Ariana (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471942.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0427e7dc9ac64eb871b913cec78372ab.jpg" tvg-name="Elvis el crespo" ,Elvis el crespo
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471943.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eefadae67fca847e47e0577d265b3359.jpg" tvg-name="Juegos entre Amigos: Despertar de Primavera (2023)" ,Juegos entre Amigos: Despertar de Primavera (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471944.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6cbe0a39fd7a6d287a6fe47750db43ac.jpg" tvg-name="Hora de brillar (2022)" ,Hora de brillar (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471947.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b43119848d3157f3f8c2ad8670953751.jpg" tvg-name="Hasta el Final (2022)" ,Hasta el Final (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471949.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/49ead063ef7f40449079de73950d33d2.jpg" tvg-name="Inu-Oh (2022)" ,Inu-Oh (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471950.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/56c868d79827dba5a528b0211eb84ff6.jpg" tvg-name="The Adventures of Kween Jhonabelle (2023)" ,The Adventures of Kween Jhonabelle (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471951.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2dd2bec8cffc97754b4874bfc213a143.jpg" tvg-name="El libro del demonio (2022)" ,El libro del demonio (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471953.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/480fb6aec012b74ca6b0d13bd9019f77.jpg" tvg-name="Alice, Querida (2022)" ,Alice, Querida (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471954.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28873999e4368f412d92550d366bd43d.jpg" tvg-name="La Farsa (2022)" ,La Farsa (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471956.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5536d60ce69e16a4828e6d457970bee6.jpg" tvg-name="Black Snake: La leyenda de la Serpiente Negra (2019)" ,Black Snake: La leyenda de la Serpiente Negra (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471958.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c7838c449af7dc18e8323a5f68c59f93.jpg" tvg-name="La Isla Siniestra (2010)" ,La Isla Siniestra (2010)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471959.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/803b092c642b84e68473e7637792239d.jpg" tvg-name="Las Coincidencias del Gran Amor (2022)" ,Las Coincidencias del Gran Amor (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471961.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/45507e273c4d34385a16564333822819.jpg" tvg-name="Las Vueltas del Amor (2016)" ,Las Vueltas del Amor (2016)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471962.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/69601e49cbbd40525cea17331c2d7905.jpg" tvg-name="Sed de Venganza 2 (2024)" ,Sed de Venganza 2 (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471963.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40232a84ee249f1780671f7c95179492.jpg" tvg-name="La venganza de la casa del Lago (2009)" ,La venganza de la casa del Lago (2009)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471964.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/483e8b3e8ec9b048eca3218a0e7cd1a0.jpg" tvg-name="La última mirada (2011)" ,La última mirada (2011)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471965.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/426d8b75f936b6f1617105dd57d6ed75.jpg" tvg-name="Lockedin Society (2022)" ,Lockedin Society (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471966.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/66fc8ab4f111a243433c74b6a8f0a70f.jpg" tvg-name="Los Piratas de la Calle de Abajo (2020)" ,Los Piratas de la Calle de Abajo (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471967.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05b0bee2c7129e62a797e30d006f0627.jpg" tvg-name="La mansion embrujada (2003)" ,La mansion embrujada (2003)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471970.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8a7794e07ebb26e0215a5e5c55d9da44.jpg" tvg-name="Marcel, el caracol con zapatos (2022)" ,Marcel, el caracol con zapatos (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471971.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5e7953c6c857a8ed230e31e804d69373.jpg" tvg-name="Jugando sucio (2020)" ,Jugando sucio (2020)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471972.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/428e09ce464c0a296327efe2deaf1e43.jpg" tvg-name="Once Upon a Time in London (2019)" ,Once Upon a Time in London (2019)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471973.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5946572ca835ab961a9d426516ce7ac2.jpg" tvg-name="Al filo del abismo (2022)" ,Al filo del abismo (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471974.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ca05822689f9b5f87aaa888177721b7d.jpg" tvg-name="La banda presidencial (2022)" ,La banda presidencial (2022)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471976.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/053893182d694c64c245725bfd1cb155.jpg" tvg-name="Rebel Moon (Parte dos): La guerrera que deja marcas (2024)" ,Rebel Moon (Parte dos): La guerrera que deja marcas (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/472541.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/128098f224a3b319d755981c7e9711b2.jpg" tvg-name="Herencia Siniestra (2024)" ,Herencia Siniestra (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473174.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e453cf37472dfd4b5bba0e424fe559ae.jpg" tvg-name="El Último Niño de la Tierra (2024)" ,El Último Niño de la Tierra (2024)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473311.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68abc204f1c69f5474e0e058e5e3c16f.jpg" tvg-name="SPY x FAMILY CÓDIGO: Blanco (2023)" ,SPY x FAMILY CÓDIGO: Blanco (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473437.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2fdd5b10fc7d0d89d45e276b00bdfbfe.jpg" tvg-name="Club Zero (2023)" ,Club Zero (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473666.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f9edc02601c7cebd9e6365865876a6d.jpg" tvg-name="El Rostro de la Venganza (1990)" ,El Rostro de la Venganza (1990)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473667.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ddfed80eb7d0d401fe33232b72c0f9cd.jpg" tvg-name="El amor de Andrea (2023)" ,El amor de Andrea (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473792.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0d2fceb19fa28ebbd8de2e9f30808c2b.jpg" tvg-name="El Secuestro del Papa (2023)" ,El Secuestro del Papa (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/474537.mkv
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3c74a8965a68561972c90fbeb7ff03de.jpg" tvg-name="De Espaldas al Mundo (2023)" ,De Espaldas al Mundo (2023)
+http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/475653.mkv
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Tusk (2014)" ,Tusk (2014)
 http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368959.mp4
 #EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8fc41b057ff6a79db0e0e569884bb4d4.jpg" tvg-name="El Ciempiés Humano 2: Secuencia completa (2011)" ,El Ciempiés Humano 2: Secuencia completa (2011)
