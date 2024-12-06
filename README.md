@@ -1,4 +1,382 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: 3 WAY PORN
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129981
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ADRIA RAE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129982
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_1 LA3 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129983
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: HOT_LA1 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129984
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_1 LA2 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129985
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: MY DIRTY HOBBY 4 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129986
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_1 LA4 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129987
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: HOT_LA3 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129988
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: HOT_LA4 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129989
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_1 LA6 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129990
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: HOT_LA7 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129991
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_1 LA5 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129992
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: ADULT POV [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129993
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: ADULT Russian [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129994
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: ALBA XXX 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129995
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: ALBA XXX 2
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129996
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: ALBA XXX 4
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129997
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: ALBA XXX 6
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129998
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: RedTraffic Teen (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/129999
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Step Sister
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130000
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Big Dick
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130001
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Blonde
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130002
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Blowjob
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130003
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: RedTraffic Threesome (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130004
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Brunette
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130005
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: BABES TV
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130006
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_2 LA2[VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130007
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: 	XXX A5
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130008
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_4 LA6 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130009
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: BARELY LEGAL TV
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130010
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: PRIVATE_LA2
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130011
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Max
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130012
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Passion XXX
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130013
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Eroxxx FHD
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130014
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: XXX 2 FHD
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130015
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx French Lover
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130016
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx LEO TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130017
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: BLACKED
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130018
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Jasmin TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130019
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130020
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130021
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: PRIVATE_LA3
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130022
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: EROTIC_1 LA1 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130023
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx O la la TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130024
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: BRAZZERS TV EUROPE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130025
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: ᴘʀᴇᴍɪᴜᴍ xxx Prıvate TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130026
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: 86 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130027
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: BRAZZERS [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130028
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: Candy
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130029
+#EXTINF:-1 group-title="XXX | VIP 18+" ,XXX: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 2 (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130030
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ALBA XXX HD 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130031
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 2 (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130032
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: Tushy TV [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130033
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Alba XXX 3
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130034
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Midnight Secrets
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130035
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Playboy TV LIVE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130036
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 4 (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130037
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 6 (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130038
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 7 (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130039
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 5 (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130040
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Pink O TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130041
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Babysitter
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130042
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Playboy Europe (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130043
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Jasmin
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130044
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Sct HQ (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130045
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx:  Alba XXX 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130046
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Sextreme (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130047
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: DEUTSCHLAND REPORT
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130048
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Sext & Senso (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130049
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Sexy HOT (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130050
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGYIlxwJ07tTbtj0ncExM_ujkPmlqyW0UBzhbVzDq3u-aQ.jpg" ,XXX: DORCEL HD [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130051
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: DORCEL [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130052
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: (VIP) EmS - Adult-19
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130053
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: DUSK [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130054
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: XXX82 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130055
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: 85
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130056
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PRIVATE_LA6 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130057
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Vivid Red (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130058
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROX HD [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130059
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaGEV_0A9bV2dvc7LRujqHNM-7KTvudaGQyveshYLo7jQ.jpg" ,XXX: EROX [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130060
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130061
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx XXL (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130062
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGYcX4U8I74FS-ITcAs4wEZsuMju988__7YStP90EkKMoQ.jpg" ,XXX: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 1 (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130063
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaGEV_0A9bV2dvc7LRujqHNPDRB5Gmz-Cpj4lm7U9iOBQ.png" ,XXX: PRIVATE_LA12 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130064
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx X Muvi (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130065
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: FETISH
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130066
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: GABRIELLE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130067
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://asiagrandiptv.us/logo//GAYTV.png" ,XXX: GAY [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130068
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: B2
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130069
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx ОХ АХ (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130070
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: Hardcore
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130071
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Lana 24
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130072
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGbjCOrMtdAVO1d_lWilL9LDd1AnBr5AXL_eExvB7WBvSw.jpg" ,XXX: PRIVATE_LA5 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130073
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: HOTCLUB GLORYHOLE 3 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130074
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: HOTCLUB LADYBOY 2 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130075
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGbjCOrMtdAVO1d_lWilL9LDyoJSBb23lHvC8_6E1YMhbA.png" ,XXX: HUSTLER HD [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130076
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGbjCOrMtdAVO1d_lWilL9LDDEMe-Qjo05EZ-lFwK4lwfQ.png" ,XXX: Fake Agent FHD (18+) [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130077
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx HUSTLER TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130078
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGb2NZUq0tp8dpj4AZNboWHW4wJ-QNK7RMhvX_OLKQcN2g.png" ,XXX: JASMIN TV [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130079
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: 86
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130080
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: KENDRA LUST
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130082
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: KHLOE-KAY
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130083
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: B6
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130084
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: LESBIAN
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130085
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: LITTLE ASIANS
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130086
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Alba XXX 4
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130087
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://asiagrandiptv.us/logo//SCORELAND.jpg" ,XXX: Meiden van Holland Hard
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130088
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Adul
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130089
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: MIA KHALIFA
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130090
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX:  MILF TV
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130091
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: 	MY DIRTY HOBBY 1 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130092
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Alba XXX 4
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130093
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: NURSE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130094
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: OLDTIMER [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130095
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ORGASM
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130096
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: OUTDOOR
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130097
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PENTHOUSE GOLD
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130098
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZa2kNh8uYu7eNQsA8VK2BX4HTTAqqm6lq1PKgtSWQy2uLqSl7VQ248lk_sUTXaeAA.jpg" ,XXX: XXX PLUS[VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130099
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PRIVATE_LA4 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130100
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PENTHOUSE QUICKIES
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130101
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaGEV_0A9bV2dvc7LRujqHNrxPLO1c5EOZ19YexGXn09Q.png" ,XXX: PINK EROTIC 2 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130102
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaGEV_0A9bV2dvc7LRujqHNz_G5_53l04BAZ8ZXHSTDZw.png" ,XXX: PINK EROTIC 3 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130103
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaGEV_0A9bV2dvc7LRujqHN8fFnBONNUZvfCGkrB51-rg.png" ,XXX: PINK EROTIC 5 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130104
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaGEV_0A9bV2dvc7LRujqHNCJHuHQhgZJWOt987FeA94w.png" ,XXX: PINK EROTIC 7 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130105
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaGEV_0A9bV2dvc7LRujqHN3xgTfVcDTnRW2lAHu0X8Xg.png" ,XXX: PINK EROTIC 8 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130106
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PINK O TV
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130107
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PRIVATE_LA
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130108
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_2 LA4 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130109
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: SeXation
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130110
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: xxx81 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130111
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PROBERTY
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130112
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: REALITY KINGS TV [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130113
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PRIVATE_LA14 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130114
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: REDHAT SEX 19 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130115
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: REDHAT SEX 2 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130116
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: XXX A3[VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130117
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: XXX A2 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130118
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX:  PINK EROTIC 6 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130119
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZ1z_NOO25fh01y77UjWEA70xc6qOTDJM5aA4tRWFrZpw.png" ,XXX: REDLIGHT HD [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130120
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX:  PRIVATE_LA9 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130121
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Mandingo
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130122
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ROCCO STEELE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130123
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: RUSSKAYA NOCH [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130124
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Hot TV (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130125
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZHXIpE3e2UXVYYlTKh5b1feE7YunIjuFq3VpO3CWuSpQ.jpg" ,XXX: EROTIC 4 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130126
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: Alba XXX HD 2
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130127
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: Stars XXX [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130128
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: STEP-SIBLINGS-CAUGHT
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130129
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: TEEN REDHAT SEX [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130130
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse (18+)
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130131
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PRIVATE_LA8 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130132
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaBa0RTE92CrbodP2KUmuax3MT85P-21I71v2FVUPSkig.png" ,XXX: VISIT-X TV HD [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130133
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaBa0RTE92CrbodP2KUmuaxQOyUKyXnuI86V9jySC9LXA.jpg" ,XXX: Alba XXX 1 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130134
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGbl3_jwWhrC5ox2WvyLwxfcEcX0jodhAybCv3dF3CHz2g.png" ,XXX: XXL [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130135
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,xxx: XXX
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130136
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: XXX 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130137
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: XXX 2
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130138
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_2 LA5 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130140
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGbl3_jwWhrC5ox2WvyLwxfcJOz8ssIi92WgLzOPLpAOAw.png" ,XXX: EROTIC_2 LA6 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130141
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: EROTIC_3 [VIP]
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130142
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="s:1:/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGbl3_jwWhrC5ox2WvyLwxfcJ8QImCIzSeI__GsSujQdMw.png" ,XXX: XY PLUS
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130143
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Young Legal Porn 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130144
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Sicflics
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130145
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Sell Your GF
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130146
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: XXX A6
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130147
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Sasha Grey 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130148
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Pierre Woodman X Castings 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130149
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Nylonsland
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130150
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Momswap
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130151
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PORNBOX PRIVATE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130152
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Lipstick Lesbian Teen
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130153
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 In The VIP
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130154
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 I Feel Myself
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130155
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PRIVATE
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130156
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Dorcel Club
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130157
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: Big Ass
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130158
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: Asian
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130159
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX:  FILMAX Adult 3
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130160
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: PURPLE BITCH
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130161
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: True Amateurs
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130162
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 College Rules 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130163
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Adult - Fit 18
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130164
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Casual Teen Sex 1
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130165
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Brazzers FHD
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130166
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 Babes
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130167
+#EXTINF:-1 group-title="XXX | VIP 18+" tvg-logo="https://docdog.top/logo/countries/xxx/pornhub.png" ,XXX: N1 African Casting
+http://viprrbz.top:8080/VIP01511709449874005/b2ce6c2a9b87/130168
+
+30168
+
+
+
 #EXTINF:-1 group-title="⭐ESTRENOS 2024" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg" tvg-name="60 minutos (2024)" ,60 minutos (2024)
 http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/482219.mkv
 #EXTINF:-1 group-title="⭐ESTRENOS 2024" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg" tvg-name="Abigail (2024)" ,Abigail (2024)
@@ -7369,3007 +7747,4 @@ http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434070.mkv
 http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434071.mkv
 #EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dd3e08132eb5b8062538d64616f9c0ef.jpg" tvg-name="Una imagen para creer (2023)" ,Una imagen para creer (2023)
 http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434073.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/515f3f6d3a73b929daaaae300be0e1b5.jpg" tvg-name="Fourmi (2019)" ,Fourmi (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434074.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/12c6ab79b32a2d9c94125c7bb777742f.jpg" tvg-name="Isabella: o Caso Nardoni (2023)" ,Isabella: o Caso Nardoni (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434075.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5cbed951c5e4002ea3108472d4b900d2.jpg" tvg-name="Una vida maravillosa (2023)" ,Una vida maravillosa (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/434076.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde9e4aff2215421fb96ab588b9098ba.jpg" tvg-name="Cómplices del engaño (2024)" ,Cómplices del engaño (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/438953.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa96f84d0e7101f5f287ea4aaa382cf7.jpg" tvg-name="En Tierra de Santos y Pecadores (2023)" ,En Tierra de Santos y Pecadores (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/438954.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bf1ca4d8395249f50ccc5cec2a888d3e.jpg" tvg-name="A Fuego Lento (1980)" ,A Fuego Lento (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439211.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1e9120fe33108019ea041914f274e862.jpg" tvg-name="Digimon Adventure 02: El Comienzo (2023)" ,Digimon Adventure 02: El Comienzo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439624.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb3f64c53a0a3b649a82edad0f20c815.jpg" tvg-name="El deshielo (2021)" ,El deshielo (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439847.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bc99fe234221a7cfd30158ae96614536.jpg" tvg-name="Sisi (2009)" ,Sisi (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/439848.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4efd724f4bb7da7ee1e1e2b8ddbcaafa.jpg" tvg-name="Garra de Hierro (2023)" ,Garra de Hierro (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/448440.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e65c41cea13256d8e08b6049a51132b1.jpg" tvg-name="Resurreción de las Brujas (2023)" ,Resurreción de las Brujas (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449587.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c74d64f22e5d35140ece85f210e4b332.jpg" tvg-name="Resurrected (2023)" ,Resurrected (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449588.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f29b921cb2d9d8cd8351ab5b9323f47b.jpg" tvg-name="Retratos de una Guerra (2018)" ,Retratos de una Guerra (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449589.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6361d4ba9a3800d6e18fcf03e878d3a8.jpg" tvg-name="Rey de asesinos (2023)" ,Rey de asesinos (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449590.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bacc0e2932c8087b1a0ff84861183fc6.jpg" tvg-name="Disco Boy (2023)" ,Disco Boy (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450391.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d2a63b32db6bd09b706fa9b7733419fd.jpg" tvg-name="La Contadora De Películas (2023)" ,La Contadora De Películas (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450392.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/984f6e9b4d189b5d4ffc7fbbcaf7a52a.jpg" tvg-name="Ricos y malcriados (2021)" ,Ricos y malcriados (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/451515.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/04150d4b7cade27d71082cccb1b0ac82.jpg" tvg-name="Entre el Amor y la Amistad (2023)" ,Entre el Amor y la Amistad (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/451671.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9219845efa2e5627b223a25c473ec211.jpg" tvg-name="Juntos Pero No Revueltos (2023)" ,Juntos Pero No Revueltos (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/452491.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c9698e9c64d0b73689d15faf862517b9.jpg" tvg-name="La melodía del diablo (2023)" ,La melodía del diablo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/455760.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2d09a36e9e8c9e17982b2c72d2f39346.jpg" tvg-name="Arácnidos (2023)" ,Arácnidos (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459617.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/89a4572601d65c206a099b3af902f8cb.jpg" tvg-name="El beso del demonio (2023)" ,El beso del demonio (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459620.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ea6e159582526026e0347954430fcc91.jpg" tvg-name="El niño y la garza (2023)" ,El niño y la garza (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459622.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8be7b75bdf8841c31a342f9c7d566eda.jpg" tvg-name="Emboscada (2023)" ,Emboscada (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459624.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ba40c82c6341d3edfc4ae504219b64cf.jpg" tvg-name="MR-9: Mision Mortal (2023)" ,MR-9: Mision Mortal (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459638.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b194442b24395a92967a36c408cba572.jpg" tvg-name="Un lugar en silencio: Día uno (2024)" ,Un lugar en silencio: Día uno (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459644.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8aa40675abdbb09a1a417fdef0668500.jpg" tvg-name="Acción Rápida (2023)" ,Acción Rápida (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460010.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1810f56f4c01967f5511e48fa9b7439a.jpg" tvg-name="Campo de batalla: La caída del mundo (2022)" ,Campo de batalla: La caída del mundo (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460011.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a426f45518e4a4df91a93d592de835c8.jpg" tvg-name="De vuelta al crimen (2023)" ,De vuelta al crimen (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460013.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4685b00198738a71628a2d4546fdf590.jpg" tvg-name="El demonio entre nosotros (2023)" ,El demonio entre nosotros (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460016.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f4e2d03b09eb118f5034dba4d2bc5ec7.jpg" tvg-name="Fuerza Extrema (2023)" ,Fuerza Extrema (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460018.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a4d826e9ee6d5bbeb26b116313d605b6.jpg" tvg-name="Los Tres Mosqueteros 2: Milady (2023)" ,Los Tres Mosqueteros 2: Milady (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460026.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/73c31a2d9f14d9e5e3eda0202752cd9c.jpg" tvg-name="Ruta sin salida (2023)" ,Ruta sin salida (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460033.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e2a534fa8079417ef7ca7dbf969fc783.jpg" tvg-name="Tempestad de hielo (2023)" ,Tempestad de hielo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460035.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a716460118134ff349a64ca2abb5b47d.jpg" tvg-name="El imaginario (2023)" ,El imaginario (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/461779.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/091c45778c7ee3d39218e01106c9dae2.jpg" tvg-name="Canceled (2023)" ,Canceled (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466660.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c989ce192cdc048729683c7762ba64a7.jpg" tvg-name="La Guerra de los Mundos: El Ataque (2023)" ,La Guerra de los Mundos: El Ataque (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466665.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/047ee6ffa64908cbed60ea6919af496c.jpg" tvg-name="La Pequeña Serena: Un Océano de Aventuras (2023)" ,La Pequeña Serena: Un Océano de Aventuras (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466666.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6a2cfa8fca999cb52d954a60c8f09a52.jpg" tvg-name="Una cigüeña en apuros: La joya perdida (2023)" ,Una cigüeña en apuros: La joya perdida (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/466671.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dac2ed7380922001ef6f8424a9e28d4b.jpg" tvg-name="Blood and Snow (2023)" ,Blood and Snow (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467654.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02a2fd79595ca606041995478941724b.jpg" tvg-name="Fuerza Bruta: Sin Salida (2023)" ,Fuerza Bruta: Sin Salida (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467655.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c1ec336c508c8cb58f1508fd232e12c8.jpg" tvg-name="No hables con extraños (2024)" ,No hables con extraños (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467657.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b1055bdbfbe1949aa7ef0d28e30953cc.jpg" tvg-name="Ferrari Carrera a la inmortalidad (2017)" ,Ferrari Carrera a la inmortalidad (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467714.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d4277ff6e4f69a90048033190e261ef7.jpg" tvg-name="Godzilla Minus One (2023)" ,Godzilla Minus One (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467721.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ce648b789f1ab7a1eb61f6eeb46d9350.jpg" tvg-name="Hachiko 2: Siempre a tu Lado (2023)" ,Hachiko 2: Siempre a tu Lado (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467727.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b79535b7e0835ae0d605d01f6f896dd1.jpg" tvg-name="I.S.S. (2024)" ,I.S.S. (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467731.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c706c12e194a4c03b568dcc7e9f54e19.jpg" tvg-name="Liga de la justicia: mundo Bélico (2023)" ,Liga de la justicia: mundo Bélico (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467756.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/f8a514c7923291536640acfc593e15a6.jpg" tvg-name="Por una mujer casada (2023)" ,Por una mujer casada (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467787.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6555aea0d284223da8c15ba3ae3485ce.jpg" tvg-name="Voluntad de hierro (1994)" ,Voluntad de hierro (1994)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467828.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aea58e35b675ebd4e01f8604169cffd0.jpg" tvg-name="Alicia en el país de las pesadillas (2023)" ,Alicia en el país de las pesadillas (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468431.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aea58e35b675ebd4e01f8604169cffd0.jpg" tvg-name="Johnny y Clyde - Socios del Crimen \ (2023)" ,Johnny y Clyde - Socios del Crimen \ (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468443.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/76a278f9988bdc0f4b6dad2aa61024ff.jpg" tvg-name="Thi Yot - Susurros Mortales (2023)" ,Thi Yot - Susurros Mortales (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468446.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8be7b75bdf8841c31a342f9c7d566eda.jpg" tvg-name="Emboscada (2023)" ,Emboscada (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468524.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e245e35f46853b2bb1ef9dc6be66db9b.jpg" tvg-name="Barbie: Pulgarcita (2009)" ,Barbie: Pulgarcita (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468526.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b91bf587f1be41b3dff19472bec87d4f.jpg" tvg-name="Enredos de Familia (2023)" ,Enredos de Familia (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468527.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28dec8fd5e6133b2309986e60305d294.jpg" tvg-name="מי מפחד מהזאב הרע (2013)" ,מי מפחד מהזאב הרע (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468529.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6307a527e697c24935a9162f38c7fe70.jpg" tvg-name="Blue Beetle (2023)" ,Blue Beetle (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468531.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6307a527e697c24935a9162f38c7fe70.jpg" tvg-name="Blue Beetle (2023)" ,Blue Beetle (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468532.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/865555cb67e7a09cc350c2590ef1211a.jpg" tvg-name="Boogeyman: Tu miedo es real (2023)" ,Boogeyman: Tu miedo es real (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468534.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/865555cb67e7a09cc350c2590ef1211a.jpg" tvg-name="CACERIA EN VENEZIA TELESYNC" ,CACERIA EN VENEZIA TELESYNC
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468535.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/583453704389d1c45833602eddc5ddf3.jpg" tvg-name="Cenizas en el cielo (2023)" ,Cenizas en el cielo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468536.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/367957ee66ec676eeb92d16394ce2248.jpg" tvg-name="Pollitos en fuga: El origen de los nuggets (2023)" ,Pollitos en fuga: El origen de los nuggets (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468537.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7bdb066bda12c590c4270364f79318cf.jpg" tvg-name="Drácula: Mar de sangre (2023)" ,Drácula: Mar de sangre (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468539.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9d11c74ed9eaee5bf6d554f3060c324f.jpg" tvg-name="Dulces y Sangrientos 16 (2023)" ,Dulces y Sangrientos 16 (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468540.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1932f7496445d7298a1b1cc680da88da.jpg" tvg-name="El club de los lectores criminales (2023)" ,El club de los lectores criminales (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468542.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7fc645d8634b2dd11e3265d6e76c9e4c.jpg" tvg-name="Elementos (2023)" ,Elementos (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468543.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e3da20b76d2d9e09882209c0ce7194fa.jpg" tvg-name="El exorcista: Creyentes (2023)" ,El exorcista: Creyentes (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468545.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7a3060ad8c594775dde1a580af7938ad.jpg" tvg-name="El monstruo dentro de mí (2023)" ,El monstruo dentro de mí (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468547.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ac9bb6ae1ee011a504f5f88a3177a7a0.jpg" tvg-name="Five Nights at Freddy's (2023)" ,Five Nights at Freddy's (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468549.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40395b712b05999f9648da73de0dbc1e.jpg" tvg-name="Flash (2023)" ,Flash (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468550.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a9acb79077d80882a7a8b2e82d60c2a2.jpg" tvg-name="Garras voraces (2023)" ,Garras voraces (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468552.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8f5a8026eb588f7550047b544f462c3a.jpg" tvg-name="Gran Turismo: De jugador a corredor (2023)" ,Gran Turismo: De jugador a corredor (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468553.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/67ea01057d568a666ba24f5d9e3d2914.jpg" tvg-name="Muppets Haunted Mansion: La mansión hechizada (2021)" ,Muppets Haunted Mansion: La mansión hechizada (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468554.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/67ea01057d568a666ba24f5d9e3d2914.jpg" tvg-name="hazme el favor \(lat\)" ,hazme el favor \(lat\)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468555.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8954e6cb73c48cb79823e748c399a4b1.jpg" tvg-name="Hermana Muerte (2023)" ,Hermana Muerte (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468557.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9ad50d5bdddf64b98e18d18a67f6057e.jpg" tvg-name="Heroico (2023)" ,Heroico (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468559.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa9b17ae8300371d431cedece1b1ae95.jpg" tvg-name="Hijos de perra (2023)" ,Hijos de perra (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468560.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e033cca65b0a5357872ab263bb71fbfd.jpg" tvg-name="The Making of Indiana Jones and the Dial of Destiny (2023)" ,The Making of Indiana Jones and the Dial of Destiny (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468562.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bce7521f54871b2c0e3a74572dd6426b.jpg" tvg-name="Infelices para Siempre (2023)" ,Infelices para Siempre (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468563.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/22817fe4f6c1f65f7359c508706bae2f.jpg" tvg-name="La cita de Carl (2023)" ,La cita de Carl (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468565.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/00549b8c3b30033cf0dbb11abdd03b34.jpg" tvg-name="La gran seducción (2014)" ,La gran seducción (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468567.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0082ad5a80e21375edd15b571a9dc6a2.jpg" tvg-name="La isla de las muñecas (2023)" ,La isla de las muñecas (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468568.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/64291227ea740bfc86d4b4c90df661e6.jpg" tvg-name="La monja II (2023)" ,La monja II (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468569.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9bc3e02ee094414ae68ce2bcf30c3f02.jpg" tvg-name="La oscuridad de la Luz del Mundo (2023)" ,La oscuridad de la Luz del Mundo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468571.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e3da20b76d2d9e09882209c0ce7194fa.jpg" tvg-name="El exorcista: Creyentes (2023)" ,El exorcista: Creyentes (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468573.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68863c2e50419ef69543d5dfa3a86c64.jpg" tvg-name="Los Tres Cerditos: El Lobo Feroz (1934)" ,Los Tres Cerditos: El Lobo Feroz (1934)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468574.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Los asesinos de la luna (2023)" ,Los asesinos de la luna (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468576.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Los Indestructibles 4 V2 TELESYNC Latino WwW.GDriveDescarga.Com" ,Los Indestructibles 4 V2 TELESYNC Latino WwW.GDriveDescarga.Com
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468577.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/7d5227a496da2329c47fe4a6643502c8.jpg" tvg-name="Me Enamoré De Una Chica Cristiana Pelicula Completa En Español Latino (2013)" ,Me Enamoré De Una Chica Cristiana Pelicula Completa En Español Latino (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468578.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cb41ce7f95c28c208c27aca50a5bf34a.jpg" tvg-name="Megalodón 2: El gran abismo (2023)" ,Megalodón 2: El gran abismo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468579.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6a9015274523d193628ef541b4c9d7af.jpg" tvg-name="Misión: Imposible - Sentencia mortal parte uno (2023)" ,Misión: Imposible - Sentencia mortal parte uno (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468580.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0e33d91f1114e96fd2c9f93e3920950f.jpg" tvg-name="Nadie podrá salvarte (2023)" ,Nadie podrá salvarte (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468583.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Nowhere (2023)" ,Nowhere (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468584.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d6c156b904009d641dba1eb2612457f8.jpg" tvg-name="Oppenheimer Hd Latino" ,Oppenheimer Hd Latino
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468585.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ffdf21c7149f8352828db5c4e73f81f6.jpg" tvg-name="Organ Trail (2023)" ,Organ Trail (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468587.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="PAW Patrol: La súper película (2023)" ,PAW Patrol: La súper película (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468588.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e0ce630ace20641822b1752ea189d297.jpg" tvg-name="Paw Patrol La súper película TELESYNC WwW.GDriveDescarga.Com" ,Paw Patrol La súper película TELESYNC WwW.GDriveDescarga.Com
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468589.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df56bedad9408b47e786d5ce67c82c3d.jpg" tvg-name="Cementerio de Mascotas: El Origen (2023)" ,Cementerio de Mascotas: El Origen (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468590.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df56bedad9408b47e786d5ce67c82c3d.jpg" tvg-name="Cementerio de Mascotas: El Origen (2023)" ,Cementerio de Mascotas: El Origen (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468591.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/abffec0434a1e97ecfbad526db3148bc.jpg" tvg-name="Que Te Trague el Infierno (2018)" ,Que Te Trague el Infierno (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468593.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b7d084847e0f07f8a0695934c1f1d38b.jpg" tvg-name="¿Quieres ser mi hijo? (2023)" ,¿Quieres ser mi hijo? (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468595.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde7c674fabfa478bf349a1d7089998f.jpg" tvg-name="Maniobra Radical (2021)" ,Maniobra Radical (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468596.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dde7c674fabfa478bf349a1d7089998f.jpg" tvg-name="Radically Inclusive - Founders - GLIDE Living Legacy" ,Radically Inclusive - Founders - GLIDE Living Legacy
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468597.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3fc5a0f1c672e583125f38dcb73374e8.jpg" tvg-name="Rojo, Blanco y Sangre Azul (2023)" ,Rojo, Blanco y Sangre Azul (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468598.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/253d7b348d2fb6ee2e9518bcceca4ac8.jpg" tvg-name="Relatos salvajes (2014)" ,Relatos salvajes (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468600.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/26490a00c3194505652809803bba8da7.jpg" tvg-name="Saw X: El juego del miedo (2023)" ,Saw X: El juego del miedo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468601.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/552742856106cc5f19c5303d7f170689.jpg" tvg-name="Sonido de Libertad (2023)" ,Sonido de Libertad (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468602.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/66676601faf4db71f0e09c52b437ace6.jpg" tvg-name="Splice: Experimento Mortal (2010)" ,Splice: Experimento Mortal (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468603.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/681d84faeaddf42d3d1fb61cb70abba9.jpg" tvg-name="Tortugas Ninja: Caos mutante (2023)" ,Tortugas Ninja: Caos mutante (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468606.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e5830544a2327673008aa76e9a357dea.jpg" tvg-name="El Justiciero: Capítulo final (2023)" ,El Justiciero: Capítulo final (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468608.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4835181135fe4712f2bbde4da7d1e8b5.jpg" tvg-name="El bufón (2023)" ,El bufón (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468609.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b875cd3259e75014aa755f278ba29c0.jpg" tvg-name="The Marvels (2023)" ,The Marvels (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468610.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9b875cd3259e75014aa755f278ba29c0.jpg" tvg-name="Trolls 3 FHD" ,Trolls 3 FHD
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468613.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/aa0a4c1d5d9ed94ec10894b05e59736b.jpg" tvg-name="Trolls 3: Se armó la banda (2023)" ,Trolls 3: Se armó la banda (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468614.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5d528b9cfd7a2e4174367b6a29869f8a.jpg" tvg-name="V/H/S/85 (2023)" ,V/H/S/85 (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468615.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb2ece5afb958c1fc22ed0a287342168.jpg" tvg-name="Your Name (2016)" ,Your Name (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468616.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bb2ece5afb958c1fc22ed0a287342168.jpg" tvg-name="\[GDADICTOS.COM\] The Iron Claw \ (2023)" ,\[GDADICTOS.COM\] The Iron Claw \ (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/468617.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/d381be0447569d062c5a3d9bf6b535b2.jpg" tvg-name="Slasher (2023)" ,Slasher (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/469195.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9e3938731a29f4fded0ba9b0d371dc55.jpg" tvg-name="ミンナのウタ (2023)" ,ミンナのウタ (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/469196.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a82afc9d694123206672f13ee30ecff0.jpg" tvg-name="Hotel serpiente (2023)" ,Hotel serpiente (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/469292.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1e7249b0ab17a6b5a82360bee8a3d391.jpg" tvg-name="Atraco 88 (2023)" ,Atraco 88 (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471889.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/09ba390995e3436d4bffb1e51dfd5e93.jpg" tvg-name="La Mujer Más Bella de Saigón (2023)" ,La Mujer Más Bella de Saigón (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471891.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/93762d4993c04cc1868fdcaae90f30fd.jpg" tvg-name="Mona Lisa and the Blood Moon (2022)" ,Mona Lisa and the Blood Moon (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471902.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0fad2ded3ae174726e9f603e6543bed6.jpg" tvg-name="Viaje a las estrellas: Némesis (2002)" ,Viaje a las estrellas: Némesis (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471904.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/cc20cf431f8e41d492f0ec630f3e0ca3.jpg" tvg-name="A cierta edad (2023)" ,A cierta edad (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471905.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/df5e5652bbffa8070f7593588f2a8768.jpg" tvg-name="Ogre - El Día de la Cosecha (2022)" ,Ogre - El Día de la Cosecha (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471906.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3I6bNGbwrz-ZSLtXWanFmKdK-tr3csz5Duw&s" tvg-name="Isla del Cielo" ,Isla del Cielo
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471907.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/88c3f58646c28fa28076faa7618d74e2.jpg" tvg-name="Papá es cool (2022)" ,Papá es cool (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471909.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e374f4776f8cd5c47f3d1a30ac60fce1.jpg" tvg-name="Petite Solange (2022)" ,Petite Solange (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471910.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6452d4e6c76e2614cf828b8a5a1ff6d7.jpg" tvg-name="Pinky Aur Papa (2024)" ,Pinky Aur Papa (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471911.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/bcb46feb483c859c1e5aed73a4e1057c.jpg" tvg-name="Pisando el Balón (2020)" ,Pisando el Balón (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471912.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/adc04c26e029a97794ff39c6d760e255.jpg" tvg-name="Prueba de fe (2007)" ,Prueba de fe (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471913.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/276a730551b042a2525b7a6451dc7f38.jpg" tvg-name="La bruja roja (1948)" ,La bruja roja (1948)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471914.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28278b1845846e546ec189baadfef5d2.jpg" tvg-name="Santuario (2023)" ,Santuario (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471915.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2c7d288ec83b4378f19f611cfcf3a1ec.jpg" tvg-name="La sombra del crimen (2022)" ,La sombra del crimen (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471917.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/552742856106cc5f19c5303d7f170689.jpg" tvg-name="Sonido de Libertad (2023)" ,Sonido de Libertad (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471918.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c24e544ab7a290bc9e0ba858b2aa895e.jpg" tvg-name="That Time I Got Reincarnated as a Slime: El vínculo escarlata (2022)" ,That Time I Got Reincarnated as a Slime: El vínculo escarlata (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471919.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2511f0c0a2c95d305e54bc9c6442f6fb.jpg" tvg-name="La Venganza del Dragón (2023)" ,La Venganza del Dragón (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471920.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/02a788901d22491b3e92d407776f77aa.jpg" tvg-name="The Blackening (2023)" ,The Blackening (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471921.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c50052dd230a84ab02679f9836a4a1fc.jpg" tvg-name="Una Familia Extraordinaria (2023)" ,Una Familia Extraordinaria (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471922.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/4eddb76289bb90ba3d598377789d702e.jpg" tvg-name="We Had It Coming (2019)" ,We Had It Coming (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471923.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/a1f3414b70350dff83dd7f42e0558154.jpg" tvg-name="Ant-Man: El hombre Hormiga (2015)" ,Ant-Man: El hombre Hormiga (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471927.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYPTvAW8Rcas5YehgvB1U21OfJvxglTmWk4ZEO4DsIy59MeROpd5PeVOY&s=10" tvg-name="Argentina vs. Francia - TyC Sports - Final - 18.12. (2022)" ,Argentina vs. Francia - TyC Sports - Final - 18.12. (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471928.mp4
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/45df528fd97bf543c75cb4a7cfc25d12.jpg" tvg-name="Avatar: El camino del agua (2022)" ,Avatar: El camino del agua (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471929.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e245e35f46853b2bb1ef9dc6be66db9b.jpg" tvg-name="Barbie: Pulgarcita (2009)" ,Barbie: Pulgarcita (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471930.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/846a6aca470d0e18fb456836215baf2e.jpg" tvg-name="Perry Mason: The Case of the Lethal Lifestyle (1994)" ,Perry Mason: The Case of the Lethal Lifestyle (1994)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471932.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ec38621e091e67dc01b97b05b4a78f8b.jpg" tvg-name="Hombre Lobo por la noche (2022)" ,Hombre Lobo por la noche (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471933.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5c0b53e543d1081f4b8ffa38d11c749a.jpg" tvg-name="거미집 (2023)" ,거미집 (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471934.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0e51e067f73df2bb86802239fa9bbef5.jpg" tvg-name="In Search of Darkness (2019)" ,In Search of Darkness (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471935.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6ba00b8c526266df905392626b5fb5db.jpg" tvg-name="Edén (2022)" ,Edén (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471936.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/dcd8db80a7217546c07c0476ae0bf78f.jpg" tvg-name="La aplicación del cielo (2017)" ,La aplicación del cielo (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471937.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/1964502c1af944be8e29c26995079466.jpg" tvg-name="El sueño de Ariana (2022)" ,El sueño de Ariana (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471942.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0427e7dc9ac64eb871b913cec78372ab.jpg" tvg-name="Elvis el crespo" ,Elvis el crespo
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471943.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/eefadae67fca847e47e0577d265b3359.jpg" tvg-name="Juegos entre Amigos: Despertar de Primavera (2023)" ,Juegos entre Amigos: Despertar de Primavera (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471944.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/6cbe0a39fd7a6d287a6fe47750db43ac.jpg" tvg-name="Hora de brillar (2022)" ,Hora de brillar (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471947.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/b43119848d3157f3f8c2ad8670953751.jpg" tvg-name="Hasta el Final (2022)" ,Hasta el Final (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471949.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/49ead063ef7f40449079de73950d33d2.jpg" tvg-name="Inu-Oh (2022)" ,Inu-Oh (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471950.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/56c868d79827dba5a528b0211eb84ff6.jpg" tvg-name="The Adventures of Kween Jhonabelle (2023)" ,The Adventures of Kween Jhonabelle (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471951.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2dd2bec8cffc97754b4874bfc213a143.jpg" tvg-name="El libro del demonio (2022)" ,El libro del demonio (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471953.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/480fb6aec012b74ca6b0d13bd9019f77.jpg" tvg-name="Alice, Querida (2022)" ,Alice, Querida (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471954.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/28873999e4368f412d92550d366bd43d.jpg" tvg-name="La Farsa (2022)" ,La Farsa (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471956.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5536d60ce69e16a4828e6d457970bee6.jpg" tvg-name="Black Snake: La leyenda de la Serpiente Negra (2019)" ,Black Snake: La leyenda de la Serpiente Negra (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471958.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/c7838c449af7dc18e8323a5f68c59f93.jpg" tvg-name="La Isla Siniestra (2010)" ,La Isla Siniestra (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471959.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/803b092c642b84e68473e7637792239d.jpg" tvg-name="Las Coincidencias del Gran Amor (2022)" ,Las Coincidencias del Gran Amor (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471961.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/45507e273c4d34385a16564333822819.jpg" tvg-name="Las Vueltas del Amor (2016)" ,Las Vueltas del Amor (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471962.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/69601e49cbbd40525cea17331c2d7905.jpg" tvg-name="Sed de Venganza 2 (2024)" ,Sed de Venganza 2 (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471963.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/40232a84ee249f1780671f7c95179492.jpg" tvg-name="La venganza de la casa del Lago (2009)" ,La venganza de la casa del Lago (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471964.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/483e8b3e8ec9b048eca3218a0e7cd1a0.jpg" tvg-name="La última mirada (2011)" ,La última mirada (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471965.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/426d8b75f936b6f1617105dd57d6ed75.jpg" tvg-name="Lockedin Society (2022)" ,Lockedin Society (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471966.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/66fc8ab4f111a243433c74b6a8f0a70f.jpg" tvg-name="Los Piratas de la Calle de Abajo (2020)" ,Los Piratas de la Calle de Abajo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471967.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/05b0bee2c7129e62a797e30d006f0627.jpg" tvg-name="La mansion embrujada (2003)" ,La mansion embrujada (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471970.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/8a7794e07ebb26e0215a5e5c55d9da44.jpg" tvg-name="Marcel, el caracol con zapatos (2022)" ,Marcel, el caracol con zapatos (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471971.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5e7953c6c857a8ed230e31e804d69373.jpg" tvg-name="Jugando sucio (2020)" ,Jugando sucio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471972.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/428e09ce464c0a296327efe2deaf1e43.jpg" tvg-name="Once Upon a Time in London (2019)" ,Once Upon a Time in London (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471973.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/5946572ca835ab961a9d426516ce7ac2.jpg" tvg-name="Al filo del abismo (2022)" ,Al filo del abismo (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471974.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ca05822689f9b5f87aaa888177721b7d.jpg" tvg-name="La banda presidencial (2022)" ,La banda presidencial (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/471976.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/053893182d694c64c245725bfd1cb155.jpg" tvg-name="Rebel Moon (Parte dos): La guerrera que deja marcas (2024)" ,Rebel Moon (Parte dos): La guerrera que deja marcas (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/472541.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/128098f224a3b319d755981c7e9711b2.jpg" tvg-name="Herencia Siniestra (2024)" ,Herencia Siniestra (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473174.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/e453cf37472dfd4b5bba0e424fe559ae.jpg" tvg-name="El Último Niño de la Tierra (2024)" ,El Último Niño de la Tierra (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473311.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/68abc204f1c69f5474e0e058e5e3c16f.jpg" tvg-name="SPY x FAMILY CÓDIGO: Blanco (2023)" ,SPY x FAMILY CÓDIGO: Blanco (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473437.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/2fdd5b10fc7d0d89d45e276b00bdfbfe.jpg" tvg-name="Club Zero (2023)" ,Club Zero (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473666.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/9f9edc02601c7cebd9e6365865876a6d.jpg" tvg-name="El Rostro de la Venganza (1990)" ,El Rostro de la Venganza (1990)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473667.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/ddfed80eb7d0d401fe33232b72c0f9cd.jpg" tvg-name="El amor de Andrea (2023)" ,El amor de Andrea (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/473792.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/0d2fceb19fa28ebbd8de2e9f30808c2b.jpg" tvg-name="El Secuestro del Papa (2023)" ,El Secuestro del Papa (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/474537.mkv
-#EXTINF:-1 group-title="⭐ESTRENOS 2023" tvg-logo="http://tvlatino.club:2082/images/3c74a8965a68561972c90fbeb7ff03de.jpg" tvg-name="De Espaldas al Mundo (2023)" ,De Espaldas al Mundo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/475653.mkv
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Tusk (2014)" ,Tusk (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368959.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8fc41b057ff6a79db0e0e569884bb4d4.jpg" tvg-name="El Ciempiés Humano 2: Secuencia completa (2011)" ,El Ciempiés Humano 2: Secuencia completa (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368961.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/77696d852a0680ae584043d0db6c7309.jpg" tvg-name="El Ciempiés Humano 3: Secuencia final (2015)" ,El Ciempiés Humano 3: Secuencia final (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368962.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ed54f23ad67d154566b7bf30fe62adee.jpg" tvg-name="El Ciempiés Humano: Primera secuencia (2009)" ,El Ciempiés Humano: Primera secuencia (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368960.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="V de venganza (2022)" ,V de venganza (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/372003.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/80a7df52dfb8100737860c3d867771aa.jpg" tvg-name="Un Hombre Lobo Americano En Londres (1981)" ,Un Hombre Lobo Americano En Londres (1981)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/374094.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Isabelle (2019)" ,Isabelle (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/375859.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Good Boy (2022)" ,Good Boy (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/376257.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40232a84ee249f1780671f7c95179492.jpg" tvg-name="La venganza de la casa del Lago (2009)" ,La venganza de la casa del Lago (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/377489.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0a090cf78a91acfab0b2815a583459a7.jpg" tvg-name="La Casa del Crimen (2022)" ,La Casa del Crimen (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400179.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="30 Días y 30 Noches de Hollywood al Corazón del País (2006)" ,30 Días y 30 Noches de Hollywood al Corazón del País (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400180.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/9328481d13afe8d7e600d823c4d18041.jpg" tvg-name="KM 31: Kilómetro 31 (2006)" ,KM 31: Kilómetro 31 (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400181.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Abandonada (Abandoned) (2010)" ,Abandonada (Abandoned) (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400183.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Después de que ella despierte (2019)" ,Después de que ella despierte (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400184.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="ดับแสงรวี (2023)" ,ดับแสงรวี (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400185.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c2e991af3754f312b00ba20bc379d734.jpg" tvg-name="Aguas siniestras (2024)" ,Aguas siniestras (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400186.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/075fbc7b9e0b6143282db64bd0f3fb39.jpg" tvg-name="Psicópata Americano (2000)" ,Psicópata Americano (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400187.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b677d86b310235a984a022982dc9bb3f.jpg" tvg-name="Psicópata americano 2 (2002)" ,Psicópata americano 2 (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400188.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Todavía sé lo que hicieron el verano pasado (1998)" ,Todavía sé lo que hicieron el verano pasado (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400190.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Baby Shower (2016)" ,Baby Shower (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400191.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Belzebuth (2019)" ,Belzebuth (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400195.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Beneath the Surface (2022)" ,Beneath the Surface (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400196.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Bingo Hell (2021)" ,Bingo Hell (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400198.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40fd4f7d396cbee83788ec1259532f37.jpg" tvg-name="En la oscuridad de la noche (2021)" ,En la oscuridad de la noche (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400199.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40fd4f7d396cbee83788ec1259532f37.jpg" tvg-name="En la oscuridad de la noche (2021)" ,En la oscuridad de la noche (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400200.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="血まみれスケバン・チェーンソー (2016)" ,血まみれスケバン・チェーンソー (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400201.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Boda Negra (2021)" ,Boda Negra (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400202.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Paloma y el Lobo (2019)" ,La Paloma y el Lobo (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400203.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c0fd1f4b368491f337aeec117492c30f.jpg" tvg-name="Bosque Sangriento (2009)" ,Bosque Sangriento (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400204.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Brahms: El niño 2 (2020)" ,Brahms: El niño 2 (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400205.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Buenas Noches, Mami (2022)" ,Buenas Noches, Mami (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400206.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Cabin Fever: Patient Zero (2014)" ,Cabin Fever: Patient Zero (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400207.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Candyman (2021)" ,Candyman (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400209.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/573235d9be646f303f7b4a6ff88f4b9b.jpg" tvg-name="Cannibal Troll (2021)" ,Cannibal Troll (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400210.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/fb55c39b13e2015c975e4d50a80f2a78.jpg" tvg-name="Amores Caníbales (2017)" ,Amores Caníbales (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400211.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0bd3399cf61d69f73603bf7ca034c8f4.jpg" tvg-name="Masacre sangrienta (2011)" ,Masacre sangrienta (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400212.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Corre (2020)" ,Corre (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400213.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Corre, Cariño (2020)" ,Corre, Cariño (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400214.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/d45ed806d41ba6a390c570b3f81bdb4a.jpg" tvg-name="Corre, Cariño (2020)" ,Corre, Cariño (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400215.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5a293783c477ee488c5a8abbb14bc5e3.jpg" tvg-name="Critters ¡al ataque! (2019)" ,Critters ¡al ataque! (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400216.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Crudo (2020)" ,Crudo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400217.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f350e6f4d0651db26379391794a74b85.jpg" tvg-name="Cuando el demonio llama (2020)" ,Cuando el demonio llama (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400219.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/69ed33948f48fd175e939b8ebc660e32.jpg" tvg-name="Parásito oscuro (2023)" ,Parásito oscuro (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400220.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Muerte en el mar (2018)" ,Muerte en el mar (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400221.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Deadstream (2022)" ,Deadstream (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400223.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Del otro lado de la puerta (2016)" ,Del otro lado de la puerta (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400224.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/600e9088b29e8e5ed37c7eb543204a04.jpg" tvg-name="El despertar del diablo (2006)" ,El despertar del diablo (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400225.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Después de la vida (2009)" ,Después de la vida (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400226.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="No hagas clic (2012)" ,No hagas clic (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400227.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Dos Hermanas (2003)" ,Dos Hermanas (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400228.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Drácula: Mar de sangre (2023)" ,Drácula: Mar de sangre (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400229.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Eerie (2019)" ,Eerie (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400230.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Ego (2020)" ,Ego (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400231.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b3b9359548eb47e7eeb2d549411099d5.jpg" tvg-name="El abismo del infierno (2022)" ,El abismo del infierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400232.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Regalo Maldito (2021)" ,Regalo Maldito (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400233.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Coleccionista 2 (2012)" ,El Coleccionista 2 (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400234.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Summer's Blood (2009)" ,Summer's Blood (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400235.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f60ebbdb44697630ac0e46d43b0dd6f0.jpg" tvg-name="El despertar del diablo 2 (1987)" ,El despertar del diablo 2 (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400236.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/db6f0da5c6cd1006202601bd22694a53.jpg" tvg-name="El Exorcismo de Anna Waters (2016)" ,El Exorcismo de Anna Waters (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400237.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/793a0bb6f7b4df2a1cfe19876d591c1b.jpg" tvg-name="El Exorcismo De Dios (2022)" ,El Exorcismo De Dios (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400238.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/793a0bb6f7b4df2a1cfe19876d591c1b.jpg" tvg-name="El Exorcismo De Dios (2022)" ,El Exorcismo De Dios (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400239.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Dominion: La precuela del exorcista (2005)" ,Dominion: La precuela del exorcista (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400240.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Exorcista II: El hereje (1977)" ,El Exorcista II: El hereje (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400241.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El hijo del diablo (2000)" ,El hijo del diablo (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400242.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Misterio del Convento (2018)" ,El Misterio del Convento (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400243.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Misterio del Convento (2018)" ,El Misterio del Convento (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400244.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/54753ee9f0c7b6d37775ff9372ab56ea.jpg" tvg-name="El Pacto (2023)" ,El Pacto (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400245.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dd1d12c88a34f806412b8cb3508089e5.jpg" tvg-name="El paso del diablo (2013)" ,El paso del diablo (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400246.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a85eebfc5966090a2936f01e32a66032.jpg" tvg-name="El payaso del mal (2014)" ,El payaso del mal (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400247.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El proyecto de la bruja de Blair (1999)" ,El proyecto de la bruja de Blair (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400248.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El páramo (2021)" ,El páramo (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400249.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El río del terror (2022)" ,El río del terror (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400250.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El secreto de Sinchanee (2021)" ,El secreto de Sinchanee (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400251.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El teléfono negro (2022)" ,El teléfono negro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400252.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El teléfono negro (2022)" ,El teléfono negro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400253.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Títere (2007)" ,El Títere (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400254.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Escalera al infierno (2022)" ,Escalera al infierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400255.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Escape Room: Sin Salida (2019)" ,Escape Room: Sin Salida (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400256.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Escondidos en Brujas (2008)" ,Escondidos en Brujas (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400257.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e9f6f5d2ce7b1b1d70d223588b7a0d34.jpg" tvg-name="Espíritus oscuros (2021)" ,Espíritus oscuros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400258.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e9f6f5d2ce7b1b1d70d223588b7a0d34.jpg" tvg-name="Espíritus oscuros (2021)" ,Espíritus oscuros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400259.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5c3993a3fd2b64876083631b144257b4.jpg" tvg-name="Están entre nosotros (2004)" ,Están entre nosotros (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400260.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/2b805200f427893d9a30bd81447259e2.jpg" tvg-name="Evil Dead: El despertar (2023)" ,Evil Dead: El despertar (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400261.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4eae9aee2cb1c496d0c95408892b5b0a.jpg" tvg-name="Mal de ojo (2020)" ,Mal de ojo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400262.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3d80c74d56912087b2980c7c72c90076.jpg" tvg-name="El Exorcista: El comienzo (2004)" ,El Exorcista: El comienzo (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400263.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/d0f12a441b1ada4a6967216fa39d7cad.jpg" tvg-name="Sonrisa Sangrienta (2007)" ,Sonrisa Sangrienta (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400264.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ac9bb6ae1ee011a504f5f88a3177a7a0.jpg" tvg-name="Five Nights at Freddy's (2023)" ,Five Nights at Freddy's (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400265.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/cfeb1c0ee7858266944ecee93f199c50.jpg" tvg-name="Freddy contra Jason (2003)" ,Freddy contra Jason (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400266.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Viernes 13 - Parte 8: Jason Toma Manhattan (1989)" ,Viernes 13 - Parte 8: Jason Toma Manhattan (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400267.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b6e269ab251afd3d5d14e56e6202488d.jpg" tvg-name="Viernes 13 (1980)" ,Viernes 13 (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400268.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gaia (2021)" ,Gaia (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400269.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gemelo siniestro (2022)" ,Gemelo siniestro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400270.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Fantasmas de Guerra (2020)" ,Fantasmas de Guerra (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400271.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gingerdead Man 2: Passion of the Crust (2008)" ,Gingerdead Man 2: Passion of the Crust (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400272.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Glorious (2022)" ,Glorious (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400273.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gretel y Hansel: Un siniestro cuento de hadas (2020) 1080p" ,Gretel y Hansel: Un siniestro cuento de hadas (2020) 1080p
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400274.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gretel y Hansel: Un siniestro cuento de hadas (2020)" ,Gretel y Hansel: Un siniestro cuento de hadas (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400275.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/100c08a72c41131b8bfa6cf6f712892e.jpg" tvg-name="Bad Boys: Hasta la muerte (2024)" ,Bad Boys: Hasta la muerte (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400276.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hatchet (2006)" ,Hatchet (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400277.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hatchet 2: La venganza de la bestia (2010)" ,Hatchet 2: La venganza de la bestia (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400278.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hatchet 3 (2013)" ,Hatchet 3 (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400279.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hellbender (2021)" ,Hellbender (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400280.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/cee5bc04bbc96d35d83fa271d55ddf27.jpg" tvg-name="Hellraiser: Ella (2022)" ,Hellraiser: Ella (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400281.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/865392fb2eb30461ef14e86ee4882817.jpg" tvg-name="Historias del barrio negro 2 (2018)" ,Historias del barrio negro 2 (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400282.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a386966bc67a21fe63906431e45b8b78.jpg" tvg-name="Hombre lobo (2006)" ,Hombre lobo (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400285.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/68073486be62e13fee423a0b4fdc40e4.jpg" tvg-name="Hounded (2022)" ,Hounded (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400286.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ce5e81ed85b04beafe3bf60a3f2a4a6b.jpg" tvg-name="Hunting Souls (2022)" ,Hunting Souls (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400287.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40b70e9987120c735438852e6611e88f.jpg" tvg-name="Háblame (2023)" ,Háblame (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400288.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Impacto Solar (2019)" ,Impacto Solar (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400289.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="En la Tierra (2021)" ,En la Tierra (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400290.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Invasores (2007)" ,Invasores (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400291.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/166404520be007ed349d47e1ecaf7cb5.jpg" tvg-name="Jaula (2022)" ,Jaula (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400292.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/bde3ab807845aec250b79fdce16ffd3e.jpg" tvg-name="Extremity (2018)" ,Extremity (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400293.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e093d0a8e0e11efa6573f49696eb3c78.jpg" tvg-name="El juego de la muerte (2021)" ,El juego de la muerte (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400294.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Justo en la mira (2008)" ,Justo en la mira (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400295.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Kairo (2001)" ,Kairo (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400296.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/2dd2bec8cffc97754b4874bfc213a143.jpg" tvg-name="El libro del demonio (2022)" ,El libro del demonio (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400297.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La abuela (2022)" ,La abuela (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400298.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La cabaña siniestra (2020)" ,La cabaña siniestra (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400300.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/1556e5468b48c04f569011f45d1bdf27.jpg" tvg-name="Jack en la caja maldita 3: El Ascenso (2024)" ,Jack en la caja maldita 3: El Ascenso (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400301.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de al lado (2012)" ,La casa de al lado (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400302.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de cera (2005)" ,La casa de cera (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400303.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de los 1000 cuerpos (2003)" ,La casa de los 1000 cuerpos (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400304.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de los abuelos (2021)" ,La casa de los abuelos (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400305.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Ex (2021)" ,La Ex (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400306.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La feria del terror (2015) Terror, Comedia - 1080p" ,La feria del terror (2015) Terror, Comedia - 1080p
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400307.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Horca (2015)" ,La Horca (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400308.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Horca 2 (2019)" ,La Horca 2 (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400309.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Dispuesta a no morir (2009)" ,Dispuesta a no morir (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400310.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La maldición renace (2019)" ,La maldición renace (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400314.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La maldición de Charlie (2015)" ,La maldición de Charlie (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400315.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mercy: La maldición de la abuela (2015)" ,Mercy: La maldición de la abuela (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400316.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Mansión (2021)" ,La Mansión (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400317.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La marca del demonio (2020)" ,La marca del demonio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400318.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La morgue (2016)" ,La morgue (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400319.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Lampor: Keranda Terbang (2019)" ,Lampor: Keranda Terbang (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400320.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0956cff7169f45d1918df0f7dcf57a08.jpg" tvg-name="La noche del demonio: La puerta roja (2023)" ,La noche del demonio: La puerta roja (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400321.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/86be007e027ccb6f71b6bde293870367.jpg" tvg-name="La noche del demonio: Capítulo 2 (2013)" ,La noche del demonio: Capítulo 2 (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400322.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c56ce59cf063a35373f8a470f987e3e3.jpg" tvg-name="La noche del demonio: Capítulo 3 (2015)" ,La noche del demonio: Capítulo 3 (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400323.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3b2089693e8a411a86d1ef6f5193f97f.jpg" tvg-name="La noche del demonio: La última llave (2018)" ,La noche del demonio: La última llave (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400324.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La pirámide (2014)" ,La pirámide (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400325.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Prueba Beta (2021)" ,La Prueba Beta (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400326.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Purga Por Siempre (2021)" ,La Purga Por Siempre (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400327.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La reunión del diablo (2010)" ,La reunión del diablo (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400328.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Las Hijas de Drácula (1974)" ,Las Hijas de Drácula (1974)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400329.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La víspera de Halloween (2013)" ,La víspera de Halloween (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400330.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Los Huérfanos (2017)" ,Los Huérfanos (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400331.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="White Noise 2: The Light (2007)" ,White Noise 2: The Light (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400332.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Madres paralelas (2021)" ,Madres paralelas (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400333.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Man-Thing (2005)" ,Man-Thing (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400334.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Maneater (2022)" ,Maneater (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400335.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Masacre Americana (2022)" ,Masacre Americana (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400336.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4e9d58b099ca40f5b2b3d53a99343eb2.jpg" tvg-name="Veneno de Serpiente (2023)" ,Veneno de Serpiente (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400337.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mentes malvadas (2018)" ,Mentes malvadas (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400338.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mete miedo (2022)" ,Mete miedo (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400339.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mimic: No sigas las voces (2017)" ,Mimic: No sigas las voces (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400340.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Moloch (2022)" ,Moloch (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400341.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Monstrous (2022)" ,Monstrous (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400342.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/7d33aaf1e871deb902c9232133f2db28.jpg" tvg-name="Muerte Infinita (2023)" ,Muerte Infinita (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400343.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/736f36a99ae2fc01adc145e0f1d3cde6.jpg" tvg-name="Nefarious: La Palabra Del Diablo (2023)" ,Nefarious: La Palabra Del Diablo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400345.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Nocturne (2020)" ,Nocturne (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400346.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="No me mates (2021)" ,No me mates (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400347.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Nosotros (2019)" ,Nosotros (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400348.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Nunca digas su nombre (2017)" ,Nunca digas su nombre (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400349.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Pearl (2022)" ,Pearl (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400351.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Pirañas 3DD (2012)" ,Pirañas 3DD (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400352.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Pirañas 3D (2010)" ,Pirañas 3D (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400353.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/448654771939e91efca87044efe531ea.jpg" tvg-name="Posesión Diabólica (2020)" ,Posesión Diabólica (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400354.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Post Mortem (2020)" ,Post Mortem (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400355.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Furia (2019)" ,Furia (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400356.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b52d812ab03ee103bcab34da7b864c9d.jpg" tvg-name="Recursos Inhumanos (2012)" ,Recursos Inhumanos (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400357.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/585adf2719e38f2782d456d62c50ced2.jpg" tvg-name="Renfield: Asistente de vampiro (2023)" ,Renfield: Asistente de vampiro (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400358.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" ,Resident Evil: Bienvenidos a Raccoon City (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400359.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Resucitados (2015)" ,Resucitados (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400360.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/81d764a2a59602a5e8b8a444c33fa692.jpg" tvg-name="Ruega Por Nosotros (2021)" ,Ruega Por Nosotros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400361.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream: Grita antes de morir (1996)" ,Scream: Grita antes de morir (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400362.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 5 (2022)" ,Scream 5 (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400363.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 2: Grita y vuelve a Gritar (1997)" ,Scream 2: Grita y vuelve a Gritar (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400364.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 3: La Máscara de la Muerte (2000)" ,Scream 3: La Máscara de la Muerte (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400365.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 4 (2011)" ,Scream 4 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400366.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0a9feb942ff20462a5e6e5c968c02089.jpg" tvg-name="Scream 6 (2023)" ,Scream 6 (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400367.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Los Ojos del Mal (2006)" ,Los Ojos del Mal (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400368.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Los Ojos del Mal 2 (2014)" ,Los Ojos del Mal 2 (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400369.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/bf9c6e4aaff4786037b0f71202496ff3.jpg" tvg-name="Silencio en el lago (2008)" ,Silencio en el lago (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400370.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f51dd79022f17c1ea8e63b5b249c0db2.jpg" tvg-name="La casa silenciosa (2011)" ,La casa silenciosa (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400371.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3f9df30dfbb6d799ff5c23c642ea94c2.jpg" tvg-name="La maldición de la bruja (2022)" ,La maldición de la bruja (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400373.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3b7d0b31dadfed83f192a07e50ab87bc.jpg" tvg-name="Secuestrados (2010)" ,Secuestrados (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400375.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/7a6767e77591b4e68956ae0b2f7462d5.jpg" tvg-name="Stitches (2012)" ,Stitches (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400377.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4d1938fd660bb83e750baf0b1ecdc41a.jpg" tvg-name="Stung (2015)" ,Stung (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400378.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f2038781747bb16bda9c0ae5b9260a6c.jpg" tvg-name="Suspiria: El maligno (2018)" ,Suspiria: El maligno (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400379.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/18e655804f566dce977fb6e0fce72be3.jpg" tvg-name="Sé lo que hicieron el verano pasado (1997)" ,Sé lo que hicieron el verano pasado (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400380.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3e74e117ad3b6df8fb0aa969a5cdd82e.jpg" tvg-name="Siempre sabré lo que hicieron el verano pasado (2006)" ,Siempre sabré lo que hicieron el verano pasado (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400381.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c4b73f78b150471c33a729066716f84a.jpg" tvg-name="Terrifier 2: El Payaso Siniestro (2022)" ,Terrifier 2: El Payaso Siniestro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400382.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/58743ad753eed5bf006b91d8f95b9395.jpg" tvg-name="Terror en Amityville (2005)" ,Terror en Amityville (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400383.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/41659e0c344769e344a3522630b5e519.jpg" tvg-name="Terror en el Estudio 666 (2022)" ,Terror en el Estudio 666 (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400384.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/844b60d1d0eb28e7b1e4fc5c051437eb.jpg" tvg-name="Terror en la ópera (1987)" ,Terror en la ópera (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400385.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a44613abd35e1f36bcd0ab26da916166.jpg" tvg-name="El Tren Del Terror (2022)" ,El Tren Del Terror (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400386.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4cd11aba516b3fec788e7d30fb8690c4.jpg" tvg-name="El ABC de la muerte 2 (2014)" ,El ABC de la muerte 2 (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400387.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dcc4b54faac8e688f25d98bbb41c97bc.jpg" tvg-name="El juego del bunker (2022)" ,El juego del bunker (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400388.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8970d97dd4d85fc49c99edbcfc70ddcd.jpg" tvg-name="The Den (2013)" ,The Den (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400389.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/9768e8e815a60f8329def8bab9ba5814.jpg" tvg-name="The Fear Footage 3AM (2021)" ,The Fear Footage 3AM (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400390.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/50543de685aa814f767c6656a4d7dc22.jpg" tvg-name="The Gingerdead Man (2005)" ,The Gingerdead Man (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400391.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5d3915632b4adb59a8b87bc7672e5741.jpg" tvg-name="The Hollow (2015)" ,The Hollow (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400392.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/1c3011ebf293b336fd778ed9ba4af411.jpg" tvg-name="Jack en la caja maldita 2: El despertar (2022)" ,Jack en la caja maldita 2: El despertar (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400393.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e8ce96b2737e03609f4604c48ab6ff9f.jpg" tvg-name="The Last Thing Mary Saw (2021)" ,The Last Thing Mary Saw (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400395.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/849498bf24002b2402eb75f5d4321a6b.jpg" tvg-name="La Llorona (2022)" ,La Llorona (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400396.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/72f3cb59fc7be0205dd5837388ecc353.jpg" tvg-name="Horror En El Lago Ness (2023)" ,Horror En El Lago Ness (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400397.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a406407c04528ae204c42235288b52c7.jpg" tvg-name="The Power (2021)" ,The Power (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400399.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/fba2e93c1d7ec5e5323acfbf19c391d7.jpg" tvg-name="El ritual del libro rojo (2022)" ,El ritual del libro rojo (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400400.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/04b3cb792ef0e24bd77acf125d7abb3b.jpg" tvg-name="The sadness (2021)" ,The sadness (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400401.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ab0658dfffe161e4b447a5424510f721.jpg" tvg-name="Sandman (2017)" ,Sandman (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400402.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b8ca9d6ddc170bc524b4a1f6bd09abd1.jpg" tvg-name="The Summoning (2017)" ,The Summoning (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400403.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ea83bc0a6f0388d3e9107851384450cd.jpg" tvg-name="La hambre de invierno (2022)" ,La hambre de invierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400404.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8cd73453b3871b9e8a814c586d1a5ae6.jpg" tvg-name="Corazones desgarrados (2022)" ,Corazones desgarrados (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400405.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dc4ca367f6a54dcfdc160fe73685e278.jpg" tvg-name="El triángulo (2009)" ,El triángulo (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400406.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/fa88a3c88e40eb5e24635f98d0b608df.jpg" tvg-name="Umma (2022)" ,Umma (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400407.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5342d7aa5d2cd97d2822abec785220d8.jpg" tvg-name="Un hombre lobo americano en París (1997)" ,Un hombre lobo americano en París (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400408.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/7c2e1da064dc7e0887a346fae0577daf.jpg" tvg-name="Inhumano (2022)" ,Inhumano (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400409.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a2ee93eda15ad45e749922d875bc0b9d.jpg" tvg-name="Un Lugar En Silencio (2018)" ,Un Lugar En Silencio (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400410.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b482240e2d3029fda64ff9b0717dfadf.jpg" tvg-name="Un lugar en silencio: Parte II (2021)" ,Un lugar en silencio: Parte II (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400411.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a3f933e9d1e20f73b9895bc82a2bc7ee.jpg" tvg-name="Verdad o reto (2018)" ,Verdad o reto (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400412.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/9bacec5e67b42e1ced9e59e6f243c290.jpg" tvg-name="V/H/S/94 (2021)" ,V/H/S/94 (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400413.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/d11af717991111c49a697a17b4a2507e.jpg" tvg-name="Victor Crowley (2017)" ,Victor Crowley (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400414.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/2e0544e79c38fa1374aa2716d9915e45.jpg" tvg-name="Viernes 13 (2009)" ,Viernes 13 (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400415.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c28db66970184e16b92ae954ed125e2f.jpg" tvg-name="Viral (2016)" ,Viral (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400416.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f72bd4f53504d121936f53d350e5e2d5.jpg" tvg-name="Virus: 32 (2022)" ,Virus: 32 (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400417.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c6008fdcef3bd833bd929c286178495e.jpg" tvg-name="Voces del más allá (2005)" ,Voces del más allá (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400418.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b79521e989848712a86566d20619cc64.jpg" tvg-name="Susurro (2022)" ,Susurro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400419.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/74660ad67d92355cc772bdc61a206013.jpg" tvg-name="Willy's Wonderland (2021)" ,Willy's Wonderland (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400420.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dcabd983360982c8c769cda6a1010077.jpg" tvg-name="X (2022)" ,X (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400421.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3495209c54e2d53410fa39e12e0b15d2.jpg" tvg-name="Cuando acecha la maldad (2023)" ,Cuando acecha la maldad (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407374.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qD5htgIVr66Rgtdm8ovLFR4Z8Zq.jpg" tvg-name="\#Vivo \ (2020)" ,\#Vivo \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417800.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yckfWcCTKEplBCilRdE4d43xowl.jpg" tvg-name="\#Vivo \ (2020)" ,\#Vivo \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417805.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9YP9vQBsYHylBsKwsD6VStbbX8j.jpg" tvg-name="4/20 Masacre (2018)" ,4/20 Masacre (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417819.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9NIsRwHdojUsAqPGPAyZmtgF49u.jpg" tvg-name="5G Zombies (2020)" ,5G Zombies (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417830.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg" tvg-name="12 Horas para sobrevivir (2014)" ,12 Horas para sobrevivir (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417844.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="13 fantasmas (2001)" ,13 fantasmas (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417856.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2aDv3flq8uZtauIOne4Q95KL2E7.jpg" tvg-name="13 Minutes of Horror: Sci-Fi Horror (2022)" ,13 Minutes of Horror: Sci-Fi Horror (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417869.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zo9TBFQmmbTl8vLkSwhDcC3QLMu.jpg" tvg-name="13 Pecados (2014)" ,13 Pecados (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417879.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dzitlCN6BSddbhOyyLetgCmkjAQ.jpg" tvg-name="14 Cameras (2018)" ,14 Cameras (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417890.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lD2drAAS6DwG80wSr3jURStjkg7.jpg" tvg-name="28 días después \ (2002)" ,28 días después \ (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417896.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uXs5ukMRqf5ETvs7Ghin4hKE6xn.jpg" tvg-name="30 días de noche \ (2010)" ,30 días de noche \ (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417902.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mHVcoTEqmIBdXSjXxfsKWu7GGga.jpg" tvg-name="31: Morir es el único escape (2016)" ,31: Morir es el único escape (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417911.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uSU6L34qLpn1Vx4MUkkfs0mCrQ8.jpg" tvg-name="1408 (2007)" ,1408 (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417922.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2ej6FGMa62uzGPoWooZD2XnLm26.jpg" tvg-name="1922 \(2017\) (1922)" ,1922 \(2017\) (1922)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417929.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iddL9qDsOLUyWNLbEYcEBPPfJNn.jpg" tvg-name="Abducción (2019)" ,Abducción (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417941.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h4Ny82lizNTdTH2MFLjjyOVDWtk.jpg" tvg-name="Abducción alienígena (2014)" ,Abducción alienígena (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417952.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wq7z719J82BvcxYfc4i2CpKvWCU.jpg" tvg-name="Actividad Paranormal: La dimensión fantasma (2015)" ,Actividad Paranormal: La dimensión fantasma (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417972.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vuhm8L50nhVRUDqT5hbP4aG3x.jpg" tvg-name="Actividad Paranormal 2 (2010)" ,Actividad Paranormal 2 (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417992.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2mgtnguCilTT7OtSURCWWE65iWr.jpg" tvg-name="Actividad Paranormal 3 (2011)" ,Actividad Paranormal 3 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418002.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cN1WYVV1NyQNoHcOTAQVH448ljY.jpg" tvg-name="Actividad Paranormal: Vínculos Familiares (2021)" ,Actividad Paranormal: Vínculos Familiares (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418012.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tv5dcPREcWDoKsPH8wybKdz6OEg.jpg" tvg-name="A Golpe de Hacha (1991)" ,A Golpe de Hacha (1991)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418022.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w72RsZwfFGjpOKGUXrNMEmWStdO.jpg" tvg-name="Aislados (2011)" ,Aislados (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418043.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnwX5cUuzBDM0OWJB2UtnjkrHDm.jpg" tvg-name="Aislados (2012)" ,Aislados (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418055.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2mbjBLKAPCDBlxKZRLFh4nzS4fr.jpg" tvg-name="Al (2020)" ,Al (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418063.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tC6nxcNqXOcp10JbFI2cGZkXhjL.jpg" tvg-name="Alaridos de la carne (1973)" ,Alaridos de la carne (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418076.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/chqI9exd7pB4vDCp1NZwQasYNal.jpg" tvg-name="Alice: Presencias malévolas (2017)" ,Alice: Presencias malévolas (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418087.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kYuS3AFmXEn4rpghNaayuoev1ws.jpg" tvg-name="Alice in Murderland (2010)" ,Alice in Murderland (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418096.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg" tvg-name="Alien: El Octavo Pasajero (1979)" ,Alien: El Octavo Pasajero (1979)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418106.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbbA4BpjwByG1jRkgTo8skwVp4c.jpg" tvg-name="Al morir la matinée (2020)" ,Al morir la matinée (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418117.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbbA4BpjwByG1jRkgTo8skwVp4c.jpg" tvg-name="Al morir la matinée (2020)" ,Al morir la matinée (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418126.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eVwSRbIhARb6r8CswX0WW5YvlCU.jpg" tvg-name="Alucinaciones (2007)" ,Alucinaciones (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418136.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/quBMm6uh02zmI8eAmkiHf8LZQKG.jpg" tvg-name="Alucinaciones del pasado (2019)" ,Alucinaciones del pasado (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418145.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eewRu7UdCHqUOI5JKCLymSroVYK.jpg" tvg-name="Amenaza En Lo Profundo (2020)" ,Amenaza En Lo Profundo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418155.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZzJwqbrfKvGXTIhXGDwlJUEtM5.jpg" tvg-name="American Horror House (2012)" ,American Horror House (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418164.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/B8NJz0kvfX1DpCy7jyDjE7fmkH.jpg" tvg-name="Amiga mortal (1986)" ,Amiga mortal (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418184.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b2C13Joh5uAd3EMZOiJCvMIW75H.jpg" tvg-name="Amityville 2: La Posesión (1982)" ,Amityville 2: La Posesión (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418194.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiDzidkGAOHEcuZPDT5jTqXtrbM.jpg" tvg-name="Amityville 3-D (1983)" ,Amityville 3-D (1983)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418203.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2oeaahvzpfnTh9cwg6VA39ZyhRE.jpg" tvg-name="Animal de compañia (2016)" ,Animal de compañia (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418223.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ba51RwONmbrotqX1FgHELYtffU.jpg" tvg-name="Animales humanos (2020)" ,Animales humanos (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418233.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wktIMdLEtHSS7o6XO6q57KRYPWi.jpg" tvg-name="Annabelle (2014)" ,Annabelle (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418243.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg" tvg-name="Annabelle 2: La Creación (2017)" ,Annabelle 2: La Creación (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418251.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/20de4Rcmy4B0L5zyOc3Nc5F7c0D.jpg" tvg-name="Antrum (2018)" ,Antrum (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418273.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nj41nDNmpRNQSaHithu8VmOGUDG.jpg" tvg-name="Aplicación Siniestra (2017)" ,Aplicación Siniestra (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418282.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nSo5q95JVDC3KK3iBYlXsBXcO0I.jpg" tvg-name="Apolo 18 (2011)" ,Apolo 18 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418292.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z4nesLMUtlGRKCAf3ItjCASQ66P.jpg" tvg-name="Apóstol (2018)" ,Apóstol (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418302.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vb3ux1clny29nY9CtGnIbTrliHN.jpg" tvg-name="Aquaslash (2019)" ,Aquaslash (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418311.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fexablMsDaN9zzHXIcksTkmn4yD.jpg" tvg-name="Araf 2: El hijo del demonio (2019)" ,Araf 2: El hijo del demonio (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418324.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/15uFXE2wTPfPsjxzgm3DYp2TehQ.jpg" tvg-name="Archivo 253 (2015)" ,Archivo 253 (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418333.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l3CCtoklH4uPn5zFgJZhastTxZ9.jpg" tvg-name="Art of the Dead (2019)" ,Art of the Dead (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418353.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/24GnXIwhkK95Kdz0KkTWeepA6El.jpg" tvg-name="Asesinato en el tren (2018)" ,Asesinato en el tren (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418362.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg" tvg-name="Así en la Tierra como en el Infierno (2014)" ,Así en la Tierra como en el Infierno (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418383.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cNzKnRyF3dfLSzRcahXqcaGeXNQ.jpg" tvg-name="Atacan las brujas (1968)" ,Atacan las brujas (1968)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418391.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/glzd3U0Lug736AWNB09RC66YGOo.jpg" tvg-name="Ataque de los Titanes (2015)" ,Ataque de los Titanes (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418403.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u5aJPZh2bLeMmlylwiCWrgl16PQ.jpg" tvg-name="Aterrados (2018)" ,Aterrados (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418409.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/afvi5tVi5S3Ux9faZaI32SmPRkj.jpg" tvg-name="Atrapados (2018)" ,Atrapados (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418420.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZziquV7cVk8LiI9HwYnQeATW0c.jpg" tvg-name="Audición (1999)" ,Audición (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418429.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/60Jge3rxgiqzpehuGcuITJveO44.jpg" tvg-name="Aulas Peligrosas (1998)" ,Aulas Peligrosas (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418439.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Fm0mOcebyNNwQifJyknfNRRAdN.jpg" tvg-name="Aullidos III (1987)" ,Aullidos III (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418449.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7QyX58QISOCVXq2o51xmOEcGI2c.jpg" tvg-name="Autumn Road (2021)" ,Autumn Road (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418458.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nA4c0Xza8a9am29BxUBoKb8IRby.jpg" tvg-name="Baba Yaga (1973)" ,Baba Yaga (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418469.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgOrRDCplgmQCRBe5IKmsKL9G3y.jpg" tvg-name="Bad Candy (2021)" ,Bad Candy (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418489.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ykRiMerjJPWeVlPamivyWhBgnM0.jpg" tvg-name="Bats: Human Harvest (2007)" ,Bats: Human Harvest (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418509.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4b6HY7rud6LMO00EatxrJfFaBJV.jpg" tvg-name="Beber de tu sangre (2020)" ,Beber de tu sangre (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418518.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mlBfHKirPMVeBNvPxdKrTIKFXaW.jpg" tvg-name="Belzebuth (2019)" ,Belzebuth (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418529.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w5dxAlcVWuhPVIi3NQr5ns1IinS.jpg" tvg-name="Benny Te Ama (2019)" ,Benny Te Ama (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418537.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kQmWQ2KCDfgpkshyM9rMfPsMYCF.jpg" tvg-name="Blackwood (2018)" ,Blackwood (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418557.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg" tvg-name="Blade: Cazador de Vampiros (1998)" ,Blade: Cazador de Vampiros (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418570.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLrJDQvhQWpAdCdnfZpV8h6Lx8R.jpg" tvg-name="Blood for Dracula (1974)" ,Blood for Dracula (1974)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418584.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/49a2fQEFO2R190Ng5ksJedRJun6.jpg" tvg-name="Bloodthirsty (2021)" ,Bloodthirsty (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418606.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vJciZnoegkorXydE5h4c0zf24Kj.jpg" tvg-name="Boo! \ (2018)" ,Boo! \ (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418614.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lnt9yuLlPwmYW3LLzWmQQWrUmK.jpg" tvg-name="Boo! (2019)" ,Boo! (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418626.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r55WHmiXzryJA0v5MlrwyFQXRTF.jpg" tvg-name="Boo \ (2005)" ,Boo \ (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418636.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ks438f3Y25Bw5GnOmNNID7Rt7Mp.jpg" tvg-name="Boogeyman (2012)" ,Boogeyman (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418649.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/llOwkKApB9mtirnCq10bYJOJt0D.jpg" tvg-name="Brahms: El niño 2 (2020)" ,Brahms: El niño 2 (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418661.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/llOwkKApB9mtirnCq10bYJOJt0D.jpg" tvg-name="Brahms: El niño 2 (2020)" ,Brahms: El niño 2 (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418671.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yFYRPM58oBoQVflszwyLgfXgAII.jpg" tvg-name="Brain Damage (1988)" ,Brain Damage (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418685.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bQmRemkGS3SMAexgZND6ey02lYW.jpg" tvg-name="Brightburn: Hijo de la oscuridad (2019)" ,Brightburn: Hijo de la oscuridad (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418695.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iy18iNg3jQOlvsUjrcKeEOf6hv7.jpg" tvg-name="Brujas De Amityville (2020)" ,Brujas De Amityville (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418707.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zM7NEOrDJiCtn79yxfSXXbytutb.jpg" tvg-name="Buenas noches, mamá (2014)" ,Buenas noches, mamá (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418719.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg" tvg-name="Bulbbul (2020)" ,Bulbbul (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418733.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg" tvg-name="Cadáver (2018)" ,Cadáver (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418772.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m4zoAUmcvWBnMGPYO9jP91kfkkN.jpg" tvg-name="Camino hacia el terror (2003)" ,Camino hacia el terror (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418786.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1HLgQNorQZ2ZgadfJVDyve1jaFU.jpg" tvg-name="Camino Hacia el Terror 2: Final mortal (2007)" ,Camino Hacia el Terror 2: Final mortal (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418797.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qA4gcxdeuVsVgnrMxCmHNVF6cQH.jpg" tvg-name="Camino hacia el terror 3 - abandonado para morir \ (2009)" ,Camino hacia el terror 3 - abandonado para morir \ (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418802.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3tTAlLrPJAfWz1E2841yEKRbBoM.jpg" tvg-name="Camino Hacia el Terror 4 (2011)" ,Camino Hacia el Terror 4 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418814.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7bwCfuWm2zFUKsZ6itwMr2j7toF.jpg" tvg-name="Camino Hacia El Terror 5 (2012)" ,Camino Hacia El Terror 5 (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418827.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fQCtBbfKfDwFxGxGEsFustKCr3S.jpg" tvg-name="Camino Hacia el Terror 6: La Herencia (2014)" ,Camino Hacia el Terror 6: La Herencia (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418841.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cny2yzaSZGMQ1bSLsLNVm67mIvI.jpg" tvg-name="Camino hacia el terror: La Fundación (2021)" ,Camino hacia el terror: La Fundación (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418854.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/UYqt5MMss0B6DqQTgZbPaBr5eI.jpg" tvg-name="Campamento Sangriento (1983)" ,Campamento Sangriento (1983)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418864.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cBBkrylShdQryKKxaPNBYS5ssMy.jpg" tvg-name="Candyman 2 (1995)" ,Candyman 2 (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418877.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p9U8lqwRDLhrU9TnLQylfdBmeNl.jpg" tvg-name="Candyman 3: El día de los muertos (1999)" ,Candyman 3: El día de los muertos (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418891.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jusadS0u0P0BFAYcUpI1pSBF6IN.jpg" tvg-name="Caníbales (2013)" ,Caníbales (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418900.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4uY1kHrYaC94xx36SBw7JJCSCYM.jpg" tvg-name="CarousHELL The 2nd (2021)" ,CarousHELL The 2nd (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418912.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mJX62lKNQAzowhAsHLGqp9yzuNN.jpg" tvg-name="Carrie (2013)" ,Carrie (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418937.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iLUJnhRQJptEozKWfW1VNLwH9fe.jpg" tvg-name="Carrie 2: La Ira (1999)" ,Carrie 2: La Ira (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418961.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qT3IxgoA8aDZyKPIFLEWqshwLLR.jpg" tvg-name="Caso 39 (2009)" ,Caso 39 (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418976.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ket8bzYI0ryOV1JhjsmWIfvs7xf.jpg" tvg-name="Castigo Mortal (2017)" ,Castigo Mortal (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418986.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n5mUNwrKGHU2WHDWG3yvbrFRk1u.jpg" tvg-name="Cazador Contra Cazador \ (2020)" ,Cazador Contra Cazador \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/418994.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdnKzcPadECbVjUO1jsFeoHMJBx.jpg" tvg-name="Cazadores de Hombres Lobos (2022)" ,Cazadores de Hombres Lobos (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419007.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" tvg-name="Cazando a un fantasma asesino (2016)" ,Cazando a un fantasma asesino (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419019.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c721WxCCzeLJS99BOMBYAzicnJF.jpg" tvg-name="Celda (2016)" ,Celda (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419036.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A1qXTzGHIyCQmJbmEZL47KIqRhL.jpg" tvg-name="Cementerio de mascotas 2 (1992)" ,Cementerio de mascotas 2 (1992)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419057.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jGPj2Qcjly7YrtrDCU046K4eY2y.jpg" tvg-name="Cementerio General 2 (2015)" ,Cementerio General 2 (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419075.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dXRdjUmFW3WO4ms1FkJodbiTlaP.jpg" tvg-name="Chacales (2017)" ,Chacales (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419097.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ow0GrlyPC77khwGu2Ll6SnOxILJ.jpg" tvg-name="Chicas con pelotas (2019)" ,Chicas con pelotas (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419128.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7GfrMFZuxqq1FdSZRtKflPOwoAv.jpg" tvg-name="Chucky, el muñeco diabólico (1988)" ,Chucky, el muñeco diabólico (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419137.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c87AJcGu8VKaVVeMLJmho8s0eU7.jpg" tvg-name="Chucky: el muñeco diabólico 2 (1990)" ,Chucky: el muñeco diabólico 2 (1990)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419149.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l1Jm1dlKI012OEKUgn8fubassSg.jpg" tvg-name="Chucky: el muñeco diabólico 3 (1991)" ,Chucky: el muñeco diabólico 3 (1991)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419161.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wBkdKValTGR64hvciuWX3O8fwUe.jpg" tvg-name="Cielo rojo sangre (2021)" ,Cielo rojo sangre (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419173.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wBkdKValTGR64hvciuWX3O8fwUe.jpg" tvg-name="Cielo rojo sangre (2021)" ,Cielo rojo sangre (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419186.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jdabkPU69SllGHrkLsbeF5VB05j.jpg" tvg-name="CLAW, EN LAS GARRAS DEL TERROR (2021)" ,CLAW, EN LAS GARRAS DEL TERROR (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419199.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lOMk1qWpakZdoVGYe2VlFfJCvjF.jpg" tvg-name="Club de la Mordida (2019)" ,Club de la Mordida (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419211.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zGqWBK9hrpXRnhgoey8flcSb3Ma.jpg" tvg-name="Clínica de Zombies (2019)" ,Clínica de Zombies (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419222.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7McekYucdTeFdMQyqPjlsBvHIa8.jpg" tvg-name="Con el demonio adentro (2017)" ,Con el demonio adentro (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419250.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c46aCm8HWL87c3QUdZ4v5mxqvta.jpg" tvg-name="Corazón satánico (1987)" ,Corazón satánico (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419262.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" tvg-name="Criatura de la noche (2008)" ,Criatura de la noche (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419284.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hqTivDll3i43TIkhC9qrXSfdt2H.jpg" tvg-name="Criatura Maligna (2020)" ,Criatura Maligna (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419295.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/OlheTaxbQYkLoSHu6QSbcurTWS.jpg" tvg-name="Criaturas nocturnas (2018)" ,Criaturas nocturnas (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419311.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2opohPEyRwLyzbBJRoZ03neSKU.jpg" tvg-name="Criaturas Rastreras (2006)" ,Criaturas Rastreras (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419323.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nQEMFZHU9pLuhu49piOUkqIeKlo.jpg" tvg-name="Critters ¡al ataque! (2019)" ,Critters ¡al ataque! (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419337.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wX6N0Bgiysqy1so8UwOmDhghQaY.jpg" tvg-name="Cuando el demonio llama (2020)" ,Cuando el demonio llama (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419349.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0be94c417e17b07028fc3a7ce0ee7e47.jpg" tvg-name="Cuando las luces se apagan (2016)" ,Cuando las luces se apagan (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419360.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gfLZyNGrOaWmv4w6alNeG9HUilI.jpg" tvg-name="Cuando un extraño llama (2006)" ,Cuando un extraño llama (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419373.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xvQkuTuH5QfSm2jh78t2i0iYwB7.jpg" tvg-name="Cuarentena 2: Terminal (2011)" ,Cuarentena 2: Terminal (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419395.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/777d5dbe62bf019f08c3189bf18a9e14.jpg" tvg-name="Cuentos de la Cripta: El Club de Los Vampiros (1996)" ,Cuentos de la Cripta: El Club de Los Vampiros (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419407.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x8vMzaVwjlVuf7eI0gTgf5i2Rfh.jpg" tvg-name="Cuentos de terror 2 (1987)" ,Cuentos de terror 2 (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419429.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gi0M8XFT5mNJDNNoJtZgXaXZw4n.jpg" tvg-name="Cuentos tenebrosos \ (2020)" ,Cuentos tenebrosos \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419439.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg" tvg-name="Cuerpos invadidos (1983)" ,Cuerpos invadidos (1983)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419449.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d7wZtWuhXS1iYQ1gPWR7WvfFYIk.jpg" tvg-name="Cuervos asesinos (2007)" ,Cuervos asesinos (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419459.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x8PUdXCGSM6iDzzMonLRJukgGci.jpg" tvg-name="Cujo (1983)" ,Cujo (1983)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419480.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/on2Q5qroYiJ8MxhuZmdBd7rYNOa.jpg" tvg-name="Culto a Chucky (2017)" ,Culto a Chucky (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419491.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rBmonOlvKB00ltGHF1QOUFWdjzD.jpg" tvg-name="Cura fatal (2020)" ,Cura fatal (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419500.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uSWUadNb4njB2eF4zb2OYdLFAYp.jpg" tvg-name="Cuties (2020)" ,Cuties (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419521.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rlNSEtGULPBFBy9OGKW9rEUS7aq.jpg" tvg-name="Cámara Policial (2020)" ,Cámara Policial (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419532.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJvN8xqr1znl1fPNgmFMvzVLS4k.jpg" tvg-name="Darkness (2002)" ,Darkness (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419544.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/95gMn5GwR6rPHmmHfDyEs0pO2U7.jpg" tvg-name="Dead Rising - Watchtower (2015)" ,Dead Rising - Watchtower (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419556.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nsteY7mL4O8whwgHVZs86FS1Emv.jpg" tvg-name="Deadsight (2018)" ,Deadsight (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419565.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qbYUXE1S0jI7Uvz0ZxR2YW9y8pu.jpg" tvg-name="Debieron irse (2020)" ,Debieron irse (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419576.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k5Whg5TenAcaLWQb6kePDe6AMxi.jpg" tvg-name="De carne y hueso (2018)" ,De carne y hueso (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419586.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5CMzEBEYfm6JJ4qSnswHJunSXxm.jpg" tvg-name="Del crepúsculo al amanecer (1996)" ,Del crepúsculo al amanecer (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419597.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slxfKxGEucEkgLdnNADediXZB1I.jpg" tvg-name="DellaMorte DellAmore \ (1994)" ,DellaMorte DellAmore \ (1994)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419604.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/92Dk1Pmmc81uLgCrB7q4qZVMVw7.jpg" tvg-name="Demoniaca (2020)" ,Demoniaca (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419629.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3097a71e479b046ebf39292b1de208ec.jpg" tvg-name="Desde el Infierno (2001)" ,Desde el Infierno (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419639.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg" tvg-name="Destino Final (2000)" ,Destino Final (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419647.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg" tvg-name="Destino Final 3 (2006)" ,Destino Final 3 (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419667.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg" tvg-name="Destino Final 4 (2009)" ,Destino Final 4 (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419676.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" tvg-name="Destino Final 5 (2011)" ,Destino Final 5 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419686.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7u8yJohwvS3ftF7nVepAWfwseQW.jpg" tvg-name="El aro 2 (1999)" ,El aro 2 (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419931.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ejh1s36AI19T9LvB3jtqXbUP9b.jpg" tvg-name="El arte del diablo (2004)" ,El arte del diablo (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419940.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i7e2Qxio7thoKKL0ceZlrlDhy4h.jpg" tvg-name="El ascenso del diablo (2020)" ,El ascenso del diablo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419950.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zcjjbu3cz6urkuCJ6NfoSDbJZrx.jpg" tvg-name="El Asesinato de Sharon Tate (2019)" ,El Asesinato de Sharon Tate (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419961.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMc5l23hS1Gg4u3fZ782C9HcpzP.jpg" tvg-name="El Asesino de Central Park (2017)" ,El Asesino de Central Park (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419972.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r9ilEYP6tsNolPwHy0l5xdRuoTe.jpg" tvg-name="El ataque del tiburón de seis cabezas (2018)" ,El ataque del tiburón de seis cabezas (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419986.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" tvg-name="El atrapasueños (2020)" ,El atrapasueños (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419996.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3F4rrXcrS0XN5vQ5PRMvxg0yLou.jpg" tvg-name="El Atrapa Sueños (2021)" ,El Atrapa Sueños (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420006.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s0mlM93D2A9XyItnJHBzF0qHH6L.jpg" tvg-name="El Auto (1977)" ,El Auto (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420017.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fTQrMo36JzbxNdXztHIvxoheuZp.jpg" tvg-name="El bar (2017)" ,El bar (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420028.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg" tvg-name="El Bosque Maldito (2019)" ,El Bosque Maldito (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420041.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bDvt0kVvdO0NsIM8xZve7qHjjim.jpg" tvg-name="El bosque siniestro (2016)" ,El bosque siniestro (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420052.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qVwZaHB1IHpjst5EGaW0Ck3gVsV.jpg" tvg-name="El campamento del terror (2016)" ,El campamento del terror (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420063.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg" tvg-name="El carnicero (2018)" ,El carnicero (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420077.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6e96hrJhFefvyXPMbfUcmx2IaY1.jpg" tvg-name="El castigo de Frankenstein (1964)" ,El castigo de Frankenstein (1964)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420087.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/31FNJMa5sqhZiBFT9FaZ6GmpHM5.jpg" tvg-name="El Cazador De Monstruos (2019)" ,El Cazador De Monstruos (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420099.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/99VBWFq4ekkP2kjIkYaUH8YSbyx.jpg" tvg-name="El cocodrilo (1999)" ,El cocodrilo (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420109.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ju8eLIai0hux6DSkIwRUozbX7K.jpg" tvg-name="El cocodrilo 2 (2007)" ,El cocodrilo 2 (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420121.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aHH3fy5ZVs4nrzNLZYIe1p2PJSc.jpg" tvg-name="El cocodrilo 3 (2010)" ,El cocodrilo 3 (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420132.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" tvg-name="El cocodrilo 6: Legado (2018)" ,El cocodrilo 6: Legado (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420143.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kVRB5gZB35aQv2mYonMYXFp0YAE.jpg" tvg-name="El Coleccionista (2009)" ,El Coleccionista (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420155.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wxUasHKoR8dtInQiXNUknOqi6Ao.jpg" tvg-name="El Coleccionista 2 (2012)" ,El Coleccionista 2 (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420166.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7VGIhRYrxR0AMpxHnKvvAyIARO.jpg" tvg-name="El Conductor (2019)" ,El Conductor (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420175.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" tvg-name="El Conjuro (2013)" ,El Conjuro (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420185.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wvIPVmGIJ8RqPS6NVbEeYX9K0gf.jpg" tvg-name="El Conjuro 2 \ (2016)" ,El Conjuro 2 \ (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420193.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg" tvg-name="El Conjuro 3: El diablo me obligó a hacerlo (2021)" ,El Conjuro 3: El diablo me obligó a hacerlo (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420202.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ilfjxDN1833pZgRPo4DQysJUrjJ.jpg" tvg-name="El culto siniestro (2006)" ,El culto siniestro (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420212.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg" tvg-name="El demonio (2001)" ,El demonio (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420222.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg" tvg-name="El demonio 2 (2003)" ,El demonio 2 (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420234.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kE8iiTy0brxOcFhB4jmMa1jrjWm.jpg" tvg-name="El duende Maldito 6: De vuelta al vecindario (2003)" ,El duende Maldito 6: De vuelta al vecindario (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420358.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5KxuyIQX0XibWl0Nrx26lfxTRNF.jpg" tvg-name="El Duende Maldito Regresa (2018)" ,El Duende Maldito Regresa (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420379.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tVuAEloskv8GDNJwNRUtCV7aHDk.jpg" tvg-name="El día del apocalipsis (2010)" ,El día del apocalipsis (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420400.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ne35GlABRF821ENspOTPrghiEsq.jpg" tvg-name="El día de los muertos (1985)" ,El día de los muertos (1985)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420417.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekf7Ufxhubi00h02oWq6gbkWX.jpg" tvg-name="Elegida (2020)" ,Elegida (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420436.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg" tvg-name="El Ente (1982)" ,El Ente (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420478.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dCv6Qb3aZN3Nub8epb6q8Lje6JP.jpg" tvg-name="El exorcismo de Anna Ecklund (2016)" ,El exorcismo de Anna Ecklund (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420500.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg" tvg-name="El Exorcismo De Dios (2022)" ,El Exorcismo De Dios (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420520.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rwQ7uMNLBTXGNZ4aAZ7p9Uj0BL8.jpg" tvg-name="El exorcismo del Mazzik, la vigilia (2020)" ,El exorcismo del Mazzik, la vigilia (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420539.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rQU3sOBms4WA7iFAqBCtbMXgaB8.jpg" tvg-name="El Exorcista (1973)" ,El Exorcista (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420557.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4fKbC5ujncZUMMekAsxjeSMqlr2.jpg" tvg-name="El Exorcista: El comienzo (2004)" ,El Exorcista: El comienzo (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420577.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/49ATLSqvkpjVMf3MxSx70gjvR0U.jpg" tvg-name="El fin (2017)" ,El fin (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420618.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mWPL1tbJ1n6ru3x2RurlZGjodbu.jpg" tvg-name="El Fin de los Tiempos (2019)" ,El Fin de los Tiempos (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420643.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vuNRKoRjQRKi4dC0l1t7QAsMrk8.jpg" tvg-name="El gran amor del conde Drácula (1973)" ,El gran amor del conde Drácula (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420666.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg" tvg-name="El habitante (2018)" ,El habitante (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420687.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/83aiJfvW0VZ8HbtyNYdy1xGfXuy.jpg" tvg-name="El hechizo (1963)" ,El hechizo (1963)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420706.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3jfgAJPXiSx5zhaPrVVy4ErCSZa.jpg" tvg-name="El hombre con ojos de rayos X (1963)" ,El hombre con ojos de rayos X (1963)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420724.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qeNitlsX0CMxj4of9UM9cVuvUIN.jpg" tvg-name="El hombre de mimbre (1973)" ,El hombre de mimbre (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420744.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uknmBWJ624nXUDTDn5hTJjV0kcv.jpg" tvg-name="El hombre lobo (2010)" ,El hombre lobo (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420759.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kwjfJYfDKCu2qXnmey7yEMYzXfI.jpg" tvg-name="El Horror De Amityville (1979)" ,El Horror De Amityville (1979)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420777.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" tvg-name="Eli \ (2019)" ,Eli \ (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420788.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg" tvg-name="Eliminar Amigo (2014)" ,Eliminar Amigo (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420809.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQM2LDOmolIGt7WzcHl6ZSUAdci.jpg" tvg-name="Eliminar Amigo 2 (2018)" ,Eliminar Amigo 2 (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420828.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a5zFbQkZB4fOdWSh0UBxjtSZ4Xw.jpg" tvg-name="El Instituto Atticus (2015)" ,El Instituto Atticus (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420847.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qcn1zmcyjcSIgtq4EWgbAGf7c6J.jpg" tvg-name="El intermediario del diablo (1980)" ,El intermediario del diablo (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420868.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cvRahNCZKhGI0ip7gkQ3rSWUF3o.jpg" tvg-name="El juego de Gerald (2017)" ,El juego de Gerald (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420909.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y6xNhfrzgSGXzAfbqIdq6Ns1Oe.jpg" tvg-name="El juego de la Bruja (2020)" ,El juego de la Bruja (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420928.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qEmj0ljM9SXQoDpADgV1JCnSYrv.jpg" tvg-name="El Juego de la Tortura (2019)" ,El Juego de la Tortura (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420949.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg" tvg-name="El juego del miedo (2004)" ,El juego del miedo (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420967.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" tvg-name="El juego del miedo 2 (2005)" ,El juego del miedo 2 (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/420986.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4iO9n24Rb10peXV0JH2EldIOrAp.jpg" tvg-name="El juego del miedo 3 (2006)" ,El juego del miedo 3 (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421007.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cSIAfVlrE065RnYRJKIgmRIXQKp.jpg" tvg-name="El juego del miedo 4 (2007)" ,El juego del miedo 4 (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421026.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wfT5Cq3iH09GOwejL4zhYmByF2.jpg" tvg-name="El juego del miedo 6 (2009)" ,El juego del miedo 6 (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421062.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg" tvg-name="El juego del miedo 7 (2010)" ,El juego del miedo 7 (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421078.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ulLUVgHlvmtByA5ThriMMt8SYL.jpg" tvg-name="El Lago del Silencio (2020)" ,El Lago del Silencio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421096.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yrob2Q0Wl5ydqiUId48WSa5yGRI.jpg" tvg-name="El legado del diablo (2018)" ,El legado del diablo (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421112.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jqYymeofhv8oq2DxkD03m6vaptC.jpg" tvg-name="El libro del demonio (2022)" ,El libro del demonio (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421129.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kz8TPkZHt2TBsnKttKh5HGg9anh.jpg" tvg-name="El Lobo de Snow Hollow (2020)" ,El Lobo de Snow Hollow (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421147.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rJPYNI8WSq51bEUKgwTkYcQxN5c.jpg" tvg-name="El lobo humano (1941)" ,El lobo humano (1941)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421166.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/WIvB3L9mfmXPI6bJnOOwe2zbhO.jpg" tvg-name="El lugar oscuro donde habitan (2021)" ,El lugar oscuro donde habitan (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421185.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xi51cqhPqN4Z4upsLDjPNTF53VO.jpg" tvg-name="El Mal Está Allá Fuera \ (2020)" ,El Mal Está Allá Fuera \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421196.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4eSJJsBZ00qMyoWLe98ulNGvGbC.jpg" tvg-name="El misterio de Soho (2021)" ,El misterio de Soho (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421266.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3xOYf938hlGXR7Epta7jH2CjCba.jpg" tvg-name="El Monstruo del Cobertizo (2019)" ,El Monstruo del Cobertizo (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421287.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jc7dFysVuObddmvuXdovMeAptRf.jpg" tvg-name="El Monstruo del Pantano (1982)" ,El Monstruo del Pantano (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421311.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fkrT2a2zJmhyp0sYu1OOAEz8ZE0.jpg" tvg-name="El muñeco diabólico (2019)" ,El muñeco diabólico (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421335.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9GESSapVA0gcufjtSIXHByHFksB.jpg" tvg-name="El ojo (2002)" ,El ojo (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421355.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xtj41UaZfy1v7kdSgCeETkmo3ua.jpg" tvg-name="El ojo del miedo (2010)" ,El ojo del miedo (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421372.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l2ggOQfdEqKJcK206I30rqF2Q1T.jpg" tvg-name="El otro cordero (2020)" ,El otro cordero (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421402.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wsd4dWaVklbdYPWHl7eGbKRAODv.jpg" tvg-name="El Pacto del mal (2017)" ,El Pacto del mal (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421421.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/47yiAtiDbsmDGoKznWVP2YglUZr.jpg" tvg-name="El proyecto de la bruja de Blair (1999)" ,El proyecto de la bruja de Blair (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421443.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ctbEYdgsZGZTfTGNfPRputF8pUn.jpg" tvg-name="El Príncipe de las Tinieblas (1987)" ,El Príncipe de las Tinieblas (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421459.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3B3C0tfOJRc59Qzszy7SAqRe4BG.jpg" tvg-name="El pueblo de los malditos (1960)" ,El pueblo de los malditos (1960)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421479.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xfv77EkP1CbOCi36LZWuWlvoL4o.jpg" tvg-name="El secreto de Alcatraz (2020)" ,El secreto de Alcatraz (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421628.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1OXmZnUtBqAO4wVHOmH0cK2e83c.jpg" tvg-name="El silencio (2019)" ,El silencio (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421652.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3KL93ua8nZGvVBB3v9bwvhzPSC1.jpg" tvg-name="El terror llama a su puerta (1986)" ,El terror llama a su puerta (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421673.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j0jnCDQLp1WLm3YAns52nsYMiDt.jpg" tvg-name="El triángulo (2009)" ,El triángulo (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421695.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wwb8z8BiRr6aTwLv6slfOMJMCdq.jpg" tvg-name="El Títere (2007)" ,El Títere (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421716.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wciP14IKKtWyqWlEsw8pHR8YkkR.jpg" tvg-name="El último viaje (2018)" ,El último viaje (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421735.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sbDvrkRsZb4Ik8fg2bJfWZQsXw1.jpg" tvg-name="El vínculo (2020)" ,El vínculo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421759.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y61hmeVdmBSxxOAKvtvMEIme1p5.jpg" tvg-name="El último hombre sobre la Tierra (1964)" ,El último hombre sobre la Tierra (1964)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421781.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cBakcqAYozG3obcuH7fzdWrWLkJ.jpg" tvg-name="El último rito (2021)" ,El último rito (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421802.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dxbI3kT9mvlc6Yh14xCKFbd0RvE.jpg" tvg-name="Embrión (2020)" ,Embrión (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421836.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qzLdnrpMkM9BXmGY1FOz1tK1f30.jpg" tvg-name="Empty Man: El mensajero del último día (2020)" ,Empty Man: El mensajero del último día (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/421857.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v7EuvrTAAIGImkLYw2nhe2r6BKM.jpg" tvg-name="Frankenstein y el hombre lobo (1943)" ,Frankenstein y el hombre lobo (1943)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422849.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sBpl3Ei5Yhs3JwIDpRXG4E6ius0.jpg" tvg-name="Freddy\'s Dead - The Final Nightmare \ (1991)" ,Freddy\'s Dead - The Final Nightmare \ (1991)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422860.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg" tvg-name="Freddy vs. Jason \ (2003)" ,Freddy vs. Jason \ (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422876.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dF2OlQBMJiggzkjhfaNfx7HzBOU.jpg" tvg-name="Frogs (1972)" ,Frogs (1972)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422913.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cXQQHVTAfn5emTEVm4uqUsE4FIJ.jpg" tvg-name="Fuego negro (2020)" ,Fuego negro (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422940.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1bXte0s6tCtbby6FLFb6hJCnZFI.jpg" tvg-name="Fuerza Vital (1985)" ,Fuerza Vital (1985)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422965.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7PxTvaljBCVJHEFW8q9eLY7iieZ.jpg" tvg-name="Furia Del Dragon (2021)" ,Furia Del Dragon (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/422990.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A20fmDBTPEcI5OzlZmlQGUmkcSt.jpg" tvg-name="Gantz (2010)" ,Gantz (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423016.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yV8z6deULhH4oJAUj2YdhITPwfc.jpg" tvg-name="Ghoulies (1985)" ,Ghoulies (1985)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423040.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rwdbyKJ2PKTLamQzr57OgMuFUlD.jpg" tvg-name="Golem: La leyenda (2018)" ,Golem: La leyenda (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423069.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98B2Dtx4eMrKl0UfRxUpXAuePam.jpg" tvg-name="Habitantes de la oscuridad (2002)" ,Habitantes de la oscuridad (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423186.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kRRlJ8SZnDiUeu7mo5q83Oet5Gj.jpg" tvg-name="Hada de los Dientes: La Última Extracción (2020)" ,Hada de los Dientes: La Última Extracción (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423234.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7wgTpfvbnJ21oXRxFntWu5LpzyI.jpg" tvg-name="Hall (2020)" ,Hall (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423283.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xbniRigN0Ao3KjH8ha7yySK1g2B.jpg" tvg-name="Halloween (2018)" ,Halloween (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423327.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oY7zaqkuiO7uVvKzl1yL7iIHauR.jpg" tvg-name="Halloween: Resurrección (2002)" ,Halloween: Resurrección (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423350.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" ,Halloween 5: La venganza de Michael Myers (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423391.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg" tvg-name="Halloween 6: La maldición de Michael Myers (1995)" ,Halloween 6: La maldición de Michael Myers (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423435.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2xj2z8qqs6r5FTSe4tAuqCrYjK5.jpg" tvg-name="Halloween H2O: Veinte años después (1998)" ,Halloween H2O: Veinte años después (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423481.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cvFE9RlFHTobOEceRyf9iQLPHSk.jpg" tvg-name="Happy Hunting (2017)" ,Happy Hunting (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423549.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Hh6DIOjPE73Hw5ZihDr3k1JDw.jpg" tvg-name="Hatchet 2: La venganza de la bestia (2010)" ,Hatchet 2: La venganza de la bestia (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423573.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ovEtMHpv1UKDJB6Wq69DB4q8xG.jpg" tvg-name="Haunter \ (2013)" ,Haunter \ (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423588.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lfE0u0Th1thZ4slkEtIgvreauh4.jpg" tvg-name="Hellraiser: Puerta al infierno (1987)" ,Hellraiser: Puerta al infierno (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423640.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cqCMW3xR6eTyti5ybNIq93owWDX.jpg" tvg-name="Hellraiser III: Infierno en la Tierra (1992)" ,Hellraiser III: Infierno en la Tierra (1992)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423710.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k3fe1z0eipNVffes0uNPiUnObtD.jpg" tvg-name="Hellraiser IV (1996)" ,Hellraiser IV (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423734.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3OfJppmD5cRFgmosXXAxRFcMyrM.jpg" tvg-name="Hellraiser V: Infierno (2000)" ,Hellraiser V: Infierno (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423757.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jyeet52vADTNTw9X29e2AnSv49r.jpg" tvg-name="Hellraiser VIII: Hellworld (2005)" ,Hellraiser VIII: Hellworld (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423825.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nAmJf2AOffuZ1fvY5Al1e8uFrpp.jpg" tvg-name="Hereditary \ (2018)" ,Hereditary \ (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423839.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zq5uNCmWB1XnRLxBSq0BRmJYQMf.jpg" tvg-name="Herencia maldita (2020)" ,Herencia maldita (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423864.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/glPNCcI7V8zTTI3BG0iIUJJcwXN.jpg" tvg-name="Historias del barrio negro (1995)" ,Historias del barrio negro (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423933.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k93d4au1KByYKi6FsE0dLrKWowj.jpg" tvg-name="Historias del barrio negro 2 (2018)" ,Historias del barrio negro 2 (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423959.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fT27GgfhKys7aLqXIzhIdv5RLBT.jpg" tvg-name="Historias del Barrio Negro 3 (2020)" ,Historias del Barrio Negro 3 (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/423983.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg" tvg-name="Historias de miedo para contar en la oscuridad (2019)" ,Historias de miedo para contar en la oscuridad (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424003.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i1hRa8hwGp4g20ZAWNIxrQmAk7R.jpg" tvg-name="Holocausto Caníbal (1980)" ,Holocausto Caníbal (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424029.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/upsBscthfBpP7iK0rw2sDTxnkFf.jpg" tvg-name="Hostal: Parte 3 (2011)" ,Hostal: Parte 3 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424052.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZlGTEmhzlsm6SRKYAsF4iqUm0L.jpg" tvg-name="Husk - Espantapájaros Asesino \ (2011)" ,Husk - Espantapájaros Asesino \ (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424065.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ws4snbaW3tLgAYcwosYoSljAZTn.jpg" tvg-name="I corpi presentano tracce di violenza carnale \ (1973)" ,I corpi presentano tracce di violenza carnale \ (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424078.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bYEhvqtNaphr2vS3uut6YxGCnT0.jpg" tvg-name="Impetigore: Herencia maldita (2019)" ,Impetigore: Herencia maldita (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424114.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s4LR2Ed7H1pFraIKvFjsnN074YY.jpg" tvg-name="Imágenes del más allá (2008)" ,Imágenes del más allá (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424143.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mIH9mS7tZXBaEoL6LAHZL6TgktW.jpg" tvg-name="In Fabric: Vistiendo la muerte (2018)" ,In Fabric: Vistiendo la muerte (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424166.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9XAxqJ5OcA1O1OabxmRnQOXD4Vy.jpg" tvg-name="Infection: The Invasion Begins (2010)" ,Infection: The Invasion Begins (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424215.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hWkkgAuYIyXxNDUs5zydwEr9xfg.jpg" tvg-name="Inhumano: la leyenda renace (2013)" ,Inhumano: la leyenda renace (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/424235.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8RuQDW5TnpD0EUXt3wF4B18P1uw.jpg" tvg-name="La casa de los demonios (2019)" ,La casa de los demonios (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425234.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4VwJdPz0nuLVZN8HZ1rtmdyzn5j.jpg" tvg-name="La casa de los horrores del Doctor Terror (1965)" ,La casa de los horrores del Doctor Terror (1965)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425267.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6fuNWZzY0RijO1Xpw46soazDFMb.jpg" tvg-name="La Casa del Terror (2019)" ,La Casa del Terror (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425292.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ww1PxKHZlBXAZVc4hSGiPPVQRLX.jpg" tvg-name="La casa del árbol (2019)" ,La casa del árbol (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425315.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9dF9xBe8OLU2TMcbmXepJuvf94A.jpg" tvg-name="La Cazadora: Runa de los muertos (2022)" ,La Cazadora: Runa de los muertos (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425358.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f9H6SGZrZ3TS2ESyEK3lmrEVkrL.jpg" tvg-name="La Caída De La Casa Usher (1960)" ,La Caída De La Casa Usher (1960)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425381.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nGnJfhuoSJhyTvjDwiFkd44XQyT.jpg" tvg-name="La Condesa (2020)" ,La Condesa (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425410.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg" tvg-name="La cosa del otro mundo (1982)" ,La cosa del otro mundo (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425441.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3ysBtfK6bPVLXRwsPzVdRlmkdI.jpg" tvg-name="La cosa del otro mundo (2011)" ,La cosa del otro mundo (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425461.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/19lWSQXvUM9KrQrPrPOeYUqBNj.jpg" tvg-name="La criatura (2004)" ,La criatura (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425483.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u4K1HSpc0p9VOQCxOTAb0syYDmS.jpg" tvg-name="La crucifixión (2017)" ,La crucifixión (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425503.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vQgUNCouT5frFxeXx5mXRskOhWJ.jpg" tvg-name="La cueva (2014)" ,La cueva (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425540.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5SbIDk0Gkyr0y22ZtydVq9Px423.jpg" tvg-name="La Cumbre Escarlata (2015)" ,La Cumbre Escarlata (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425549.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k4XZ47wFZF1aUv7bjLM4Pae2TYm.jpg" tvg-name="La cura siniestra (2017)" ,La cura siniestra (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425558.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vBJuude7Wgb2h9VJvid7ExZigsU.jpg" tvg-name="La Célula (2000)" ,La Célula (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425570.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nBdoS8tjWubpEyQnqmM6tpZR3GU.jpg" tvg-name="La gruta (2020)" ,La gruta (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425588.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bIdi1u4wq5axdW7gKhga5envh.jpg" tvg-name="La Habitación (2019)" ,La Habitación (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425609.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nBwwWdyMwFM5c362IMuDE8PGBpv.jpg" tvg-name="La herencia Valdemar (2010)" ,La herencia Valdemar (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425619.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hys4IMHcuSVrfejZ9mplmZyYHos.jpg" tvg-name="La hora de los brujos (1988)" ,La hora de los brujos (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425627.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jYwCTKSmvAey3PDvrj7TCZuso5q.jpg" tvg-name="La hora de tu muerte (2019)" ,La hora de tu muerte (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425636.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pUGVmCKwEeELDMtU6nqy2WhZb5w.jpg" tvg-name="La Horca 2 (2019)" ,La Horca 2 (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425645.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" tvg-name="La huérfana (2009)" ,La huérfana (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425655.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/swVORIKIqn9OByYIFLAH154yhYJ.jpg" tvg-name="La invasión (2019)" ,La invasión (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425665.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sOrEa3oUQzv6JZmNyKRdQMzr9Pc.jpg" tvg-name="La Invasión de los suplantadores (1956)" ,La Invasión de los suplantadores (1956)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425674.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6NPcGg1AVec3o7d0zBbc7RTd2eC.jpg" tvg-name="La Isla \ (2010)" ,La Isla \ (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425679.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZX1ymtnZ4ATsQJjXTPaG9RdWD.jpg" tvg-name="La Isla de la Fantasía (2020)" ,La Isla de la Fantasía (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425688.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZX1ymtnZ4ATsQJjXTPaG9RdWD.jpg" tvg-name="La Isla de la Fantasía (2020)" ,La Isla de la Fantasía (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425695.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jsTTE70A7gmTwJfU5TRCHbOoODB.jpg" tvg-name="La isla maldita (2017)" ,La isla maldita (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425707.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tVLJ9rcWfKqMq5rSoXSTbafSVBU.jpg" tvg-name="La Leyenda de la Viuda (2020)" ,La Leyenda de la Viuda (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425716.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aoicvoqTbV2yESc8824JpWt11VP.jpg" tvg-name="La leyenda del Jinete sin cabeza (1949)" ,La leyenda del Jinete sin cabeza (1949)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425724.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xZu0NbUhu0HCY31uFdcEOgFexeO.jpg" tvg-name="La llorona 2 (2007)" ,La llorona 2 (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425742.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t0i88TFalwvcELDGkyW8AD9qQet.jpg" tvg-name="La Maldicion de la caja calavera (2017)" ,La Maldicion de la caja calavera (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425750.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qFVuOqY1CspyUNwWxCkNeGiRiK9.jpg" tvg-name="La maldición 2 (2006)" ,La maldición 2 (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425760.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z67Sdv2jz0bIkKAV7CHK2eE8ws.jpg" tvg-name="La maldición de Chucky (2013)" ,La maldición de Chucky (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425772.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIWytsnEr2aRobU6ERutzewm63.jpg" tvg-name="La maldición de La Llorona (2019)" ,La maldición de La Llorona (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425785.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Fwtov4lAv4Cmt9DFzTOJjJqKbM.jpg" tvg-name="La Maldición de la Marioneta II (1999)" ,La Maldición de la Marioneta II (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425795.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jyEcMBORFuwyetoVjlqMZqEV0fM.jpg" tvg-name="La maldición de la novia (2022)" ,La maldición de la novia (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425801.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sLuFHWp2lAJMqLIinspmtBG3c0j.jpg" tvg-name="La maldición de la ouija (2018)" ,La maldición de la ouija (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425810.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rGj4i7Tas6HDFgajb0LKOkaCtC7.jpg" tvg-name="La maldición de la sirena (2019)" ,La maldición de la sirena (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425821.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uswFh1UtkV2hkvkTfczQXNodjFz.jpg" tvg-name="La maldición del peregrino (2019)" ,La maldición del peregrino (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425831.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r2BlIxjAaj0WERGrIehnczNE0On.jpg" tvg-name="La maldición de Margam Castle (2020)" ,La maldición de Margam Castle (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425840.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yp9K27qylRXQscefpYUdvKddG3u.jpg" tvg-name="La maldición renace (2019)" ,La maldición renace (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425852.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bXIkBjrEX455MBwl1aFn95JPYFv.jpg" tvg-name="La maldición renace \ (2020)" ,La maldición renace \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/425858.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k5dhNUDIwUBEkhSXhP4dsSoVkQe.jpg" tvg-name="La médium (2021)" ,La médium (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426028.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hgiERwOjDVtfeCBgDtRGZVrMBvU.jpg" tvg-name="La Niebla (1980)" ,La Niebla (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426041.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Kee2stO6c2JLgH2Q2ek67H7QTB.jpg" tvg-name="La Niebla \ (2007)" ,La Niebla \ (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426048.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bNF1u2noPXiD4m81YDoxbtzlRLR.jpg" tvg-name="La noche de la bruja (2019)" ,La noche de la bruja (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426062.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jQnGmbS8Pqukn0hM91Fv57TsodG.jpg" tvg-name="La noche del demonio \ (2010)" ,La noche del demonio \ (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426071.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ybzJLYR0AbtFphcj6kMqe08Ak1F.jpg" tvg-name="La noche del demonio: Capítulo 2 (2013)" ,La noche del demonio: Capítulo 2 (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426083.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d5l0baYosvDH4HCEc6O7h1QgAp9.jpg" tvg-name="La noche del demonio: La última llave (2018)" ,La noche del demonio: La última llave (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426096.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvGGA2CbT6xyFVTZUA9f2ok0q5V.jpg" tvg-name="La Nube \ (2020)" ,La Nube \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426105.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sLLYfNEruiG8OTdF4MOKHfU7udi.jpg" tvg-name="La Nueva Pesadilla de Wes Craven (1994)" ,La Nueva Pesadilla de Wes Craven (1994)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426121.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dNfWwIRvlB8XF3n4q9R4B6iL1rx.jpg" tvg-name="En la oscuridad (2018)" ,En la oscuridad (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426135.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZWZlZpW3l4Ej2gSGi5qllBxOtH.jpg" tvg-name="La Paciente (2017)" ,La Paciente (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426150.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u46Ff8Gg16qhnmrSBLpsdqlmCVO.jpg" tvg-name="La Paradoja Cloverfield (2018)" ,La Paradoja Cloverfield (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426166.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vG9FY2wHVwOOQfqNlUt2LbRzRNl.jpg" tvg-name="La película de los Banana Splits (2019)" ,La película de los Banana Splits (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426186.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yBYll8dgoyQrKDeajWYvhhZFAmG.jpg" tvg-name="La pequeña tienda de los horrores (1960)" ,La pequeña tienda de los horrores (1960)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426196.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg" tvg-name="La Purga Por Siempre (2021)" ,La Purga Por Siempre (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426347.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg" tvg-name="La Purga Por Siempre (2021)" ,La Purga Por Siempre (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426360.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g9mWWCbFuXcekpfrtZ1kPPI7bXw.jpg" tvg-name="La reencarnación (2016)" ,La reencarnación (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426372.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uwadi7bjB3Hfcz2HYlhxEy4n4n.jpg" tvg-name="La reliquia (1997)" ,La reliquia (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426385.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tmghT8HaddVIS9hEXIOI9GuDchi.jpg" tvg-name="La Resurrección de la Momia (2021)" ,La Resurrección de la Momia (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426402.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg" tvg-name="Las colinas Tienen ojos 2" ,Las colinas Tienen ojos 2
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426409.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fiELUXwJISFII8RScWY1z4dMLd0.jpg" tvg-name="Las dos caras del Dr.Jekyll (1960)" ,Las dos caras del Dr.Jekyll (1960)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426425.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fvDLB6NSMwmWTunsGYl1HLoTTnH.jpg" tvg-name="Las Formas Antiguas (2020)" ,Las Formas Antiguas (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426450.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ah4hLKvjjW6DbZ2pYgvyyEVFppB.jpg" tvg-name="La sirena: La leyenda jamás contada (2018)" ,La sirena: La leyenda jamás contada (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426474.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dLImH0T5QsLJdWWXZbsZsIgWosO.jpg" tvg-name="Las novias de Drácula (1960)" ,Las novias de Drácula (1960)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426486.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/znFC6ftSMkxgY2o5f6WfVCHcWbp.jpg" tvg-name="Las reglas de la ruina (2018)" ,Las reglas de la ruina (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426499.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iUHgU4z060r37yFAflDIItNuGKu.jpg" tvg-name="Las ruinas (2008)" ,Las ruinas (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426510.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qxDEPz0JPGK6VS6JeLpNCob9vUn.jpg" tvg-name="La Sustancia Maldita (1985)" ,La Sustancia Maldita (1985)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426523.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eO4K8yffUMHTj6P1UKJfJA9nCMJ.jpg" tvg-name="Las Vampiras (1971)" ,Las Vampiras (1971)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426536.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cS7gOIENg0loAwRDvqAVbMghqdT.jpg" tvg-name="La Tiendita de Los Horrores (1986)" ,La Tiendita de Los Horrores (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426548.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6W9IpOa6A4SAuF5aliGZQCDdWJY.jpg" tvg-name="La víspera de Halloween (2013)" ,La víspera de Halloween (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426576.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1c7OsovY4s15sLp8AfzxR92fTCU.jpg" tvg-name="Let's Scare Julie (2020)" ,Let's Scare Julie (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426601.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51xghNQVIrkdg7T6NknFWCDzpfC.jpg" tvg-name="Leyenda urbana (1998)" ,Leyenda urbana (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426612.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9TxrMWzcZZj2vSGvjD4v2r1cgXt.jpg" tvg-name="Leyenda urbana 2 (2000)" ,Leyenda urbana 2 (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426624.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg" tvg-name="Libros de sangre (2020)" ,Libros de sangre (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426638.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqkghrcEQsaG7B3f3iYWQFqmfVD.jpg" tvg-name="Life: Vida inteligente (2017)" ,Life: Vida inteligente (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426651.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocNctwT6ePRtzWPi3Tqqog5h7NM.jpg" tvg-name="Lifechanger (2018)" ,Lifechanger (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426664.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pImLBctjfRhdFPJsD1G6sYbOF1F.jpg" tvg-name="Llamas de venganza (1984)" ,Llamas de venganza (1984)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426675.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yDCIUtqZDc9JCKuxRGiqwMuDjUE.jpg" tvg-name="Llanto Maldito (2021)" ,Llanto Maldito (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426687.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ouqDca02a6TvRXuaShcaXG3qNrG.jpg" tvg-name="Lo que hay debajo (2020)" ,Lo que hay debajo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426710.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zmTQgo64ccUVF4vRbIVCK2ESdIT.jpg" tvg-name="Los curados (2017)" ,Los curados (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426726.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" tvg-name="Los exterminadores del mas alla contra la rubia del baño (2018)" ,Los exterminadores del mas alla contra la rubia del baño (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426741.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gjUqYcAAJNTgnyyVoZQoZqYhAUx.jpg" tvg-name="Los extraños: Cacería nocturna (2018)" ,Los extraños: Cacería nocturna (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426754.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dknDazqJW8kphSm5ZyEnes3qymV.jpg" tvg-name="Los inquilinos (2017)" ,Los inquilinos (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426780.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rKRrdZXXsQD2v7jKTeea5GJG7ml.jpg" tvg-name="Los Inquilinos (2018)" ,Los Inquilinos (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426790.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ydgfl914QvXOUwkP3StV9w2Wwba.jpg" tvg-name="Los intrusos (2020)" ,Los intrusos (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426803.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6reoso5qwKE9HexRZi5EZ9XsvwM.jpg" tvg-name="Los Niños del Maíz 2: El sacrificio final (1992)" ,Los Niños del Maíz 2: El sacrificio final (1992)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426822.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tRjeV9AZgCXGTqyvlp7Ui55Yb3l.jpg" tvg-name="Los Niños del Maíz 4: La reunión (1996)" ,Los Niños del Maíz 4: La reunión (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426834.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sL3ZaPFwgkfn9KuIsh861zsPX0Y.jpg" tvg-name="Los Niños del Maíz 7: Revelaciones (2001)" ,Los Niños del Maíz 7: Revelaciones (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426857.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3c0HiaAAljaWRHWkgNp0uM6sFRD.jpg" tvg-name="Los Niños del Maíz 666: Cosecha negra (1999)" ,Los Niños del Maíz 666: Cosecha negra (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426867.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3EphHAIU36cIeFxHAwjdET3ibDp.jpg" tvg-name="Los rostros del diablo (2019)" ,Los rostros del diablo (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426876.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uFJ4nIrGMgKqZH8rlpaleJBxGTq.jpg" tvg-name="Luna Roja (1996)" ,Luna Roja (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426884.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg" tvg-name="Ma \ (2019)" ,Ma \ (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426896.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i9ErzjpaE6BOHajCvcKx9fycemT.jpg" tvg-name="Madre Oscura (2020)" ,Madre Oscura (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426906.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg" tvg-name="Maggie (2015)" ,Maggie (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426916.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h1cPkhL7WeuerPVwHwj1vkOv8lU.jpg" tvg-name="Maldición en el tercer piso (2019)" ,Maldición en el tercer piso (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426924.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ivYlIh0dEB0WNioFGfAbY2JHCG8.jpg" tvg-name="Maldito (2021)" ,Maldito (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426936.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sCiRCxY8qbIi6adTCBzk9MmqBFF.jpg" tvg-name="Maligno (2019)" ,Maligno (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426943.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lq3VTrxyMjIMiI91rI6RPqScsu.jpg" tvg-name="Maligno (2021)" ,Maligno (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426949.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg" tvg-name="Mamá (2013)" ,Mamá (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426957.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg" tvg-name="Mandy (2018)" ,Mandy (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426968.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k5abkpMxYTYYuMahgVXF10h1s4Q.jpg" tvg-name="Maniaco (1980)" ,Maniaco (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426976.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zssSZAC9nl0OUR6uPhKUEbgkCVN.jpg" tvg-name="Manicomio del terror (2020)" ,Manicomio del terror (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426986.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o5xhrIiaa8BvXmoTUIYPLgLW19x.jpg" tvg-name="Mara (2018)" ,Mara (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/426996.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/d90330de40ad2f219c5f753acb58599d.jpg" tvg-name="Mare \ (2020)" ,Mare \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427001.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9P6cBv5GQBKOhYyjdeeuhUDsdXc.jpg" tvg-name="Masacre en el tren de la muerte (2008)" ,Masacre en el tren de la muerte (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427013.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg" tvg-name="Masacre en Texas: Herencia maldita (2013)" ,Masacre en Texas: Herencia maldita (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427021.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/loIRe96n7jq9cvjxBOFahDghuG.jpg" tvg-name="Matar al dragón (2019)" ,Matar al dragón (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427029.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mUazWvpVZhUtgzVqu15aWraLmVG.jpg" tvg-name="Me casé con un monstruo (1958)" ,Me casé con un monstruo (1958)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427040.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sAnAMv3eyQiGI1z2k8NsvH0Y6r5.jpg" tvg-name="Megaboa (2021)" ,Megaboa (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427049.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/83047ee30c08ce128bc010bec8fc3cdf.jpg" tvg-name="Men \ (2022)" ,Men \ (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427053.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bzpCwz8KoVzb0yIr7BI6W4LQjM2.jpg" tvg-name="Mente siniestra (2005)" ,Mente siniestra (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427061.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pWAniWWeBf2qGAYuCPvnvYGs7pM.jpg" tvg-name="Mentes malvadas (2018)" ,Mentes malvadas (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427069.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iMFAKPH7AaUJ76oLqWz9OxU7s6S.jpg" tvg-name="Mi amigo fiel (2020)" ,Mi amigo fiel (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427077.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/brxVQ3LpzYMp3IJ1Qg3O8bo0nQt.jpg" tvg-name="Midsommar: el terror no espera la noche (2019)" ,Midsommar: el terror no espera la noche (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427085.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oL4IGFb1A8EQyOXZkxlRIVaRQhu.jpg" tvg-name="Miedo profundo (2016)" ,Miedo profundo (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427092.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/phcd5AJvA1S45JMKYoNLhTzFwsE.jpg" tvg-name="Miedo Punto Com (2002)" ,Miedo Punto Com (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427102.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/phcd5AJvA1S45JMKYoNLhTzFwsE.jpg" tvg-name="Mi hijo \ (2021)" ,Mi hijo \ (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427107.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c6FFedYR8t103ZafM0Mesq2jDLw.jpg" tvg-name="Mil Gritos Tiene la Noche (1982)" ,Mil Gritos Tiene la Noche (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427115.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjTygYHeLg0LDTHPq1TgRjmeJr.jpg" tvg-name="Mind Ripper (1995)" ,Mind Ripper (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427144.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98X61et9iA9yI3T1GKizIh0zUca.jpg" tvg-name="Mindwarp (1992)" ,Mindwarp (1992)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427152.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f6Y9beuW9QZ1t7atWCHJCpsAMXJ.jpg" tvg-name="Mi novio es un zombie (2013)" ,Mi novio es un zombie (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427159.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rBqjfxV681Etd58fY3E8RqiQOSh.jpg" tvg-name="Mirada de cristal (2017)" ,Mirada de cristal (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427169.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bSr5KovEHFFvIfeYjpGkbWFGc0m.jpg" tvg-name="Morgan (2016)" ,Morgan (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427179.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mAltHW6uwqw8zCDbAfqxLNpC6wk.jpg" tvg-name="Morgue (2019)" ,Morgue (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427186.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg" tvg-name="Mosquito der Schänder \ (1977)" ,Mosquito der Schänder \ (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427190.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ewGMnKOQDmJLiPDQRATkL16CzAZ.jpg" tvg-name="Mudanza mortal (2021)" ,Mudanza mortal (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427210.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qaBNJEr6LJA9cg7Ht4I9WqiFBDy.jpg" tvg-name="Muerte de noche (2018)" ,Muerte de noche (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427219.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cdYkIpidgB2T0iJwYljQWbFAztb.jpg" tvg-name="Muerte en la montaña (2012)" ,Muerte en la montaña (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427228.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghNua7wru2APolXOutWqO5kpJrI.jpg" tvg-name="Muerte instantánea (2019)" ,Muerte instantánea (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427236.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gFBPthhQCgMCe2mRLnQuamP46sY.jpg" tvg-name="Muertos de miedo (1992)" ,Muertos de miedo (1992)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427246.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f6Dg5KTvpcZgJTgjXF2OXeSZBH6.jpg" tvg-name="Muertos de miedo (1996)" ,Muertos de miedo (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427255.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f6Dg5KTvpcZgJTgjXF2OXeSZBH6.jpg" tvg-name="Muertos de miedo (1996)" ,Muertos de miedo (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427263.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vkxKo08e8PhIKz6itm2b83scYQ7.jpg" tvg-name="Muertos de miedo Theatrical \ (1996)" ,Muertos de miedo Theatrical \ (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427267.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7TDWZVx599M0LVMAnvT3L2K0cCU.jpg" tvg-name="Muertos de risa (2004)" ,Muertos de risa (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427275.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKjxng2LOhtdaIudGe4ZEOyFLey.jpg" tvg-name="Muñecos asesinos (2019)" ,Muñecos asesinos (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427283.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AtKUBX1POUsCNf74VA1wtxdyDzG.jpg" tvg-name="Mártires (2008)" ,Mártires (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427293.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ilkBLFYzOdGHqxO1Og4SQk7c6O9.jpg" tvg-name="México Bárbaro 2 (2017)" ,México Bárbaro 2 (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427303.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5RqOr2gap2iOtSQRClkxzFcHspo.jpg" tvg-name="Nadie duerme en el bosque esta noche (2020)" ,Nadie duerme en el bosque esta noche (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427310.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iD1pLLaEueFM0QjMSscHjHPuQQV.jpg" tvg-name="Nadie duerme en el bosque esta noche 2 (2021)" ,Nadie duerme en el bosque esta noche 2 (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427319.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1CQBfLyWRFdTa3uryLI05N6TtXI.jpg" tvg-name="Negra Navidad (2019)" ,Negra Navidad (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427327.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ftdhL4zamDnjSD4TML1ES79DueX.jpg" tvg-name="Nightmare Cinema (2018)" ,Nightmare Cinema (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427338.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fkRtfFOOH2ap0C8wRdqELFMR0la.jpg" tvg-name="Nocturne (2020)" ,Nocturne (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427346.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yFNtuh9DvtNeoj29QL0jFbB28mo.jpg" tvg-name="No dormirás (2018)" ,No dormirás (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427355.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zzQPQH7s0LZbSNluMnzFVTfezSu.jpg" tvg-name="No estamos solos (2016)" ,No estamos solos (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427365.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uwiNswgjQy6PgLBLVtF8I2AT2mH.jpg" tvg-name="No mires (2018)" ,No mires (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427373.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pwt1lueEFn49m8XSsytiJIK1YyU.jpg" tvg-name="No Sin Unpunished (2019)" ,No Sin Unpunished (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427384.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg" tvg-name="Nosotros (2019)" ,Nosotros (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427391.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/76f9f3df5d7ed0d5e10bdccef9ca2a16.jpg" tvg-name="No te Duermas \ (2017)" ,No te Duermas \ (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427396.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg" tvg-name="No toques dos veces (2016)" ,No toques dos veces (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427405.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/BR1N4UqZtk6OxcWLBGgws8XAQH.jpg" tvg-name="Nuestra Casa (2018)" ,Nuestra Casa (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427417.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eodXetH5ozVr6iiVVRk6Hostonv.jpg" tvg-name="Ofrenda al demonio (2022)" ,Ofrenda al demonio (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427423.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7959EFCHkR8xBF7a9Swv8l6Zixw.jpg" tvg-name="Ominous (2015)" ,Ominous (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427433.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5rsEhgcNRUthjo6fqRDqZy5plx.jpg" tvg-name="On Halloween (2020)" ,On Halloween (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427444.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nGUoTarYNL1jI62X31PSAhBgxgf.jpg" tvg-name="Operación Overlord (2018)" ,Operación Overlord (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427452.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iHj2K4Caj8BlZzbAOvFt0fAViIh.jpg" tvg-name="Oscura separación (2021)" ,Oscura separación (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427458.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6VLo3diWRMuDZUTqgXt9M8kPW.jpg" tvg-name="Ouija 2: El origen del mal (2016)" ,Ouija 2: El origen del mal (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427466.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9NYncilD0GzvzhSF2HKmcnZxRAn.jpg" tvg-name="Paciente Cero (2018)" ,Paciente Cero (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427471.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yXIGHxJTGjaBP0clvzPJ0jIsj48.jpg" tvg-name="Parada Mortal (2006)" ,Parada Mortal (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427477.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uqoZlqWg1L2HaymAZrmWc05l92R.jpg" tvg-name="Paranormal (2017)" ,Paranormal (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427483.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yjAcpmkevz7jdZPHg8MGwv2ciKi.jpg" tvg-name="Payasos asesinos del espacio exterior (1988)" ,Payasos asesinos del espacio exterior (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427488.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gWvRsfRh51vvpii5fh9a6rhS7Ib.jpg" tvg-name="Pesadilla al amanecer (2019)" ,Pesadilla al amanecer (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427494.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/86ktkSGe5yqOzKfmVmKRcWjVrw.jpg" tvg-name="Pesadilla en el Hotel Normandie (2021)" ,Pesadilla en el Hotel Normandie (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427499.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/86ktkSGe5yqOzKfmVmKRcWjVrw.jpg" tvg-name="Pesadilla en el Hotel Normandie (2021)" ,Pesadilla en el Hotel Normandie (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427505.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ma9gY6OikBev8MsMaeA6h2EIdGo.jpg" tvg-name="Pesadilla en el Infierno (2018)" ,Pesadilla en el Infierno (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427511.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" tvg-name="Pesadilla en la calle del infierno (1984)" ,Pesadilla en la calle del infierno (1984)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427517.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pIJhr7COa5RBUllzkjtB5555dbG.jpg" tvg-name="Santo y Blue Demon contra el doctor Frankenstein (1974)" ,Santo y Blue Demon contra el doctor Frankenstein (1974)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427737.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1EV8HY2KXavPluOb4TUnnTNTiiY.jpg" tvg-name="Scare Package (2019)" ,Scare Package (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427741.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yYd0leGTdrPQjDdkOveLbKofW1z.jpg" tvg-name="Scars of Dracula (1970)" ,Scars of Dracula (1970)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427744.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMDrWCUqxc7BfQcseT427znCDta.jpg" tvg-name="Scream 2: Grita y vuelve a Gritar (1997)" ,Scream 2: Grita y vuelve a Gritar (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427750.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg" tvg-name="Scream 3: La Máscara de la Muerte (2000)" ,Scream 3: La Máscara de la Muerte (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427760.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg" tvg-name="Scream 4 (2011)" ,Scream 4 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427771.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c442e69c875abb7deb84d51531055f44.jpg" tvg-name="Screamers \ (1995)" ,Screamers \ (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427778.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4mAXrnroaUnA4PApJNV9YS9zrso.jpg" tvg-name="Secuestrada: La Historia de Mary Stauffer (2019)" ,Secuestrada: La Historia de Mary Stauffer (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427790.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nNX58K2R8GKWY0q1hxf3Gcqd6Bj.jpg" tvg-name="Secundaria mortal (2018)" ,Secundaria mortal (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427794.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0rogLe8LPDnydVSHf65ngD3wTD.jpg" tvg-name="Se Ocultan en la Oscuridad (2017)" ,Se Ocultan en la Oscuridad (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427799.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A3Au37c3KJX29BDvldzGiYtaU5B.jpg" tvg-name="Session 9 (2001)" ,Session 9 (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427803.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f1eLcdXdYuhV38QoH3NrHXfYWCQ.jpg" tvg-name="Sharks in Venice (2008)" ,Sharks in Venice (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427808.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fNDnXp7984wnB0MYsR4AFzqxDLy.jpg" tvg-name="Shock Waves (1977)" ,Shock Waves (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427812.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9okiJeKfvFhblHaZkFJZYGalzxS.jpg" tvg-name="Siempre sabré lo que hicieron el verano pasado (2006)" ,Siempre sabré lo que hicieron el verano pasado (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427815.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AeLxpqOb0fgRI82o3tox2dbaJw1.jpg" tvg-name="Siete deseos (2017)" ,Siete deseos (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427819.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/elReufFR4NYFiBVRsD0wB2F6FDf.jpg" tvg-name="Siete Minutos en el Cielo (2018)" ,Siete Minutos en el Cielo (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427823.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f220cce3d74872714c42c46c1eeb9733.jpg" tvg-name="Siete mujeres atrapadas \ (1982)" ,Siete mujeres atrapadas \ (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427826.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jZxSqam9PImEIDXtD3HIKPwmd9K.jpg" tvg-name="Silencio (2016)" ,Silencio (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427830.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gwm4btiaYP5VxeVZCTF1Zs0voGg.jpg" tvg-name="Siniestro - Diversion mortal (2008)" ,Siniestro - Diversion mortal (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427845.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg" tvg-name="Slender Man (2018)" ,Slender Man (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427868.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6PORF8ervLTX0XKeLa4sVKyjQA4.jpg" tvg-name="Slenderman Marble (2015)" ,Slenderman Marble (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427872.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1xBYpcEHJzu5vmXmdDmySZ9herF.jpg" tvg-name="Sobre-Natural (2007)" ,Sobre-Natural (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427875.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg" tvg-name="Solamente nero \ (1978)" ,Solamente nero \ (1978)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427878.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z56MonpplOTKur2KTz371RQrjr.jpg" tvg-name="Soldados de Dios (1995)" ,Soldados de Dios (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427882.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cOrBGjW4sVvfNlY4Uu03qf8zWvq.jpg" tvg-name="Soldados de Dios: El ascenso (2000)" ,Soldados de Dios: El ascenso (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427889.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rbqT3aUm4nMiBhpquxWnxGZRDjW.jpg" tvg-name="Sonríe (2012)" ,Sonríe (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427894.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gsgUEvBzRhG9d8Wf71MoFMMTbzG.jpg" tvg-name="Sonámbulos (1992)" ,Sonámbulos (1992)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427898.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gjxva7c5WSV72YgKr5uDAFTNYzy.jpg" tvg-name="Spare Parts (2020)" ,Spare Parts (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427903.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6iTPFr7MknkLORF8GqRpovNyE6l.jpg" tvg-name="St. Agatha (2018)" ,St. Agatha (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427907.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/saH984W3ZGjRX0NMCEsuKh8VUP9.jpg" tvg-name="Stephanie (2017)" ,Stephanie (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427911.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/krlOnkMBDYp4zgLivd4WORBnQm0.jpg" tvg-name="Stitches (2012)" ,Stitches (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427915.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4WGRU9xT377aHDKIZ49egR3cJBB.jpg" tvg-name="Su casa (2020)" ,Su casa (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427919.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/611HBU2LefAEb3EMVwx23ueJPiP.jpg" tvg-name="Su peor pesadilla (2020)" ,Su peor pesadilla (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427923.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/be1950e3aa687669d82f763924b145d7.jpg" tvg-name="Super Hybrid \ (2010)" ,Super Hybrid \ (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427926.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg" tvg-name="Sweetheart (2019)" ,Sweetheart (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427930.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8x5aE3NhNS8bC1DWLl46OUyfr4z.jpg" tvg-name="Swim (2021)" ,Swim (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427935.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nO0WqEgH0IKHlXsl9WCJiFJyohi.jpg" tvg-name="Sé lo que hicieron el verano pasado (1997)" ,Sé lo que hicieron el verano pasado (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427939.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tCIGah94kQaaV5bwl2Yc3j83aTx.jpg" tvg-name="Tales of Halloween (2015)" ,Tales of Halloween (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427943.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7s4eGfl5MtKdxn407VBZHzTwutu.jpg" tvg-name="Tarántula (1955)" ,Tarántula (1955)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427947.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yGJhJaYXDq12e8JgpuDuSiMOuHr.jpg" tvg-name="Taste the Blood of Dracula (1970)" ,Taste the Blood of Dracula (1970)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427951.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r34HRvpgkuszOB2mLgd0iplZ7fC.jpg" tvg-name="Ten cuidado a quién llamas (2020)" ,Ten cuidado a quién llamas (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427956.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r34HRvpgkuszOB2mLgd0iplZ7fC.jpg" tvg-name="Tentacoli \ (1977)" ,Tentacoli \ (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427958.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rRfcH0jg9X8czKJhXCnny45NSWt.jpg" tvg-name="Tentáculos (2021)" ,Tentáculos (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427961.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b32a8ebfc2098e18e0a866657a6606e2.jpg" tvg-name="Terrifier (2018)" ,Terrifier (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427964.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" tvg-name="Terror a 47 metros: El segundo ataque (2019)" ,Terror a 47 metros: El segundo ataque (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427972.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg" tvg-name="Terror bajo la Tierra (1990)" ,Terror bajo la Tierra (1990)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427975.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7RdQGvkeQMD8bRxdx70uCX23TF4.jpg" tvg-name="Terror en Chernóbil (2012)" ,Terror en Chernóbil (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427978.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pfUZN919PZOCbD4HPa9h3nVMij5.jpg" tvg-name="Terror en el bosque (2014)" ,Terror en el bosque (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427982.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" tvg-name="Terror en Silent Hill (2006)" ,Terror en Silent Hill (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427986.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2hs5FMnSe9RMfvarAitaTbFdt7n.jpg" tvg-name="Terror profundo (2017)" ,Terror profundo (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427989.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1GB9LcUZn4x7ceSTvvplGMzd0bH.jpg" tvg-name="Terror Talk (2018)" ,Terror Talk (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427992.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2f6dOp3yjLtABEDqE6xuOAoLftF.jpg" tvg-name="Tesis (1996)" ,Tesis (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/427997.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uDIjHJvpA1MThn4YMXdCTuldTT9.jpg" tvg-name="Testigo (2000)" ,Testigo (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428002.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1P1T05D6NmyQOJfVsjOdrD61Lpo.jpg" tvg-name="The Clapper (2017)" ,The Clapper (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428006.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mqeDQOfqohVThQ7ZKErqoHL5odm.jpg" tvg-name="The Curse (1987)" ,The Curse (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428010.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zMsbISl5Mbqqxtadia7dqGcXJXW.jpg" tvg-name="The Curse of Lilith Ratchet (2018)" ,The Curse of Lilith Ratchet (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428015.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zBpenHOqj1w8VxyuhBmjXtZuDVX.jpg" tvg-name="The Dead Pit (1989)" ,The Dead Pit (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428019.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jmw7RHYSnc7p3kopV3yvLOoH9Q1.jpg" tvg-name="The Fantasma del Bosque Borley (2013)" ,The Fantasma del Bosque Borley (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428022.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wgt0M5l7X6EtSiUKN87EvGNf3hy.jpg" tvg-name="The Furies (2019)" ,The Furies (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428026.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kAoHTN3GXHt5kKIjVVzCwxFC0eU.jpg" tvg-name="The Hitcher: Asesino de la Carretera (1986)" ,The Hitcher: Asesino de la Carretera (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428030.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/haDvHa8aFcFOSWJYlSpfqq0zeLS.jpg" tvg-name="The Human Race (2013)" ,The Human Race (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428034.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/68863c2e50419ef69543d5dfa3a86c64.jpg" tvg-name="The Lair \ (2022)" ,The Lair \ (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428037.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4lNvsfCeLcvGTJVRQdY3JtsQImk.jpg" tvg-name="The Marshes (2018)" ,The Marshes (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428042.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nkneQbaNWVi2BAuT0pnw42KscMd.jpg" tvg-name="The Night Courier (2021)" ,The Night Courier (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428046.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87D9w36PemKtNS02NAdqAMOBqsK.jpg" tvg-name="The Possessed (2021)" ,The Possessed (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428052.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/MgkIkJHxfy4d0iPofMOEyuh89k.jpg" tvg-name="The Quatermass Xperiment (1955)" ,The Quatermass Xperiment (1955)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428056.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n8PWntxvxkXmvCBh4leEJ4BirF3.jpg" tvg-name="The Reckoning (2021)" ,The Reckoning (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428061.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a8fcfa5530749abb891754dbd390d31e.jpg" tvg-name="The Return \ (2020)" ,The Return \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428064.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38vFSphv1GXwoa1kUwKWArym9B8.jpg" tvg-name="The Satanic Rites of Dracula (1973)" ,The Satanic Rites of Dracula (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428068.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38vFSphv1GXwoa1kUwKWArym9B8.jpg" tvg-name="The Station \ (2013)" ,The Station \ (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428070.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ptt9KtnVELIxQ9tgfDClOnQpQkQ.jpg" tvg-name="The Super (2010)" ,The Super (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428073.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xccFB7bz1paXM3WaPX6x97UWWdK.jpg" tvg-name="The Toolbox Murders (1978)" ,The Toolbox Murders (1978)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428077.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fLS3S2cgS0oEm42RGzkH4UaGqJr.jpg" tvg-name="The Town That Dreaded Sundown (1976)" ,The Town That Dreaded Sundown (1976)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428080.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fLS3S2cgS0oEm42RGzkH4UaGqJr.jpg" tvg-name="The Witch Part 1. The Subversion \ (2018)" ,The Witch Part 1. The Subversion \ (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428082.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVGBsF3MvHuBxLsAaBVjNoU58X.jpg" tvg-name="They Live Inside Us (2020)" ,They Live Inside Us (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428086.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aCqHb3eFQV8raX30OfGurqPlpjh.jpg" tvg-name="Tiburón (1975)" ,Tiburón (1975)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428090.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQgHcjBWzjCvdfFNY6PGMEzMN93.jpg" tvg-name="Tiburón 2 (1978)" ,Tiburón 2 (1978)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428095.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg" tvg-name="Tiempos de Tortura (2018)" ,Tiempos de Tortura (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428099.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bLFow6tnwCZ2LPiUbSu94V8klpl.jpg" tvg-name="Tierra de los muertos (2005)" ,Tierra de los muertos (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428103.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oVG20LAL9s1xpg5qLaJX8jrop74.jpg" tvg-name="Todavía sé lo que hicieron el verano pasado (1998)" ,Todavía sé lo que hicieron el verano pasado (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428106.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nJMbwUm5jwVqEukUNoRFmkxW4XP.jpg" tvg-name="Todo lo que destruimos (2019)" ,Todo lo que destruimos (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428111.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3UgRc3vpOiW9HOAD7oBa16xQ21E.jpg" tvg-name="Tragedy Girls (2017)" ,Tragedy Girls (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428115.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e8BJI1OfZOaW6rHQtUXInxoHqFJ.jpg" tvg-name="Trauma (2017)" ,Trauma (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428120.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uWVEjJ6wIjg6jVR2LtwVRHkpJAn.jpg" tvg-name="Treinta días de noche (2007)" ,Treinta días de noche (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428123.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg" tvg-name="Truco o Trato: Terror en Halloween (2007)" ,Truco o Trato: Terror en Halloween (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428127.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jJm4lp43ZeSgr28yjNoVKCScFl0.jpg" tvg-name="Turistas \ (2006)" ,Turistas \ (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428130.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBUuQHgJPs3dFMCkngbncGzkez.jpg" tvg-name="Two Heads Creek (2019)" ,Two Heads Creek (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428134.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2eMZjYxEGXS6xj4hRtxBmaPPi3z.jpg" tvg-name="Tótem (2017)" ,Tótem (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428137.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mJWe2V468yEDdAPUjSNBxnbV9TW.jpg" tvg-name="Túnel al infierno (1987)" ,Túnel al infierno (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428141.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ogmrboi0JzQ8HS6TK588BMzRA33.jpg" tvg-name="Túnel al infierno II (1990)" ,Túnel al infierno II (1990)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428145.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1xbW5cNFPP716bl5YKZlxHjouiv.jpg" tvg-name="Una presencia extraña (2018)" ,Una presencia extraña (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428149.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tPmRsNX2X3Bz3byvWvGZ27n3vbl.jpg" tvg-name="Una sombra en la nube (2020)" ,Una sombra en la nube (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428152.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lsK7fvFXtCREiiIUF6Kvr5PDAzY.jpg" tvg-name="Uncle Peckerhead (2020)" ,Uncle Peckerhead (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428156.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/owPn847icCFSQFBPqM2hgamEUsI.jpg" tvg-name="Un demonio interior (2017)" ,Un demonio interior (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428160.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k4inabU76A8SOCfRg5A1nhjV72.jpg" tvg-name="Un Hombre Lobo Americano En Londres (1981)" ,Un Hombre Lobo Americano En Londres (1981)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428165.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" tvg-name="Un hombre lobo americano en París (1997)" ,Un hombre lobo americano en París (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428169.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4RkdBAVn3hbNWiXWinvYtkqVXZB.jpg" tvg-name="Un hombre lobo entre nosotros (2021)" ,Un hombre lobo entre nosotros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428173.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" tvg-name="Un Lugar En Silencio (2018)" ,Un Lugar En Silencio (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428177.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" tvg-name="Un lugar tranquilo \ (2018)" ,Un lugar tranquilo \ (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428179.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/1c1e51de6cf32d58ad64efbe2284892f.jpg" tvg-name="Un lugar tranquilo 2 \ (2021)" ,Un lugar tranquilo 2 \ (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428182.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg" tvg-name="Van Helsing: Cazador de monstruos (2004)" ,Van Helsing: Cazador de monstruos (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428186.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9lwliMeRlnMZDYVsjoabTlFRLaQ.jpg" tvg-name="Ven a Jugar (2020)" ,Ven a Jugar (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428190.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/luMC56bwZqaECYRz6X7sXjqN6nd.jpg" tvg-name="Veneciafrenia (2022)" ,Veneciafrenia (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428194.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0DMKjBkm03jdqAMx1Pi7RSG5A.jpg" tvg-name="Veneno (2005)" ,Veneno (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428199.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oM2F7l8zNXV12Obe48IpQbH3crK.jpg" tvg-name="Verónica (2017)" ,Verónica (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428204.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o4hcWsHaHaNQ9BBReOxLvYJNRhA.jpg" tvg-name="VHS: Las crónicas del miedo 2 (2013)" ,VHS: Las crónicas del miedo 2 (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428207.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o4hcWsHaHaNQ9BBReOxLvYJNRhA.jpg" tvg-name="Victor Frankenstein \ (1977)" ,Victor Frankenstein \ (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428209.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg" tvg-name="Viernes 13 (1980)" ,Viernes 13 (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428213.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2D3JuHNBTZENynVlj0vuBILykG.jpg" tvg-name="Viernes 13, Parte II (1981)" ,Viernes 13, Parte II (1981)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428217.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6BUZejBlchP9rrbJMBhQlRCpk9b.jpg" tvg-name="Viernes 13, Parte III (1982)" ,Viernes 13, Parte III (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428223.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg" tvg-name="Viernes 13, Parte IV: El último capítulo (1984)" ,Viernes 13, Parte IV: El último capítulo (1984)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428226.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zp7B46kR8kgqWP3ajkT2B4OMJPo.jpg" tvg-name="Viernes 13, Parte V: Todo comienza de nuevo (1985)" ,Viernes 13, Parte V: Todo comienza de nuevo (1985)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428231.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2hbNbi41Gx2EHO16Ei2WUr4Lggq.jpg" tvg-name="Viernes 13, Parte VI: Jason vive (1986)" ,Viernes 13, Parte VI: Jason vive (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428235.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bFKwI7IsGyrC8QmaIPfiGt1gENP.jpg" tvg-name="Viernes 13, Parte VII: Sangre nueva (1988)" ,Viernes 13, Parte VII: Sangre nueva (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428239.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wA8bKBcqfHglYq9q2jja4IzFGw4.jpg" tvg-name="Viernes 13 - Parte 8: Jason Toma Manhattan (1989)" ,Viernes 13 - Parte 8: Jason Toma Manhattan (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428243.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7uGMCqUB6aRkmCARMocysRGTV9v.jpg" tvg-name="Vigilados (2020)" ,Vigilados (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428248.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg" tvg-name="Virus (1999)" ,Virus (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428253.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yT0dtXZkZPJnWusJDXm9gu6rJXJ.jpg" tvg-name="Visitante (2021)" ,Visitante (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428256.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rRe20MjzhWKVBZMUolgpkEiq4ym.jpg" tvg-name="VIViD (2011)" ,VIViD (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428261.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/odUW8lKgpJHX6ilcUYIderenTxZ.jpg" tvg-name="Warlock (1989)" ,Warlock (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428265.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sLtUVG7ORbTJueTmIWpO4YeHayS.jpg" tvg-name="Wilderness (2006)" ,Wilderness (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428269.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg" tvg-name="Wishmaster (1997)" ,Wishmaster (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428274.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1MFMsEvoTERNKrwvabq1ujLFHMV.jpg" tvg-name="Witchboard: Juego diabólico (1986)" ,Witchboard: Juego diabólico (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428278.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mUZh4lHJDUN8tQodoePjTn33S1H.jpg" tvg-name="Yo Frankenstein (2014)" ,Yo Frankenstein (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428281.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/by6VmmLpfjDjFz3qve5sniwFrvo.jpg" tvg-name="You Better Watch Out (2016)" ,You Better Watch Out (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428285.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/82cdb28b44bdc7572686efcf07f478ba.jpg" tvg-name="Z \ (2019)" ,Z \ (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428288.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iS1tYFialjnYQ1pDLYN7gX3TG0J.jpg" tvg-name="Zombie Night (2013)" ,Zombie Night (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428292.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5P5RcfyhEzGrgcx9NzgvaB9qfde.jpg" tvg-name="Zombies Nazis 2 (2014)" ,Zombies Nazis 2 (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428296.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/18DnWfoUDVZBOY8PUFjVUoJVWcu.jpg" tvg-name="\[REC\] \ (2007)" ,\[REC\] \ (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428298.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cRVSZ03HIXKOKfRaKd00gZC5uqA.jpg" tvg-name="[REC] 3: El comienzo (2012)" ,[REC] 3: El comienzo (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428301.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" tvg-name="¡Nop! (2022)" ,¡Nop! (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428305.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q6Rmmz5MYWHBqqdxhW6nsj0vgts.jpg" tvg-name="¡Pooka! (2018)" ,¡Pooka! (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428309.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9mVHxdtlmTZUpgps2cvPqVeJEtb.jpg" tvg-name="Ángeles Caídos (2020)" ,Ángeles Caídos (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428313.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pWhiUJwmeoIXGec8GYwMqf7auqv.jpg" tvg-name="Área de descanso: No mires atrás (2008)" ,Área de descanso: No mires atrás (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/428317.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b32a8ebfc2098e18e0a866657a6606e2.jpg" tvg-name="Terrifier (2018)" ,Terrifier (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/430693.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vgQDogdqPrSk2zRdy2JESq2LGvy.jpg" tvg-name="El despertar del diablo (1981)" ,El despertar del diablo (1981)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431413.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d4o4F8n0brc2vrpZBTvVFgB2Kk8.jpg" tvg-name="El despertar del diablo 2 (1987)" ,El despertar del diablo 2 (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431414.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/taUyDsH9KqudpkgBRBhk4KlDEOV.jpg" tvg-name="El despertar del miedo (2003)" ,El despertar del miedo (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431415.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wLUdUo8fNe1NSaLzFxsdDboHnYF.jpg" tvg-name="El diabolico (2015)" ,El diabolico (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431416.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xDyz1WweBvod5V0KC4BBLO0vlfS.jpg" tvg-name="El duende maldito (1993)" ,El duende maldito (1993)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431417.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qzLdnrpMkM9BXmGY1FOz1tK1f30.jpg" tvg-name="Empty Man: El mensajero del último día (2020)" ,Empty Man: El mensajero del último día (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431418.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ic3JHgGS9oXXYBwO8zE5d1BgtZH.jpg" tvg-name="En caída (2019)" ,En caída (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431419.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hBq8SkRduhzF8B4nwBNbEE1zuOp.jpg" tvg-name="En la hierba alta (2019)" ,En la hierba alta (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431420.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vAvzuTrP9mdtXzIWMCFwW99EmYt.jpg" tvg-name="En la oscuridad de la noche (2021)" ,En la oscuridad de la noche (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431421.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lzzUkcZyHbXJayCw8yNAPezdBhq.jpg" tvg-name="En la Tierra (2021)" ,En la Tierra (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431422.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sX4Wn09Fhu1jp0xtNx6kSvNc3w0.jpg" tvg-name="En presencia del diablo (2016)" ,En presencia del diablo (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431423.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gBPZvPQ1UTNH68SnqiNOpFHWPWQ.jpg" tvg-name="Entrega macabra (2019)" ,Entrega macabra (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431424.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/921DrRqvdnX90grWPkuRnOoko5l.jpg" tvg-name="Entrevista con el vampiro (1994)" ,Entrevista con el vampiro (1994)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431425.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y9r0ZK7vsUWojuq6mYOlufSUx7.jpg" tvg-name="Escalofrío (1978)" ,Escalofrío (1978)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431426.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg" tvg-name="Escape Room: Sin Salida (2019)" ,Escape Room: Sin Salida (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431427.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hEmpLIyeRGR683s31Q9oCwkSoCi.jpg" tvg-name="Escape Room 2: Reto mortal (2021)" ,Escape Room 2: Reto mortal (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431428.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hEmpLIyeRGR683s31Q9oCwkSoCi.jpg" tvg-name="Escape Room 2: Reto mortal (2021)" ,Escape Room 2: Reto mortal (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431429.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/61MTK776QEXRusB6GiWBhYlYecO.jpg" tvg-name="Escupiré Sobre tu tumba (1978)" ,Escupiré Sobre tu tumba (1978)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431430.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vYWGq17sQ2Th0v77tVK6yteA37P.jpg" tvg-name="Especies IV (2007)" ,Especies IV (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431431.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bP5cmzflg0SrebT2QeFNYzxtw4M.jpg" tvg-name="Espejos siniestros (2008)" ,Espejos siniestros (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431432.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ocaPrXzYK5LluHWMg2tSTWtoz0i.jpg" tvg-name="Espiral: El juego del miedo continúa (2021)" ,Espiral: El juego del miedo continúa (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431433.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aNbP2LrQ82eutT9tDort4P9RkfQ.jpg" tvg-name="Espíritus ocultos: En compañía del miedo (2003)" ,Espíritus ocultos: En compañía del miedo (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431434.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/anomz7b3GQtHPFH34SODDBBIUad.jpg" tvg-name="Estación Zombie: tren a Busan (2016)" ,Estación Zombie: tren a Busan (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431435.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvqYLT9VUVMG2PNk5DrvlaXLSxj.jpg" tvg-name="Estación Zombie 2: Península (2020)" ,Estación Zombie 2: Península (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431436.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvqYLT9VUVMG2PNk5DrvlaXLSxj.jpg" tvg-name="Estación Zombie 2: Península (2020)" ,Estación Zombie 2: Península (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431437.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1iZBJcFJFupnxrSCwQIrtVgsrkA.jpg" tvg-name="Estados alterados (1980)" ,Estados alterados (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431438.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZEIEu74rZuwuH8fBepNjBKvpvL.jpg" tvg-name="Estigma (1999)" ,Estigma (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431439.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v0UujbcUtzZXMYVLet5dkWz7nq8.jpg" tvg-name="Estremecimiento (1977)" ,Estremecimiento (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431440.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cO7OUF6onXboXm0jcAOx5n0oWRw.jpg" tvg-name="Están entre nosotros (2004)" ,Están entre nosotros (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431441.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p0TgEBfbOgWP6xZgSt2T7Ee78vx.jpg" tvg-name="Event Horizon: La Nave De La Muerte (1997)" ,Event Horizon: La Nave De La Muerte (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431442.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yQCHNW14s8tJBUOiHFoNWKFvrdA.jpg" tvg-name="Exorcismo en el séptimo día (2021)" ,Exorcismo en el séptimo día (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431443.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg" tvg-name="Exterminio (2002)" ,Exterminio (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431444.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8PJEQ63WebiLJ4vtuyXx68Jehmh.jpg" tvg-name="Exterminio 2 (2007)" ,Exterminio 2 (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431445.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mmiG916iIh6w378qBjRfTonqOWb.jpg" tvg-name="Extraterrestrial (2014)" ,Extraterrestrial (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431446.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cewpBXCzcBWNrfpwrSs83PxW2Xk.jpg" tvg-name="Extremity (2018)" ,Extremity (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431447.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aBjHd8kLHyjgmdDqR4ODu7tfQke.jpg" tvg-name="Faces of Death (1978)" ,Faces of Death (1978)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431448.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3HSov8EW2fI3oQbUJxOvnf684ej.jpg" tvg-name="False Positive (2021)" ,False Positive (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431449.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fTAWG0i7XG6rswPZqYa686kp67M.jpg" tvg-name="Fantasmas (1998)" ,Fantasmas (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431450.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1MSE3VYrosSTLL6Mze6hvKrIRyo.jpg" tvg-name="Fantasmas (2018)" ,Fantasmas (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431451.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wDLthZ6Hgn8RY55p0bkcmLV4Nw6.jpg" tvg-name="Fantasmas de Guerra (2020)" ,Fantasmas de Guerra (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431452.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j8qv4BUA6kUKyvS2Wah6Zqaplod.jpg" tvg-name="Fauces de la noche (2021)" ,Fauces de la noche (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431453.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qewddAmFcD2XoGc4w1YwNdw8YXy.jpg" tvg-name="Faust: Love of the Damned (2000)" ,Faust: Love of the Damned (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431454.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v0ETCJOHzf2zUk2QQ4ozWZ8dfkk.jpg" tvg-name="Feliz día de tu muerte (2017)" ,Feliz día de tu muerte (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431455.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg" tvg-name="Fender Bender (2016)" ,Fender Bender (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431456.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKDXZDh41nEMpefDWAaFYYlr1aB.jpg" tvg-name="Feroz (2000)" ,Feroz (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431457.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKDXZDh41nEMpefDWAaFYYlr1aB.jpg" tvg-name="Finale \ (2018)" ,Finale \ (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431458.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iHljpwprxsxh1l6dSbDQxI7oiDf.jpg" tvg-name="Flesh for Frankenstein (1973)" ,Flesh for Frankenstein (1973)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431459.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" tvg-name="Fobias (2021)" ,Fobias (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431460.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" tvg-name="Fragmentado \ (2016)" ,Fragmentado \ (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431461.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xvHvlulvXvGV6ouEsOesOEYX8Jk.jpg" tvg-name="Hellraiser: Revelaciones (2011)" ,Hellraiser: Revelaciones (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431462.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xS7qm6Tosxs0Q5o1b62C9nVbOqQ.jpg" tvg-name="Hellraiser II (1988)" ,Hellraiser II (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431463.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pib25gFtNCShcyRpFvp1jrcJ1Xk.jpg" tvg-name="Intruso en la noche (1989)" ,Intruso en la noche (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431464.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7AKS0KlPv9WdgzbGj5kdP6WKb9q.jpg" tvg-name="Isabelle (2019)" ,Isabelle (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431465.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7AKS0KlPv9WdgzbGj5kdP6WKb9q.jpg" tvg-name="IT - Capítulo Dos \ (2019)" ,IT - Capítulo Dos \ (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431466.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pLoIruBElbN2ByhwJBdYDj7ECIP.jpg" tvg-name="Jack en la Caja Maldita (2019)" ,Jack en la Caja Maldita (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431467.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sU3qTKAsPdnzax7phUuoRisjQMT.jpg" tvg-name="Jason Goes to Hell: The Final Friday (1993)" ,Jason Goes to Hell: The Final Friday (1993)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431468.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sU3qTKAsPdnzax7phUuoRisjQMT.jpg" tvg-name="Jason X \ (2001)" ,Jason X \ (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431469.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/90T0Cjx2yl6RaFhxas1eKnCphh5.jpg" tvg-name="Jigsaw: El Juego Continúa (2017)" ,Jigsaw: El Juego Continúa (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431470.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg" tvg-name="Juega conmigo (2021)" ,Juega conmigo (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431471.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qnBacCgcGyyX7jmwDf4gemu9OuX.jpg" tvg-name="Juegos Diabólicos 2 (1986)" ,Juegos Diabólicos 2 (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431472.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lBT6UQX3qpNz9VAqk40CU5fOzJ1.jpg" tvg-name="Jugar o morir (2019)" ,Jugar o morir (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431473.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z8OrB7nM2HBAz7IQ3s8PQlKFDr2.jpg" tvg-name="Julia X (2011)" ,Julia X (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431474.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ejaIS2GmbFpStsl4Zvw5wqCUkBG.jpg" tvg-name="Jóvenes brujas (1996)" ,Jóvenes brujas (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431475.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg" tvg-name="Jóvenes Brujas: La Nueva Hermandad (2020)" ,Jóvenes Brujas: La Nueva Hermandad (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431476.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg" tvg-name="Jóvenes Brujas: La Nueva Hermandad (2020)" ,Jóvenes Brujas: La Nueva Hermandad (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431477.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eeWFCRz1lDk2cdlGY1NfbH1XW82.jpg" tvg-name="Kairo (2001)" ,Kairo (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431478.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRtAQKk3FxW4UnU54UJGEjMJzZ.jpg" tvg-name="Karma (2018)" ,Karma (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431479.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRtAQKk3FxW4UnU54UJGEjMJzZ.jpg" tvg-name="Karv \ (2020)" ,Karv \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431480.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ylhJfwokavPDC0BPVe5IcM9WdSZ.jpg" tvg-name="Krampus: El terror de la Navidad (2015)" ,Krampus: El terror de la Navidad (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431481.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38W4orN59iq304tsKuc3EBO1RJL.jpg" tvg-name="La aldea de los aullidos (2020)" ,La aldea de los aullidos (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431482.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xGZQXf2oDYvLQegwWPvvnx8Jcmw.jpg" tvg-name="La aldea maldita (2022)" ,La aldea maldita (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431483.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVC3wd7RdlGTKg4xBlF5gry0Z5j.jpg" tvg-name="La amenaza de otro mundo (1958)" ,La amenaza de otro mundo (1958)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431484.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a6cjKN1zp4DhpFPxXcMhEsPfjc4.jpg" tvg-name="La aparicion (2012)" ,La aparicion (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431485.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1wDmFicGRYetVMXcDmz0CvM7ZOJ.jpg" tvg-name="La apariencia de las cosas (2021)" ,La apariencia de las cosas (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431486.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ophTMVT2bI8Oh7402KSA7LfUvVk.jpg" tvg-name="La batalla de los espíritus: El Aro vs. La Maldición (2016)" ,La batalla de los espíritus: El Aro vs. La Maldición (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431487.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ophTMVT2bI8Oh7402KSA7LfUvVk.jpg" tvg-name="La batalla de los espíritus: El Aro vs. La Maldición (2016)" ,La batalla de los espíritus: El Aro vs. La Maldición (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431488.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rh8JmK2Hs3Qso8MWw5k0JPLMKDB.jpg" tvg-name="La bruja del bosque (2017)" ,La bruja del bosque (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431489.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHlRAHlYpOUN7EPUf0YG8VfriQo.jpg" tvg-name="La bóveda (2017)" ,La bóveda (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431490.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/40Sjxp3rXLC3UV2Wbgxxu4HwMJK.jpg" tvg-name="La cabaña del terror (2012)" ,La cabaña del terror (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431491.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cwMCtGiy7D2nQaik4GGDAeMRoIR.jpg" tvg-name="La cabaña maldita (2018)" ,La cabaña maldita (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431492.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iLdhs92kvQUoEppSHtTjidsir78.jpg" tvg-name="La Cabaña Sangrienta (2003)" ,La Cabaña Sangrienta (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431493.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qLPlzV147xn3SaseDxnxKy0lcAI.jpg" tvg-name="La Cabaña Sangrienta 2 (2009)" ,La Cabaña Sangrienta 2 (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431494.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" tvg-name="La Caja Negra (2020)" ,La Caja Negra (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431495.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wVbTRPe4dllnuNrLeQ4LdqSG6vE.jpg" tvg-name="La Calle de los Pecados (2020)" ,La Calle de los Pecados (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431496.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cUTKJTRGWiNCo0gVEnfrwx0pKzx.jpg" tvg-name="La Carpa del Miedo (2016)" ,La Carpa del Miedo (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431497.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ApbeYT07kYY4xTU1wLOn96StEjz.jpg" tvg-name="La casa (2020)" ,La casa (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431498.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGhkh4tT3j86CNFYWWErSYQWs7.jpg" tvg-name="La casa acecha (2020)" ,La casa acecha (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/431499.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJyI1ziAnWmmzE8bOaZzJN7IqgM.jpg" tvg-name="La casa bajo el agua (2021)" ,La casa bajo el agua (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435040.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a0X61CoPXUQ0Snzrm61DIykmBuv.jpg" tvg-name="La casa de cera (2005)" ,La casa de cera (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435042.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJyI1ziAnWmmzE8bOaZzJN7IqgM.jpg" tvg-name="La casa bajo el agua (2021)" ,La casa bajo el agua (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435043.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bazFF0j5NqoERsXrBxT3h7rBMHx.jpg" tvg-name="La casa de la colina Encantada 2 (2007)" ,La casa de la colina Encantada 2 (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435045.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bazFF0j5NqoERsXrBxT3h7rBMHx.jpg" tvg-name="La casa de la colina Encantada 2 (2007)" ,La casa de la colina Encantada 2 (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435046.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7biLmJtJoTbDv5wzEwZGOD375.jpg" tvg-name="La casa de los 1000 cuerpos (2003)" ,La casa de los 1000 cuerpos (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435047.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7biLmJtJoTbDv5wzEwZGOD375.jpg" tvg-name="La casa de los 1000 cuerpos (2003)" ,La casa de los 1000 cuerpos (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435048.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A3TbRVF6nE6OAP4AdPZirfmaKqI.jpg" tvg-name="La Maldición Roja 2 (2017)" ,La Maldición Roja 2 (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435049.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A3TbRVF6nE6OAP4AdPZirfmaKqI.jpg" tvg-name="La Maldición Roja 2 (2017)" ,La Maldición Roja 2 (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435050.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fsUAYf3w7KuVrfqF6qblkeTPOy9.jpg" tvg-name="La mancha voraz (1988)" ,La mancha voraz (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435051.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fsUAYf3w7KuVrfqF6qblkeTPOy9.jpg" tvg-name="La mancha voraz (1988)" ,La mancha voraz (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435052.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTLu2D3ZAREjTOsdY526mqFMDO.jpg" tvg-name="La Mano del Demonio (2020)" ,La Mano del Demonio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435053.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTLu2D3ZAREjTOsdY526mqFMDO.jpg" tvg-name="La Mano del Demonio (2020)" ,La Mano del Demonio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435054.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xTHU96p67nyov4gXIWGvio7OGEk.jpg" tvg-name="La marca del demonio (2020)" ,La marca del demonio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435055.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xTHU96p67nyov4gXIWGvio7OGEk.jpg" tvg-name="La marca del demonio (2020)" ,La marca del demonio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435056.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg" tvg-name="La masacre de Texas (1974)" ,La masacre de Texas (1974)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435057.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lIwa6T0pChP85HHduiDEgsf000R.jpg" tvg-name="La masacre de Texas (2003)" ,La masacre de Texas (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435060.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg" tvg-name="La Masacre de Texas: El inicio (2006)" ,La Masacre de Texas: El inicio (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435061.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg" tvg-name="La masacre de Texas - El origen de Leatherface \ (2017)" ,La masacre de Texas - El origen de Leatherface \ (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435064.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u1ZIqqx0SlqjaPj3v9P4zSOaXC1.jpg" tvg-name="Masacre en Texas: La nueva generación (1995)" ,Masacre en Texas: La nueva generación (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435066.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg" tvg-name="La masacre de Texas 3 (1990)" ,La masacre de Texas 3 (1990)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435068.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg" tvg-name="La monja (2018)" ,La monja (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435069.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg" tvg-name="La morgue (2016)" ,La morgue (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435072.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lotsO2VRhsmeFKzqncMX9xrYMj6.jpg" tvg-name="La mosca (1986)" ,La mosca (1986)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435074.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mGrE2MNOjEQvHVqZSXUzdUboKcc.jpg" tvg-name="La mosca 2 (1989)" ,La mosca 2 (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435075.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hkXie4mkqAocng89nrYEcLBkhxw.jpg" tvg-name="La Perfección (2018)" ,La Perfección (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435077.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aFq8b2uFmCNRzpqAOGXw1M9eRe3.jpg" tvg-name="La Piel Fría (2017)" ,La Piel Fría (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435080.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg" tvg-name="La pirámide (2014)" ,La pirámide (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435081.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg" tvg-name="La pirámide (2014)" ,La pirámide (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435082.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" tvg-name="La posesión de Mary (2019)" ,La posesión de Mary (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435084.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" tvg-name="La posesión de Mercy Black \ (2022)" ,La posesión de Mercy Black \ (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435086.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" tvg-name="La primera Purga \ (2018)" ,La primera Purga \ (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435087.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" tvg-name="La primera Purga \ (2018)" ,La primera Purga \ (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435088.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1hdbKq3n88HIklvF90EJklPLt1P.jpg" tvg-name="La profecía del no nacido (2009)" ,La profecía del no nacido (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435089.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iWyb6PKnl7lp0ytK8ZG7vJloGxc.jpg" tvg-name="La profecía (1976)" ,La profecía (1976)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435092.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t0u95VL153ywMlzc7MmBO8ATV4L.jpg" tvg-name="La profecía (2006)" ,La profecía (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435093.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t0u95VL153ywMlzc7MmBO8ATV4L.jpg" tvg-name="La profecía II \ (1978)" ,La profecía II \ (1978)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435096.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pINF9b9NeHtWAN0skAZkZUtYgUQ.jpg" tvg-name="La profecía III (1981)" ,La profecía III (1981)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435097.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTKFrH64uClBiHld6We0HLuy7tg.jpg" tvg-name="La profecía IV: El despertar (1991)" ,La profecía IV: El despertar (1991)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435099.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTKFrH64uClBiHld6We0HLuy7tg.jpg" tvg-name="La profecía IV: El despertar (1991)" ,La profecía IV: El despertar (1991)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435100.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aXFPeJUsNmRBWm2ExZX7t12HkXU.jpg" tvg-name="La próxima víctima (2005)" ,La próxima víctima (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435102.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/54JsC5uy6l9HTeDmW1DGQ76dsc4.jpg" tvg-name="Pesadilla en la calle del infierno 2 (1985)" ,Pesadilla en la calle del infierno 2 (1985)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435104.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWAcoQLZuXKh96tDJTQe5SFBsd.jpg" tvg-name="Pesadilla en la calle del infierno 3 (1987)" ,Pesadilla en la calle del infierno 3 (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435105.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/waLzjguZwn83nCtSuG22l87eHZx.jpg" tvg-name="Pesadilla en la calle del infierno 4: El amo de los sueños (1988)" ,Pesadilla en la calle del infierno 4: El amo de los sueños (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435107.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/waLzjguZwn83nCtSuG22l87eHZx.jpg" tvg-name="Pesadilla en la calle del infierno 4: El amo de los sueños (1988)" ,Pesadilla en la calle del infierno 4: El amo de los sueños (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435109.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vUEPnN7ZkW3buaTDmosFubwC7ZH.jpg" tvg-name="Pesadilla en la calle del infierno 5: Ha nacido el hijo de Freddy (1989)" ,Pesadilla en la calle del infierno 5: Ha nacido el hijo de Freddy (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435111.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vUEPnN7ZkW3buaTDmosFubwC7ZH.jpg" tvg-name="Pesadilla en la calle del infierno 5: Ha nacido el hijo de Freddy (1989)" ,Pesadilla en la calle del infierno 5: Ha nacido el hijo de Freddy (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435113.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bqFsmwVUKKk1gpSUVZW8RLULYDb.jpg" tvg-name="Pesadilla En La Calle Del Infierno 6 (1991)" ,Pesadilla En La Calle Del Infierno 6 (1991)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435115.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/78B9r4zeAa5rJtMxipCrfFQa6Yc.jpg" tvg-name="Pesadilla Siniestra (2017)" ,Pesadilla Siniestra (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435117.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t2kmSSpk4Quz8GNpzp1citrP28G.jpg" tvg-name="Piedra, papel y tijera (2019)" ,Piedra, papel y tijera (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435119.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t2kmSSpk4Quz8GNpzp1citrP28G.jpg" tvg-name="Piedra, papel y tijera (2019)" ,Piedra, papel y tijera (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435120.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a9r5YxDiZDiVg6WpJ4zC0kTw88Z.jpg" tvg-name="Planeta Terror (2007)" ,Planeta Terror (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435122.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cM96O2jyAkq1qyMKwz2zcYTpmjE.jpg" tvg-name="Pledges (2018)" ,Pledges (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435124.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s2abswphACud7RsUQT65cx1FPiK.jpg" tvg-name="Polaroid (2019)" ,Polaroid (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435126.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zw5RhNAVa7g6pX0KGeNx9EmS7Je.jpg" tvg-name="Poltergeist: Juegos diabólicos (2015)" ,Poltergeist: Juegos diabólicos (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435128.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zBt3T1z9KmAPa7eE96DLA95RpLl.jpg" tvg-name="Poltergeist III (1988)" ,Poltergeist III (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435130.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zw5RhNAVa7g6pX0KGeNx9EmS7Je.jpg" tvg-name="Poltergeist: Juegos diabólicos (2015)" ,Poltergeist: Juegos diabólicos (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435131.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zw5RhNAVa7g6pX0KGeNx9EmS7Je.jpg" tvg-name="Posesión Demoníaca \ (2021)" ,Posesión Demoníaca \ (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435134.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oyQQOW3Be36MRRC3Rwd7Qubugxj.jpg" tvg-name="Posesión Infernal (2013)" ,Posesión Infernal (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435136.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rxbvbVK8RT7DRvSlaIJi67crw1H.jpg" tvg-name="Pos eso (2015)" ,Pos eso (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435138.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ76kaKWYwLRDKYcRBbXCLRsK5D.jpg" tvg-name="Possessor: Controlador de mentes (2020)" ,Possessor: Controlador de mentes (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435139.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uYI3bLanhEHj8Z4nFeE5EJyQGM4.jpg" tvg-name="Presencias del mal (2020)" ,Presencias del mal (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435142.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg" tvg-name="Psicosis (1960)" ,Psicosis (1960)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435150.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m4PRC48MuDaOddqNJVgBWgOb5MA.jpg" tvg-name="Psicosis II (1983)" ,Psicosis II (1983)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435152.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/icHMCEp6oeExOuGafhc7qT9FBan.jpg" tvg-name="Psicosis IV: El comienzo (1990)" ,Psicosis IV: El comienzo (1990)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435156.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fmcI1xJOLtu4x70LZtVFSd2CsqD.jpg" tvg-name="Pueblo Fantasma (1988)" ,Pueblo Fantasma (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435159.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xNVR8EVu4TH2fCnBgyFfbgNnKQV.jpg" tvg-name="Puertas Abiertas (2018)" ,Puertas Abiertas (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435162.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jmONeXaZtJOH4y9gVUOPMuDq4ra.jpg" tvg-name="Pánico en el Transiberiano (1972)" ,Pánico en el Transiberiano (1972)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435165.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t3yDDSLqXis3pexQnERAfPAVxyd.jpg" tvg-name="Quantum de sangre (2019)" ,Quantum de sangre (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435168.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJJtV5puzYAODgck0JTWVX8zjKu.jpg" tvg-name="Quatermass 2 (1957)" ,Quatermass 2 (1957)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435173.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJJtV5puzYAODgck0JTWVX8zjKu.jpg" tvg-name="Quella villa accanto al cimitero \ (1981)" ,Quella villa accanto al cimitero \ (1981)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435175.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zRPxDU58cX1qmvIriHIg7nhWHtP.jpg" tvg-name="Realidades Paralelas (2021)" ,Realidades Paralelas (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435178.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/61uNsSWpL3swxVhUSLbVQJxnQDA.jpg" tvg-name="Realidad virtual (2021)" ,Realidad virtual (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435182.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jwsmeU8mYEP6GpxJ2sbCzc2MQmi.jpg" tvg-name="Red de peligro (2018)" ,Red de peligro (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435185.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vyx8J1SFPjb7t8v0gLXnUBw3a8t.jpg" tvg-name="Reeker (2005)" ,Reeker (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435189.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ovf2BQu0BfLFt9XpgYcd5iIb7Hi.jpg" tvg-name="Reflejos Siniestros (2019)" ,Reflejos Siniestros (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435192.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cuenHtO5dHs6dhcr1MhuzIoNVsz.jpg" tvg-name="Regresión (2015)" ,Regresión (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435196.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4TinKYaZtNThqo2sac1dHYv0yic.jpg" tvg-name="Relic: Herencia Maldita (2020)" ,Relic: Herencia Maldita (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435198.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg" tvg-name="Resident Evil: Apocalipsis (2004)" ,Resident Evil: Apocalipsis (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435200.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5mmh2jNV7NMZt2yw32OApuB0mw0.jpg" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" ,Resident Evil: Bienvenidos a Raccoon City (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435203.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg" tvg-name="Resident Evil: El Huésped Maldito (2002)" ,Resident Evil: El Huésped Maldito (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435204.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg" tvg-name="Resident Evil: El Huésped Maldito (2002)" ,Resident Evil: El Huésped Maldito (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435205.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lP0cconRQqe6O4c6L2mVADDvFyt.jpg" tvg-name="Resident Evil 3: La extinción (2007)" ,Resident Evil 3: La extinción (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435206.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5mmh2jNV7NMZt2yw32OApuB0mw0.jpg" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" ,Resident Evil: Bienvenidos a Raccoon City (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435209.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jcjOEPLiI9fnGmznZvQ0lwI06al.jpg" tvg-name="Resucitados (2015)" ,Resucitados (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435210.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jcjOEPLiI9fnGmznZvQ0lwI06al.jpg" tvg-name="Reunion \ (2020)" ,Reunion \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435215.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/syjI7LRqjcYK0DmGHRoMQTAuPz4.jpg" tvg-name="Ritual del más allá (2016)" ,Ritual del más allá (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435217.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hkrlkZU6SjZkS2HHNWO5Ca6NLnr.jpg" tvg-name="Romina (2018)" ,Romina (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435219.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg" tvg-name="Ruega Por Nosotros (2021)" ,Ruega Por Nosotros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435220.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lhP3sm0RaDCPYBbXaFDkq8hvHpm.jpg" tvg-name="Ruin Me (2017)" ,Ruin Me (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435223.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4BMmj4WHCzUJFxmyr4GNw3aTG6.jpg" tvg-name="Rumpelstiltskin (1995)" ,Rumpelstiltskin (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435224.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4BMmj4WHCzUJFxmyr4GNw3aTG6.jpg" tvg-name="Rumpelstiltskin (1995)" ,Rumpelstiltskin (1995)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435225.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3M1Mt7dXaiRSOygR9C66DA3sbtt.jpg" tvg-name="Sangre en el desierto (2016)" ,Sangre en el desierto (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435226.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/noyxl6WjUvBIHSqhA3wiYEThJKS.jpg" tvg-name="Santo contra los jinetes del terror (1970)" ,Santo contra los jinetes del terror (1970)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435228.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uGwTcVuz8TDJdkHncmz9ebzE64o.jpg" tvg-name="Santo vs. la hija de Frankenstein (1972)" ,Santo vs. la hija de Frankenstein (1972)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/435230.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lb9V2uakN23fcHwI7tfRm5Jf7P1.jpg" tvg-name="5 Brujas \ (2006)" ,5 Brujas \ (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436098.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b9Wyyd6aR2N80WNfdS1dnsmM6nG.jpg" tvg-name="9 pasos (2018)" ,9 pasos (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436099.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b9Wyyd6aR2N80WNfdS1dnsmM6nG.jpg" tvg-name="11 11 El mal tiene un nuevo número \ (2004)" ,11 11 El mal tiene un nuevo número \ (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436100.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="13 fantasmas (2001)" ,13 fantasmas (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436101.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="28 2 Semanas Despues \ (2007)" ,28 2 Semanas Despues \ (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436102.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="28 2 Semanas Despues \ (2007)" ,28 2 Semanas Despues \ (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436103.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="28 2 Semanas Despues \ (2007)" ,28 2 Semanas Despues \ (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436104.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="28 días después \ (2002)" ,28 días después \ (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436105.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="28 semanas después \ (2007)" ,28 semanas después \ (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436106.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="30 días de oscuridad \ (2007)" ,30 días de oscuridad \ (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436107.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="30 días de oscuridad 2 Tinieblas \ (2010)" ,30 días de oscuridad 2 Tinieblas \ (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436108.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="A 3 metros y medio \ (2017)" ,A 3 metros y medio \ (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436109.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="A 47 metros \ (2017)" ,A 47 metros \ (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436110.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="A 47 metros 2 El terror emerge \ (2019)" ,A 47 metros 2 El terror emerge \ (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/436111.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPpv.jpg" tvg-name="El Internado (2018)" ,El Internado (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449693.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPpv.jpg" tvg-name="El Regreso del Demonio \ (2017)" ,El Regreso del Demonio \ (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449694.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yZsQ2asRp8mwbGt4WnqnE59pfdT.jpg" tvg-name="El Regreso de los Muertos Vivientes (1985)" ,El Regreso de los Muertos Vivientes (1985)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449695.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oiV6LE4kxfbWaWha7PWJW9xM25k.jpg" tvg-name="El Regreso de los Muertos Vivientes 2 (1988)" ,El Regreso de los Muertos Vivientes 2 (1988)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449696.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/blGcJ8AeMEa6T5r8yWV2j8km68w.jpg" tvg-name="El Regreso de los Muertos Vivientes 3 (1993)" ,El Regreso de los Muertos Vivientes 3 (1993)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449697.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg" tvg-name="El resplandor (1980)" ,El resplandor (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449698.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbV1kW0jQIhslHjThGqny93Cdfs.jpg" tvg-name="El ritual (2017)" ,El ritual (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449699.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9nVhFdTi8SqIhlisei4kFsSwYsU.jpg" tvg-name="El ritual de las brujas (2020)" ,El ritual de las brujas (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449700.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qDRwF9Rns42BqdfQBU6ogZaFvz0.jpg" tvg-name="Destinos fatales (1962)" ,Destinos fatales (1962)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449963.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o6mjXINeWsYsBX8RPQHg7EqIj9z.jpg" tvg-name="Detonados (2020)" ,Detonados (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449964.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg" tvg-name="Devil in the Dark (2017)" ,Devil in the Dark (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449966.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5qf60oqO4i47IP2mt45ATrdF98X.jpg" tvg-name="Devoradora de almas (2022)" ,Devoradora de almas (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449967.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5qf60oqO4i47IP2mt45ATrdF98X.jpg" tvg-name="DeVour \ (2005)" ,DeVour \ (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449968.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87sEdgebo0KB2rkWwRf3Tz1zWtl.jpg" tvg-name="Diez Minutos Para Medianoche (2020)" ,Diez Minutos Para Medianoche (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449971.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2gucnaxqpzEDycFmPwwqjiwvemA.jpg" tvg-name="Doctor Sueño (2019)" ,Doctor Sueño (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449973.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fYHUYWglzq8Ax0EaDWqg9emjL7T.jpg" tvg-name="Dog Soldiers (2002)" ,Dog Soldiers (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449975.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Inmep1mWSMZDIaSXngHSr3Qur3.jpg" tvg-name="Dominion: La precuela del exorcista (2005)" ,Dominion: La precuela del exorcista (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449976.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9qqq6J7g0lqdi7XJCCNiHCHNRXD.jpg" tvg-name="Dracula A.D. 1972 (1972)" ,Dracula A.D. 1972 (1972)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449978.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uSsOogzEaIC0V4fY4aVzIzAO0X2.jpg" tvg-name="Drácula (1958)" ,Drácula (1958)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449980.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6E1jqeUyxLV41RGhgr5xs0WPVCL.jpg" tvg-name="Drácula, el príncipe de las tinieblas (1966)" ,Drácula, el príncipe de las tinieblas (1966)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449981.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6E1jqeUyxLV41RGhgr5xs0WPVCL.jpg" tvg-name="Drácula, la leyenda jamás contada \ (2014)" ,Drácula, la leyenda jamás contada \ (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449982.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fVABxdF1jNBpQdowKxRoVjFRJ7N.jpg" tvg-name="Drácula vuelve de la tumba (1968)" ,Drácula vuelve de la tumba (1968)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449984.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uyScfNgZcdJhxdL7HZyf4Kp5dVX.jpg" tvg-name="Drácula y las mellizas (1971)" ,Drácula y las mellizas (1971)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449985.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kaH2nErjAq4A2tm9oMrZmEBI03P.jpg" tvg-name="Ecos en la oscuridad (2006)" ,Ecos en la oscuridad (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449987.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/idQT8HTpdp8A9QjgS656oH8KGfH.jpg" tvg-name="El abismo del infierno (2022)" ,El abismo del infierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449988.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6aue0EtBfftVryNP11acJqOZu2h.jpg" tvg-name="El amanecer de los muertos (2004)" ,El amanecer de los muertos (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449990.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fBLLSGEvo2FQhCJnClbW8AmKpP2.jpg" tvg-name="El amo de las marionetas (1989)" ,El amo de las marionetas (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449992.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dj9kerjUPFVhBVgHl1KxhILUOiq.jpg" tvg-name="El aro: Capítulo final (2019)" ,El aro: Capítulo final (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449993.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ksCVJI2HodFdPtDCR7miLVQZxUc.jpg" tvg-name="El Aro: Resurrección (2020)" ,El Aro: Resurrección (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/449995.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qDRwF9Rns42BqdfQBU6ogZaFvz0.jpg" tvg-name="Destinos fatales (1962)" ,Destinos fatales (1962)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450007.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o6mjXINeWsYsBX8RPQHg7EqIj9z.jpg" tvg-name="Detonados (2020)" ,Detonados (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450008.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg" tvg-name="Devil in the Dark (2017)" ,Devil in the Dark (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450009.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5qf60oqO4i47IP2mt45ATrdF98X.jpg" tvg-name="Devoradora de almas (2022)" ,Devoradora de almas (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450010.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5qf60oqO4i47IP2mt45ATrdF98X.jpg" tvg-name="DeVour \ (2005)" ,DeVour \ (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450011.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nU0PlszZkTXjfp4DiJgT4plHNLn.jpg" tvg-name="Diabólica tentación (2009)" ,Diabólica tentación (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450012.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87sEdgebo0KB2rkWwRf3Tz1zWtl.jpg" tvg-name="Diez Minutos Para Medianoche (2020)" ,Diez Minutos Para Medianoche (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450013.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2gucnaxqpzEDycFmPwwqjiwvemA.jpg" tvg-name="Doctor Sueño (2019)" ,Doctor Sueño (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450014.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fYHUYWglzq8Ax0EaDWqg9emjL7T.jpg" tvg-name="Dog Soldiers (2002)" ,Dog Soldiers (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450015.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Inmep1mWSMZDIaSXngHSr3Qur3.jpg" tvg-name="Dominion: La precuela del exorcista (2005)" ,Dominion: La precuela del exorcista (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450016.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9qqq6J7g0lqdi7XJCCNiHCHNRXD.jpg" tvg-name="Dracula A.D. 1972 (1972)" ,Dracula A.D. 1972 (1972)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450017.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uSsOogzEaIC0V4fY4aVzIzAO0X2.jpg" tvg-name="Drácula (1958)" ,Drácula (1958)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450018.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6E1jqeUyxLV41RGhgr5xs0WPVCL.jpg" tvg-name="Drácula, el príncipe de las tinieblas (1966)" ,Drácula, el príncipe de las tinieblas (1966)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450019.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6E1jqeUyxLV41RGhgr5xs0WPVCL.jpg" tvg-name="Drácula, la leyenda jamás contada \ (2014)" ,Drácula, la leyenda jamás contada \ (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450020.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fVABxdF1jNBpQdowKxRoVjFRJ7N.jpg" tvg-name="Drácula vuelve de la tumba (1968)" ,Drácula vuelve de la tumba (1968)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450021.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uyScfNgZcdJhxdL7HZyf4Kp5dVX.jpg" tvg-name="Drácula y las mellizas (1971)" ,Drácula y las mellizas (1971)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450022.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kaH2nErjAq4A2tm9oMrZmEBI03P.jpg" tvg-name="Ecos en la oscuridad (2006)" ,Ecos en la oscuridad (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450023.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/idQT8HTpdp8A9QjgS656oH8KGfH.jpg" tvg-name="El abismo del infierno (2022)" ,El abismo del infierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450024.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6aue0EtBfftVryNP11acJqOZu2h.jpg" tvg-name="El amanecer de los muertos (2004)" ,El amanecer de los muertos (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450025.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fBLLSGEvo2FQhCJnClbW8AmKpP2.jpg" tvg-name="El amo de las marionetas (1989)" ,El amo de las marionetas (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450026.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/76e61d61f4436ecb5ea27c354a6f71dc.jpg" tvg-name="El aro: Capítulo final (2019)" ,El aro: Capítulo final (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450027.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ksCVJI2HodFdPtDCR7miLVQZxUc.jpg" tvg-name="El Aro: Resurrección (2020)" ,El Aro: Resurrección (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450028.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tQeLzheMNQClBAXy9t1HvZFzhYD.jpg" tvg-name="Historias de fantasmas (2020)" ,Historias de fantasmas (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450181.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tQeLzheMNQClBAXy9t1HvZFzhYD.jpg" tvg-name="Historias de fantasmas (2020)" ,Historias de fantasmas (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/450183.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pdsrNerOmRUKJVMKyKHsP4zF3cS.jpg" tvg-name="Oculus: El reflejo del mal (2013)" ,Oculus: El reflejo del mal (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/459455.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQYr9634GY0ZRX68pyEh1XNXhCR.jpg" tvg-name="El secreto de Marrowbone (2017)" ,El secreto de Marrowbone (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/460613.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w1dJluO5aKK7Puz7qNXoQeUh4Cb.jpg" tvg-name="Destino Final 2 (2003)" ,Destino Final 2 (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/467311.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/7ab424d9328b243d4c9ff3851e7b8ca5.jpg" tvg-name="De Noche Con El Diablo (2024)" ,De Noche Con El Diablo (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/482641.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/86717d96a3f9b5b4e4ce5fc2545247a9.jpg" tvg-name="Jack en la caja maldita 3: El Ascenso (2024)" ,Jack en la caja maldita 3: El Ascenso (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/497387.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/75210cca2bca19c53c7c6b0dc32306b8.jpg" tvg-name="Bag of Lies (2024)" ,Bag of Lies (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/497497.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8947cd334f962db9dc65d8c18ba3edfa.jpg" tvg-name="El hombre del saco (2024)" ,El hombre del saco (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/497499.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5d6dc26ba1165e3580a68d4698ec17c9.jpg" tvg-name="Canario Negro (2024)" ,Canario Negro (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/497930.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/673791bba46e97c37a96172371d13837.jpg" tvg-name="Del Infierno al Cielo (2024)" ,Del Infierno al Cielo (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/498119.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxIcs3MpcPAloEB8lH4r2-7nVAJNhi-J57EB9TAFSt79iI4KvaGS_r5UC1&s=10" tvg-name="Peter, Peter, El Tramposo de las Calabazas \ (2024)" ,Peter, Peter, El Tramposo de las Calabazas \ (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/498228.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/2b2402a560d05dc004a07b1a655c1985.jpg" tvg-name="Horrorland (2023)" ,Horrorland (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/498264.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/1f4dda1e68661db4bcd38e3c9b6c1602.jpg" tvg-name="Cuentos de Terror (1982)" ,Cuentos de Terror (1982)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419416.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/bd0d2bbf991c80197e0e3c7e5778de5e.jpg" tvg-name="Cementerio de mascotas (1989)" ,Cementerio de mascotas (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/419084.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5649a2281ef40f6c63f7f18b963984e1.jpg" tvg-name="Terrifier 3: Payaso Siniestro (2024)." ,Terrifier 3: Payaso Siniestro (2024).
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/498587.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8c4ed19f6c6cdfb9f9f58723e1dabaad.jpg" tvg-name="Arrastrame al infierno (2009)" ,Arrastrame al infierno (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/445564.mkv
-
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Tusk (2014)" ,Tusk (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368959.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8fc41b057ff6a79db0e0e569884bb4d4.jpg" tvg-name="El Ciempiés Humano 2: Secuencia completa (2011)" ,El Ciempiés Humano 2: Secuencia completa (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368961.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/77696d852a0680ae584043d0db6c7309.jpg" tvg-name="El Ciempiés Humano 3: Secuencia final (2015)" ,El Ciempiés Humano 3: Secuencia final (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368962.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ed54f23ad67d154566b7bf30fe62adee.jpg" tvg-name="El Ciempiés Humano: Primera secuencia (2009)" ,El Ciempiés Humano: Primera secuencia (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/368960.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="V de venganza (2022)" ,V de venganza (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/372003.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/80a7df52dfb8100737860c3d867771aa.jpg" tvg-name="Un Hombre Lobo Americano En Londres (1981)" ,Un Hombre Lobo Americano En Londres (1981)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/374094.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Isabelle (2019)" ,Isabelle (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/375859.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Good Boy (2022)" ,Good Boy (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/376257.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40232a84ee249f1780671f7c95179492.jpg" tvg-name="La venganza de la casa del Lago (2009)" ,La venganza de la casa del Lago (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/377489.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0a090cf78a91acfab0b2815a583459a7.jpg" tvg-name="La Casa del Crimen (2022)" ,La Casa del Crimen (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400179.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="30 Días y 30 Noches de Hollywood al Corazón del País (2006)" ,30 Días y 30 Noches de Hollywood al Corazón del País (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400180.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/9328481d13afe8d7e600d823c4d18041.jpg" tvg-name="KM 31: Kilómetro 31 (2006)" ,KM 31: Kilómetro 31 (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400181.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Abandonada (Abandoned) (2010)" ,Abandonada (Abandoned) (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400183.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Después de que ella despierte (2019)" ,Después de que ella despierte (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400184.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="ดับแสงรวี (2023)" ,ดับแสงรวี (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400185.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c2e991af3754f312b00ba20bc379d734.jpg" tvg-name="Aguas siniestras (2024)" ,Aguas siniestras (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400186.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/075fbc7b9e0b6143282db64bd0f3fb39.jpg" tvg-name="Psicópata Americano (2000)" ,Psicópata Americano (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400187.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b677d86b310235a984a022982dc9bb3f.jpg" tvg-name="Psicópata americano 2 (2002)" ,Psicópata americano 2 (2002)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400188.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Todavía sé lo que hicieron el verano pasado (1998)" ,Todavía sé lo que hicieron el verano pasado (1998)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400190.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Baby Shower (2016)" ,Baby Shower (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400191.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Belzebuth (2019)" ,Belzebuth (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400195.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Beneath the Surface (2022)" ,Beneath the Surface (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400196.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Bingo Hell (2021)" ,Bingo Hell (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400198.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40fd4f7d396cbee83788ec1259532f37.jpg" tvg-name="En la oscuridad de la noche (2021)" ,En la oscuridad de la noche (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400199.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40fd4f7d396cbee83788ec1259532f37.jpg" tvg-name="En la oscuridad de la noche (2021)" ,En la oscuridad de la noche (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400200.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="血まみれスケバン・チェーンソー (2016)" ,血まみれスケバン・チェーンソー (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400201.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Boda Negra (2021)" ,Boda Negra (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400202.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Paloma y el Lobo (2019)" ,La Paloma y el Lobo (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400203.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c0fd1f4b368491f337aeec117492c30f.jpg" tvg-name="Bosque Sangriento (2009)" ,Bosque Sangriento (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400204.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Brahms: El niño 2 (2020)" ,Brahms: El niño 2 (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400205.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Buenas Noches, Mami (2022)" ,Buenas Noches, Mami (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400206.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Cabin Fever: Patient Zero (2014)" ,Cabin Fever: Patient Zero (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400207.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Candyman (2021)" ,Candyman (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400209.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/573235d9be646f303f7b4a6ff88f4b9b.jpg" tvg-name="Cannibal Troll (2021)" ,Cannibal Troll (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400210.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/fb55c39b13e2015c975e4d50a80f2a78.jpg" tvg-name="Amores Caníbales (2017)" ,Amores Caníbales (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400211.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0bd3399cf61d69f73603bf7ca034c8f4.jpg" tvg-name="Masacre sangrienta (2011)" ,Masacre sangrienta (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400212.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Corre (2020)" ,Corre (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400213.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Corre, Cariño (2020)" ,Corre, Cariño (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400214.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/d45ed806d41ba6a390c570b3f81bdb4a.jpg" tvg-name="Corre, Cariño (2020)" ,Corre, Cariño (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400215.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5a293783c477ee488c5a8abbb14bc5e3.jpg" tvg-name="Critters ¡al ataque! (2019)" ,Critters ¡al ataque! (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400216.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Crudo (2020)" ,Crudo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400217.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f350e6f4d0651db26379391794a74b85.jpg" tvg-name="Cuando el demonio llama (2020)" ,Cuando el demonio llama (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400219.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/69ed33948f48fd175e939b8ebc660e32.jpg" tvg-name="Parásito oscuro (2023)" ,Parásito oscuro (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400220.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Muerte en el mar (2018)" ,Muerte en el mar (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400221.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Deadstream (2022)" ,Deadstream (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400223.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Del otro lado de la puerta (2016)" ,Del otro lado de la puerta (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400224.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/600e9088b29e8e5ed37c7eb543204a04.jpg" tvg-name="El despertar del diablo (2006)" ,El despertar del diablo (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400225.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Después de la vida (2009)" ,Después de la vida (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400226.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="No hagas clic (2012)" ,No hagas clic (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400227.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Dos Hermanas (2003)" ,Dos Hermanas (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400228.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Drácula: Mar de sangre (2023)" ,Drácula: Mar de sangre (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400229.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Eerie (2019)" ,Eerie (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400230.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Ego (2020)" ,Ego (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400231.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b3b9359548eb47e7eeb2d549411099d5.jpg" tvg-name="El abismo del infierno (2022)" ,El abismo del infierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400232.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Regalo Maldito (2021)" ,Regalo Maldito (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400233.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Coleccionista 2 (2012)" ,El Coleccionista 2 (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400234.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Summer's Blood (2009)" ,Summer's Blood (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400235.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f60ebbdb44697630ac0e46d43b0dd6f0.jpg" tvg-name="El despertar del diablo 2 (1987)" ,El despertar del diablo 2 (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400236.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/db6f0da5c6cd1006202601bd22694a53.jpg" tvg-name="El Exorcismo de Anna Waters (2016)" ,El Exorcismo de Anna Waters (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400237.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/793a0bb6f7b4df2a1cfe19876d591c1b.jpg" tvg-name="El Exorcismo De Dios (2022)" ,El Exorcismo De Dios (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400238.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/793a0bb6f7b4df2a1cfe19876d591c1b.jpg" tvg-name="El Exorcismo De Dios (2022)" ,El Exorcismo De Dios (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400239.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Dominion: La precuela del exorcista (2005)" ,Dominion: La precuela del exorcista (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400240.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Exorcista II: El hereje (1977)" ,El Exorcista II: El hereje (1977)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400241.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El hijo del diablo (2000)" ,El hijo del diablo (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400242.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Misterio del Convento (2018)" ,El Misterio del Convento (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400243.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Misterio del Convento (2018)" ,El Misterio del Convento (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400244.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/54753ee9f0c7b6d37775ff9372ab56ea.jpg" tvg-name="El Pacto (2023)" ,El Pacto (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400245.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dd1d12c88a34f806412b8cb3508089e5.jpg" tvg-name="El paso del diablo (2013)" ,El paso del diablo (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400246.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a85eebfc5966090a2936f01e32a66032.jpg" tvg-name="El payaso del mal (2014)" ,El payaso del mal (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400247.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El proyecto de la bruja de Blair (1999)" ,El proyecto de la bruja de Blair (1999)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400248.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El páramo (2021)" ,El páramo (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400249.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El río del terror (2022)" ,El río del terror (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400250.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El secreto de Sinchanee (2021)" ,El secreto de Sinchanee (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400251.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El teléfono negro (2022)" ,El teléfono negro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400252.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El teléfono negro (2022)" ,El teléfono negro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400253.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="El Títere (2007)" ,El Títere (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400254.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Escalera al infierno (2022)" ,Escalera al infierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400255.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Escape Room: Sin Salida (2019)" ,Escape Room: Sin Salida (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400256.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Escondidos en Brujas (2008)" ,Escondidos en Brujas (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400257.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e9f6f5d2ce7b1b1d70d223588b7a0d34.jpg" tvg-name="Espíritus oscuros (2021)" ,Espíritus oscuros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400258.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e9f6f5d2ce7b1b1d70d223588b7a0d34.jpg" tvg-name="Espíritus oscuros (2021)" ,Espíritus oscuros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400259.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5c3993a3fd2b64876083631b144257b4.jpg" tvg-name="Están entre nosotros (2004)" ,Están entre nosotros (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400260.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/2b805200f427893d9a30bd81447259e2.jpg" tvg-name="Evil Dead: El despertar (2023)" ,Evil Dead: El despertar (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400261.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4eae9aee2cb1c496d0c95408892b5b0a.jpg" tvg-name="Mal de ojo (2020)" ,Mal de ojo (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400262.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3d80c74d56912087b2980c7c72c90076.jpg" tvg-name="El Exorcista: El comienzo (2004)" ,El Exorcista: El comienzo (2004)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400263.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/d0f12a441b1ada4a6967216fa39d7cad.jpg" tvg-name="Sonrisa Sangrienta (2007)" ,Sonrisa Sangrienta (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400264.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ac9bb6ae1ee011a504f5f88a3177a7a0.jpg" tvg-name="Five Nights at Freddy's (2023)" ,Five Nights at Freddy's (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400265.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/cfeb1c0ee7858266944ecee93f199c50.jpg" tvg-name="Freddy contra Jason (2003)" ,Freddy contra Jason (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400266.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Viernes 13 - Parte 8: Jason Toma Manhattan (1989)" ,Viernes 13 - Parte 8: Jason Toma Manhattan (1989)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400267.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b6e269ab251afd3d5d14e56e6202488d.jpg" tvg-name="Viernes 13 (1980)" ,Viernes 13 (1980)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400268.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gaia (2021)" ,Gaia (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400269.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gemelo siniestro (2022)" ,Gemelo siniestro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400270.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Fantasmas de Guerra (2020)" ,Fantasmas de Guerra (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400271.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gingerdead Man 2: Passion of the Crust (2008)" ,Gingerdead Man 2: Passion of the Crust (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400272.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Glorious (2022)" ,Glorious (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400273.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gretel y Hansel: Un siniestro cuento de hadas (2020) 1080p" ,Gretel y Hansel: Un siniestro cuento de hadas (2020) 1080p
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400274.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Gretel y Hansel: Un siniestro cuento de hadas (2020)" ,Gretel y Hansel: Un siniestro cuento de hadas (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400275.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/100c08a72c41131b8bfa6cf6f712892e.jpg" tvg-name="Bad Boys: Hasta la muerte (2024)" ,Bad Boys: Hasta la muerte (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400276.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hatchet (2006)" ,Hatchet (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400277.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hatchet 2: La venganza de la bestia (2010)" ,Hatchet 2: La venganza de la bestia (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400278.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hatchet 3 (2013)" ,Hatchet 3 (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400279.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Hellbender (2021)" ,Hellbender (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400280.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/cee5bc04bbc96d35d83fa271d55ddf27.jpg" tvg-name="Hellraiser: Ella (2022)" ,Hellraiser: Ella (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400281.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/865392fb2eb30461ef14e86ee4882817.jpg" tvg-name="Historias del barrio negro 2 (2018)" ,Historias del barrio negro 2 (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400282.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a386966bc67a21fe63906431e45b8b78.jpg" tvg-name="Hombre lobo (2006)" ,Hombre lobo (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400285.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/68073486be62e13fee423a0b4fdc40e4.jpg" tvg-name="Hounded (2022)" ,Hounded (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400286.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ce5e81ed85b04beafe3bf60a3f2a4a6b.jpg" tvg-name="Hunting Souls (2022)" ,Hunting Souls (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400287.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/40b70e9987120c735438852e6611e88f.jpg" tvg-name="Háblame (2023)" ,Háblame (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400288.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Impacto Solar (2019)" ,Impacto Solar (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400289.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="En la Tierra (2021)" ,En la Tierra (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400290.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Invasores (2007)" ,Invasores (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400291.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/166404520be007ed349d47e1ecaf7cb5.jpg" tvg-name="Jaula (2022)" ,Jaula (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400292.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/bde3ab807845aec250b79fdce16ffd3e.jpg" tvg-name="Extremity (2018)" ,Extremity (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400293.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e093d0a8e0e11efa6573f49696eb3c78.jpg" tvg-name="El juego de la muerte (2021)" ,El juego de la muerte (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400294.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Justo en la mira (2008)" ,Justo en la mira (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400295.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Kairo (2001)" ,Kairo (2001)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400296.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/2dd2bec8cffc97754b4874bfc213a143.jpg" tvg-name="El libro del demonio (2022)" ,El libro del demonio (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400297.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La abuela (2022)" ,La abuela (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400298.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La cabaña siniestra (2020)" ,La cabaña siniestra (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400300.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/1556e5468b48c04f569011f45d1bdf27.jpg" tvg-name="Jack en la caja maldita 3: El Ascenso (2024)" ,Jack en la caja maldita 3: El Ascenso (2024)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400301.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de al lado (2012)" ,La casa de al lado (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400302.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de cera (2005)" ,La casa de cera (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400303.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de los 1000 cuerpos (2003)" ,La casa de los 1000 cuerpos (2003)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400304.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La casa de los abuelos (2021)" ,La casa de los abuelos (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400305.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Ex (2021)" ,La Ex (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400306.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La feria del terror (2015) Terror, Comedia - 1080p" ,La feria del terror (2015) Terror, Comedia - 1080p
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400307.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Horca (2015)" ,La Horca (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400308.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Horca 2 (2019)" ,La Horca 2 (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400309.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Dispuesta a no morir (2009)" ,Dispuesta a no morir (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400310.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La maldición renace (2019)" ,La maldición renace (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400314.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La maldición de Charlie (2015)" ,La maldición de Charlie (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400315.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mercy: La maldición de la abuela (2015)" ,Mercy: La maldición de la abuela (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400316.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Mansión (2021)" ,La Mansión (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400317.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La marca del demonio (2020)" ,La marca del demonio (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400318.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La morgue (2016)" ,La morgue (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400319.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Lampor: Keranda Terbang (2019)" ,Lampor: Keranda Terbang (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400320.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0956cff7169f45d1918df0f7dcf57a08.jpg" tvg-name="La noche del demonio: La puerta roja (2023)" ,La noche del demonio: La puerta roja (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400321.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/86be007e027ccb6f71b6bde293870367.jpg" tvg-name="La noche del demonio: Capítulo 2 (2013)" ,La noche del demonio: Capítulo 2 (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400322.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c56ce59cf063a35373f8a470f987e3e3.jpg" tvg-name="La noche del demonio: Capítulo 3 (2015)" ,La noche del demonio: Capítulo 3 (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400323.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3b2089693e8a411a86d1ef6f5193f97f.jpg" tvg-name="La noche del demonio: La última llave (2018)" ,La noche del demonio: La última llave (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400324.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La pirámide (2014)" ,La pirámide (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400325.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Prueba Beta (2021)" ,La Prueba Beta (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400326.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La Purga Por Siempre (2021)" ,La Purga Por Siempre (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400327.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La reunión del diablo (2010)" ,La reunión del diablo (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400328.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Las Hijas de Drácula (1974)" ,Las Hijas de Drácula (1974)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400329.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="La víspera de Halloween (2013)" ,La víspera de Halloween (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400330.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Los Huérfanos (2017)" ,Los Huérfanos (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400331.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="White Noise 2: The Light (2007)" ,White Noise 2: The Light (2007)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400332.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Madres paralelas (2021)" ,Madres paralelas (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400333.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Man-Thing (2005)" ,Man-Thing (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400334.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Maneater (2022)" ,Maneater (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400335.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Masacre Americana (2022)" ,Masacre Americana (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400336.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4e9d58b099ca40f5b2b3d53a99343eb2.jpg" tvg-name="Veneno de Serpiente (2023)" ,Veneno de Serpiente (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400337.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mentes malvadas (2018)" ,Mentes malvadas (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400338.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mete miedo (2022)" ,Mete miedo (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400339.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Mimic: No sigas las voces (2017)" ,Mimic: No sigas las voces (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400340.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Moloch (2022)" ,Moloch (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400341.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Monstrous (2022)" ,Monstrous (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400342.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/7d33aaf1e871deb902c9232133f2db28.jpg" tvg-name="Muerte Infinita (2023)" ,Muerte Infinita (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400343.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/736f36a99ae2fc01adc145e0f1d3cde6.jpg" tvg-name="Nefarious: La Palabra Del Diablo (2023)" ,Nefarious: La Palabra Del Diablo (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400345.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Nocturne (2020)" ,Nocturne (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400346.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="No me mates (2021)" ,No me mates (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400347.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Nosotros (2019)" ,Nosotros (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400348.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Nunca digas su nombre (2017)" ,Nunca digas su nombre (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400349.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Pearl (2022)" ,Pearl (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400351.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Pirañas 3DD (2012)" ,Pirañas 3DD (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400352.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Pirañas 3D (2010)" ,Pirañas 3D (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400353.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/448654771939e91efca87044efe531ea.jpg" tvg-name="Posesión Diabólica (2020)" ,Posesión Diabólica (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400354.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Post Mortem (2020)" ,Post Mortem (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400355.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Furia (2019)" ,Furia (2019)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400356.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b52d812ab03ee103bcab34da7b864c9d.jpg" tvg-name="Recursos Inhumanos (2012)" ,Recursos Inhumanos (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400357.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/585adf2719e38f2782d456d62c50ced2.jpg" tvg-name="Renfield: Asistente de vampiro (2023)" ,Renfield: Asistente de vampiro (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400358.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" ,Resident Evil: Bienvenidos a Raccoon City (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400359.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Resucitados (2015)" ,Resucitados (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400360.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/81d764a2a59602a5e8b8a444c33fa692.jpg" tvg-name="Ruega Por Nosotros (2021)" ,Ruega Por Nosotros (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400361.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream: Grita antes de morir (1996)" ,Scream: Grita antes de morir (1996)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400362.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 5 (2022)" ,Scream 5 (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400363.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 2: Grita y vuelve a Gritar (1997)" ,Scream 2: Grita y vuelve a Gritar (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400364.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 3: La Máscara de la Muerte (2000)" ,Scream 3: La Máscara de la Muerte (2000)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400365.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Scream 4 (2011)" ,Scream 4 (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400366.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/0a9feb942ff20462a5e6e5c968c02089.jpg" tvg-name="Scream 6 (2023)" ,Scream 6 (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400367.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Los Ojos del Mal (2006)" ,Los Ojos del Mal (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400368.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-name="Los Ojos del Mal 2 (2014)" ,Los Ojos del Mal 2 (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400369.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/bf9c6e4aaff4786037b0f71202496ff3.jpg" tvg-name="Silencio en el lago (2008)" ,Silencio en el lago (2008)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400370.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f51dd79022f17c1ea8e63b5b249c0db2.jpg" tvg-name="La casa silenciosa (2011)" ,La casa silenciosa (2011)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400371.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3f9df30dfbb6d799ff5c23c642ea94c2.jpg" tvg-name="La maldición de la bruja (2022)" ,La maldición de la bruja (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400373.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3b7d0b31dadfed83f192a07e50ab87bc.jpg" tvg-name="Secuestrados (2010)" ,Secuestrados (2010)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400375.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/7a6767e77591b4e68956ae0b2f7462d5.jpg" tvg-name="Stitches (2012)" ,Stitches (2012)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400377.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4d1938fd660bb83e750baf0b1ecdc41a.jpg" tvg-name="Stung (2015)" ,Stung (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400378.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f2038781747bb16bda9c0ae5b9260a6c.jpg" tvg-name="Suspiria: El maligno (2018)" ,Suspiria: El maligno (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400379.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/18e655804f566dce977fb6e0fce72be3.jpg" tvg-name="Sé lo que hicieron el verano pasado (1997)" ,Sé lo que hicieron el verano pasado (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400380.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3e74e117ad3b6df8fb0aa969a5cdd82e.jpg" tvg-name="Siempre sabré lo que hicieron el verano pasado (2006)" ,Siempre sabré lo que hicieron el verano pasado (2006)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400381.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c4b73f78b150471c33a729066716f84a.jpg" tvg-name="Terrifier 2: El Payaso Siniestro (2022)" ,Terrifier 2: El Payaso Siniestro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400382.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/58743ad753eed5bf006b91d8f95b9395.jpg" tvg-name="Terror en Amityville (2005)" ,Terror en Amityville (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400383.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/41659e0c344769e344a3522630b5e519.jpg" tvg-name="Terror en el Estudio 666 (2022)" ,Terror en el Estudio 666 (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400384.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/844b60d1d0eb28e7b1e4fc5c051437eb.jpg" tvg-name="Terror en la ópera (1987)" ,Terror en la ópera (1987)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400385.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a44613abd35e1f36bcd0ab26da916166.jpg" tvg-name="El Tren Del Terror (2022)" ,El Tren Del Terror (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400386.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/4cd11aba516b3fec788e7d30fb8690c4.jpg" tvg-name="El ABC de la muerte 2 (2014)" ,El ABC de la muerte 2 (2014)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400387.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dcc4b54faac8e688f25d98bbb41c97bc.jpg" tvg-name="El juego del bunker (2022)" ,El juego del bunker (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400388.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8970d97dd4d85fc49c99edbcfc70ddcd.jpg" tvg-name="The Den (2013)" ,The Den (2013)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400389.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/9768e8e815a60f8329def8bab9ba5814.jpg" tvg-name="The Fear Footage 3AM (2021)" ,The Fear Footage 3AM (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400390.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/50543de685aa814f767c6656a4d7dc22.jpg" tvg-name="The Gingerdead Man (2005)" ,The Gingerdead Man (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400391.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5d3915632b4adb59a8b87bc7672e5741.jpg" tvg-name="The Hollow (2015)" ,The Hollow (2015)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400392.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/1c3011ebf293b336fd778ed9ba4af411.jpg" tvg-name="Jack en la caja maldita 2: El despertar (2022)" ,Jack en la caja maldita 2: El despertar (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400393.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/e8ce96b2737e03609f4604c48ab6ff9f.jpg" tvg-name="The Last Thing Mary Saw (2021)" ,The Last Thing Mary Saw (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400395.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/849498bf24002b2402eb75f5d4321a6b.jpg" tvg-name="La Llorona (2022)" ,La Llorona (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400396.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/72f3cb59fc7be0205dd5837388ecc353.jpg" tvg-name="Horror En El Lago Ness (2023)" ,Horror En El Lago Ness (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400397.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a406407c04528ae204c42235288b52c7.jpg" tvg-name="The Power (2021)" ,The Power (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400399.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/fba2e93c1d7ec5e5323acfbf19c391d7.jpg" tvg-name="El ritual del libro rojo (2022)" ,El ritual del libro rojo (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400400.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/04b3cb792ef0e24bd77acf125d7abb3b.jpg" tvg-name="The sadness (2021)" ,The sadness (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400401.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ab0658dfffe161e4b447a5424510f721.jpg" tvg-name="Sandman (2017)" ,Sandman (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400402.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b8ca9d6ddc170bc524b4a1f6bd09abd1.jpg" tvg-name="The Summoning (2017)" ,The Summoning (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400403.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/ea83bc0a6f0388d3e9107851384450cd.jpg" tvg-name="La hambre de invierno (2022)" ,La hambre de invierno (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400404.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/8cd73453b3871b9e8a814c586d1a5ae6.jpg" tvg-name="Corazones desgarrados (2022)" ,Corazones desgarrados (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400405.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dc4ca367f6a54dcfdc160fe73685e278.jpg" tvg-name="El triángulo (2009)" ,El triángulo (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400406.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/fa88a3c88e40eb5e24635f98d0b608df.jpg" tvg-name="Umma (2022)" ,Umma (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400407.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/5342d7aa5d2cd97d2822abec785220d8.jpg" tvg-name="Un hombre lobo americano en París (1997)" ,Un hombre lobo americano en París (1997)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400408.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/7c2e1da064dc7e0887a346fae0577daf.jpg" tvg-name="Inhumano (2022)" ,Inhumano (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400409.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a2ee93eda15ad45e749922d875bc0b9d.jpg" tvg-name="Un Lugar En Silencio (2018)" ,Un Lugar En Silencio (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400410.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b482240e2d3029fda64ff9b0717dfadf.jpg" tvg-name="Un lugar en silencio: Parte II (2021)" ,Un lugar en silencio: Parte II (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400411.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/a3f933e9d1e20f73b9895bc82a2bc7ee.jpg" tvg-name="Verdad o reto (2018)" ,Verdad o reto (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400412.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/9bacec5e67b42e1ced9e59e6f243c290.jpg" tvg-name="V/H/S/94 (2021)" ,V/H/S/94 (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400413.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/d11af717991111c49a697a17b4a2507e.jpg" tvg-name="Victor Crowley (2017)" ,Victor Crowley (2017)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400414.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/2e0544e79c38fa1374aa2716d9915e45.jpg" tvg-name="Viernes 13 (2009)" ,Viernes 13 (2009)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400415.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c28db66970184e16b92ae954ed125e2f.jpg" tvg-name="Viral (2016)" ,Viral (2016)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400416.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/f72bd4f53504d121936f53d350e5e2d5.jpg" tvg-name="Virus: 32 (2022)" ,Virus: 32 (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400417.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/c6008fdcef3bd833bd929c286178495e.jpg" tvg-name="Voces del más allá (2005)" ,Voces del más allá (2005)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400418.avi
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/b79521e989848712a86566d20619cc64.jpg" tvg-name="Susurro (2022)" ,Susurro (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400419.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/74660ad67d92355cc772bdc61a206013.jpg" tvg-name="Willy's Wonderland (2021)" ,Willy's Wonderland (2021)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400420.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/dcabd983360982c8c769cda6a1010077.jpg" tvg-name="X (2022)" ,X (2022)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/400421.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://tvlatino.club:2082/images/3495209c54e2d53410fa39e12e0b15d2.jpg" tvg-name="Cuando acecha la maldad (2023)" ,Cuando acecha la maldad (2023)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/407374.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qD5htgIVr66Rgtdm8ovLFR4Z8Zq.jpg" tvg-name="\#Vivo \ (2020)" ,\#Vivo \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417800.mkv
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yckfWcCTKEplBCilRdE4d43xowl.jpg" tvg-name="\#Vivo \ (2020)" ,\#Vivo \ (2020)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417805.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9YP9vQBsYHylBsKwsD6VStbbX8j.jpg" tvg-name="4/20 Masacre (2018)" ,4/20 Masacre (2018)
-http://tvlatino.club:2082/movie/TELE519900/Xnt539gASGQB/417819.mp4
-#EXTINF:-1 group-title="⭐CINE TERROR" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9NIsRwHdojUsAqPGPAyZmtgF49u.jpg" tvg-name="5G Zombies (2020)" ,5G Zombies (2020
+#EXTINF:-1 group-title="⭐ESTRENOS 2023" tv
