@@ -1,6 +1,168 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,INFORMACION DE EVENTO AQUIâ—‰
+http://embed-cloudfront.wistia.com/deliveries/b08c6b7aec8727018fce57d6438946615ee97248.m3u8
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 1â—‰
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/167742.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 2 â—‰
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/167743.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 3 â—‰
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/167744.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 3 â—‰
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/167745.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGAâ—‰
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/953837.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER LEAGUEâ—‰
+http://31.42.187.37:25461/live/watchpad13158/1234/19049.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE
+http://ultra-latino.com:8080/live/CARDENASJOSE/DDWTW/247083.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV VARIADO 1â—‰
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609328.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV VARIADO 2â—‰
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609317.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV VARIADO 3â—‰
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609321.ts
+#EXTINF:-1 group-title="ðŸ”µEVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV VARIADO 4â—‰
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAR0TV CONTACTOâ—‰
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78697.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3115.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3085.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (1)
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/86765.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51156.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52452.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37485.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS Ã± (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3061.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN MEX (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57110.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN USA (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57110.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/31026.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/r4CS6Jn/2directv-Sports-Plus.png" ,DIRECTV SPORTS +
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/32680.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/SK3kHX6/espn4.png" , ESPN 4 (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50372.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/fCqPczP/fox-Sports-Premium.png" ,FOX SPORTS (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3082.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/P9VNWPB/fox-Sports2.png" , FOX SPORT 2 (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3090.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/hWXPtPs/fox-Sports3.png" ,FOX SPORT 3 (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3092.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" ,ESPN 5 (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52202.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/G02z1wt/claro-Sports.png" ,CLARO SPORTS
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/39994.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/nQQx1Lw/tntSport.png" ,TNT SPORTS Chile
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57155.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/nQQx1Lw/tntSport.png" ,TNT SPORTS Arg
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57163.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/df4L29x/espn7.png" , ESPN 7 (1)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3083.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2642.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/KDprzsd/hbo2.png" ,HBO 2
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2643.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/wJFbnyX/hbo-Family.png" ,HBO Family
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2644.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/wSV3cgK/hboPlus.png" ,HBO Plus
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2678.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/4ZvH7fp/hboPop.png" ,HBO Pop
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2678.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/QptnmNC/hbo-Signature.png" ,HBO Signature
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/6510.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/PzdWS5m/hbo-Xtreme.png" ,HBO Xtreme
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2695.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX 1
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50736.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX INFANTIL HD
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/31706.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX 2024
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/125337.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX 2023
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/125186.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX MARVEL
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/124293.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX TERROR
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/125896.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/Y8hS9CF/golden-Plus.png" ,GOLDEN PLUS
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2640.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/68w8T3T/golden-Premier.png" ,GOLDEN PREMIER
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/49061.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/3S590FM/golden-Edge.png" ,GOLDEN EDGE
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2639.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/W3JV7PV/cinemax.png" ,CINEMAX
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7059.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/b7hTwPw/warnertv.png" ,WARNER BROS TV
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7050.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/WyyCs4T/aye.png" ,A&E
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2432.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/RStfy3c/tnt.png" ,TNT
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57187.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/c2w0ZyS/universal-Cinema.png" ,UNIVERSAL CHANNEL
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7052.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/vLcv4t5/unoversal-Cinema.png" ,UNIVERSAL CINEMA
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50467.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/7QxZFm9/universal-Premier.png" ,UNIVERSAL PREMIER
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50470.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/Dzhn5P0/universal-Crime.png" ,UNIVERSAL CRIME
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2637.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/4MsfwJj/cnn.png" ,CNN en Esp
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/26CXSQt/discovery-Channel.png" ,DISCOVERY CHANNEL
+http://tvlatino.club:2082/live/TELE519900/Xnt539gASGQB/341972.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/ypRDbPf/investigation-Discovery.png" ,Investigation Discovery
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2458.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/Dt6YRwS/history-Channel.png" ,History
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2464.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/NVcVQtC/history2.png" ,History 2
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50969.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/FxBsnpt/natGeo.png" ,NatGeo
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2465.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/MRrYJBx/animal-Planet.png" ,Animal Planet
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2685.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,LOS PITUFOS venuschile
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,PEPA PIG
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,PAWL PATROL
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,MUSICAL  PEQUETV
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51767.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,MiCKEY MOUSE
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,REINO INFANTIL
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/30604.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/6vz9zPR/nick-Junior.png" ,NICK HD
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2478.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/vvXhxzr/disneyXd.png" ,DISNEY XD
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/48375.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/5cZPrMD/discovery-Kids.png" ,DISCOVERY KIDS
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/47837.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/4gZJ8gP/cartoon-Net.png" ,CARTOON NETWORK
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/67304.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL HDÂ²
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78700.ts
+#EXTINF:-1 group-title="ðŸ”µALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,RCN
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="ADULTOS XXX" tvg-logo="https://i.postimg.cc/vZVrvQ4j/porno.png" ,XXX: Playboy
 http://playtvpremium.xyz:2095/56952683690playtv/020824play/100037
 #EXTINF:-1 group-title="ADULTOS XXX" tvg-logo="https://i.postimg.cc/vZVrvQ4j/porno.png" ,XXX: Abrazzers TV
