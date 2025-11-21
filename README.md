@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 Demo
 
 #EXTINF:-1 group-title="ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ACTIVA 14 MIL MES🟢ALVAROTV🔵
